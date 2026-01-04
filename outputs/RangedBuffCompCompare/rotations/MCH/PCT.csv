@@ -1,0 +1,593 @@
+sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,sim_target,sim_conditions,sim_variance,sim_buffs
+0,0,Grade 4 Gemdraught,,,,,,,[]
+-600,640,Rainbow Drip,1000.0,133983.0,,Default Target,[],1271670287.0,[]
+640,1172,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
+700,1320,Pom Muse,800.0,115981.0,,Default Target,[],952923130.0,['Grade 4 Gemdraught']
+1400,1400,Striking Muse,,,,,,,[]
+2100,2100,Wing Motif,,,,,,,[]
+3491,3491,Dokumori,,,,,,,[]
+5220,5220,Chain Stratagem,,,,,,,[]
+5400,5400,Starry Muse,,,,,,,[]
+5473,5473,Divination,,,,,,,[]
+5100,5632,Auto,90.0,0.0,,Default Target,[],0.0,"['Dokumori', 'Grade 4 Gemdraught']"
+6800,6800,Subtractive Palette,,,,,,,[]
+6100,7350,Star Prism,1100.0,196325.0,,Default Target,['5 Hyperphantasia'],2857279321.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+9510,9510,Card,,,,,,,[]
+9190,9940,Blizzard in Cyan,860.0,153421.0,,Default Target,['4 Hyperphantasia'],1744905816.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+9690,10222,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+11660,12460,Stone in Yellow,900.0,170267.0,,Default Target,['3 Hyperphantasia'],2149108267.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+12650,13182,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+14130,14980,Thunder in Magenta,940.0,177818.0,,Default Target,['2 Hyperphantasia'],2343928330.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+15610,16142,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+16079,17059,Winged Muse,800.0,151349.0,,Default Target,[],1698095860.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+15380,17250,Comet in Black,940.0,177818.0,,Default Target,['1 Hyperphantasia'],2343928330.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+17850,19090,Rainbow Drip,1000.0,189187.0,,Default Target,['Rainbow Bright'],2653242422.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Rainbow Bright', 'Starry Muse']"
+18570,19102,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+18550,19700,Mog of the Ages,1000.0,189187.0,,Default Target,[],2653242422.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+20351,21731,Hammer Stamp,560.0,184043.0,,Default Target,[],28219467.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+21530,22062,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+22851,24101,Hammer Brush,580.0,190685.0,,Default Target,[],30318123.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+24490,25022,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+26051,26051,Swiftcast,,,,,,,[]
+25351,27451,Polishing Hammer,600.0,177289.0,,Default Target,[],26193120.0,"['Chain Stratagem', 'Divination', 'Grade 4 Gemdraught', 'Starry Muse']"
+27851,27851,Claw Motif,,,,,,,[]
+27450,27982,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
+28551,29531,Clawed Muse,800.0,115981.0,,Default Target,[],952923130.0,['Grade 4 Gemdraught']
+30410,30942,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
+32851,33691,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+33370,33902,Auto,90.0,0.0,,Default Target,[],0.0,[]
+35351,36241,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+36330,36862,Auto,90.0,0.0,,Default Target,[],0.0,[]
+37851,38831,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+39290,39822,Auto,90.0,0.0,,Default Target,[],0.0,[]
+40351,41191,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+42851,43741,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+43351,43883,Auto,90.0,0.0,,Default Target,[],0.0,[]
+45951,45951,Subtractive Palette,,,,,,,[]
+45351,46331,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+46311,46843,Auto,90.0,0.0,,Default Target,[],0.0,[]
+48651,49401,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+49271,49803,Auto,90.0,0.0,,Default Target,[],0.0,[]
+50151,50151,Hammer Motif,,,,,,,[]
+53251,53251,Striking Muse,,,,,,,[]
+53151,53683,Auto,90.0,0.0,,Default Target,[],0.0,[]
+54151,55531,Hammer Stamp,560.0,129187.0,,Default Target,[],13912686.0,[]
+56111,56643,Auto,90.0,0.0,,Default Target,[],0.0,[]
+56651,57901,Hammer Brush,580.0,133849.0,,Default Target,[],14936545.0,[]
+59071,59603,Auto,90.0,0.0,,Default Target,[],0.0,[]
+59151,61251,Polishing Hammer,600.0,138512.0,,Default Target,[],15987516.0,[]
+61651,61651,Maw Motif,,,,,,,[]
+64651,65183,Auto,90.0,0.0,,Default Target,[],0.0,[]
+65651,67521,Comet in Black,940.0,125930.0,,Default Target,[],1123398008.0,[]
+67611,68143,Auto,90.0,0.0,,Default Target,[],0.0,[]
+68952,68952,Hammer Motif,,,,,,,[]
+71952,72484,Auto,90.0,0.0,,Default Target,[],0.0,[]
+72952,72952,Starry Sky Motif,,,,,,,[]
+75952,76484,Auto,90.0,0.0,,Default Target,[],0.0,[]
+76952,76952,Pom Motif,,,,,,,[]
+76052,77212,Fanged Muse,800.0,107187.0,,Default Target,[],813868410.0,[]
+79952,80484,Auto,90.0,0.0,,Default Target,[],0.0,[]
+82752,83502,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+83252,83784,Auto,90.0,0.0,,Default Target,[],0.0,[]
+86052,86852,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+86552,87084,Auto,90.0,0.0,,Default Target,[],0.0,[]
+88552,89532,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+89512,90044,Auto,90.0,0.0,,Default Target,[],0.0,[]
+91052,91892,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+92472,93004,Auto,90.0,0.0,,Default Target,[],0.0,[]
+93552,94442,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+96052,97032,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+96552,97084,Auto,90.0,0.0,,Default Target,[],0.0,[]
+98552,99392,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+99512,100044,Auto,90.0,0.0,,Default Target,[],0.0,[]
+101052,101942,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+102472,103004,Auto,90.0,0.0,,Default Target,[],0.0,[]
+104152,104152,Subtractive Palette,,,,,,,[]
+103552,104532,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+106852,107602,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+107352,107884,Auto,90.0,0.0,,Default Target,[],0.0,[]
+110752,110752,Striking Muse,,,,,,,[]
+110152,110952,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+110652,111184,Auto,90.0,0.0,,Default Target,[],0.0,[]
+111652,113032,Hammer Stamp,560.0,129187.0,,Default Target,[],13912686.0,[]
+113612,114144,Auto,90.0,0.0,,Default Target,[],0.0,[]
+114152,115402,Hammer Brush,580.0,133849.0,,Default Target,[],14936545.0,[]
+116572,117104,Auto,90.0,0.0,,Default Target,[],0.0,[]
+116652,118752,Polishing Hammer,600.0,138512.0,,Default Target,[],15987516.0,[]
+119152,119152,Hammer Motif,,,,,,,[]
+122152,122684,Auto,90.0,0.0,,Default Target,[],0.0,[]
+122253,122873,Pom Muse,800.0,107187.0,,Default Target,[],813868410.0,[]
+123153,123153,Wing Motif,,,,,,,[]
+125222,125222,Chain Stratagem,,,,,,,[]
+125473,125473,Divination,,,,,,,[]
+125582,125582,Dokumori,,,,,,,[]
+126253,126253,Starry Muse,,,,,,,[]
+126153,126685,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori']"
+128373,129223,Thunder in Magenta,940.0,155030.0,,Default Target,['5 Hyperphantasia'],1781659389.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+129632,129632,Card,,,,,,,[]
+129113,129645,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+130323,130323,Subtractive Palette,,,,,,,[]
+129622,131492,Comet in Black,940.0,155030.0,,Default Target,['4 Hyperphantasia'],1781659389.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+131023,132323,Retribution of the Madeen,1100.0,192325.0,,Default Target,[],2742037479.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+132073,132605,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+133313,134063,Blizzard in Cyan,860.0,150295.0,,Default Target,['3 Hyperphantasia'],1674490024.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+135033,135565,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+134563,135813,Star Prism,1100.0,192325.0,,Default Target,['2 Hyperphantasia'],2742037479.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+135263,136243,Winged Muse,800.0,139872.0,,Default Target,[],1450290211.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+137133,137133,Striking Muse,,,,,,,[]
+136433,138303,Comet in Black,940.0,164331.0,,Default Target,['1 Hyperphantasia'],2001879159.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+137993,138525,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+138903,140283,Hammer Stamp,560.0,170063.0,,Default Target,[],24108840.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+140953,141485,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+141403,142653,Hammer Brush,580.0,176200.0,,Default Target,[],25886718.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+143913,144445,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+143903,146003,Polishing Hammer,600.0,182339.0,,Default Target,[],27703524.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+146873,147405,Auto,90.0,0.0,,Default Target,[],0.0,[]
+146403,147643,Rainbow Drip,1000.0,147716.0,,Default Target,['Rainbow Bright'],1545736428.0,"['Dokumori', 'Rainbow Bright', 'Starry Muse']"
+148903,148903,Hammer Motif,,,,,,,[]
+151903,152435,Auto,90.0,0.0,,Default Target,[],0.0,[]
+152903,152903,Claw Motif,,,,,,,[]
+155903,156435,Auto,90.0,0.0,,Default Target,[],0.0,[]
+156903,156903,Starry Sky Motif,,,,,,,[]
+159903,160435,Auto,90.0,0.0,,Default Target,[],0.0,[]
+160903,162243,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
+161603,162583,Clawed Muse,800.0,107187.0,,Default Target,[],813868410.0,[]
+162863,163395,Auto,90.0,0.0,,Default Target,[],0.0,[]
+163403,163403,Maw Motif,,,,,,,[]
+162303,163453,Mog of the Ages,1000.0,133983.0,,Default Target,[],1271670287.0,[]
+166403,166935,Auto,90.0,0.0,,Default Target,[],0.0,[]
+169204,169954,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+169704,170236,Auto,90.0,0.0,,Default Target,[],0.0,[]
+172504,173304,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+173004,173536,Auto,90.0,0.0,,Default Target,[],0.0,[]
+175004,175984,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+175964,176496,Auto,90.0,0.0,,Default Target,[],0.0,[]
+177504,178344,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+178924,179456,Auto,90.0,0.0,,Default Target,[],0.0,[]
+180004,180894,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+182504,183484,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+183004,183536,Auto,90.0,0.0,,Default Target,[],0.0,[]
+185004,185844,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+185964,186496,Auto,90.0,0.0,,Default Target,[],0.0,[]
+187504,188394,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+188924,189456,Auto,90.0,0.0,,Default Target,[],0.0,[]
+190604,190604,Subtractive Palette,,,,,,,[]
+190004,190984,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+193304,194054,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+193804,194336,Auto,90.0,0.0,,Default Target,[],0.0,[]
+196604,197404,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+197104,197636,Auto,90.0,0.0,,Default Target,[],0.0,[]
+199904,200754,Thunder in Magenta,940.0,125930.0,,Default Target,[],1123398008.0,[]
+200404,200936,Auto,90.0,0.0,,Default Target,[],0.0,[]
+202404,203244,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+203364,203896,Auto,90.0,0.0,,Default Target,[],0.0,[]
+204904,205794,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+206324,206856,Auto,90.0,0.0,,Default Target,[],0.0,[]
+208004,208004,Striking Muse,,,,,,,[]
+207404,208384,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+209284,209816,Auto,90.0,0.0,,Default Target,[],0.0,[]
+208904,210284,Hammer Stamp,560.0,129187.0,,Default Target,[],13912686.0,[]
+211404,212654,Hammer Brush,580.0,133849.0,,Default Target,[],14936545.0,[]
+212244,212776,Auto,90.0,0.0,,Default Target,[],0.0,[]
+215204,215736,Auto,90.0,0.0,,Default Target,[],0.0,[]
+213904,216004,Polishing Hammer,600.0,138512.0,,Default Target,[],15987516.0,[]
+217404,218244,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+218164,218696,Auto,90.0,0.0,,Default Target,[],0.0,[]
+219904,220794,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+221124,221656,Auto,90.0,0.0,,Default Target,[],0.0,[]
+222404,223384,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+224605,224605,Subtractive Palette,,,,,,,[]
+224084,224616,Auto,90.0,0.0,,Default Target,[],0.0,[]
+223905,225775,Comet in Black,940.0,125930.0,,Default Target,[],1123398008.0,[]
+227044,227576,Auto,90.0,0.0,,Default Target,[],0.0,[]
+229005,229755,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+230004,230536,Auto,90.0,0.0,,Default Target,[],0.0,[]
+232305,233105,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+232964,233496,Auto,90.0,0.0,,Default Target,[],0.0,[]
+233805,233805,Hammer Motif,,,,,,,[]
+236805,237337,Auto,90.0,0.0,,Default Target,[],0.0,[]
+239605,240455,Thunder in Magenta,940.0,125930.0,,Default Target,[],1123398008.0,[]
+240105,240637,Auto,90.0,0.0,,Default Target,[],0.0,[]
+241105,242975,Comet in Black,940.0,125930.0,,Default Target,[],1123398008.0,[]
+243065,243597,Auto,90.0,0.0,,Default Target,[],0.0,[]
+245105,245105,Subtractive Palette,,,,,,,[]
+245224,245224,Chain Stratagem,,,,,,,[]
+245473,245473,Divination,,,,,,,[]
+245582,245582,Dokumori,,,,,,,[]
+244405,245745,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
+246253,246253,Starry Muse,,,,,,,[]
+246025,246557,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Dokumori']"
+248173,248923,Blizzard in Cyan,860.0,141787.0,,Default Target,['5 Hyperphantasia'],1490296719.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+248985,249517,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+249753,249753,Card,,,,,,,[]
+250643,251443,Stone in Yellow,900.0,157356.0,,Default Target,['4 Hyperphantasia'],1835520898.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+253113,253963,Thunder in Magenta,940.0,164331.0,,Default Target,['3 Hyperphantasia'],2001879159.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+253613,254145,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+255063,256223,Fanged Muse,800.0,139872.0,,Default Target,[],1450290211.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+254363,256233,Comet in Black,940.0,164331.0,,Default Target,['2 Hyperphantasia'],2001879159.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+256573,257105,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+257533,257533,Striking Muse,,,,,,,[]
+256833,258083,Star Prism,1100.0,192325.0,,Default Target,['1 Hyperphantasia'],2742037479.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+259533,260065,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+258702,260082,Hammer Stamp,560.0,170063.0,,Default Target,[],24108840.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+259403,260703,Retribution of the Madeen,1100.0,192325.0,,Default Target,[],2742037479.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+261202,262452,Hammer Brush,580.0,176200.0,,Default Target,[],25886718.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+262493,263025,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+263703,265803,Polishing Hammer,600.0,182339.0,,Default Target,[],27703524.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+265453,265985,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+266203,267443,Rainbow Drip,1000.0,147716.0,,Default Target,['Rainbow Bright'],1545736428.0,"['Dokumori', 'Rainbow Bright', 'Starry Muse']"
+268413,268945,Auto,90.0,0.0,,Default Target,[],0.0,[]
+269703,270543,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+272203,273093,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+272703,273235,Auto,90.0,0.0,,Default Target,[],0.0,[]
+275303,275303,Subtractive Palette,,,,,,,[]
+274703,275683,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+275663,276195,Auto,90.0,0.0,,Default Target,[],0.0,[]
+278003,278753,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+278623,279155,Auto,90.0,0.0,,Default Target,[],0.0,[]
+279503,279503,Pom Motif,,,,,,,[]
+282503,283035,Auto,90.0,0.0,,Default Target,[],0.0,[]
+283503,285373,Comet in Black,940.0,125930.0,,Default Target,[],1123398008.0,[]
+285463,285995,Auto,90.0,0.0,,Default Target,[],0.0,[]
+286803,286803,Hammer Motif,,,,,,,[]
+289803,290335,Auto,90.0,0.0,,Default Target,[],0.0,[]
+289904,290524,Pom Muse,800.0,107187.0,,Default Target,[],813868410.0,[]
+290804,290804,Wing Motif,,,,,,,[]
+293804,294336,Auto,90.0,0.0,,Default Target,[],0.0,[]
+294804,294804,Starry Sky Motif,,,,,,,[]
+293904,294884,Winged Muse,800.0,107187.0,,Default Target,[],813868410.0,[]
+297804,298336,Auto,90.0,0.0,,Default Target,[],0.0,[]
+298804,298804,Claw Motif,,,,,,,[]
+297904,299054,Mog of the Ages,1000.0,133983.0,,Default Target,[],1271670287.0,[]
+301904,301904,Striking Muse,,,,,,,[]
+301804,302336,Auto,90.0,0.0,,Default Target,[],0.0,[]
+302804,304184,Hammer Stamp,560.0,129187.0,,Default Target,[],13912686.0,[]
+304764,305296,Auto,90.0,0.0,,Default Target,[],0.0,[]
+305304,306554,Hammer Brush,580.0,133849.0,,Default Target,[],14936545.0,[]
+307724,308256,Auto,90.0,0.0,,Default Target,[],0.0,[]
+307804,309904,Polishing Hammer,600.0,138512.0,,Default Target,[],15987516.0,[]
+310304,310304,Hammer Motif,,,,,,,[]
+313304,313836,Auto,90.0,0.0,,Default Target,[],0.0,[]
+316104,316854,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+316604,317136,Auto,90.0,0.0,,Default Target,[],0.0,[]
+319404,320204,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+319904,320436,Auto,90.0,0.0,,Default Target,[],0.0,[]
+321904,322884,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+322864,323396,Auto,90.0,0.0,,Default Target,[],0.0,[]
+323404,323404,Maw Motif,,,,,,,[]
+322504,323484,Clawed Muse,800.0,107187.0,,Default Target,[],813868410.0,[]
+326404,326936,Auto,90.0,0.0,,Default Target,[],0.0,[]
+328404,329244,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+329364,329896,Auto,90.0,0.0,,Default Target,[],0.0,[]
+330904,331794,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+332324,332856,Auto,90.0,0.0,,Default Target,[],0.0,[]
+333404,334384,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+335904,336744,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+336404,336936,Auto,90.0,0.0,,Default Target,[],0.0,[]
+338404,339294,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+339364,339896,Auto,90.0,0.0,,Default Target,[],0.0,[]
+340905,341885,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+342324,342856,Auto,90.0,0.0,,Default Target,[],0.0,[]
+342405,343745,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
+345605,345605,Subtractive Palette,,,,,,,[]
+345284,345816,Auto,90.0,0.0,,Default Target,[],0.0,[]
+344905,346245,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
+349205,349955,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+349705,350237,Auto,90.0,0.0,,Default Target,[],0.0,[]
+352505,353305,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+353005,353537,Auto,90.0,0.0,,Default Target,[],0.0,[]
+355805,356655,Thunder in Magenta,940.0,125930.0,,Default Target,[],1123398008.0,[]
+356305,356837,Auto,90.0,0.0,,Default Target,[],0.0,[]
+358005,358005,Subtractive Palette,,,,,,,[]
+357305,359175,Comet in Black,940.0,125930.0,,Default Target,[],1123398008.0,[]
+359265,359797,Auto,90.0,0.0,,Default Target,[],0.0,[]
+363005,363005,Grade 4 Gemdraught,,,,,,,[]
+362405,363155,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+362905,363437,Auto,90.0,0.0,,Default Target,[],0.0,[]
+365226,365226,Chain Stratagem,,,,,,,[]
+365473,365473,Divination,,,,,,,[]
+366089,366089,Dokumori,,,,,,,[]
+366305,366305,Starry Muse,,,,,,,[]
+365705,366505,Stone in Yellow,900.0,130478.0,,Default Target,[],1206019014.0,['Grade 4 Gemdraught']
+366205,366737,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught']"
+368425,369275,Thunder in Magenta,940.0,167753.0,,Default Target,['5 Hyperphantasia'],2086087182.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+369165,369697,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+369875,369875,Card,,,,,,,[]
+370375,370375,Subtractive Palette,,,,,,,[]
+369675,371545,Comet in Black,940.0,167753.0,,Default Target,['4 Hyperphantasia'],2086087182.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+372125,372657,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+373365,374115,Blizzard in Cyan,860.0,162627.0,,Default Target,['3 Hyperphantasia'],1960582165.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+375315,375315,Striking Muse,,,,,,,[]
+375085,375617,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+374615,375865,Star Prism,1100.0,208105.0,,Default Target,['2 Hyperphantasia'],3210423043.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+376485,377865,Hammer Stamp,560.0,184043.0,,Default Target,[],28219467.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+377185,378345,Fanged Muse,800.0,151349.0,,Default Target,[],1698095860.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+378045,378577,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+378985,380855,Comet in Black,940.0,177818.0,,Default Target,['1 Hyperphantasia'],2343928330.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+381005,381537,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+381455,382695,Rainbow Drip,1000.0,189187.0,,Default Target,['Rainbow Bright'],2653242422.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Rainbow Bright', 'Starry Muse']"
+382155,383455,Retribution of the Madeen,1100.0,208105.0,,Default Target,[],3210423043.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+383965,384497,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+383955,385205,Hammer Brush,580.0,190685.0,,Default Target,[],30318123.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+386925,387457,Auto,90.0,0.0,,Default Target,[],0.0,"['Dokumori', 'Grade 4 Gemdraught']"
+386455,388555,Polishing Hammer,600.0,165257.0,,Default Target,[],22759056.0,"['Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+388955,390295,Holy in White,570.0,82594.0,,Default Target,[],483259916.0,['Grade 4 Gemdraught']
+389885,390417,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
+391455,392795,Holy in White,570.0,82594.0,,Default Target,[],483259916.0,['Grade 4 Gemdraught']
+392845,393377,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
+393955,393955,Pom Motif,,,,,,,[]
+396955,397487,Auto,90.0,0.0,,Default Target,[],0.0,[]
+397956,397956,Hammer Motif,,,,,,,[]
+400956,401488,Auto,90.0,0.0,,Default Target,[],0.0,[]
+401956,401956,Starry Sky Motif,,,,,,,[]
+404956,405488,Auto,90.0,0.0,,Default Target,[],0.0,[]
+407756,408506,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+408256,408788,Auto,90.0,0.0,,Default Target,[],0.0,[]
+411056,411856,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+411556,412088,Auto,90.0,0.0,,Default Target,[],0.0,[]
+413556,414536,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+414156,414776,Pom Muse,800.0,107187.0,,Default Target,[],813868410.0,[]
+414516,415048,Auto,90.0,0.0,,Default Target,[],0.0,[]
+416056,416896,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+417476,418008,Auto,90.0,0.0,,Default Target,[],0.0,[]
+418556,419446,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+421656,421656,Subtractive Palette,,,,,,,[]
+421056,422036,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+421556,422088,Auto,90.0,0.0,,Default Target,[],0.0,[]
+424356,425106,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+424856,425388,Auto,90.0,0.0,,Default Target,[],0.0,[]
+428256,428256,Striking Muse,,,,,,,[]
+427656,428456,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+428156,428688,Auto,90.0,0.0,,Default Target,[],0.0,[]
+429156,430536,Hammer Stamp,560.0,129187.0,,Default Target,[],13912686.0,[]
+431116,431648,Auto,90.0,0.0,,Default Target,[],0.0,[]
+431656,432906,Hammer Brush,580.0,133849.0,,Default Target,[],14936545.0,[]
+434076,434608,Auto,90.0,0.0,,Default Target,[],0.0,[]
+434156,436256,Polishing Hammer,600.0,138512.0,,Default Target,[],15987516.0,[]
+436656,436656,Wing Motif,,,,,,,[]
+439656,440188,Auto,90.0,0.0,,Default Target,[],0.0,[]
+440656,440656,Hammer Motif,,,,,,,[]
+443656,444188,Auto,90.0,0.0,,Default Target,[],0.0,[]
+444656,444656,Claw Motif,,,,,,,[]
+443756,444736,Winged Muse,800.0,107187.0,,Default Target,[],813868410.0,[]
+447656,448188,Auto,90.0,0.0,,Default Target,[],0.0,[]
+448657,450527,Comet in Black,940.0,125930.0,,Default Target,[],1123398008.0,[]
+450616,451148,Auto,90.0,0.0,,Default Target,[],0.0,[]
+453757,454607,Thunder in Magenta,940.0,125930.0,,Default Target,[],1123398008.0,[]
+454257,454789,Auto,90.0,0.0,,Default Target,[],0.0,[]
+456257,457097,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+457217,457749,Auto,90.0,0.0,,Default Target,[],0.0,[]
+458757,459647,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+460177,460709,Auto,90.0,0.0,,Default Target,[],0.0,[]
+461257,462237,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+463757,464597,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+464257,464789,Auto,90.0,0.0,,Default Target,[],0.0,[]
+466257,467147,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+467217,467749,Auto,90.0,0.0,,Default Target,[],0.0,[]
+468757,469737,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+470177,470709,Auto,90.0,0.0,,Default Target,[],0.0,[]
+471257,472097,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+473757,474647,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+474257,474789,Auto,90.0,0.0,,Default Target,[],0.0,[]
+476857,476857,Subtractive Palette,,,,,,,[]
+476257,477237,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+477217,477749,Auto,90.0,0.0,,Default Target,[],0.0,[]
+477757,479627,Comet in Black,940.0,125930.0,,Default Target,[],1123398008.0,[]
+480177,480709,Auto,90.0,0.0,,Default Target,[],0.0,[]
+481057,482397,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
+483137,483669,Auto,90.0,0.0,,Default Target,[],0.0,[]
+485228,485228,Chain Stratagem,,,,,,,[]
+485473,485473,Divination,,,,,,,[]
+486089,486089,Dokumori,,,,,,,[]
+485357,486107,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+486305,486305,Starry Muse,,,,,,,[]
+486097,486629,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori']"
+488225,489025,Stone in Yellow,900.0,148449.0,,Default Target,['5 Hyperphantasia'],1633616238.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+489057,489589,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+489997,489997,Card,,,,,,,[]
+490695,491545,Thunder in Magenta,940.0,164331.0,,Default Target,['4 Hyperphantasia'],2001879159.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+492017,492549,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+492645,492645,Striking Muse,,,,,,,[]
+491945,493195,Star Prism,1100.0,192325.0,,Default Target,['3 Hyperphantasia'],2742037479.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+494515,494515,Subtractive Palette,,,,,,,[]
+493815,495195,Hammer Stamp,560.0,170063.0,,Default Target,[],24108840.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+494977,495509,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+495215,496195,Clawed Muse,800.0,139872.0,,Default Target,[],1450290211.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+497535,498285,Blizzard in Cyan,860.0,150295.0,,Default Target,['2 Hyperphantasia'],1674490024.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+498035,498567,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+499485,500635,Mog of the Ages,1000.0,174841.0,,Default Target,[],2266089452.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+498785,500655,Comet in Black,940.0,164331.0,,Default Target,['1 Hyperphantasia'],2001879159.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+500995,501527,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+501255,502495,Rainbow Drip,1000.0,174841.0,,Default Target,['Rainbow Bright'],2266089452.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Rainbow Bright', 'Starry Muse']"
+503955,504487,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+503755,505005,Hammer Brush,580.0,176200.0,,Default Target,[],25886718.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+506915,507447,Auto,90.0,0.0,,Default Target,[],0.0,['Dokumori']
+506255,508355,Polishing Hammer,600.0,152709.0,,Default Target,[],19433620.0,"['Dokumori', 'Starry Muse']"
+508755,508755,Hammer Motif,,,,,,,[]
+511755,512287,Auto,90.0,0.0,,Default Target,[],0.0,[]
+512755,512755,Starry Sky Motif,,,,,,,[]
+515755,516287,Auto,90.0,0.0,,Default Target,[],0.0,[]
+516756,516756,Maw Motif,,,,,,,[]
+519756,520288,Auto,90.0,0.0,,Default Target,[],0.0,[]
+520756,522096,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
+521456,522616,Fanged Muse,800.0,107187.0,,Default Target,[],813868410.0,[]
+522716,523248,Auto,90.0,0.0,,Default Target,[],0.0,[]
+523256,523256,Pom Motif,,,,,,,[]
+526256,526788,Auto,90.0,0.0,,Default Target,[],0.0,[]
+527256,528596,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
+529216,529748,Auto,90.0,0.0,,Default Target,[],0.0,[]
+529756,531096,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
+532176,532708,Auto,90.0,0.0,,Default Target,[],0.0,[]
+534056,534806,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+535136,535668,Auto,90.0,0.0,,Default Target,[],0.0,[]
+537356,538156,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+538096,538628,Auto,90.0,0.0,,Default Target,[],0.0,[]
+539856,540836,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+541056,541588,Auto,90.0,0.0,,Default Target,[],0.0,[]
+542356,543196,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+542956,544256,Retribution of the Madeen,1100.0,147382.0,,Default Target,[],1538750388.0,[]
+545456,545456,Striking Muse,,,,,,,[]
+544856,545746,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+545356,545888,Auto,90.0,0.0,,Default Target,[],0.0,[]
+546356,547736,Hammer Stamp,560.0,129187.0,,Default Target,[],13912686.0,[]
+548316,548848,Auto,90.0,0.0,,Default Target,[],0.0,[]
+548856,550106,Hammer Brush,580.0,133849.0,,Default Target,[],14936545.0,[]
+551276,551808,Auto,90.0,0.0,,Default Target,[],0.0,[]
+551356,553456,Polishing Hammer,600.0,138512.0,,Default Target,[],15987516.0,[]
+554856,555836,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+555356,555888,Auto,90.0,0.0,,Default Target,[],0.0,[]
+556356,556356,Hammer Motif,,,,,,,[]
+559356,559888,Auto,90.0,0.0,,Default Target,[],0.0,[]
+561356,562196,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+562316,562848,Auto,90.0,0.0,,Default Target,[],0.0,[]
+563856,564746,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+565276,565808,Auto,90.0,0.0,,Default Target,[],0.0,[]
+566357,567337,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+566957,567577,Pom Muse,800.0,107187.0,,Default Target,[],813868410.0,[]
+567857,567857,Wing Motif,,,,,,,[]
+570957,570957,Subtractive Palette,,,,,,,[]
+570857,571389,Auto,90.0,0.0,,Default Target,[],0.0,[]
+573657,574407,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+574157,574689,Auto,90.0,0.0,,Default Target,[],0.0,[]
+576957,577757,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+577457,577989,Auto,90.0,0.0,,Default Target,[],0.0,[]
+580257,581107,Thunder in Magenta,940.0,125930.0,,Default Target,[],1123398008.0,[]
+580757,581289,Auto,90.0,0.0,,Default Target,[],0.0,[]
+582757,583597,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+583717,584249,Auto,90.0,0.0,,Default Target,[],0.0,[]
+585257,586147,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+586677,587209,Auto,90.0,0.0,,Default Target,[],0.0,[]
+587757,588737,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+590257,591097,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+590757,591289,Auto,90.0,0.0,,Default Target,[],0.0,[]
+592757,593647,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+593717,594249,Auto,90.0,0.0,,Default Target,[],0.0,[]
+595257,596237,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+596677,597209,Auto,90.0,0.0,,Default Target,[],0.0,[]
+597457,597457,Subtractive Palette,,,,,,,[]
+596757,598627,Comet in Black,940.0,125930.0,,Default Target,[],1123398008.0,[]
+599637,600169,Auto,90.0,0.0,,Default Target,[],0.0,[]
+600057,601927,Comet in Black,940.0,125930.0,,Default Target,[],1123398008.0,[]
+602597,603129,Auto,90.0,0.0,,Default Target,[],0.0,[]
+605230,605230,Chain Stratagem,,,,,,,[]
+605473,605473,Divination,,,,,,,[]
+605157,605907,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+606089,606089,Dokumori,,,,,,,[]
+605657,606189,Auto,90.0,0.0,,Default Target,[],0.0,[]
+606305,606305,Starry Muse,,,,,,,[]
+608225,609025,Stone in Yellow,900.0,148449.0,,Default Target,['5 Hyperphantasia'],1633616238.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+608725,609257,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+610118,610118,Card,,,,,,,[]
+610695,611545,Thunder in Magenta,940.0,155030.0,,Default Target,['4 Hyperphantasia'],1781659389.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+611685,612217,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+612645,612645,Subtractive Palette,,,,,,,[]
+611945,613195,Star Prism,1100.0,192325.0,,Default Target,['3 Hyperphantasia'],2742037479.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+615035,615785,Blizzard in Cyan,860.0,150295.0,,Default Target,['2 Hyperphantasia'],1674490024.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+615535,616067,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+616985,616985,Striking Muse,,,,,,,[]
+616285,618155,Comet in Black,940.0,164331.0,,Default Target,['1 Hyperphantasia'],2001879159.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
+618495,619027,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+618755,619995,Rainbow Drip,1000.0,174841.0,,Default Target,['Rainbow Bright'],2266089452.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Rainbow Bright', 'Starry Muse']"
+619455,620435,Winged Muse,800.0,139872.0,,Default Target,[],1450290211.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+621455,621987,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+621255,622635,Hammer Stamp,560.0,170063.0,,Default Target,[],24108840.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+621955,623105,Mog of the Ages,1000.0,174841.0,,Default Target,[],2266089452.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+624415,624947,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+623755,625005,Hammer Brush,580.0,176200.0,,Default Target,[],25886718.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+627375,627907,Auto,90.0,0.0,,Default Target,[],0.0,[]
+626255,628355,Polishing Hammer,600.0,152709.0,,Default Target,[],19433620.0,"['Dokumori', 'Starry Muse']"
+628755,628755,Hammer Motif,,,,,,,[]
+631755,632287,Auto,90.0,0.0,,Default Target,[],0.0,[]
+632755,632755,Claw Motif,,,,,,,[]
+635755,636287,Auto,90.0,0.0,,Default Target,[],0.0,[]
+636756,636756,Starry Sky Motif,,,,,,,[]
+639756,640288,Auto,90.0,0.0,,Default Target,[],0.0,[]
+640756,642096,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
+641456,642436,Clawed Muse,800.0,107187.0,,Default Target,[],813868410.0,[]
+642716,643248,Auto,90.0,0.0,,Default Target,[],0.0,[]
+643256,643256,Maw Motif,,,,,,,[]
+646256,646788,Auto,90.0,0.0,,Default Target,[],0.0,[]
+649056,649806,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+649556,650088,Auto,90.0,0.0,,Default Target,[],0.0,[]
+652356,653156,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+652856,653388,Auto,90.0,0.0,,Default Target,[],0.0,[]
+654856,655836,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+655816,656348,Auto,90.0,0.0,,Default Target,[],0.0,[]
+657356,658196,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+658776,659308,Auto,90.0,0.0,,Default Target,[],0.0,[]
+659856,660746,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+662956,662956,Subtractive Palette,,,,,,,[]
+662356,663336,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+662856,663388,Auto,90.0,0.0,,Default Target,[],0.0,[]
+665656,666406,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+666156,666688,Auto,90.0,0.0,,Default Target,[],0.0,[]
+668956,669756,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+669456,669988,Auto,90.0,0.0,,Default Target,[],0.0,[]
+672856,672856,Striking Muse,,,,,,,[]
+672256,673106,Thunder in Magenta,940.0,125930.0,,Default Target,[],1123398008.0,[]
+672756,673288,Auto,90.0,0.0,,Default Target,[],0.0,[]
+673756,675136,Hammer Stamp,560.0,129187.0,,Default Target,[],13912686.0,[]
+675716,676248,Auto,90.0,0.0,,Default Target,[],0.0,[]
+676256,677506,Hammer Brush,580.0,133849.0,,Default Target,[],14936545.0,[]
+678676,679208,Auto,90.0,0.0,,Default Target,[],0.0,[]
+678756,680856,Polishing Hammer,600.0,138512.0,,Default Target,[],15987516.0,[]
+681956,681956,Subtractive Palette,,,,,,,[]
+681636,682168,Auto,90.0,0.0,,Default Target,[],0.0,[]
+681256,683126,Comet in Black,940.0,125930.0,,Default Target,[],1123398008.0,[]
+686356,687106,Blizzard in Cyan,860.0,115173.0,,Default Target,[],939678095.0,[]
+686856,687388,Auto,90.0,0.0,,Default Target,[],0.0,[]
+689656,690456,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
+690156,690688,Auto,90.0,0.0,,Default Target,[],0.0,[]
+692956,693806,Thunder in Magenta,940.0,125930.0,,Default Target,[],1123398008.0,[]
+693456,693988,Auto,90.0,0.0,,Default Target,[],0.0,[]
+694456,694456,Hammer Motif,,,,,,,[]
+697456,697988,Auto,90.0,0.0,,Default Target,[],0.0,[]
+698457,700327,Comet in Black,940.0,125930.0,,Default Target,[],1123398008.0,[]
+700416,700948,Auto,90.0,0.0,,Default Target,[],0.0,[]
+702757,703597,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+703376,703908,Auto,90.0,0.0,,Default Target,[],0.0,[]
+705257,706147,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+706336,706868,Auto,90.0,0.0,,Default Target,[],0.0,[]
+707757,708737,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+710257,711097,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+710757,711289,Auto,90.0,0.0,,Default Target,[],0.0,[]
+712757,713647,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
+713717,714249,Auto,90.0,0.0,,Default Target,[],0.0,[]
+715257,716237,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
+716677,717209,Auto,90.0,0.0,,Default Target,[],0.0,[]
+716757,718097,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
+719957,719957,Subtractive Palette,,,,,,,[]
+719637,720169,Auto,90.0,0.0,,Default Target,[],0.0,[]
+719257,720597,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
+720657,720657,Grade 4 Gemdraught,,,,,,,[]
+723557,724307,Blizzard in Cyan,860.0,124624.0,,Default Target,[],1100216997.0,['Grade 4 Gemdraught']
+724057,724589,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
+725232,725232,Chain Stratagem,,,,,,,[]
+725473,725473,Divination,,,,,,,[]
+726089,726089,Dokumori,,,,,,,[]
+727457,727457,Starry Muse,,,,,,,[]
+726857,727657,Stone in Yellow,900.0,152980.0,,Default Target,[],1734878897.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught']"
+727357,727889,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught']"
+730240,730240,Card,,,,,,,[]
+729577,730427,Thunder in Magenta,940.0,167753.0,,Default Target,['5 Hyperphantasia'],2086087182.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+730317,730849,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+731527,731527,Subtractive Palette,,,,,,,[]
+730827,732697,Comet in Black,940.0,167753.0,,Default Target,['4 Hyperphantasia'],2086087182.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+733277,733809,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+734517,735267,Blizzard in Cyan,860.0,162627.0,,Default Target,['3 Hyperphantasia'],1960582165.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+736237,736769,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+735767,737017,Star Prism,1100.0,208105.0,,Default Target,['2 Hyperphantasia'],3210423043.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+737637,739507,Comet in Black,940.0,177818.0,,Default Target,['1 Hyperphantasia'],2343928330.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
+739197,739729,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+740807,740807,Striking Muse,,,,,,,[]
+740107,741347,Rainbow Drip,1000.0,189187.0,,Default Target,['Rainbow Bright'],2653242422.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Rainbow Bright', 'Starry Muse']"
+742157,742689,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+742607,743987,Hammer Stamp,560.0,184043.0,,Default Target,[],28219467.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+743307,744467,Fanged Muse,800.0,151349.0,,Default Target,[],1698095860.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+745117,745649,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+745107,746357,Hammer Brush,580.0,190685.0,,Default Target,[],30318123.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+745807,747107,Retribution of the Madeen,1100.0,208105.0,,Default Target,[],3210423043.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+748077,748609,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
+749377,749377,Swiftcast,,,,,,,[]
+747607,749707,Polishing Hammer,600.0,157387.0,,Default Target,[],20643010.0,"['Grade 4 Gemdraught', 'Starry Muse']"
+750107,751347,Rainbow Drip,1000.0,144977.0,,Default Target,[],1488932153.0,"['Grade 4 Gemdraught', 'Swiftcast']"

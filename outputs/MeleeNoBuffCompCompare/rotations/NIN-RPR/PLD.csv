@@ -1,0 +1,900 @@
+sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,sim_target,sim_conditions,sim_variance,sim_buffs
+-500,258,Holy Spirit,400.0,31913.0,,Default Target,[],67703560.0,[]
+258,790,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+1000,1623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+2498,3030,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+3491,3491,Dokumori,,,,,,,[]
+4125,4125,Grade 4 Gemdraught,,,,,,,[]
+3500,4258,Riot Blade,330.0,27643.0,,Default Target,[],50799154.0,['Dokumori']
+4644,4644,Arcane Circle,,,,,,,[]
+4738,5270,Auto,90.0,5595.0,,Default Target,[],2079977.0,['Dokumori']
+6000,6578,Royal Authority,460.0,42955.0,,Default Target,[],122651586.0,"['Arcane Circle', 'Dokumori', 'Grade 4 Gemdraught']"
+6625,6625,Fight or Flight,,,,,,,[]
+6978,7510,Auto,90.0,6237.0,,Default Target,[],2585323.0,"['Arcane Circle', 'Dokumori', 'Grade 4 Gemdraught']"
+7250,8540,Imperator,580.0,67704.0,,Default Target,[],304709926.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+8500,9034,Goring Blade,700.0,81711.0,,Default Target,[],443836893.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+9218,9750,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+9125,10148,Circle of Scorn,140.0,16332.0,,Default Target,[],17728553.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+9125,10500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+11000,11758,Holy Spirit,500.0,58364.0,,Default Target,['Divine Might'],226439916.0,"['Arcane Circle', 'Divine Might', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+11625,11982,Expiacion,450.0,52523.0,,Default Target,[],183383845.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+11458,11990,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+9125,13500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+13500,14123,Confiteor,1000.0,116734.0,,Default Target,['Requiescat'],905867113.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+13698,14230,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+14125,14703,Intervene,150.0,17504.0,,Default Target,[],20364573.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+15938,16470,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+9125,16500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+16000,16666,Blade of Faith,760.0,88716.0,,Default Target,['Requiescat'],523200054.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+18178,18710,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+18500,19391,Blade of Truth,880.0,102724.0,,Default Target,['Requiescat'],701478425.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+9125,19500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+19125,19703,Intervene,150.0,17504.0,,Default Target,[],20364573.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+20418,20950,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+21000,21891,Blade of Valor,1000.0,116734.0,,Default Target,['Requiescat'],905867113.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+9125,22500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+21625,22785,Blade of Honor,1000.0,116734.0,,Default Target,[],905867113.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+22658,23190,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+23500,24793,Atonement,460.0,53694.0,,Default Target,[],191636472.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+24898,25430,Auto,90.0,7425.0,,Default Target,[],3664414.0,"['Arcane Circle', 'Fight or Flight', 'Grade 4 Gemdraught']"
+26000,27160,Supplication,500.0,53965.0,,Default Target,[],193605409.0,"['Fight or Flight', 'Grade 4 Gemdraught']"
+27138,27670,Auto,90.0,7208.0,,Default Target,[],3453776.0,"['Fight or Flight', 'Grade 4 Gemdraught']"
+28500,29790,Sepulchre,540.0,46625.0,,Default Target,[],144509834.0,['Grade 4 Gemdraught']
+29378,29910,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+31000,31623,Fast Blade,220.0,18993.0,,Default Target,[],23978852.0,['Grade 4 Gemdraught']
+31618,32150,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+33500,34258,Riot Blade,330.0,28490.0,,Default Target,[],53957265.0,['Grade 4 Gemdraught']
+33858,34390,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+36000,36578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+36098,36630,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+38338,38870,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+38500,39123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+39125,40148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
+39125,40500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+40578,41110,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+41000,41758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+41625,41982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
+42818,43350,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+39125,43500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+43500,44793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+45058,45590,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+39125,46500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+46000,47160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+47298,47830,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+39125,49500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+48500,49790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+49538,50070,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+51000,51758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+51778,52310,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+39125,52500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+53500,54078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+54018,54550,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+56000,56623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+56258,56790,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+58498,59030,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+58500,59258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+60738,61270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+61000,62293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+62978,63510,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+63500,64660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+65218,65750,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+66625,66625,Fight or Flight,,,,,,,[]
+66000,66758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+67458,67990,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+67250,68540,Imperator,580.0,57844.0,,Default Target,[],222421460.0,['Fight or Flight']
+68500,69034,Goring Blade,700.0,69814.0,,Default Target,[],324015381.0,['Fight or Flight']
+69125,70148,Circle of Scorn,140.0,13955.0,,Default Target,[],12943806.0,['Fight or Flight']
+69698,70230,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+69125,70500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+71625,71982,Expiacion,450.0,44880.0,,Default Target,[],133895595.0,['Fight or Flight']
+71000,72290,Sepulchre,540.0,53853.0,,Default Target,[],192790977.0,['Fight or Flight']
+71938,72470,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+69125,73500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+73500,74123,Confiteor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
+74125,74703,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
+74178,74710,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+69125,76500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+76000,76666,Blade of Faith,760.0,75801.0,,Default Target,['Requiescat'],381953526.0,"['Fight or Flight', 'Requiescat']"
+76418,76950,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+76625,77203,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
+78658,79190,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+78500,79391,Blade of Truth,880.0,87767.0,,Default Target,['Requiescat'],512059341.0,"['Fight or Flight', 'Requiescat']"
+69125,79500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+80898,81430,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+81000,81891,Blade of Valor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
+69125,82500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+81625,82785,Blade of Honor,1000.0,99736.0,,Default Target,[],661260162.0,['Fight or Flight']
+83138,83670,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+83500,84078,Royal Authority,460.0,45875.0,,Default Target,[],139905235.0,['Fight or Flight']
+85378,85910,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+86000,86758,Holy Spirit,500.0,49867.0,,Default Target,['Divine Might'],165307933.0,"['Divine Might', 'Fight or Flight']"
+87618,88150,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+88500,89123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+89858,90390,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+91000,91758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+92098,92630,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+93500,94793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+94338,94870,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+96578,97110,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+96000,97160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+98818,99350,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+98500,99790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+99125,100148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
+99125,100500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+101000,101578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+101058,101590,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+101625,101982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
+99125,103500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+103298,103830,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+103500,104123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+105538,106070,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+99125,106500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+106000,106758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+107778,108310,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+99125,109500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+108500,109793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+110018,110550,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+111000,112160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+99125,112500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+112258,112790,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+113500,114790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+114498,115030,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+116000,116758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+116738,117270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+118500,119078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+118978,119510,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+121000,121623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+121218,121750,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+123458,123990,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+123500,124258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+125460,125460,Arcane Circle,,,,,,,[]
+125582,125582,Dokumori,,,,,,,[]
+125698,126230,Auto,90.0,5595.0,,Default Target,[],2079977.0,['Dokumori']
+126625,126625,Fight or Flight,,,,,,,[]
+126000,127293,Atonement,460.0,38535.0,,Default Target,[],98712872.0,['Dokumori']
+127938,128470,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+127250,128540,Imperator,580.0,62558.0,,Default Target,[],260154072.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+128500,129034,Goring Blade,700.0,75504.0,,Default Target,[],378980590.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+129125,130148,Circle of Scorn,140.0,15092.0,,Default Target,[],15139844.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+129125,130500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+130178,130710,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+131625,131982,Expiacion,450.0,48538.0,,Default Target,[],156610432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+131000,132160,Supplication,500.0,53931.0,,Default Target,[],193346564.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+132418,132950,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+129125,133500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+133500,134123,Confiteor,1000.0,107864.0,,Default Target,['Requiescat'],773435470.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+134125,134703,Intervene,150.0,16177.0,,Default Target,[],17395609.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+134658,135190,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+129125,136500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+136000,136666,Blade of Faith,760.0,81979.0,,Default Target,['Requiescat'],446751472.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+136625,137203,Intervene,150.0,16177.0,,Default Target,[],17395609.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+136898,137430,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+138500,139391,Blade of Truth,880.0,94919.0,,Default Target,['Requiescat'],598918539.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+129125,139500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+139138,139670,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+141000,141891,Blade of Valor,1000.0,107864.0,,Default Target,['Requiescat'],773435470.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+141378,141910,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+129125,142500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+141625,142785,Blade of Honor,1000.0,107864.0,,Default Target,[],773435470.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+143618,144150,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+143500,144258,Holy Spirit,500.0,53931.0,,Default Target,['Divine Might'],193346564.0,"['Arcane Circle', 'Divine Might', 'Dokumori', 'Fight or Flight']"
+145858,146390,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+146000,147290,Sepulchre,540.0,58241.0,,Default Target,[],225498464.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+148098,148630,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+148500,149078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+150338,150870,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+151000,152293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+152578,153110,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+153500,154660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+154818,155350,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+156000,157290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+157058,157590,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+158500,159258,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+159298,159830,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+159125,160148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
+159125,160500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+161000,161623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+161625,161982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
+161538,162070,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+159125,163500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+163500,164258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+163778,164310,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+159125,166500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+166018,166550,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+166000,166578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+168258,168790,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+168500,169123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+159125,169500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+170498,171030,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+171000,171758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+159125,172500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+172738,173270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+173500,174258,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+174978,175510,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+176000,177293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+177218,177750,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+178500,179660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+179458,179990,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+181698,182230,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+181000,182290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+183500,184078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+183938,184470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+186625,186625,Fight or Flight,,,,,,,[]
+186178,186710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+186000,187293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+187250,188540,Imperator,580.0,57844.0,,Default Target,[],222421460.0,['Fight or Flight']
+188418,188950,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+188500,189034,Goring Blade,700.0,69814.0,,Default Target,[],324015381.0,['Fight or Flight']
+189125,190148,Circle of Scorn,140.0,13955.0,,Default Target,[],12943806.0,['Fight or Flight']
+189125,190500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+190658,191190,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+191625,191982,Expiacion,450.0,44880.0,,Default Target,[],133895595.0,['Fight or Flight']
+191000,192160,Supplication,500.0,49867.0,,Default Target,[],165307933.0,['Fight or Flight']
+192898,193430,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+189125,193500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+193500,194123,Confiteor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
+194125,194703,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
+195138,195670,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+189125,196500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+196000,196666,Blade of Faith,760.0,75801.0,,Default Target,['Requiescat'],381953526.0,"['Fight or Flight', 'Requiescat']"
+196625,197203,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
+197378,197910,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+198500,199391,Blade of Truth,880.0,87767.0,,Default Target,['Requiescat'],512059341.0,"['Fight or Flight', 'Requiescat']"
+189125,199500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+199618,200150,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+201000,201891,Blade of Valor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
+201858,202390,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+189125,202500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+201625,202785,Blade of Honor,1000.0,99736.0,,Default Target,[],661260162.0,['Fight or Flight']
+204098,204630,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+203500,204790,Sepulchre,540.0,53853.0,,Default Target,[],192790977.0,['Fight or Flight']
+206000,206758,Holy Spirit,500.0,49867.0,,Default Target,['Divine Might'],165307933.0,"['Divine Might', 'Fight or Flight']"
+206338,206870,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+208578,209110,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+208500,209123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+210818,211350,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+211000,211758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+213058,213590,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+213500,214078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+215298,215830,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+216000,216623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+217538,218070,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+218500,219258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+219125,220148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
+219778,220310,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+219125,220500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+221625,221982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
+221000,222293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+222018,222550,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+219125,223500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+223500,224660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+224258,224790,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+219125,226500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+226498,227030,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+226000,227290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+228500,229258,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+228738,229270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+219125,229500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+230978,231510,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+231000,231578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+219125,232500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+233218,233750,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+233500,234123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+235458,235990,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+236000,236758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+237698,238230,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+238500,239258,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+239938,240470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+241000,242293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+242178,242710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+243500,244660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+244418,244950,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+245582,245582,Dokumori,,,,,,,[]
+245606,245606,Arcane Circle,,,,,,,[]
+246625,246625,Fight or Flight,,,,,,,[]
+246658,247190,Auto,90.0,5762.0,,Default Target,[],2206990.0,"['Arcane Circle', 'Dokumori']"
+246000,247290,Sepulchre,540.0,45236.0,,Default Target,[],136035582.0,['Dokumori']
+247250,248540,Imperator,580.0,62558.0,,Default Target,[],260154072.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+248500,249034,Goring Blade,700.0,75504.0,,Default Target,[],378980590.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+248898,249430,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+249125,250148,Circle of Scorn,140.0,15092.0,,Default Target,[],15139844.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+249125,250500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+251000,251578,Royal Authority,460.0,49614.0,,Default Target,[],163636785.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+251138,251670,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+251625,251982,Expiacion,450.0,48538.0,,Default Target,[],156610432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+249125,253500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+253378,253910,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+253500,254123,Confiteor,1000.0,107864.0,,Default Target,['Requiescat'],773435470.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+254125,254703,Intervene,150.0,16177.0,,Default Target,[],17395609.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+255618,256150,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+249125,256500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+256000,256666,Blade of Faith,760.0,81979.0,,Default Target,['Requiescat'],446751472.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+256625,257203,Intervene,150.0,16177.0,,Default Target,[],17395609.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+257858,258390,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+258500,259391,Blade of Truth,880.0,94919.0,,Default Target,['Requiescat'],598918539.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+249125,259500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+260098,260630,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+261000,261891,Blade of Valor,1000.0,107864.0,,Default Target,['Requiescat'],773435470.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+249125,262500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+261625,262785,Blade of Honor,1000.0,107864.0,,Default Target,[],773435470.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+262338,262870,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+263500,264258,Holy Spirit,500.0,53931.0,,Default Target,['Divine Might'],193346564.0,"['Arcane Circle', 'Divine Might', 'Dokumori', 'Fight or Flight']"
+264578,265110,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+266000,267293,Atonement,460.0,49614.0,,Default Target,[],163636785.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+266818,267350,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+269058,269590,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+268500,269660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+271298,271830,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+271000,272290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+273538,274070,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+273500,274123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+275778,276310,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+276000,276758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+278018,278550,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+278500,279078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+279125,280148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
+279125,280500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+280258,280790,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+281000,281623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+281625,281982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
+282498,283030,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+279125,283500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+283500,284258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+284738,285270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+279125,286500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+286000,287293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+286978,287510,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+279125,289500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+288500,289660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+289218,289750,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+291458,291990,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+291000,292290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+279125,292500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+293698,294230,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+293500,294258,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+295938,296470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+296000,296578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+298178,298710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+298500,299123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+300418,300950,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+301000,301758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+302658,303190,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+303500,304793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+304898,305430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+306625,306625,Fight or Flight,,,,,,,[]
+306000,307160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+307138,307670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+307250,308540,Imperator,580.0,57844.0,,Default Target,[],222421460.0,['Fight or Flight']
+308500,309034,Goring Blade,700.0,69814.0,,Default Target,[],324015381.0,['Fight or Flight']
+309378,309910,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+309125,310148,Circle of Scorn,140.0,13955.0,,Default Target,[],12943806.0,['Fight or Flight']
+309125,310500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+311625,311982,Expiacion,450.0,44880.0,,Default Target,[],133895595.0,['Fight or Flight']
+311618,312150,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+311000,312290,Sepulchre,540.0,53853.0,,Default Target,[],192790977.0,['Fight or Flight']
+309125,313500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+313500,314123,Confiteor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
+313858,314390,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+314125,314703,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
+309125,316500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+316098,316630,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+316000,316666,Blade of Faith,760.0,75801.0,,Default Target,['Requiescat'],381953526.0,"['Fight or Flight', 'Requiescat']"
+316625,317203,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
+318338,318870,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+318500,319391,Blade of Truth,880.0,87767.0,,Default Target,['Requiescat'],512059341.0,"['Fight or Flight', 'Requiescat']"
+309125,319500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+320578,321110,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+321000,321891,Blade of Valor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
+309125,322500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+321625,322785,Blade of Honor,1000.0,99736.0,,Default Target,[],661260162.0,['Fight or Flight']
+322818,323350,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+323500,324258,Holy Spirit,500.0,49867.0,,Default Target,['Divine Might'],165307933.0,"['Divine Might', 'Fight or Flight']"
+325058,325590,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+326000,326578,Royal Authority,460.0,45875.0,,Default Target,[],139905235.0,['Fight or Flight']
+327298,327830,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+328500,329793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+329538,330070,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+331000,332160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+331778,332310,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+334018,334550,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+333500,334790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+336000,336758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+336258,336790,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+338498,339030,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+338500,339123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+339125,340148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
+339125,340500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+340738,341270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+341000,341758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+341625,341982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
+339125,343500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+342978,343510,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+343500,344078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+345218,345750,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+339125,346500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+346000,346623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+347458,347990,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+348500,349258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+339125,349500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+349698,350230,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+351000,352293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+351938,352470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+339125,352500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+353500,354660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+354178,354710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+356418,356950,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+356000,357290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+358658,359190,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+358500,359258,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+360898,361430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+361000,361578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+363138,363670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+363500,364123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+364125,364125,Grade 4 Gemdraught,,,,,,,[]
+365606,365606,Arcane Circle,,,,,,,[]
+365378,365910,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+366089,366089,Dokumori,,,,,,,[]
+366625,366625,Fight or Flight,,,,,,,[]
+366000,367293,Atonement,460.0,39718.0,,Default Target,[],104863158.0,['Grade 4 Gemdraught']
+367618,368150,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+367250,368540,Imperator,580.0,67704.0,,Default Target,[],304709926.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+368500,369034,Goring Blade,700.0,81711.0,,Default Target,[],443836893.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+369125,370148,Circle of Scorn,140.0,16332.0,,Default Target,[],17728553.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+369858,370390,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+369125,370500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+371625,371982,Expiacion,450.0,52523.0,,Default Target,[],183383845.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+371000,372160,Supplication,500.0,58364.0,,Default Target,[],226439916.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+372098,372630,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+369125,373500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+373500,374123,Confiteor,1000.0,116734.0,,Default Target,['Requiescat'],905867113.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+374125,374703,Intervene,150.0,17504.0,,Default Target,[],20364573.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+374338,374870,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+369125,376500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+376000,376666,Blade of Faith,760.0,88716.0,,Default Target,['Requiescat'],523200054.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+376578,377110,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+376625,377203,Intervene,150.0,17504.0,,Default Target,[],20364573.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+378818,379350,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+378500,379391,Blade of Truth,880.0,102724.0,,Default Target,['Requiescat'],701478425.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+369125,379500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+381058,381590,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+381000,381891,Blade of Valor,1000.0,116734.0,,Default Target,['Requiescat'],905867113.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+369125,382500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+381625,382785,Blade of Honor,1000.0,116734.0,,Default Target,[],905867113.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+383298,383830,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+383500,384258,Holy Spirit,500.0,58364.0,,Default Target,['Divine Might'],226439916.0,"['Arcane Circle', 'Divine Might', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+385538,386070,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+386000,387290,Sepulchre,540.0,63031.0,,Default Target,[],264104884.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+387778,388310,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+388500,389258,Riot Blade,330.0,28490.0,,Default Target,[],53957265.0,['Grade 4 Gemdraught']
+390018,390550,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+391000,391578,Royal Authority,460.0,39718.0,,Default Target,[],104863158.0,['Grade 4 Gemdraught']
+392258,392790,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+393500,394258,Holy Spirit,500.0,43173.0,,Default Target,['Divine Might'],123905687.0,"['Divine Might', 'Grade 4 Gemdraught']"
+394498,395030,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+396738,397270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+396000,397293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+398978,399510,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+398500,399660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+399125,400148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
+399125,400500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+401218,401750,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+401625,401982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
+401000,402290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+399125,403500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+403458,403990,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+403500,404123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+405698,406230,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+399125,406500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+406000,406758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+407938,408470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+408500,409078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+399125,409500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+410178,410710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+411000,411623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+399125,412500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+412418,412950,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+413500,414258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+414658,415190,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+416000,416758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+416898,417430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+419138,419670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+418500,419793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+421378,421910,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+421000,422160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+423618,424150,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+423500,424790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+425858,426390,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+426000,426578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+426625,426625,Fight or Flight,,,,,,,[]
+427250,428540,Imperator,580.0,57844.0,,Default Target,[],222421460.0,['Fight or Flight']
+428098,428630,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+428500,429034,Goring Blade,700.0,69814.0,,Default Target,[],324015381.0,['Fight or Flight']
+429125,430148,Circle of Scorn,140.0,13955.0,,Default Target,[],12943806.0,['Fight or Flight']
+429125,430500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+430338,430870,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+431625,431982,Expiacion,450.0,44880.0,,Default Target,[],133895595.0,['Fight or Flight']
+431000,432293,Atonement,460.0,45875.0,,Default Target,[],139905235.0,['Fight or Flight']
+432578,433110,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+429125,433500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+433500,434123,Confiteor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
+434125,434703,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
+434818,435350,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+429125,436500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+436000,436666,Blade of Faith,760.0,75801.0,,Default Target,['Requiescat'],381953526.0,"['Fight or Flight', 'Requiescat']"
+436625,437203,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
+437058,437590,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+438500,439391,Blade of Truth,880.0,87767.0,,Default Target,['Requiescat'],512059341.0,"['Fight or Flight', 'Requiescat']"
+429125,439500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+439298,439830,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+441000,441891,Blade of Valor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
+441538,442070,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+429125,442500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+441625,442785,Blade of Honor,1000.0,99736.0,,Default Target,[],661260162.0,['Fight or Flight']
+443500,444258,Holy Spirit,500.0,49867.0,,Default Target,['Divine Might'],165307933.0,"['Divine Might', 'Fight or Flight']"
+443778,444310,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+446018,446550,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+446000,447160,Supplication,500.0,49867.0,,Default Target,[],165307933.0,['Fight or Flight']
+448258,448790,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+448500,449790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+450498,451030,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+451000,451623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+452738,453270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+453500,454258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+454978,455510,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+456000,456578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+457218,457750,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+458500,459793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+459458,459990,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+459125,460148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
+459125,460500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+461625,461982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
+461000,462160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+461698,462230,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+459125,463500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+463938,464470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+463500,464790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+459125,466500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+466178,466710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+466000,466758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+468418,468950,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+468500,469123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+459125,469500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+470658,471190,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+471000,471758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+459125,472500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+472898,473430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+473500,474078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+475138,475670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+476000,476623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+477378,477910,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+478500,479258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+479618,480150,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+481000,481758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+481858,482390,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+484098,484630,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+483500,484793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+485606,485606,Arcane Circle,,,,,,,[]
+486089,486089,Dokumori,,,,,,,[]
+486625,486625,Fight or Flight,,,,,,,[]
+486338,486870,Auto,90.0,5762.0,,Default Target,[],2206990.0,"['Arcane Circle', 'Dokumori']"
+486000,487160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+487250,488540,Imperator,580.0,62558.0,,Default Target,[],260154072.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+488500,489034,Goring Blade,700.0,75504.0,,Default Target,[],378980590.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+488578,489110,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+489125,490148,Circle of Scorn,140.0,15092.0,,Default Target,[],15139844.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+489125,490500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+490818,491350,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+491625,491982,Expiacion,450.0,48538.0,,Default Target,[],156610432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+491000,492290,Sepulchre,540.0,58241.0,,Default Target,[],225498464.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+489125,493500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+493058,493590,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+493500,494123,Confiteor,1000.0,107864.0,,Default Target,['Requiescat'],773435470.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+494125,494703,Intervene,150.0,16177.0,,Default Target,[],17395609.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+495298,495830,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+489125,496500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+496000,496666,Blade of Faith,760.0,81979.0,,Default Target,['Requiescat'],446751472.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+496625,497203,Intervene,150.0,16177.0,,Default Target,[],17395609.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+497538,498070,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+498500,499391,Blade of Truth,880.0,94919.0,,Default Target,['Requiescat'],598918539.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+489125,499500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+499778,500310,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+501000,501891,Blade of Valor,1000.0,107864.0,,Default Target,['Requiescat'],773435470.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+489125,502500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+502018,502550,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+501625,502785,Blade of Honor,1000.0,107864.0,,Default Target,[],773435470.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+503500,504078,Royal Authority,460.0,49614.0,,Default Target,[],163636785.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+504258,504790,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+506000,506758,Holy Spirit,500.0,53931.0,,Default Target,['Divine Might'],193346564.0,"['Arcane Circle', 'Divine Might', 'Dokumori', 'Fight or Flight']"
+506498,507030,Auto,90.0,6993.0,,Default Target,[],3250657.0,"['Dokumori', 'Fight or Flight']"
+508738,509270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+508500,509793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+510978,511510,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+511000,512160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+513218,513750,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+513500,514790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+515458,515990,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+516000,516623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+517698,518230,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+518500,519258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+519125,520148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
+519938,520470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+519125,520500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+521000,521578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+521625,521982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
+522178,522710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+519125,523500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+523500,524793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+524418,524950,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+519125,526500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+526000,527160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+526658,527190,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+528898,529430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+519125,529500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+528500,529790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+531138,531670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+531000,531758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+519125,532500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+533378,533910,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+533500,534123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+535618,536150,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+536000,536758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+537858,538390,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+538500,539078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+540098,540630,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+541000,542293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+542338,542870,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+543500,544123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+544578,545110,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+546625,546625,Fight or Flight,,,,,,,[]
+546000,546758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+546818,547350,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+547250,548540,Imperator,580.0,57844.0,,Default Target,[],222421460.0,['Fight or Flight']
+548500,549034,Goring Blade,700.0,69814.0,,Default Target,[],324015381.0,['Fight or Flight']
+549058,549590,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+549125,550148,Circle of Scorn,140.0,13955.0,,Default Target,[],12943806.0,['Fight or Flight']
+549125,550500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+551298,551830,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+551625,551982,Expiacion,450.0,44880.0,,Default Target,[],133895595.0,['Fight or Flight']
+551000,552160,Supplication,500.0,49867.0,,Default Target,[],165307933.0,['Fight or Flight']
+549125,553500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+553538,554070,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+553500,554123,Confiteor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
+554125,554703,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
+555778,556310,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+549125,556500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+556000,556666,Blade of Faith,760.0,75801.0,,Default Target,['Requiescat'],381953526.0,"['Fight or Flight', 'Requiescat']"
+556625,557203,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
+558018,558550,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+558500,559391,Blade of Truth,880.0,87767.0,,Default Target,['Requiescat'],512059341.0,"['Fight or Flight', 'Requiescat']"
+549125,559500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+560258,560790,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+561000,561891,Blade of Valor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
+549125,562500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+561625,562785,Blade of Honor,1000.0,99736.0,,Default Target,[],661260162.0,['Fight or Flight']
+562498,563030,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+563500,564258,Holy Spirit,500.0,49867.0,,Default Target,['Divine Might'],165307933.0,"['Divine Might', 'Fight or Flight']"
+564738,565270,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+566000,567290,Sepulchre,540.0,53853.0,,Default Target,[],192790977.0,['Fight or Flight']
+566978,567510,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+568500,569078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+569218,569750,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+571458,571990,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+571000,572293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+573698,574230,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+573500,574660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+575938,576470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+576000,577290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+578178,578710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+578500,579258,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+579125,580148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
+579125,580500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+580418,580950,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+581000,581623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+581625,581982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
+582658,583190,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+579125,583500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+583500,584258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+584898,585430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+579125,586500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+586000,586578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+587138,587670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+579125,589500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+588500,589793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+589378,589910,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+591618,592150,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+591000,592160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+579125,592500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+593500,594258,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+593858,594390,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+596000,596623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+596098,596630,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+598338,598870,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+598500,599258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+600578,601110,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+601000,602290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+602818,603350,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+603500,604078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+605058,605590,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+605606,605606,Arcane Circle,,,,,,,[]
+606089,606089,Dokumori,,,,,,,[]
+606625,606625,Fight or Flight,,,,,,,[]
+606000,607293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+607298,607830,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+607250,608540,Imperator,580.0,62558.0,,Default Target,[],260154072.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+608500,609034,Goring Blade,700.0,75504.0,,Default Target,[],378980590.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+609538,610070,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+609125,610148,Circle of Scorn,140.0,15092.0,,Default Target,[],15139844.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+609125,610500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+611625,611982,Expiacion,450.0,48538.0,,Default Target,[],156610432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+611000,612160,Supplication,500.0,53931.0,,Default Target,[],193346564.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+611778,612310,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+609125,613500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+613500,614123,Confiteor,1000.0,107864.0,,Default Target,['Requiescat'],773435470.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+614018,614550,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+614125,614703,Intervene,150.0,16177.0,,Default Target,[],17395609.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+609125,616500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+616000,616666,Blade of Faith,760.0,81979.0,,Default Target,['Requiescat'],446751472.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+616258,616790,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+616625,617203,Intervene,150.0,16177.0,,Default Target,[],17395609.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+618498,619030,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+618500,619391,Blade of Truth,880.0,94919.0,,Default Target,['Requiescat'],598918539.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+609125,619500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+620738,621270,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+621000,621891,Blade of Valor,1000.0,107864.0,,Default Target,['Requiescat'],773435470.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Requiescat']"
+609125,622500,Circle of Scorn (dot),30.0,3233.0,,Default Target,[],694710.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+621625,622785,Blade of Honor,1000.0,107864.0,,Default Target,[],773435470.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+622978,623510,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+623500,624790,Sepulchre,540.0,58241.0,,Default Target,[],225498464.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+625218,625750,Auto,90.0,7203.0,,Default Target,[],3448328.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight']"
+626000,626758,Holy Spirit,500.0,53931.0,,Default Target,['Divine Might'],193346564.0,"['Arcane Circle', 'Divine Might', 'Dokumori', 'Fight or Flight']"
+627458,627990,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+628500,629123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+629698,630230,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+631000,631758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+631938,632470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+633500,634078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+634178,634710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+636418,636950,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+636000,637293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+638658,639190,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+638500,639660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+639125,640148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
+639125,640500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+640898,641430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+641000,641758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+641625,641982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
+639125,643500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+643138,643670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+643500,644790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+645378,645910,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+639125,646500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+646000,646623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+647618,648150,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+648500,649258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+639125,649500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+649858,650390,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+651000,651578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+639125,652500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+652098,652630,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+653500,654793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+654338,654870,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+656000,656623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+656578,657110,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+658500,659258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+658818,659350,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+661058,661590,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+661000,662160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+663298,663830,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+663500,664258,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+665538,666070,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+666625,666625,Fight or Flight,,,,,,,[]
+666000,667290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+667778,668310,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+667250,668540,Imperator,580.0,57844.0,,Default Target,[],222421460.0,['Fight or Flight']
+668500,669034,Goring Blade,700.0,69814.0,,Default Target,[],324015381.0,['Fight or Flight']
+669125,670148,Circle of Scorn,140.0,13955.0,,Default Target,[],12943806.0,['Fight or Flight']
+669125,670500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+670018,670550,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+671000,671578,Royal Authority,460.0,45875.0,,Default Target,[],139905235.0,['Fight or Flight']
+671625,671982,Expiacion,450.0,44880.0,,Default Target,[],133895595.0,['Fight or Flight']
+672258,672790,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+669125,673500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+673500,674123,Confiteor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
+674125,674703,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
+674498,675030,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+669125,676500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+676000,676666,Blade of Faith,760.0,75801.0,,Default Target,['Requiescat'],381953526.0,"['Fight or Flight', 'Requiescat']"
+676625,677203,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
+676738,677270,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+678500,679391,Blade of Truth,880.0,87767.0,,Default Target,['Requiescat'],512059341.0,"['Fight or Flight', 'Requiescat']"
+669125,679500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+678978,679510,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+681218,681750,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+681000,681891,Blade of Valor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
+669125,682500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
+681625,682785,Blade of Honor,1000.0,99736.0,,Default Target,[],661260162.0,['Fight or Flight']
+683458,683990,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+683500,684258,Holy Spirit,500.0,49867.0,,Default Target,['Divine Might'],165307933.0,"['Divine Might', 'Fight or Flight']"
+685698,686230,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+686000,687293,Atonement,460.0,45875.0,,Default Target,[],139905235.0,['Fight or Flight']
+687938,688470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+688500,689660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+690178,690710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+691000,692290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+692418,692950,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+693500,694123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+694658,695190,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+696000,696758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+696898,697430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+698500,699078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+699138,699670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+699125,700148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
+699125,700500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+701378,701910,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+701625,701982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
+701000,702293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+699125,703500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+703500,704123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+703618,704150,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+705858,706390,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+699125,706500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+706000,706758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+708098,708630,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+699125,709500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+708500,709660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+710338,710870,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+711000,711758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
+699125,712500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
+712578,713110,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+713500,714790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+714818,715350,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+716000,716578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+717058,717590,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+718500,719123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
+719298,719830,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+721625,721625,Grade 4 Gemdraught,,,,,,,[]
+721000,721758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+721538,722070,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+723778,724310,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+723500,724793,Atonement,460.0,39718.0,,Default Target,[],104863158.0,['Grade 4 Gemdraught']
+725606,725606,Arcane Circle,,,,,,,[]
+726089,726089,Dokumori,,,,,,,[]
+726018,726550,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+726625,726625,Fight or Flight,,,,,,,[]
+726000,726758,Holy Spirit,500.0,43173.0,,Default Target,['Divine Might'],123905687.0,"['Divine Might', 'Grade 4 Gemdraught']"
+727250,728540,Imperator,580.0,67704.0,,Default Target,[],304709926.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+728258,728790,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+728500,729034,Goring Blade,700.0,81711.0,,Default Target,[],443836893.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+729125,730148,Circle of Scorn,140.0,16332.0,,Default Target,[],17728553.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+729125,730500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+730498,731030,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+731625,731982,Expiacion,450.0,52523.0,,Default Target,[],183383845.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+731000,732160,Supplication,500.0,58364.0,,Default Target,[],226439916.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+732738,733270,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+729125,733500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+733500,734123,Confiteor,1000.0,116734.0,,Default Target,['Requiescat'],905867113.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+734125,734703,Intervene,150.0,17504.0,,Default Target,[],20364573.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+734978,735510,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+729125,736500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+736000,736666,Blade of Faith,760.0,88716.0,,Default Target,['Requiescat'],523200054.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+736625,737203,Intervene,150.0,17504.0,,Default Target,[],20364573.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+737218,737750,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+738500,739391,Blade of Truth,880.0,102724.0,,Default Target,['Requiescat'],701478425.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+729125,739500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+739458,739990,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+741000,741891,Blade of Valor,1000.0,116734.0,,Default Target,['Requiescat'],905867113.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+741698,742230,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+729125,742500,Circle of Scorn (dot),30.0,3496.0,,Default Target,[],812432.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+741625,742785,Blade of Honor,1000.0,116734.0,,Default Target,[],905867113.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+743938,744470,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+743500,744790,Sepulchre,540.0,63031.0,,Default Target,[],264104884.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+746000,746578,Royal Authority,460.0,53694.0,,Default Target,[],191636472.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+746178,746710,Auto,90.0,7796.0,,Default Target,[],4039533.0,"['Arcane Circle', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+748418,748950,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+748500,749258,Holy Spirit,500.0,43173.0,,Default Target,['Divine Might'],123905687.0,"['Divine Might', 'Grade 4 Gemdraught']"
+750658,751190,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+751000,752293,Atonement,460.0,39718.0,,Default Target,[],104863158.0,['Grade 4 Gemdraught']
+752898,753430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+753500,754660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+755138,755670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+756000,757290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]

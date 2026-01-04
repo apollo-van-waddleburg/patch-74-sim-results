@@ -1,0 +1,612 @@
+sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,sim_target,sim_conditions,sim_variance,sim_buffs
+0,0,Grade 4 Gemdraught,,,,,,,[]
+0,0,The Wanderer's Minuet,,,,,,,[]
+-600,640,Rainbow Drip,1000.0,133983.0,,Default Target,[],1271670287.0,[]
+640,1172,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+700,1320,Pom Muse,800.0,117220.0,,Default Target,[],989796054.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+1400,1400,Striking Muse,,,,,,,[]
+2100,2100,Wing Motif,,,,,,,[]
+3491,3491,Dokumori,,,,,,,[]
+5103,5103,Battle Voice,,,,,,,[]
+5133,5133,Brotherhood,,,,,,,[]
+5400,5400,Starry Muse,,,,,,,[]
+5100,5632,Auto,90.0,0.0,,Default Target,[],0.0,"['Dokumori', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+5723,5723,Radiant Finale,,,,,,,[]
+6800,6800,Subtractive Palette,,,,,,,[]
+6100,7350,Star Prism,1100.0,195146.0,,Default Target,['5 Hyperphantasia'],2733934884.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse', ""The Wanderer's Minuet""]"
+9190,9940,Blizzard in Cyan,860.0,155550.0,,Default Target,['4 Hyperphantasia'],1737031519.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+9690,10222,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+11660,12460,Stone in Yellow,900.0,162858.0,,Default Target,['3 Hyperphantasia'],1904052995.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+12650,13182,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+14130,14980,Thunder in Magenta,940.0,170080.0,,Default Target,['2 Hyperphantasia'],2076666143.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+15610,16142,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+16079,17059,Winged Muse,800.0,144762.0,,Default Target,[],1504487468.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+15380,17250,Comet in Black,940.0,170080.0,,Default Target,['1 Hyperphantasia'],2076666143.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+17850,19090,Rainbow Drip,1000.0,180954.0,,Default Target,['Rainbow Bright'],2350721925.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Rainbow Bright', 'Starry Muse', ""The Wanderer's Minuet""]"
+18570,19102,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+18550,19700,Mog of the Ages,1000.0,180954.0,,Default Target,[],2350721925.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+20351,21731,Hammer Stamp,560.0,175402.0,,Default Target,[],25637633.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+21530,22062,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+22851,24101,Hammer Brush,580.0,181730.0,,Default Target,[],27524523.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+24490,25022,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+26051,26051,Swiftcast,,,,,,,[]
+25351,27451,Polishing Hammer,600.0,179101.0,,Default Target,[],26736645.0,"['Battle Voice', 'Brotherhood', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+27851,27851,Claw Motif,,,,,,,[]
+27450,27982,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+28551,29531,Clawed Muse,800.0,117220.0,,Default Target,[],989796054.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+30410,30942,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+32851,33691,Fire in Red,490.0,66339.0,,Default Target,[],317000815.0,"[""The Wanderer's Minuet""]"
+33370,33902,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+35351,36241,Aero in Green,530.0,71741.0,,Default Target,[],370741478.0,"[""The Wanderer's Minuet""]"
+36330,36862,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+37851,38831,Water in Blue,570.0,77144.0,,Default Target,[],428687504.0,"[""The Wanderer's Minuet""]"
+39290,39822,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+40351,41191,Fire in Red,490.0,66339.0,,Default Target,[],317000815.0,"[""The Wanderer's Minuet""]"
+42541,42541,Mage's Ballad,,,,,,,[]
+42851,43741,Aero in Green,530.0,71692.0,,Default Target,[],364108574.0,"[""Mage's Ballad""]"
+43351,43883,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+45951,45951,Subtractive Palette,,,,,,,[]
+45351,46331,Water in Blue,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+46311,46843,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+48651,49401,Blizzard in Cyan,860.0,116324.0,,Default Target,[],958573729.0,"[""Mage's Ballad""]"
+49271,49803,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+50151,50151,Hammer Motif,,,,,,,[]
+53251,53251,Striking Muse,,,,,,,[]
+53151,53683,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+54151,55531,Hammer Stamp,560.0,130479.0,,Default Target,[],14191875.0,"[""Mage's Ballad""]"
+56111,56643,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+56651,57901,Hammer Brush,580.0,135187.0,,Default Target,[],15237040.0,"[""Mage's Ballad""]"
+59071,59603,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+59151,61251,Polishing Hammer,600.0,139897.0,,Default Target,[],16310008.0,"[""Mage's Ballad""]"
+61651,61651,Maw Motif,,,,,,,[]
+64651,65183,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+65651,67521,Comet in Black,940.0,127189.0,,Default Target,[],1145978743.0,"[""Mage's Ballad""]"
+67611,68143,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+68952,68952,Hammer Motif,,,,,,,[]
+71952,72484,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+72952,72952,Starry Sky Motif,,,,,,,[]
+75952,76484,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+76952,76952,Pom Motif,,,,,,,[]
+76052,77212,Fanged Muse,800.0,108258.0,,Default Target,[],830220309.0,"[""Mage's Ballad""]"
+79952,80484,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+81762,81762,Army's Paeon,,,,,,,[]
+82752,83502,Blizzard in Cyan,860.0,115966.0,,Default Target,[],955944609.0,"[""Army's Paeon""]"
+83252,83784,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+86052,86852,Stone in Yellow,900.0,121415.0,,Default Target,[],1047881927.0,"[""Army's Paeon""]"
+86552,87084,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+88552,89532,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+89512,90044,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+91052,91892,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+92472,93004,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+93552,94442,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+96052,97032,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+96552,97084,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+98552,99392,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+99512,100044,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+101052,101942,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+102472,103004,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+104152,104152,Subtractive Palette,,,,,,,[]
+103552,104532,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+106852,107602,Blizzard in Cyan,860.0,115966.0,,Default Target,[],955944609.0,"[""Army's Paeon""]"
+107352,107884,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+110752,110752,Striking Muse,,,,,,,[]
+110152,110952,Stone in Yellow,900.0,121415.0,,Default Target,[],1047881927.0,"[""Army's Paeon""]"
+110652,111184,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+111652,113032,Hammer Stamp,560.0,130154.0,,Default Target,[],14120190.0,"[""Army's Paeon""]"
+113612,114144,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+114152,115402,Hammer Brush,580.0,134850.0,,Default Target,[],15153768.0,"[""Army's Paeon""]"
+116572,117104,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+116652,118752,Polishing Hammer,600.0,139548.0,,Default Target,[],16230828.0,"[""Army's Paeon""]"
+119152,119152,Hammer Motif,,,,,,,[]
+120782,120782,The Wanderer's Minuet,,,,,,,[]
+122152,122684,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+122253,122873,Pom Muse,800.0,108332.0,,Default Target,[],845359772.0,"[""The Wanderer's Minuet""]"
+123153,123153,Wing Motif,,,,,,,[]
+125195,125195,Battle Voice,,,,,,,[]
+125419,125419,Brotherhood,,,,,,,[]
+125582,125582,Dokumori,,,,,,,[]
+125815,125815,Radiant Finale,,,,,,,[]
+126253,126253,Starry Muse,,,,,,,[]
+126153,126685,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Dokumori', ""The Wanderer's Minuet""]"
+128373,129223,Thunder in Magenta,940.0,163344.0,,Default Target,['5 Hyperphantasia'],1915453995.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+129113,129645,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+130323,130323,Subtractive Palette,,,,,,,[]
+129622,131492,Comet in Black,940.0,163344.0,,Default Target,['4 Hyperphantasia'],1915453995.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+131023,132323,Retribution of the Madeen,1100.0,191170.0,,Default Target,[],2623648743.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+132073,132605,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+133313,134063,Blizzard in Cyan,860.0,149392.0,,Default Target,['3 Hyperphantasia'],1602207466.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+135033,135565,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+134563,135813,Star Prism,1100.0,191170.0,,Default Target,['2 Hyperphantasia'],2623648743.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+135263,136243,Winged Muse,800.0,139033.0,,Default Target,[],1387676813.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+137133,137133,Striking Muse,,,,,,,[]
+136433,138303,Comet in Black,940.0,163344.0,,Default Target,['1 Hyperphantasia'],1915453995.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+137993,138525,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+138903,140283,Hammer Stamp,560.0,168435.0,,Default Target,[],23632133.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+140953,141485,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+141403,142653,Hammer Brush,580.0,174510.0,,Default Target,[],25381025.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+143913,144445,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+143903,146003,Polishing Hammer,600.0,180591.0,,Default Target,[],27186320.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+146873,147405,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+146403,147643,Rainbow Drip,1000.0,158252.0,,Default Target,['Rainbow Bright'],1803987370.0,"['Dokumori', 'Radiant Finale', 'Rainbow Bright', 'Starry Muse', ""The Wanderer's Minuet""]"
+148903,148903,Hammer Motif,,,,,,,[]
+151903,152435,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+152903,152903,Claw Motif,,,,,,,[]
+155903,156435,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+156903,156903,Starry Sky Motif,,,,,,,[]
+159903,160435,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+160903,162243,Holy in White,570.0,77144.0,,Default Target,[],428687504.0,"[""The Wanderer's Minuet""]"
+161603,162583,Clawed Muse,800.0,108332.0,,Default Target,[],845359772.0,"[""The Wanderer's Minuet""]"
+162863,163395,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+163403,163403,Maw Motif,,,,,,,[]
+162303,163453,Mog of the Ages,1000.0,135415.0,,Default Target,[],1320876653.0,"[""The Wanderer's Minuet""]"
+165002,165002,Mage's Ballad,,,,,,,[]
+166403,166935,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+169204,169954,Blizzard in Cyan,860.0,116324.0,,Default Target,[],958573729.0,"[""Mage's Ballad""]"
+169704,170236,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+172504,173304,Stone in Yellow,900.0,121790.0,,Default Target,[],1050748351.0,"[""Mage's Ballad""]"
+173004,173536,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+175004,175984,Water in Blue,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+175964,176496,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+177504,178344,Fire in Red,490.0,66293.0,,Default Target,[],311329647.0,"[""Mage's Ballad""]"
+178924,179456,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+180004,180894,Aero in Green,530.0,71692.0,,Default Target,[],364108574.0,"[""Mage's Ballad""]"
+182504,183484,Water in Blue,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+183004,183536,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+185004,185844,Fire in Red,490.0,66293.0,,Default Target,[],311329647.0,"[""Mage's Ballad""]"
+185964,186496,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+187504,188394,Aero in Green,530.0,71692.0,,Default Target,[],364108574.0,"[""Mage's Ballad""]"
+188924,189456,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+190604,190604,Subtractive Palette,,,,,,,[]
+190004,190984,Water in Blue,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+193304,194054,Blizzard in Cyan,860.0,116324.0,,Default Target,[],958573729.0,"[""Mage's Ballad""]"
+193804,194336,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+196604,197404,Stone in Yellow,900.0,121790.0,,Default Target,[],1050748351.0,"[""Mage's Ballad""]"
+197104,197636,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+199904,200754,Thunder in Magenta,940.0,127189.0,,Default Target,[],1145978743.0,"[""Mage's Ballad""]"
+200404,200936,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+202353,202353,Army's Paeon,,,,,,,[]
+202404,203244,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+203364,203896,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+204904,205794,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+206324,206856,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+208004,208004,Striking Muse,,,,,,,[]
+207404,208384,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+209284,209816,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+208904,210284,Hammer Stamp,560.0,130154.0,,Default Target,[],14120190.0,"[""Army's Paeon""]"
+211404,212654,Hammer Brush,580.0,134850.0,,Default Target,[],15153768.0,"[""Army's Paeon""]"
+212244,212776,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+215204,215736,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+213904,216004,Polishing Hammer,600.0,139548.0,,Default Target,[],16230828.0,"[""Army's Paeon""]"
+217404,218244,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+218164,218696,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+219904,220794,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+221124,221656,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+222404,223384,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+224605,224605,Subtractive Palette,,,,,,,[]
+224084,224616,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+223905,225775,Comet in Black,940.0,126797.0,,Default Target,[],1142844475.0,"[""Army's Paeon""]"
+227044,227576,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+229005,229755,Blizzard in Cyan,860.0,115966.0,,Default Target,[],955944609.0,"[""Army's Paeon""]"
+230004,230536,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+232305,233105,Stone in Yellow,900.0,121415.0,,Default Target,[],1047881927.0,"[""Army's Paeon""]"
+232964,233496,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+233805,233805,Hammer Motif,,,,,,,[]
+236805,237337,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+239605,240455,Thunder in Magenta,940.0,126797.0,,Default Target,[],1142844475.0,"[""Army's Paeon""]"
+240105,240637,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+240953,240953,The Wanderer's Minuet,,,,,,,[]
+241105,242975,Comet in Black,940.0,127275.0,,Default Target,[],1166866739.0,"[""The Wanderer's Minuet""]"
+243065,243597,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+245105,245105,Subtractive Palette,,,,,,,[]
+245366,245366,Battle Voice,,,,,,,[]
+245582,245582,Dokumori,,,,,,,[]
+245705,245705,Brotherhood,,,,,,,[]
+244405,245745,Holy in White,570.0,77144.0,,Default Target,[],428687504.0,"[""The Wanderer's Minuet""]"
+245986,245986,Radiant Finale,,,,,,,[]
+246253,246253,Starry Muse,,,,,,,[]
+246025,246557,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Dokumori', ""The Wanderer's Minuet""]"
+248173,248923,Blizzard in Cyan,860.0,149392.0,,Default Target,['5 Hyperphantasia'],1602207466.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+248985,249517,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+250643,251443,Stone in Yellow,900.0,156411.0,,Default Target,['4 Hyperphantasia'],1756280328.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+253113,253963,Thunder in Magenta,940.0,163344.0,,Default Target,['3 Hyperphantasia'],1915453995.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+253613,254145,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+255063,256223,Fanged Muse,800.0,139033.0,,Default Target,[],1387676813.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+254363,256233,Comet in Black,940.0,163344.0,,Default Target,['2 Hyperphantasia'],1915453995.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+256573,257105,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+257533,257533,Striking Muse,,,,,,,[]
+256833,258083,Star Prism,1100.0,191170.0,,Default Target,['1 Hyperphantasia'],2623648743.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+259533,260065,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+258702,260082,Hammer Stamp,560.0,168435.0,,Default Target,[],23632133.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+259403,260703,Retribution of the Madeen,1100.0,191170.0,,Default Target,[],2623648743.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+261202,262452,Hammer Brush,580.0,174510.0,,Default Target,[],25381025.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+262493,263025,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+263703,265803,Polishing Hammer,600.0,180591.0,,Default Target,[],27186320.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+265453,265985,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+266203,267443,Rainbow Drip,1000.0,166165.0,,Default Target,['Rainbow Bright'],1988872415.0,"['Brotherhood', 'Dokumori', 'Radiant Finale', 'Rainbow Bright', 'Starry Muse', ""The Wanderer's Minuet""]"
+268413,268945,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+269703,270543,Fire in Red,490.0,66339.0,,Default Target,[],317000815.0,"[""The Wanderer's Minuet""]"
+272203,273093,Aero in Green,530.0,71741.0,,Default Target,[],370741478.0,"[""The Wanderer's Minuet""]"
+272703,273235,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+275303,275303,Subtractive Palette,,,,,,,[]
+274703,275683,Water in Blue,570.0,77144.0,,Default Target,[],428687504.0,"[""The Wanderer's Minuet""]"
+275663,276195,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+278003,278753,Blizzard in Cyan,860.0,116404.0,,Default Target,[],976038107.0,"[""The Wanderer's Minuet""]"
+278623,279155,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+279503,279503,Pom Motif,,,,,,,[]
+282503,283035,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+285002,285002,Mage's Ballad,,,,,,,[]
+283503,285373,Comet in Black,940.0,127275.0,,Default Target,[],1166866739.0,"[""The Wanderer's Minuet""]"
+285463,285995,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+286803,286803,Hammer Motif,,,,,,,[]
+289803,290335,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+289904,290524,Pom Muse,800.0,108258.0,,Default Target,[],830220309.0,"[""Mage's Ballad""]"
+290804,290804,Wing Motif,,,,,,,[]
+293804,294336,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+294804,294804,Starry Sky Motif,,,,,,,[]
+293904,294884,Winged Muse,800.0,108258.0,,Default Target,[],830220309.0,"[""Mage's Ballad""]"
+297804,298336,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+298804,298804,Claw Motif,,,,,,,[]
+297904,299054,Mog of the Ages,1000.0,135323.0,,Default Target,[],1297229410.0,"[""Mage's Ballad""]"
+301904,301904,Striking Muse,,,,,,,[]
+301804,302336,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+302804,304184,Hammer Stamp,560.0,130479.0,,Default Target,[],14191875.0,"[""Mage's Ballad""]"
+304764,305296,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+305304,306554,Hammer Brush,580.0,135187.0,,Default Target,[],15237040.0,"[""Mage's Ballad""]"
+307724,308256,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+307804,309904,Polishing Hammer,600.0,139897.0,,Default Target,[],16310008.0,"[""Mage's Ballad""]"
+310304,310304,Hammer Motif,,,,,,,[]
+313304,313836,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+316104,316854,Blizzard in Cyan,860.0,116324.0,,Default Target,[],958573729.0,"[""Mage's Ballad""]"
+316604,317136,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+319404,320204,Stone in Yellow,900.0,121790.0,,Default Target,[],1050748351.0,"[""Mage's Ballad""]"
+319904,320436,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+322353,322353,Army's Paeon,,,,,,,[]
+321904,322884,Water in Blue,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+322864,323396,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+323404,323404,Maw Motif,,,,,,,[]
+322504,323484,Clawed Muse,800.0,107924.0,,Default Target,[],827956192.0,"[""Army's Paeon""]"
+326404,326936,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+328404,329244,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+329364,329896,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+330904,331794,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+332324,332856,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+333404,334384,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+335904,336744,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+336404,336936,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+338404,339294,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+339364,339896,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+340905,341885,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+342324,342856,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+342405,343745,Holy in White,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+345605,345605,Subtractive Palette,,,,,,,[]
+345284,345816,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+344905,346245,Holy in White,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+349205,349955,Blizzard in Cyan,860.0,115966.0,,Default Target,[],955944609.0,"[""Army's Paeon""]"
+349705,350237,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+352505,353305,Stone in Yellow,900.0,121415.0,,Default Target,[],1047881927.0,"[""Army's Paeon""]"
+353005,353537,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+355805,356655,Thunder in Magenta,940.0,126797.0,,Default Target,[],1142844475.0,"[""Army's Paeon""]"
+356305,356837,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+358005,358005,Subtractive Palette,,,,,,,[]
+357305,359175,Comet in Black,940.0,126797.0,,Default Target,[],1142844475.0,"[""Army's Paeon""]"
+359265,359797,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+360953,360953,The Wanderer's Minuet,,,,,,,[]
+363005,363005,Grade 4 Gemdraught,,,,,,,[]
+362405,363155,Blizzard in Cyan,860.0,116404.0,,Default Target,[],976038107.0,"[""The Wanderer's Minuet""]"
+362905,363437,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+365366,365366,Battle Voice,,,,,,,[]
+365986,365986,Radiant Finale,,,,,,,[]
+365991,365991,Brotherhood,,,,,,,[]
+366089,366089,Dokumori,,,,,,,[]
+366305,366305,Starry Muse,,,,,,,[]
+365705,366505,Stone in Yellow,900.0,131872.0,,Default Target,[],1252684620.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+366205,366737,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Dokumori', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+368425,369275,Thunder in Magenta,940.0,176749.0,,Default Target,['5 Hyperphantasia'],2242755092.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+369165,369697,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+370375,370375,Subtractive Palette,,,,,,,[]
+369675,371545,Comet in Black,940.0,176749.0,,Default Target,['4 Hyperphantasia'],2242755092.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+372125,372657,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+373365,374115,Blizzard in Cyan,860.0,161650.0,,Default Target,['3 Hyperphantasia'],1875941894.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+375315,375315,Striking Muse,,,,,,,[]
+375085,375617,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+374615,375865,Star Prism,1100.0,206855.0,,Default Target,['2 Hyperphantasia'],3071846653.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+376485,377865,Hammer Stamp,560.0,182281.0,,Default Target,[],27688332.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+377185,378345,Fanged Muse,800.0,150439.0,,Default Target,[],1624787998.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+378045,378577,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+378985,380855,Comet in Black,940.0,176749.0,,Default Target,['1 Hyperphantasia'],2242755092.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+381005,381537,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+381455,382695,Rainbow Drip,1000.0,188051.0,,Default Target,['Rainbow Bright'],2538697729.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Rainbow Bright', 'Starry Muse', ""The Wanderer's Minuet""]"
+382155,383455,Retribution of the Madeen,1100.0,206855.0,,Default Target,[],3071846653.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+383965,384497,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+383955,385205,Hammer Brush,580.0,188857.0,,Default Target,[],29723416.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+386925,387457,Auto,90.0,0.0,,Default Target,[],0.0,"['Dokumori', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+386455,388555,Polishing Hammer,600.0,186236.0,,Default Target,[],28907552.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+388955,390295,Holy in White,570.0,83477.0,,Default Target,[],501959437.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+389885,390417,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+391455,392795,Holy in White,570.0,83477.0,,Default Target,[],501959437.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+392845,393377,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+393955,393955,Pom Motif,,,,,,,[]
+396955,397487,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+397956,397956,Hammer Motif,,,,,,,[]
+400956,401488,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+401956,401956,Starry Sky Motif,,,,,,,[]
+405002,405002,Mage's Ballad,,,,,,,[]
+404956,405488,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+407756,408506,Blizzard in Cyan,860.0,116324.0,,Default Target,[],958573729.0,"[""Mage's Ballad""]"
+408256,408788,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+411056,411856,Stone in Yellow,900.0,121790.0,,Default Target,[],1050748351.0,"[""Mage's Ballad""]"
+411556,412088,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+413556,414536,Water in Blue,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+414156,414776,Pom Muse,800.0,108258.0,,Default Target,[],830220309.0,"[""Mage's Ballad""]"
+414516,415048,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+416056,416896,Fire in Red,490.0,66293.0,,Default Target,[],311329647.0,"[""Mage's Ballad""]"
+417476,418008,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+418556,419446,Aero in Green,530.0,71692.0,,Default Target,[],364108574.0,"[""Mage's Ballad""]"
+421656,421656,Subtractive Palette,,,,,,,[]
+421056,422036,Water in Blue,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+421556,422088,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+424356,425106,Blizzard in Cyan,860.0,116324.0,,Default Target,[],958573729.0,"[""Mage's Ballad""]"
+424856,425388,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+428256,428256,Striking Muse,,,,,,,[]
+427656,428456,Stone in Yellow,900.0,121790.0,,Default Target,[],1050748351.0,"[""Mage's Ballad""]"
+428156,428688,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+429156,430536,Hammer Stamp,560.0,130479.0,,Default Target,[],14191875.0,"[""Mage's Ballad""]"
+431116,431648,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+431656,432906,Hammer Brush,580.0,135187.0,,Default Target,[],15237040.0,"[""Mage's Ballad""]"
+434076,434608,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+434156,436256,Polishing Hammer,600.0,139897.0,,Default Target,[],16310008.0,"[""Mage's Ballad""]"
+436656,436656,Wing Motif,,,,,,,[]
+439656,440188,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+440656,440656,Hammer Motif,,,,,,,[]
+442353,442353,Army's Paeon,,,,,,,[]
+443656,444188,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+444656,444656,Claw Motif,,,,,,,[]
+443756,444736,Winged Muse,800.0,107924.0,,Default Target,[],827956192.0,"[""Army's Paeon""]"
+447656,448188,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+448657,450527,Comet in Black,940.0,126797.0,,Default Target,[],1142844475.0,"[""Army's Paeon""]"
+450616,451148,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+453757,454607,Thunder in Magenta,940.0,126797.0,,Default Target,[],1142844475.0,"[""Army's Paeon""]"
+454257,454789,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+456257,457097,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+457217,457749,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+458757,459647,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+460177,460709,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+461257,462237,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+463757,464597,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+464257,464789,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+466257,467147,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+467217,467749,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+468757,469737,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+470177,470709,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+471257,472097,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+473757,474647,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+474257,474789,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+476857,476857,Subtractive Palette,,,,,,,[]
+476257,477237,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+477217,477749,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+477757,479627,Comet in Black,940.0,126797.0,,Default Target,[],1142844475.0,"[""Army's Paeon""]"
+480177,480709,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+480953,480953,The Wanderer's Minuet,,,,,,,[]
+481057,482397,Holy in White,570.0,77144.0,,Default Target,[],428687504.0,"[""The Wanderer's Minuet""]"
+483137,483669,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+485366,485366,Battle Voice,,,,,,,[]
+485986,485986,Radiant Finale,,,,,,,[]
+486089,486089,Dokumori,,,,,,,[]
+485357,486107,Blizzard in Cyan,860.0,116404.0,,Default Target,[],976038107.0,"[""The Wanderer's Minuet""]"
+486277,486277,Brotherhood,,,,,,,[]
+486305,486305,Starry Muse,,,,,,,[]
+486097,486629,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Dokumori', ""The Wanderer's Minuet""]"
+488225,489025,Stone in Yellow,900.0,156411.0,,Default Target,['5 Hyperphantasia'],1756280328.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+489057,489589,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+490695,491545,Thunder in Magenta,940.0,163344.0,,Default Target,['4 Hyperphantasia'],1915453995.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+492017,492549,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+492645,492645,Striking Muse,,,,,,,[]
+491945,493195,Star Prism,1100.0,191170.0,,Default Target,['3 Hyperphantasia'],2623648743.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+494515,494515,Subtractive Palette,,,,,,,[]
+493815,495195,Hammer Stamp,560.0,168435.0,,Default Target,[],23632133.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+494977,495509,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+495215,496195,Clawed Muse,800.0,139033.0,,Default Target,[],1387676813.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+497535,498285,Blizzard in Cyan,860.0,149392.0,,Default Target,['2 Hyperphantasia'],1602207466.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+498035,498567,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+499485,500635,Mog of the Ages,1000.0,173791.0,,Default Target,[],2168258409.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+498785,500655,Comet in Black,940.0,163344.0,,Default Target,['1 Hyperphantasia'],1915453995.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+500995,501527,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+501255,502495,Rainbow Drip,1000.0,173791.0,,Default Target,['Rainbow Bright'],2168258409.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Rainbow Bright', 'Starry Muse', ""The Wanderer's Minuet""]"
+503955,504487,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+503755,505005,Hammer Brush,580.0,174510.0,,Default Target,[],25381025.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+506915,507447,Auto,90.0,0.0,,Default Target,[],0.0,"['Brotherhood', 'Dokumori', ""The Wanderer's Minuet""]"
+506255,508355,Polishing Hammer,600.0,172094.0,,Default Target,[],24684876.0,"['Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+508755,508755,Hammer Motif,,,,,,,[]
+511755,512287,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+512755,512755,Starry Sky Motif,,,,,,,[]
+515755,516287,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+516756,516756,Maw Motif,,,,,,,[]
+519756,520288,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+520756,522096,Holy in White,570.0,77144.0,,Default Target,[],428687504.0,"[""The Wanderer's Minuet""]"
+521456,522616,Fanged Muse,800.0,108332.0,,Default Target,[],845359772.0,"[""The Wanderer's Minuet""]"
+522716,523248,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+523256,523256,Pom Motif,,,,,,,[]
+525002,525002,Mage's Ballad,,,,,,,[]
+526256,526788,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+527256,528596,Holy in White,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+529216,529748,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+529756,531096,Holy in White,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+532176,532708,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+534056,534806,Blizzard in Cyan,860.0,116324.0,,Default Target,[],958573729.0,"[""Mage's Ballad""]"
+535136,535668,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+537356,538156,Stone in Yellow,900.0,121790.0,,Default Target,[],1050748351.0,"[""Mage's Ballad""]"
+538096,538628,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+539856,540836,Water in Blue,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+541056,541588,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+542356,543196,Fire in Red,490.0,66293.0,,Default Target,[],311329647.0,"[""Mage's Ballad""]"
+542956,544256,Retribution of the Madeen,1100.0,148855.0,,Default Target,[],1569685984.0,"[""Mage's Ballad""]"
+545456,545456,Striking Muse,,,,,,,[]
+544856,545746,Aero in Green,530.0,71692.0,,Default Target,[],364108574.0,"[""Mage's Ballad""]"
+545356,545888,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+546356,547736,Hammer Stamp,560.0,130479.0,,Default Target,[],14191875.0,"[""Mage's Ballad""]"
+548316,548848,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+548856,550106,Hammer Brush,580.0,135187.0,,Default Target,[],15237040.0,"[""Mage's Ballad""]"
+551276,551808,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+551356,553456,Polishing Hammer,600.0,139897.0,,Default Target,[],16310008.0,"[""Mage's Ballad""]"
+554856,555836,Water in Blue,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+555356,555888,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+556356,556356,Hammer Motif,,,,,,,[]
+559356,559888,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+561356,562196,Fire in Red,490.0,66293.0,,Default Target,[],311329647.0,"[""Mage's Ballad""]"
+562353,562353,Army's Paeon,,,,,,,[]
+562316,562848,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+563856,564746,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+565276,565808,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+566357,567337,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+566957,567577,Pom Muse,800.0,107924.0,,Default Target,[],827956192.0,"[""Army's Paeon""]"
+567857,567857,Wing Motif,,,,,,,[]
+570957,570957,Subtractive Palette,,,,,,,[]
+570857,571389,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+573657,574407,Blizzard in Cyan,860.0,115966.0,,Default Target,[],955944609.0,"[""Army's Paeon""]"
+574157,574689,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+576957,577757,Stone in Yellow,900.0,121415.0,,Default Target,[],1047881927.0,"[""Army's Paeon""]"
+577457,577989,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+580257,581107,Thunder in Magenta,940.0,126797.0,,Default Target,[],1142844475.0,"[""Army's Paeon""]"
+580757,581289,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+582757,583597,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+583717,584249,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+585257,586147,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+586677,587209,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+587757,588737,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+590257,591097,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+590757,591289,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+592757,593647,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+593717,594249,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+595257,596237,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+596677,597209,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+597457,597457,Subtractive Palette,,,,,,,[]
+596757,598627,Comet in Black,940.0,126797.0,,Default Target,[],1142844475.0,"[""Army's Paeon""]"
+599637,600169,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+601739,601739,The Wanderer's Minuet,,,,,,,[]
+600057,601927,Comet in Black,940.0,126797.0,,Default Target,[],1142844475.0,"[""Army's Paeon""]"
+602597,603129,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+605157,605907,Blizzard in Cyan,860.0,116404.0,,Default Target,[],976038107.0,"[""The Wanderer's Minuet""]"
+606089,606089,Dokumori,,,,,,,[]
+606152,606152,Battle Voice,,,,,,,[]
+605657,606189,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+606305,606305,Starry Muse,,,,,,,[]
+606562,606562,Brotherhood,,,,,,,[]
+606772,606772,Radiant Finale,,,,,,,[]
+608225,609025,Stone in Yellow,900.0,156411.0,,Default Target,['5 Hyperphantasia'],1756280328.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+608725,609257,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+610695,611545,Thunder in Magenta,940.0,163344.0,,Default Target,['4 Hyperphantasia'],1915453995.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+611685,612217,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+612645,612645,Subtractive Palette,,,,,,,[]
+611945,613195,Star Prism,1100.0,191170.0,,Default Target,['3 Hyperphantasia'],2623648743.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+615035,615785,Blizzard in Cyan,860.0,149392.0,,Default Target,['2 Hyperphantasia'],1602207466.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+615535,616067,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+616985,616985,Striking Muse,,,,,,,[]
+616285,618155,Comet in Black,940.0,163344.0,,Default Target,['1 Hyperphantasia'],1915453995.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+618495,619027,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+618755,619995,Rainbow Drip,1000.0,173791.0,,Default Target,['Rainbow Bright'],2168258409.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Rainbow Bright', 'Starry Muse', ""The Wanderer's Minuet""]"
+619455,620435,Winged Muse,800.0,139033.0,,Default Target,[],1387676813.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+621455,621987,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+621255,622635,Hammer Stamp,560.0,168435.0,,Default Target,[],23632133.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+621955,623105,Mog of the Ages,1000.0,173791.0,,Default Target,[],2168258409.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+624415,624947,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+623755,625005,Hammer Brush,580.0,174510.0,,Default Target,[],25381025.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+627375,627907,Auto,90.0,0.0,,Default Target,[],0.0,"['Radiant Finale', ""The Wanderer's Minuet""]"
+626255,628355,Polishing Hammer,600.0,180591.0,,Default Target,[],27186320.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+628755,628755,Hammer Motif,,,,,,,[]
+631755,632287,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+632755,632755,Claw Motif,,,,,,,[]
+635755,636287,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+636756,636756,Starry Sky Motif,,,,,,,[]
+639756,640288,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+640756,642096,Holy in White,570.0,77144.0,,Default Target,[],428687504.0,"[""The Wanderer's Minuet""]"
+641456,642436,Clawed Muse,800.0,108332.0,,Default Target,[],845359772.0,"[""The Wanderer's Minuet""]"
+642716,643248,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
+643256,643256,Maw Motif,,,,,,,[]
+645579,645579,Mage's Ballad,,,,,,,[]
+646256,646788,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+649056,649806,Blizzard in Cyan,860.0,116324.0,,Default Target,[],958573729.0,"[""Mage's Ballad""]"
+649556,650088,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+652356,653156,Stone in Yellow,900.0,121790.0,,Default Target,[],1050748351.0,"[""Mage's Ballad""]"
+652856,653388,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+654856,655836,Water in Blue,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+655816,656348,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+657356,658196,Fire in Red,490.0,66293.0,,Default Target,[],311329647.0,"[""Mage's Ballad""]"
+658776,659308,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+659856,660746,Aero in Green,530.0,71692.0,,Default Target,[],364108574.0,"[""Mage's Ballad""]"
+662956,662956,Subtractive Palette,,,,,,,[]
+662356,663336,Water in Blue,570.0,77092.0,,Default Target,[],421010816.0,"[""Mage's Ballad""]"
+662856,663388,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+665656,666406,Blizzard in Cyan,860.0,116324.0,,Default Target,[],958573729.0,"[""Mage's Ballad""]"
+666156,666688,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+668956,669756,Stone in Yellow,900.0,121790.0,,Default Target,[],1050748351.0,"[""Mage's Ballad""]"
+669456,669988,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+672856,672856,Striking Muse,,,,,,,[]
+672256,673106,Thunder in Magenta,940.0,127189.0,,Default Target,[],1145978743.0,"[""Mage's Ballad""]"
+672756,673288,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+673756,675136,Hammer Stamp,560.0,130479.0,,Default Target,[],14191875.0,"[""Mage's Ballad""]"
+675716,676248,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+676256,677506,Hammer Brush,580.0,135187.0,,Default Target,[],15237040.0,"[""Mage's Ballad""]"
+678676,679208,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+678756,680856,Polishing Hammer,600.0,139897.0,,Default Target,[],16310008.0,"[""Mage's Ballad""]"
+681956,681956,Subtractive Palette,,,,,,,[]
+681636,682168,Auto,90.0,0.0,,Default Target,[],0.0,"[""Mage's Ballad""]"
+682930,682930,Army's Paeon,,,,,,,[]
+681256,683126,Comet in Black,940.0,127189.0,,Default Target,[],1145978743.0,"[""Mage's Ballad""]"
+686356,687106,Blizzard in Cyan,860.0,115966.0,,Default Target,[],955944609.0,"[""Army's Paeon""]"
+686856,687388,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+689656,690456,Stone in Yellow,900.0,121415.0,,Default Target,[],1047881927.0,"[""Army's Paeon""]"
+690156,690688,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+692956,693806,Thunder in Magenta,940.0,126797.0,,Default Target,[],1142844475.0,"[""Army's Paeon""]"
+693456,693988,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+694456,694456,Hammer Motif,,,,,,,[]
+697456,697988,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+698457,700327,Comet in Black,940.0,126797.0,,Default Target,[],1142844475.0,"[""Army's Paeon""]"
+700416,700948,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+702757,703597,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+703376,703908,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+705257,706147,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+706336,706868,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+707757,708737,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+710257,711097,Fire in Red,490.0,66089.0,,Default Target,[],310474659.0,"[""Army's Paeon""]"
+710757,711289,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+712757,713647,Aero in Green,530.0,71472.0,,Default Target,[],363109152.0,"[""Army's Paeon""]"
+713717,714249,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+715257,716237,Water in Blue,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+716677,717209,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+716757,718097,Holy in White,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+719957,719957,Subtractive Palette,,,,,,,[]
+719637,720169,Auto,90.0,0.0,,Default Target,[],0.0,"[""Army's Paeon""]"
+719257,720597,Holy in White,570.0,76854.0,,Default Target,[],419862136.0,"[""Army's Paeon""]"
+720657,720657,Grade 4 Gemdraught,,,,,,,[]
+721739,721739,The Wanderer's Minuet,,,,,,,[]
+723557,724307,Blizzard in Cyan,860.0,125955.0,,Default Target,[],1142788987.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+724057,724589,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+726089,726089,Dokumori,,,,,,,[]
+726152,726152,Battle Voice,,,,,,,[]
+726772,726772,Radiant Finale,,,,,,,[]
+726848,726848,Brotherhood,,,,,,,[]
+727457,727457,Starry Muse,,,,,,,[]
+726857,727657,Stone in Yellow,900.0,144820.0,,Default Target,[],1505638470.0,"['Battle Voice', 'Dokumori', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+727357,727889,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Dokumori', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+729577,730427,Thunder in Magenta,940.0,176749.0,,Default Target,['5 Hyperphantasia'],2242755092.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+730317,730849,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+731527,731527,Subtractive Palette,,,,,,,[]
+730827,732697,Comet in Black,940.0,176749.0,,Default Target,['4 Hyperphantasia'],2242755092.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+733277,733809,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+734517,735267,Blizzard in Cyan,860.0,161650.0,,Default Target,['3 Hyperphantasia'],1875941894.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+736237,736769,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+735767,737017,Star Prism,1100.0,206855.0,,Default Target,['2 Hyperphantasia'],3071846653.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+737637,739507,Comet in Black,940.0,176749.0,,Default Target,['1 Hyperphantasia'],2242755092.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+739197,739729,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+740807,740807,Striking Muse,,,,,,,[]
+740107,741347,Rainbow Drip,1000.0,188051.0,,Default Target,['Rainbow Bright'],2538697729.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Rainbow Bright', 'Starry Muse', ""The Wanderer's Minuet""]"
+742157,742689,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+742607,743987,Hammer Stamp,560.0,182281.0,,Default Target,[],27688332.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+743307,744467,Fanged Muse,800.0,150439.0,,Default Target,[],1624787998.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+745117,745649,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+745107,746357,Hammer Brush,580.0,188857.0,,Default Target,[],29723416.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+745807,747107,Retribution of the Madeen,1100.0,206855.0,,Default Target,[],3071846653.0,"['Battle Voice', 'Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+748077,748609,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+749377,749377,Swiftcast,,,,,,,[]
+747607,749707,Polishing Hammer,600.0,159360.0,,Default Target,[],21165664.0,"['Grade 4 Gemdraught', 'Starry Muse', ""The Wanderer's Minuet""]"
+750107,751347,Rainbow Drip,1000.0,146526.0,,Default Target,[],1546544866.0,"['Grade 4 Gemdraught', 'Swiftcast', ""The Wanderer's Minuet""]"

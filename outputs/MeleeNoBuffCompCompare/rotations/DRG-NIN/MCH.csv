@@ -1,0 +1,987 @@
+sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,sim_target,sim_conditions,sim_variance,sim_buffs
+-5000,-5000,Reassemble,,,,,,,[]
+-2000,-2000,Grade 4 Gemdraught,,,,,,,[]
+-1000,150,Air Anchor,660.0,152217.0,,Default Target,['Reassemble'],19309106.0,"['Grade 4 Gemdraught', 'Reassemble']"
+-380,330,Checkmate,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+150,908,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
+240,950,Double Check,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+2121,2121,Barrel Stabilizer,,,,,,,[]
+1501,2651,Drill,660.0,88349.0,,Default Target,[],548862248.0,['Grade 4 Gemdraught']
+3491,3491,Dokumori,,,,,,,[]
+2790,3548,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
+4001,5031,Chain Saw,660.0,92766.0,,Default Target,[],605119190.0,"['Dokumori', 'Grade 4 Gemdraught']"
+5753,5753,Battle Litany,,,,,,,[]
+5430,6188,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Dokumori', 'Grade 4 Gemdraught']"
+7122,7122,Automaton Queen,,,,,,,[]
+6502,7572,Excavator,660.0,97713.0,,Default Target,[],704031354.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+7742,7742,Reassemble,,,,,,,[]
+8070,8828,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+9002,10152,Drill,660.0,169817.0,,Default Target,['Reassemble'],24032360.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Reassemble']"
+9622,10332,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+10710,11468,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+11503,12533,Full Metal Field,900.0,231571.0,,Default Target,[],44698800.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+12622,12622,Roller Dash (pet),288.0,39130.0,,Default Target,[],112899828.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+12743,12743,Hypercharge,,,,,,,[]
+12123,12833,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+13350,14108,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+14003,14853,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+14623,15333,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+15822,15822,Arm Punch (pet),144.0,19561.0,,Default Target,[],28213000.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+15504,16354,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+15990,16748,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+16123,16833,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+17422,17422,Arm Punch (pet),144.0,19561.0,,Default Target,[],28213000.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+17004,17854,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+17624,18334,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+19022,19022,Arm Punch (pet),144.0,19561.0,,Default Target,[],28213000.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+18505,19355,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+18630,19388,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+19125,19835,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+20622,20622,Pile Bunker (pet),408.0,55434.0,,Default Target,[],226591637.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+20005,20855,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+10242,20912,Wildfire (dot),1440.0,158784.0,,Default Target,['6 GCD'],21011886.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+20625,21335,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+21270,22028,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+22622,22622,Crowned Collider (pet),468.0,63588.0,,Default Target,[],298147591.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+21506,22656,Drill,660.0,97713.0,,Default Target,[],704031354.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+22126,22836,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+22746,23456,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+23910,24668,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+24006,24806,Heated Split Shot,220.0,32564.0,,Default Target,[],78197506.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+24626,25336,Double Check,180.0,25376.0,,Default Target,[],47482437.0,"['Battle Litany', 'Grade 4 Gemdraught']"
+26507,27307,Heated Slug Shot,320.0,42833.0,,Default Target,[],129006970.0,['Grade 4 Gemdraught']
+26550,27308,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
+29007,29807,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+29190,29948,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+31508,32308,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+31830,32588,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+34008,34808,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+34470,35228,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+36509,37309,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+37110,37868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+39009,40159,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+39750,40508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+41510,42310,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+42390,43148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+44010,44810,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+45030,45788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+46511,47311,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+47131,47841,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+47670,48428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+47751,48461,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+49631,49631,Automaton Queen,,,,,,,[]
+49011,50161,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+50310,51068,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+52132,52132,Hypercharge,,,,,,,[]
+51512,52312,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+52950,53708,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+54012,54862,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+55131,55131,Roller Dash (pet),240.0,27114.0,,Default Target,[],51699045.0,[]
+55590,56348,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+55513,56363,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+57013,57863,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+58331,58331,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+58230,58988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+58514,59364,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+59134,59844,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+59931,59931,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+60014,60864,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+60634,61344,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+61531,61531,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+60870,61628,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+61515,62315,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+62135,62845,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+63131,63131,Pile Bunker (pet),340.0,38417.0,,Default Target,[],103775197.0,[]
+62755,63465,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+63510,64268,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+64635,64635,Reassemble,,,,,,,[]
+64015,65045,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
+65131,65131,Crowned Collider (pet),390.0,44069.0,,Default Target,[],136559340.0,[]
+66150,66908,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+66516,67586,Excavator,660.0,140638.0,,Default Target,['Reassemble'],16475976.0,['Reassemble']
+68790,69548,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+69016,69816,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+71430,72188,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+71517,72317,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+74637,74637,Automaton Queen,,,,,,,[]
+74017,74817,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+74070,74828,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+76710,77468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+76518,77668,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+79350,80108,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+80137,80137,Roller Dash (pet),240.0,27114.0,,Default Target,[],51699045.0,[]
+79018,80168,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+81519,82319,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+81990,82748,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+83337,83337,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+84019,84819,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+84937,84937,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+84630,85388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+86537,86537,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+86520,87320,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+87270,88028,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+88137,88137,Pile Bunker (pet),340.0,38417.0,,Default Target,[],103775197.0,[]
+89020,89820,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+90137,90137,Crowned Collider (pet),390.0,44069.0,,Default Target,[],136559340.0,[]
+89910,90668,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+91521,92321,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+92550,93308,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+94021,94821,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+94641,95351,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+95190,95948,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+95261,95971,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+96522,97322,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+97830,98588,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+99022,99822,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+100470,101228,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+101523,102673,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+103110,103868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+104023,104823,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+105750,106508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+106524,107324,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+108390,109148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+109024,109824,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+111030,111788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+111525,112325,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+113670,114428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+114025,114825,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+116310,117068,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+116526,117676,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+119646,119646,Automaton Queen,,,,,,,[]
+118950,119708,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+119026,120176,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+122147,122147,Barrel Stabilizer,,,,,,,[]
+121590,122348,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+121527,122677,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+122767,123477,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+124647,124647,Reassemble,,,,,,,[]
+124230,124988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+124027,125057,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
+125146,125146,Roller Dash (pet),432.0,48811.0,,Default Target,[],167525369.0,[]
+125582,125582,Dokumori,,,,,,,[]
+125756,125756,Battle Litany,,,,,,,[]
+125267,125977,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+126528,127598,Excavator,660.0,156899.0,,Default Target,['Reassemble'],20522520.0,"['Battle Litany', 'Dokumori', 'Reassemble']"
+126870,127628,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+127768,127768,Hypercharge,,,,,,,[]
+127148,127858,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+128346,128346,Arm Punch (pet),216.0,26987.0,,Default Target,[],53694128.0,"['Battle Litany', 'Dokumori']"
+129946,129946,Arm Punch (pet),216.0,26987.0,,Default Target,[],53694128.0,"['Battle Litany', 'Dokumori']"
+129027,130057,Full Metal Field,900.0,213957.0,,Default Target,[],38141936.0,"['Battle Litany', 'Dokumori']"
+129510,130268,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+129648,130358,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+131546,131546,Arm Punch (pet),216.0,26987.0,,Default Target,[],53694128.0,"['Battle Litany', 'Dokumori']"
+131529,132379,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+132150,132908,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+133146,133146,Pile Bunker (pet),612.0,76485.0,,Default Target,[],431354114.0,"['Battle Litany', 'Dokumori']"
+133029,133879,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+133649,134359,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+135146,135146,Crowned Collider (pet),702.0,87732.0,,Default Target,[],567543780.0,"['Battle Litany', 'Dokumori']"
+134530,135380,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+134790,135548,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+135150,135860,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+136030,136880,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+136650,137360,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+138151,138151,Hypercharge,,,,,,,[]
+137430,138188,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+137531,138381,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+139031,139881,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+139651,140361,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+140070,140828,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+130268,140938,Wildfire (dot),1440.0,146707.0,,Default Target,['6 GCD'],17936520.0,"['Battle Litany', 'Dokumori']"
+140532,141382,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+141152,141862,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+142032,142882,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+142652,143362,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+142710,143468,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+143533,144383,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+144153,144863,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+145033,145883,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+145350,146108,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+145653,146363,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+146534,147684,Drill,660.0,85710.0,,Default Target,[],516578218.0,['Dokumori']
+147154,147864,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+147774,148484,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+147990,148748,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+149034,149834,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+150630,151388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+151535,152335,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+152155,152865,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+152775,153485,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+153270,154028,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+154655,154655,Automaton Queen,,,,,,,[]
+154035,154835,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+155910,156668,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+156536,157336,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+158550,159308,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+160155,160155,Roller Dash (pet),240.0,27114.0,,Default Target,[],51699045.0,[]
+159036,160186,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+161190,161948,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+161537,162337,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+163355,163355,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+163830,164588,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+164955,164955,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+164037,165187,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+166555,166555,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+167158,167158,Hypercharge,,,,,,,[]
+166470,167228,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+166538,167338,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+168155,168155,Pile Bunker (pet),340.0,38417.0,,Default Target,[],103775197.0,[]
+169110,169868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+169038,169888,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+170155,170155,Crowned Collider (pet),390.0,44069.0,,Default Target,[],136559340.0,[]
+169658,170368,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+170539,171389,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+171159,171869,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+171750,172508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+172039,172889,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+173540,174390,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+174390,175148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+175040,175890,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+176541,177341,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+177030,177788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+179041,179841,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+179661,180371,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+179670,180428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+180281,180991,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+181542,182342,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+182310,183068,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+184662,184662,Automaton Queen,,,,,,,[]
+184042,185072,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
+185282,185282,Reassemble,,,,,,,[]
+184950,185708,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+186543,187613,Excavator,660.0,140638.0,,Default Target,['Reassemble'],16475976.0,['Reassemble']
+187590,188348,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+190162,190162,Roller Dash (pet),288.0,32540.0,,Default Target,[],74454638.0,[]
+189043,190193,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+190230,190988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+191544,192344,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+193362,193362,Arm Punch (pet),144.0,16269.0,,Default Target,[],18613055.0,[]
+192870,193628,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+194044,194844,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+194962,194962,Arm Punch (pet),144.0,16269.0,,Default Target,[],18613055.0,[]
+195510,196268,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+196562,196562,Arm Punch (pet),144.0,16269.0,,Default Target,[],18613055.0,[]
+196545,197345,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+198162,198162,Pile Bunker (pet),408.0,46099.0,,Default Target,[],149433618.0,[]
+198150,198908,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+200162,200162,Crowned Collider (pet),468.0,52884.0,,Default Target,[],196657166.0,[]
+199045,200195,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+200790,201548,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+201546,202346,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+203430,204188,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+204046,204846,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+206070,206828,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+206547,207347,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+207167,207877,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+207787,208497,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+208710,209468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+209047,209847,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+211350,212108,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+211548,212348,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+213990,214748,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+214048,214848,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+216630,217388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+216549,217699,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+219049,219849,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+219270,220028,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+221550,222350,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+221910,222668,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+224670,224670,Hypercharge,,,,,,,[]
+224050,224850,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+224550,225308,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+226551,227401,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+227171,227881,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+227190,227948,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+228051,228901,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+228671,229381,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+229552,230402,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+229830,230588,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+230172,230882,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+231052,231902,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+231672,232382,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+232470,233228,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+232553,233403,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+234053,234853,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+235110,235868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+236554,237704,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+237750,238508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+239674,239674,Automaton Queen,,,,,,,[]
+239054,240204,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+240294,241004,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+240390,241148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+242175,242175,Barrel Stabilizer,,,,,,,[]
+241555,242705,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+242795,243505,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+243030,243788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+243415,244125,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+244675,244675,Reassemble,,,,,,,[]
+244055,245085,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
+245174,245174,Roller Dash (pet),480.0,54238.0,,Default Target,[],206852178.0,[]
+245582,245582,Dokumori,,,,,,,[]
+245758,245758,Battle Litany,,,,,,,[]
+245295,246005,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+245670,246428,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Dokumori']
+246556,247626,Excavator,660.0,156899.0,,Default Target,['Reassemble'],20522520.0,"['Battle Litany', 'Dokumori', 'Reassemble']"
+247176,247886,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+248374,248374,Arm Punch (pet),240.0,29988.0,,Default Target,[],66314535.0,"['Battle Litany', 'Dokumori']"
+247796,248506,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+248310,249068,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+249676,249676,Hypercharge,,,,,,,[]
+249974,249974,Arm Punch (pet),240.0,29988.0,,Default Target,[],66314535.0,"['Battle Litany', 'Dokumori']"
+249056,250086,Full Metal Field,900.0,213957.0,,Default Target,[],38141936.0,"['Battle Litany', 'Dokumori']"
+251574,251574,Arm Punch (pet),240.0,29988.0,,Default Target,[],66314535.0,"['Battle Litany', 'Dokumori']"
+250950,251708,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+251557,252407,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+253174,253174,Pile Bunker (pet),680.0,84984.0,,Default Target,[],532561412.0,"['Battle Litany', 'Dokumori']"
+253057,253907,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+253590,254348,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+255174,255174,Crowned Collider (pet),780.0,97482.0,,Default Target,[],700709024.0,"['Battle Litany', 'Dokumori']"
+254558,255408,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+255178,255888,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+256058,256908,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+256230,256988,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+256678,257388,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+257559,258409,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+258178,258888,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+258870,259628,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+259059,259859,Heated Slug Shot,320.0,43769.0,,Default Target,[],141265056.0,"['Battle Litany', 'Dokumori']"
+259678,260388,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+250296,260966,Wildfire (dot),1440.0,146707.0,,Default Target,['6 GCD'],17936520.0,"['Battle Litany', 'Dokumori']"
+262180,262180,Hypercharge,,,,,,,[]
+261510,262268,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+261560,262710,Drill,660.0,90281.0,,Default Target,[],601015550.0,"['Battle Litany', 'Dokumori']"
+264150,264908,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+264060,264910,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+264680,265390,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+265561,266411,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+266181,266891,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+266790,267548,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+267061,267911,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+267681,268391,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+268562,269412,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+269182,269892,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+269430,270188,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+270062,270912,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+270682,271392,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+271563,272363,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+272070,272828,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+272183,272893,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+272803,273513,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+274683,274683,Automaton Queen,,,,,,,[]
+274063,274863,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+274710,275468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+276564,277364,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+277350,278108,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+280183,280183,Roller Dash (pet),240.0,27114.0,,Default Target,[],51699045.0,[]
+279064,280214,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+279990,280748,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+281565,282365,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+283383,283383,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+282630,283388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+284983,284983,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+284065,285215,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+285270,286028,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+286583,286583,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+286566,287366,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+288183,288183,Pile Bunker (pet),340.0,38417.0,,Default Target,[],103775197.0,[]
+287910,288668,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+289066,289866,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+290183,290183,Crowned Collider (pet),390.0,44069.0,,Default Target,[],136559340.0,[]
+290550,291308,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+291567,292367,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+293190,293948,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+294067,294867,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+295830,296588,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+296568,297368,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+298470,299228,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+299068,299868,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+301110,301868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+301569,302369,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+303750,304508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+304689,304689,Reassemble,,,,,,,[]
+304069,305099,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
+305309,305309,Automaton Queen,,,,,,,[]
+306390,307148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+306570,307640,Excavator,660.0,140638.0,,Default Target,['Reassemble'],16475976.0,['Reassemble']
+309030,309788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+309070,310220,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+309690,310400,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+310809,310809,Roller Dash (pet),336.0,37965.0,,Default Target,[],101352509.0,[]
+310310,311020,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+311571,312371,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+311670,312428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+314009,314009,Arm Punch (pet),168.0,18981.0,,Default Target,[],25334296.0,[]
+314071,314871,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+314310,315068,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+315609,315609,Arm Punch (pet),168.0,18981.0,,Default Target,[],25334296.0,[]
+317209,317209,Arm Punch (pet),168.0,18981.0,,Default Target,[],25334296.0,[]
+316572,317372,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+316950,317708,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+318809,318809,Pile Bunker (pet),476.0,53787.0,,Default Target,[],203427514.0,[]
+319072,320222,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+319590,320348,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+320809,320809,Crowned Collider (pet),546.0,61700.0,,Default Target,[],267683178.0,[]
+321573,322373,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+322230,322988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+324073,324873,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+324870,325628,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+326574,327374,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+327510,328268,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+329694,329694,Hypercharge,,,,,,,[]
+329074,329874,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+330150,330908,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+331575,332425,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+332790,333548,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+333075,333925,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+333695,334405,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+334576,335426,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+335196,335906,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+335430,336188,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+336076,336926,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+337577,338427,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+338070,338828,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+338197,338907,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+339077,339877,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+339697,340407,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+340710,341468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+341578,342728,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+343350,344108,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+344078,344878,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+345990,346748,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+346579,347379,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+348630,349388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+349079,349879,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+351270,352028,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+351580,352380,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+353910,354668,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+354080,354880,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+356550,357308,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+356581,357731,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+358201,358201,Grade 4 Gemdraught,,,,,,,[]
+359701,359701,Automaton Queen,,,,,,,[]
+359190,359948,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
+359081,360231,Air Anchor,660.0,88349.0,,Default Target,[],548862248.0,['Grade 4 Gemdraught']
+362202,362202,Barrel Stabilizer,,,,,,,[]
+361830,362588,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
+361582,362732,Drill,660.0,88349.0,,Default Target,[],548862248.0,['Grade 4 Gemdraught']
+362822,363532,Double Check,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+364702,364702,Reassemble,,,,,,,[]
+364082,365112,Chain Saw,660.0,88349.0,,Default Target,[],548862248.0,['Grade 4 Gemdraught']
+365201,365201,Roller Dash (pet),480.0,58967.0,,Default Target,[],244512823.0,['Grade 4 Gemdraught']
+364470,365228,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
+365760,365760,Battle Litany,,,,,,,[]
+365322,366032,Checkmate,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+366089,366089,Dokumori,,,,,,,[]
+366583,367653,Excavator,660.0,169817.0,,Default Target,['Reassemble'],24032360.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Reassemble']"
+367110,367868,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+367203,367913,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+368401,368401,Arm Punch (pet),240.0,32605.0,,Default Target,[],78391627.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+368443,368443,Hypercharge,,,,,,,[]
+367823,368533,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+370001,370001,Arm Punch (pet),240.0,32605.0,,Default Target,[],78391627.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+369083,370113,Full Metal Field,900.0,231571.0,,Default Target,[],44698800.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+369703,370413,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+369750,370508,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+371601,371601,Arm Punch (pet),240.0,32605.0,,Default Target,[],78391627.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+371584,372434,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+372204,372914,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+372390,373148,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+373201,373201,Pile Bunker (pet),680.0,92396.0,,Default Target,[],629492548.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+373084,373934,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+373704,374414,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+375201,375201,Crowned Collider (pet),780.0,105985.0,,Default Target,[],828263938.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+374585,375435,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+375030,375788,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+375205,375915,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+376085,376935,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+376705,377415,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+377670,378428,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+377586,378436,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+378443,378443,Hypercharge,,,,,,,[]
+379086,379936,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+379706,380416,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+370323,380993,Wildfire (dot),1440.0,158784.0,,Default Target,['6 GCD'],21011886.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+380310,381068,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+380587,381437,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+381207,381917,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+382087,382937,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+382707,383417,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+382950,383708,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+383588,384438,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+384208,384918,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+385708,385708,Reassemble,,,,,,,[]
+385088,385938,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+385590,386348,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+386589,387739,Drill,660.0,159827.0,,Default Target,['Reassemble'],21288024.0,"['Dokumori', 'Grade 4 Gemdraught', 'Reassemble']"
+387209,387919,Double Check,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+387829,388539,Checkmate,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+388230,388988,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
+388449,389159,Double Check,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+389089,389889,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+390870,391628,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+391590,392390,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+393510,394268,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+394090,394890,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+396150,396908,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+396591,397391,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+398790,399548,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+399711,399711,Automaton Queen,,,,,,,[]
+399091,400241,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+401430,402188,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+401592,402392,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+404070,404828,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+405211,405211,Roller Dash (pet),336.0,37965.0,,Default Target,[],101352509.0,[]
+404092,405242,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+404712,405422,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+407213,407213,Hypercharge,,,,,,,[]
+406593,407393,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+406710,407468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+408411,408411,Arm Punch (pet),168.0,18981.0,,Default Target,[],25334296.0,[]
+409093,409943,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+410011,410011,Arm Punch (pet),168.0,18981.0,,Default Target,[],25334296.0,[]
+409350,410108,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+409713,410423,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+410594,411444,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+411611,411611,Arm Punch (pet),168.0,18981.0,,Default Target,[],25334296.0,[]
+411990,412748,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+412094,412944,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+413211,413211,Pile Bunker (pet),476.0,53787.0,,Default Target,[],203427514.0,[]
+413595,414445,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+414215,414925,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+415211,415211,Crowned Collider (pet),546.0,61700.0,,Default Target,[],267683178.0,[]
+414630,415388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+415095,415945,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+415715,416425,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+416596,417396,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+417270,418028,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+419096,419896,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+419910,420668,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+421597,422397,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+422550,423308,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+424097,425127,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
+425190,425948,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+427218,427218,Automaton Queen,,,,,,,[]
+426598,427668,Excavator,660.0,81629.0,,Default Target,[],468551960.0,[]
+427830,428588,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+429098,430248,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+429718,430428,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+430470,431228,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+431599,432399,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+432718,432718,Roller Dash (pet),288.0,32540.0,,Default Target,[],74454638.0,[]
+432219,432929,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+433110,433868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+434099,434899,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+435918,435918,Arm Punch (pet),144.0,16269.0,,Default Target,[],18613055.0,[]
+435750,436508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+436600,437400,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+437518,437518,Arm Punch (pet),144.0,16269.0,,Default Target,[],18613055.0,[]
+439118,439118,Arm Punch (pet),144.0,16269.0,,Default Target,[],18613055.0,[]
+438390,439148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+439100,440250,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+440718,440718,Pile Bunker (pet),408.0,46099.0,,Default Target,[],149433618.0,[]
+441030,441788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+441601,442401,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+442718,442718,Crowned Collider (pet),468.0,52884.0,,Default Target,[],196657166.0,[]
+443670,444428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+444101,444901,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+446310,447068,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+446602,447402,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+448950,449708,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+449102,450252,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+451590,452348,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+451603,452403,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+454103,454903,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+454230,454988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+456604,457404,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+456870,457628,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+459104,459904,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+459510,460268,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+461605,462405,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+462150,462908,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+464105,464905,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+464725,465435,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+464790,465548,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+466606,467756,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+467430,468188,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+469106,469906,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+470070,470828,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+471607,472407,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+472710,473468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+474107,474907,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+475350,476108,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+476608,477408,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+477990,478748,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+479728,479728,Automaton Queen,,,,,,,[]
+479108,480258,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+480630,481388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+482229,482229,Barrel Stabilizer,,,,,,,[]
+481609,482759,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+482849,483559,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+483270,484028,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+483469,484179,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+484729,484729,Reassemble,,,,,,,[]
+484109,485139,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
+485228,485228,Roller Dash (pet),432.0,48811.0,,Default Target,[],167525369.0,[]
+485763,485763,Battle Litany,,,,,,,[]
+485349,486059,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+486089,486089,Dokumori,,,,,,,[]
+485910,486668,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+486610,487680,Excavator,660.0,156899.0,,Default Target,['Reassemble'],20522520.0,"['Battle Litany', 'Dokumori', 'Reassemble']"
+487230,487940,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+488428,488428,Arm Punch (pet),216.0,26987.0,,Default Target,[],53694128.0,"['Battle Litany', 'Dokumori']"
+487850,488560,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+488550,489308,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+489730,489730,Hypercharge,,,,,,,[]
+490028,490028,Arm Punch (pet),216.0,26987.0,,Default Target,[],53694128.0,"['Battle Litany', 'Dokumori']"
+489110,490140,Full Metal Field,900.0,213957.0,,Default Target,[],38141936.0,"['Battle Litany', 'Dokumori']"
+491628,491628,Arm Punch (pet),216.0,26987.0,,Default Target,[],53694128.0,"['Battle Litany', 'Dokumori']"
+491190,491948,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+491611,492461,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+492231,492941,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+493228,493228,Pile Bunker (pet),612.0,76485.0,,Default Target,[],431354114.0,"['Battle Litany', 'Dokumori']"
+493111,493961,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+493731,494441,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+493830,494588,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+495228,495228,Crowned Collider (pet),702.0,87732.0,,Default Target,[],567543780.0,"['Battle Litany', 'Dokumori']"
+494612,495462,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+495232,495942,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+496112,496962,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+496470,497228,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+496732,497442,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+497613,498463,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+498233,498943,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+499110,499868,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+499113,499913,Heated Slug Shot,320.0,43769.0,,Default Target,[],141265056.0,"['Battle Litany', 'Dokumori']"
+500353,500353,Reassemble,,,,,,,[]
+499733,500443,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+490350,501020,Wildfire (dot),1440.0,146707.0,,Default Target,['6 GCD'],17936520.0,"['Battle Litany', 'Dokumori']"
+502234,502234,Hypercharge,,,,,,,[]
+501750,502508,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+501614,502764,Drill,660.0,156899.0,,Default Target,['Reassemble'],20522520.0,"['Battle Litany', 'Dokumori', 'Reassemble']"
+504114,504964,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+504390,505148,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+504734,505444,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+505615,506465,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+506235,506945,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+507030,507788,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Dokumori']
+507115,507965,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+507735,508445,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+508616,509466,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+509236,509946,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+509670,510428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+510116,510966,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+510736,511446,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+512236,512236,Automaton Queen,,,,,,,[]
+511617,512417,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+512310,513068,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+514116,514916,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+514950,515708,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+516618,517418,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+517736,517736,Roller Dash (pet),240.0,27114.0,,Default Target,[],51699045.0,[]
+517590,518348,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+519118,520268,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+520936,520936,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+520230,520988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+521619,522419,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+522536,522536,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+522870,523628,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+524136,524136,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+524739,524739,Hypercharge,,,,,,,[]
+524119,525269,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+525736,525736,Pile Bunker (pet),340.0,38417.0,,Default Target,[],103775197.0,[]
+525510,526268,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+526620,527470,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+527736,527736,Crowned Collider (pet),390.0,44069.0,,Default Target,[],136559340.0,[]
+527240,527950,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+528150,528908,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+528120,528970,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+528740,529450,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+529621,530471,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+530241,530951,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+530790,531548,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+531121,531971,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+531741,532451,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+532622,533472,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+533430,534188,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+534122,534922,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+536070,536828,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+536623,537423,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+537243,537953,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+538710,539468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+539123,539923,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+541350,542108,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+541624,542424,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+543990,544748,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+545000,545000,Reassemble,,,,,,,[]
+544124,545154,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
+545620,545620,Automaton Queen,,,,,,,[]
+546630,547388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+546625,547695,Excavator,660.0,140638.0,,Default Target,['Reassemble'],16475976.0,['Reassemble']
+549125,549925,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+549270,550028,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+551120,551120,Roller Dash (pet),288.0,32540.0,,Default Target,[],74454638.0,[]
+551626,552426,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+551910,552668,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+554320,554320,Arm Punch (pet),144.0,16269.0,,Default Target,[],18613055.0,[]
+554126,555276,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+554550,555308,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+555920,555920,Arm Punch (pet),144.0,16269.0,,Default Target,[],18613055.0,[]
+556627,557427,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+557520,557520,Arm Punch (pet),144.0,16269.0,,Default Target,[],18613055.0,[]
+557190,557948,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+559120,559120,Pile Bunker (pet),408.0,46099.0,,Default Target,[],149433618.0,[]
+559127,560277,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+559747,560457,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+559830,560588,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+560367,561077,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+561120,561120,Crowned Collider (pet),468.0,52884.0,,Default Target,[],196657166.0,[]
+561628,562428,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+562470,563228,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+564128,564928,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+565110,565868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+566629,567779,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+567750,568508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+569129,569929,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+570390,571148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+571630,572430,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+573030,573788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+574130,574930,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+575670,576428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+576631,577431,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+578310,579068,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+579131,579931,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+580950,581708,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+582252,582252,Hypercharge,,,,,,,[]
+581632,582432,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+583590,584348,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+584132,584982,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+584752,585462,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+585633,586483,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+586253,586963,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+586230,586988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+587133,587983,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+587753,588463,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+588634,589484,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+588870,589628,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+589254,589964,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+590134,590984,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+591510,592268,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+591635,592785,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+594150,594908,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+594135,594935,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+596636,597436,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+596790,597548,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+599756,599756,Automaton Queen,,,,,,,[]
+599430,600188,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+599136,600286,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+602257,602257,Barrel Stabilizer,,,,,,,[]
+601637,602787,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+602070,602828,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+602877,603587,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+603497,604207,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+604137,605167,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
+605256,605256,Roller Dash (pet),480.0,54238.0,,Default Target,[],206852178.0,[]
+605377,605377,Reassemble,,,,,,,[]
+604757,605467,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+604710,605468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+605765,605765,Battle Litany,,,,,,,[]
+606089,606089,Dokumori,,,,,,,[]
+605997,606707,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+606638,607708,Excavator,660.0,156899.0,,Default Target,['Reassemble'],20522520.0,"['Battle Litany', 'Dokumori', 'Reassemble']"
+607258,607968,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+607350,608108,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+608456,608456,Arm Punch (pet),240.0,29988.0,,Default Target,[],66314535.0,"['Battle Litany', 'Dokumori']"
+607878,608588,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+609758,609758,Hypercharge,,,,,,,[]
+610056,610056,Arm Punch (pet),240.0,29988.0,,Default Target,[],66314535.0,"['Battle Litany', 'Dokumori']"
+609138,610168,Full Metal Field,900.0,213957.0,,Default Target,[],38141936.0,"['Battle Litany', 'Dokumori']"
+609990,610748,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+611656,611656,Arm Punch (pet),240.0,29988.0,,Default Target,[],66314535.0,"['Battle Litany', 'Dokumori']"
+611639,612489,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+613256,613256,Pile Bunker (pet),680.0,84984.0,,Default Target,[],532561412.0,"['Battle Litany', 'Dokumori']"
+612630,613388,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+613139,613989,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+613759,614469,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+615256,615256,Crowned Collider (pet),780.0,97482.0,,Default Target,[],700709024.0,"['Battle Litany', 'Dokumori']"
+614640,615490,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+615260,615970,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+615270,616028,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+616140,616990,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+616760,617470,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+617641,618491,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+617910,618668,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+618261,618971,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+619141,619941,Heated Clean Shot,420.0,57451.0,,Default Target,[],243387083.0,"['Battle Litany', 'Dokumori']"
+619761,620471,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+610378,621048,Wildfire (dot),1440.0,146707.0,,Default Target,['6 GCD'],17936520.0,"['Battle Litany', 'Dokumori']"
+620381,621091,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+620550,621308,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+622262,622262,Automaton Queen,,,,,,,[]
+621642,622792,Drill,660.0,90281.0,,Default Target,[],601015550.0,"['Battle Litany', 'Dokumori']"
+622882,622882,Hypercharge,,,,,,,[]
+623190,623948,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+624142,624992,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+625643,626493,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+625830,626588,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
+626263,626973,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
+627762,627762,Roller Dash (pet),240.0,27114.0,,Default Target,[],51699045.0,[]
+627143,627993,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+627763,628473,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+628470,629228,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+628644,629494,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+629264,629974,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+630962,630962,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+630144,630994,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+630764,631474,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+631110,631868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+631645,632445,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+632562,632562,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+634162,634162,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
+633750,634508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+634145,634945,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+635762,635762,Pile Bunker (pet),340.0,38417.0,,Default Target,[],103775197.0,[]
+636390,637148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+636646,637446,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+637762,637762,Crowned Collider (pet),390.0,44069.0,,Default Target,[],136559340.0,[]
+639030,639788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+639146,640296,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+639766,640476,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+640386,641096,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+641670,642428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+641647,642447,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+644147,644947,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+644310,645068,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+646950,647708,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+646648,647798,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+649148,649948,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+649590,650348,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+651649,652449,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+652230,652988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+654149,654949,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+654870,655628,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+656650,657450,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+657510,658268,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+659150,659950,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+660150,660908,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+661651,662451,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+662790,663548,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+664771,664771,Automaton Queen,,,,,,,[]
+664151,665181,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
+665430,666188,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+666652,667722,Excavator,660.0,81629.0,,Default Target,[],468551960.0,[]
+668070,668828,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+669152,669952,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+670271,670271,Roller Dash (pet),336.0,37965.0,,Default Target,[],101352509.0,[]
+670710,671468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+671653,672803,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+673471,673471,Arm Punch (pet),168.0,18981.0,,Default Target,[],25334296.0,[]
+673350,674108,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+674153,674953,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+675071,675071,Arm Punch (pet),168.0,18981.0,,Default Target,[],25334296.0,[]
+676671,676671,Arm Punch (pet),168.0,18981.0,,Default Target,[],25334296.0,[]
+675990,676748,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+676654,677454,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+678271,678271,Pile Bunker (pet),476.0,53787.0,,Default Target,[],203427514.0,[]
+678630,679388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+680271,680271,Crowned Collider (pet),546.0,61700.0,,Default Target,[],267683178.0,[]
+679154,680304,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
+681270,682028,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+682275,682275,Hypercharge,,,,,,,[]
+681655,682455,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+683910,684668,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+684155,685005,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+684775,685485,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+685656,686506,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+686276,686986,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+686550,687308,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+687156,688006,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+687776,688486,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+688657,689507,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+689190,689948,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+689277,689987,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+690157,691007,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+691830,692588,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+691658,692808,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+694158,694958,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+694470,695228,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+696659,697459,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+697110,697868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+699159,699959,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+699750,700508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+701660,702460,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+702390,703148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+704160,704960,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+704780,705490,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
+705030,705788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+705400,706110,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
+706661,707461,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+707670,708428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+709161,710311,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
+710310,711068,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+711662,712462,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+712950,713708,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+714162,714962,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
+715590,716348,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+716663,717463,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
+718183,718183,Grade 4 Gemdraught,,,,,,,[]
+718230,718988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+719783,719783,Automaton Queen,,,,,,,[]
+719163,720313,Air Anchor,660.0,88349.0,,Default Target,[],548862248.0,['Grade 4 Gemdraught']
+720870,721628,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
+722284,722284,Barrel Stabilizer,,,,,,,[]
+721664,722814,Drill,660.0,88349.0,,Default Target,[],548862248.0,['Grade 4 Gemdraught']
+722904,722904,Reassemble,,,,,,,[]
+723524,724234,Checkmate,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+723510,724268,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
+724784,724784,Reassemble,,,,,,,[]
+724164,725194,Chain Saw,660.0,152217.0,,Default Target,['Reassemble'],19309106.0,"['Grade 4 Gemdraught', 'Reassemble']"
+725283,725283,Roller Dash (pet),480.0,58967.0,,Default Target,[],244512823.0,['Grade 4 Gemdraught']
+725768,725768,Battle Litany,,,,,,,[]
+726089,726089,Dokumori,,,,,,,[]
+725404,726114,Double Check,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+726024,726734,Checkmate,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+726150,726908,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Dokumori', 'Grade 4 Gemdraught']"
+726665,727735,Excavator,660.0,169817.0,,Default Target,['Reassemble'],24032360.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Reassemble']"
+727905,727905,Hypercharge,,,,,,,[]
+727285,727995,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+728483,728483,Arm Punch (pet),240.0,32605.0,,Default Target,[],78391627.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+728790,729548,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+730083,730083,Arm Punch (pet),240.0,32605.0,,Default Target,[],78391627.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+729165,730195,Full Metal Field,900.0,231571.0,,Default Target,[],44698800.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+731683,731683,Arm Punch (pet),240.0,32605.0,,Default Target,[],78391627.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+731430,732188,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+731666,732516,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+732286,732996,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+733283,733283,Pile Bunker (pet),680.0,92396.0,,Default Target,[],629492548.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+733166,734016,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+733786,734496,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+734070,734828,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+735283,735283,Crowned Collider (pet),780.0,105985.0,,Default Target,[],828263938.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+734667,735517,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+735287,735997,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+736167,737017,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+736710,737468,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+738288,738288,Hypercharge,,,,,,,[]
+737668,738518,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+739168,740018,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+739350,740108,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+739788,740498,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+730378,741048,Wildfire (dot),1440.0,158784.0,,Default Target,['6 GCD'],21011886.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+740669,741519,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+741289,741999,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+741990,742748,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+742169,743019,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+742789,743499,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+743670,744520,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+744290,745000,Double Check,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+744630,745388,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+745170,746020,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
+745790,746500,Checkmate,180.0,26644.0,,Default Target,[],52348998.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+746671,747821,Drill,660.0,92766.0,,Default Target,[],605119190.0,"['Dokumori', 'Grade 4 Gemdraught']"
+747291,748001,Checkmate,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+747270,748028,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
+747911,748621,Double Check,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+748531,749241,Checkmate,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+749171,749971,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+749791,750501,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]

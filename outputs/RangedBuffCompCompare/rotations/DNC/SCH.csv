@@ -1,0 +1,899 @@
+sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,sim_target,sim_conditions,sim_variance,sim_buffs
+-2600,-2600,Concitation,,,,,,,[]
+470,470,Dissipation,,,,,,,[]
+1090,1090,Grade 4 Gemdraught,,,,,,,[]
+-200,1500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+1500,2032,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+3491,3491,Dokumori,,,,,,,[]
+3743,3743,Swiftcast,,,,,,,[]
+3140,3940,Broil IV,320.0,44354.0,,Default Target,[],120637446.0,['Grade 4 Gemdraught']
+-200,4500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+4620,5152,Auto,90.0,230.0,,Default Target,[],3270.0,"['Dokumori', 'Grade 4 Gemdraught']"
+5220,5220,Chain Stratagem,,,,,,,[]
+5400,5400,Starry Muse,,,,,,,[]
+4600,5400,Broil IV,320.0,46572.0,,Default Target,[],133004157.0,"['Dokumori', 'Grade 4 Gemdraught', 'Swiftcast']"
+5473,5473,Divination,,,,,,,[]
+5533,5533,Starry Muse,,,,,,,[]
+6400,6400,Quadruple Technical Finish,,,,,,,[]
+6533,6533,Quadruple Technical Finish,,,,,,,[]
+-200,7500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+7940,8740,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+8440,8972,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+8543,9613,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+-200,10500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+10340,11140,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+10943,12013,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+11560,12092,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+-200,13500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+12740,13540,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+13343,14413,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+15140,15940,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+15640,16172,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+-200,16500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+17540,18340,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+18760,19292,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+-200,19500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+18143,19500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+19940,20740,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+20543,21613,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+-200,22500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+18143,22500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+22340,23140,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+22840,23372,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+22943,24013,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+24420,25490,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+23800,25500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+18143,25500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+25960,26492,Auto,90.0,257.0,,Default Target,[],4348.0,"['Chain Stratagem', 'Divination', 'Grade 4 Gemdraught', 'Technical Finish']"
+27140,27940,Broil IV,320.0,44354.0,,Default Target,[],120637446.0,['Grade 4 Gemdraught']
+18143,28500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+23800,28500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+29541,30341,Broil IV,320.0,44354.0,,Default Target,[],120637446.0,['Grade 4 Gemdraught']
+30041,30573,Auto,90.0,220.0,,Default Target,[],2952.0,['Grade 4 Gemdraught']
+18143,31500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+23800,31500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+31941,32741,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+33161,33693,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+23800,34500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+34341,35141,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+23800,37500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+36741,37541,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+37241,37773,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+39141,39941,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+23800,40500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+40361,40893,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+41541,42341,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+23800,43500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+43941,44741,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+44441,44973,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+23800,46500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+46341,47141,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+47561,48093,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+23800,49500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+48741,49541,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+51141,51941,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+51641,52173,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+23800,52500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+54761,55293,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+52601,55500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+55941,56741,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+52601,58500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+58341,59141,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+58841,59373,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+52601,61500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+60741,61541,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+61961,62493,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+63141,63941,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+52601,64500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+65541,66341,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+66041,66573,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+52601,67500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+67941,68741,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+69161,69693,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+52601,70500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+70341,71141,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+52601,73500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+72741,73541,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+73241,73773,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+75141,75941,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+52601,76500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+76361,76893,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+77541,78341,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+52601,79500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+79941,80741,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+80441,80973,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+52601,82500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+82341,83141,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+83561,84093,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+83801,85500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+87141,87941,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+87641,88173,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+83801,88500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+89542,90342,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+90761,91293,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+83801,91500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+91942,92742,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+83801,94500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+94342,95142,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+94842,95374,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+83801,97500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+96742,97542,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+97962,98494,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+99142,99942,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+83801,100500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+101542,102342,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+102042,102574,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+83801,103500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+103942,104742,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+105162,105694,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+83801,106500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+106342,107142,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+83801,109500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+108742,109542,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+109242,109774,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+111142,111942,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+83801,112500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+112362,112894,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+113542,114342,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+115482,116014,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+115002,118500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+118342,119142,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+118842,119374,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+115002,121500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+120742,121542,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+121962,122494,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+123745,123745,Swiftcast,,,,,,,[]
+123142,123942,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+115002,124500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+125222,125222,Chain Stratagem,,,,,,,[]
+124602,125402,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,['Swiftcast']
+125473,125473,Divination,,,,,,,[]
+125582,125582,Dokumori,,,,,,,[]
+125082,125614,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+126253,126253,Starry Muse,,,,,,,[]
+126386,126386,Starry Muse,,,,,,,[]
+126400,126400,Quadruple Technical Finish,,,,,,,[]
+126533,126533,Quadruple Technical Finish,,,,,,,[]
+115002,127500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+127942,128742,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+128442,128974,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+128544,129614,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+115002,130500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+130341,131141,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+130945,132015,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+131562,132094,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+115002,133500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+132742,133542,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+133345,134415,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+135142,135942,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+135642,136174,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+115002,136500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+137542,138342,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+138762,139294,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+115002,139500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+138145,139500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+139942,140742,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+140545,141615,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+115002,142500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+138145,142500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+142342,143142,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+142842,143374,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+142945,144015,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+144422,145492,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+138145,145500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+143802,145500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+145962,146494,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+147142,147942,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+143802,148500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+138145,148500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+149543,150343,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+150043,150575,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+143802,151500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+138145,151500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+151943,152743,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+153163,153695,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+143802,154500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+154343,155143,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+143802,157500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+156743,157543,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+157243,157775,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+159143,159943,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+143802,160500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+160363,160895,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+161543,162343,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+143802,163500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+163943,164743,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+164443,164975,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+143802,166500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+166343,167143,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+167563,168095,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+143802,169500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+168743,169543,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+171143,171943,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+171643,172175,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+143802,172500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+173543,174343,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+174763,175295,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+175003,178500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+178343,179143,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+178843,179375,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+181346,181346,Dissipation,,,,,,,[]
+175003,181500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+180743,181543,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+181963,182495,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+183143,183943,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+175003,184500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+183746,184816,Energy Drain,100.0,12818.0,,Default Target,[],10074649.0,[]
+185543,186343,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+186043,186575,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+186146,187216,Energy Drain,100.0,12818.0,,Default Target,[],10074649.0,[]
+175003,187500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+187943,188743,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+188546,189616,Energy Drain,100.0,12818.0,,Default Target,[],10074649.0,[]
+189163,189695,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+175003,190500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+190343,191143,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+175003,193500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+192743,193543,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+193243,193775,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+195143,195943,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+175003,196500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+196363,196895,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+197543,198343,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+175003,199500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+199943,200743,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+200443,200975,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+175003,202500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+202343,203143,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+203563,204095,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+175003,205500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+204743,205543,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+206683,207215,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+206203,208500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+209544,210344,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+210044,210576,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+206203,211500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+211944,212744,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+213164,213696,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+206203,214500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+214344,215144,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+206203,217500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+216744,217544,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+217244,217776,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+219144,219944,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+206203,220500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+220364,220896,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+221544,222344,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+206203,223500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+223944,224744,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+224444,224976,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+206203,226500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+226344,227144,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+227564,228096,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+206203,229500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+228744,229544,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+231144,231944,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+231644,232176,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+206203,232500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+233544,234344,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+234764,235296,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+206203,235500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+235004,238500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+238344,239144,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+238844,239376,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+235004,241500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+240744,241544,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+241964,242496,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+243747,243747,Swiftcast,,,,,,,[]
+243144,243944,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+235004,244500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+245224,245224,Chain Stratagem,,,,,,,[]
+244604,245404,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,['Swiftcast']
+245473,245473,Divination,,,,,,,[]
+245582,245582,Dokumori,,,,,,,[]
+245084,245616,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+246253,246253,Starry Muse,,,,,,,[]
+246386,246386,Starry Muse,,,,,,,[]
+246400,246400,Quadruple Technical Finish,,,,,,,[]
+246533,246533,Quadruple Technical Finish,,,,,,,[]
+235004,247500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+247944,248744,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+248444,248976,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+248547,249617,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+235004,250500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+250344,251144,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+250947,252017,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+251564,252096,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+235004,253500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+252744,253544,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+253347,254417,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+255144,255944,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+255644,256176,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+235004,256500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+257543,258343,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+258764,259296,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+258147,259500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+235004,259500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+259944,260744,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+260547,261617,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+235004,262500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+258147,262500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+262344,263144,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+262844,263376,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+262947,264017,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+264424,265494,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+263804,265500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+258147,265500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+265964,266496,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+267144,267944,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+263804,268500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+258147,268500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+269545,270345,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+270045,270577,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+263804,271500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+258147,271500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+271945,272745,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+273165,273697,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+263804,274500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+274345,275145,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+263804,277500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+276745,277545,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+277245,277777,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+279145,279945,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+263804,280500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+280365,280897,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+281545,282345,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+263804,283500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+283945,284745,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+284445,284977,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+263804,286500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+286345,287145,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+287565,288097,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+263804,289500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+288745,289545,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+291145,291945,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+291645,292177,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+263804,292500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+293545,294345,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+294765,295297,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+295005,298500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+298345,299145,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+298845,299377,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+295005,301500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+300745,301545,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+301965,302497,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+303145,303945,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+295005,304500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+305545,306345,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+306045,306577,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+295005,307500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+307945,308745,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+309165,309697,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+295005,310500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+310345,311145,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+295005,313500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+312745,313545,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+313245,313777,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+315145,315945,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+295005,316500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+316365,316897,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+317545,318345,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+295005,319500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+319945,320745,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+320445,320977,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+295005,322500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+322345,323145,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+323565,324097,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+295005,325500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+324745,325545,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+326685,327217,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+326205,328500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+329546,330346,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+330046,330578,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+326205,331500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+331946,332746,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+333166,333698,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+326205,334500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+334346,335146,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+326205,337500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+336746,337546,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+337246,337778,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+339146,339946,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+326205,340500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+340366,340898,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+341546,342346,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+326205,343500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+343946,344746,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+344446,344978,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+326205,346500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+346346,347146,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+347566,348098,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+326205,349500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+348746,349546,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+351146,351946,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+351646,352178,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+326205,352500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+354149,354149,Grade 4 Gemdraught,,,,,,,[]
+353546,354346,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+354766,355298,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+326205,355500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+355626,356696,Energy Drain,100.0,13871.0,,Default Target,[],11799404.0,['Grade 4 Gemdraught']
+356626,357696,Energy Drain,100.0,13871.0,,Default Target,[],11799404.0,['Grade 4 Gemdraught']
+355006,358500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+358346,359146,Broil IV,320.0,44354.0,,Default Target,[],120637446.0,['Grade 4 Gemdraught']
+358846,359378,Auto,90.0,220.0,,Default Target,[],2952.0,['Grade 4 Gemdraught']
+358949,360019,Energy Drain,100.0,13871.0,,Default Target,[],11799404.0,['Grade 4 Gemdraught']
+361349,361349,Dissipation,,,,,,,[]
+355006,361500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+360746,361546,Broil IV,320.0,44354.0,,Default Target,[],120637446.0,['Grade 4 Gemdraught']
+361966,362498,Auto,90.0,220.0,,Default Target,[],2952.0,['Grade 4 Gemdraught']
+363749,363749,Swiftcast,,,,,,,[]
+363146,363946,Broil IV,320.0,44354.0,,Default Target,[],120637446.0,['Grade 4 Gemdraught']
+355006,364500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+365226,365226,Chain Stratagem,,,,,,,[]
+364606,365406,Broil IV,320.0,44354.0,,Default Target,[],120637446.0,"['Grade 4 Gemdraught', 'Swiftcast']"
+365473,365473,Divination,,,,,,,[]
+365086,365618,Auto,90.0,220.0,,Default Target,[],2952.0,['Grade 4 Gemdraught']
+366089,366089,Dokumori,,,,,,,[]
+366305,366305,Starry Muse,,,,,,,[]
+366400,366400,Quadruple Technical Finish,,,,,,,[]
+366438,366438,Starry Muse,,,,,,,[]
+366533,366533,Quadruple Technical Finish,,,,,,,[]
+355006,367500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+367946,368746,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+368446,368978,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+368549,369619,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+355006,370500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+370346,371146,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+370949,372019,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+371566,372098,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+355006,373500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+372746,373546,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+373349,374419,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+375146,375946,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+375646,376178,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+355006,376500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+377546,378346,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+378766,379298,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+355006,379500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+378149,379500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+379946,380746,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+380549,381619,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+355006,382500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+378149,382500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+382346,383146,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+382846,383378,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+382949,384019,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+384426,385496,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+378149,385500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+383806,385500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+385966,386498,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+387146,387946,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+378149,388500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+383806,388500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+389547,390347,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+390047,390579,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+378149,391500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+383806,391500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+391947,392747,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+393167,393699,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+383806,394500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+394347,395147,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+383806,397500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+396747,397547,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+397247,397779,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+399147,399947,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+383806,400500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+400367,400899,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+401547,402347,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+383806,403500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+403947,404747,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+404447,404979,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+383806,406500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+406347,407147,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+407567,408099,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+383806,409500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+408747,409547,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+411147,411947,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+411647,412179,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+383806,412500,Biolysis (dot),85.0,15742.0,,Default Target,[],16224903.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+413547,414347,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+414767,415299,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+415007,418500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+418347,419147,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+418847,419379,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+415007,421500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+420747,421547,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+421967,422499,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+423147,423947,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+415007,424500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+425547,426347,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+426047,426579,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+415007,427500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+427947,428747,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+429167,429699,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+415007,430500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+430347,431147,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+415007,433500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+432747,433547,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+433247,433779,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+435147,435947,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+415007,436500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+436367,436899,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+437547,438347,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+415007,439500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+439947,440747,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+440447,440979,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+415007,442500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+442347,443147,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+443567,444099,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+443807,445500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+447147,447947,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+447647,448179,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+443807,448500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+449548,450348,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+450767,451299,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+443807,451500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+451948,452748,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+443807,454500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+454348,455148,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+454848,455380,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+443807,457500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+456748,457548,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+457968,458500,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+459148,459948,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+443807,460500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+461548,462348,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+462048,462580,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+443807,463500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+463948,464748,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+465168,465700,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+443807,466500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+466348,467148,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+443807,469500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+468748,469548,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+469248,469780,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+471148,471948,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+443807,472500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+472368,472900,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+473548,474348,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+475488,476020,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+475008,478500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+478348,479148,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+478848,479380,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+475008,481500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+480748,481548,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+481968,482500,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+483751,483751,Swiftcast,,,,,,,[]
+483148,483948,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+475008,484500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+485228,485228,Chain Stratagem,,,,,,,[]
+484608,485408,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,['Swiftcast']
+485473,485473,Divination,,,,,,,[]
+485088,485620,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+486089,486089,Dokumori,,,,,,,[]
+486305,486305,Starry Muse,,,,,,,[]
+486400,486400,Quadruple Technical Finish,,,,,,,[]
+486438,486438,Starry Muse,,,,,,,[]
+486533,486533,Quadruple Technical Finish,,,,,,,[]
+475008,487500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+487948,488748,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+488448,488980,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+488551,489621,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+475008,490500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+490348,491148,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+490951,492021,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+491568,492100,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+475008,493500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+492748,493548,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+493351,494421,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+495148,495948,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+495648,496180,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+475008,496500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+497548,498348,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+498768,499300,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+475008,499500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+495751,499500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+499948,500748,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+500551,501621,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+475008,502500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+495751,502500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+502348,503148,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+502848,503380,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+502951,504021,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+504428,505498,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+495751,505500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+503808,505500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+505968,506500,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+507148,507948,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+503808,508500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+495751,508500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+509549,510349,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+510049,510581,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+503808,511500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+495751,511500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+511949,512749,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+513169,513701,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+503808,514500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+514349,515149,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+503808,517500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+516748,517548,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+517248,517780,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+519148,519948,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+503808,520500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+520368,520900,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+521549,522349,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+503808,523500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+523949,524749,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+524449,524981,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+503808,526500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+526349,527149,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+527569,528101,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+503808,529500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+528749,529549,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+531149,531949,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+531649,532181,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+503808,532500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+534769,535301,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+532609,535500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+535949,536749,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+532609,538500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+538349,539149,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+538849,539381,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+541352,541352,Dissipation,,,,,,,[]
+532609,541500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+540749,541549,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+541969,542501,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+543149,543949,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+532609,544500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+543752,544822,Energy Drain,100.0,12818.0,,Default Target,[],10074649.0,[]
+545549,546349,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+546049,546581,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+546152,547222,Energy Drain,100.0,12818.0,,Default Target,[],10074649.0,[]
+532609,547500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+547949,548749,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+548552,549622,Energy Drain,100.0,12818.0,,Default Target,[],10074649.0,[]
+549169,549701,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+532609,550500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+550349,551149,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+532609,553500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+552749,553549,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+553249,553781,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+555149,555949,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+532609,556500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+556369,556901,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+557549,558349,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+532609,559500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+559949,560749,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+560449,560981,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+532609,562500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+562349,563149,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+563569,564101,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+563809,565500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+567149,567949,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+567649,568181,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+563809,568500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+569550,570350,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+570769,571301,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+563809,571500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+571950,572750,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+563809,574500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+574350,575150,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+574850,575382,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+563809,577500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+576750,577550,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+577970,578502,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+579150,579950,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+563809,580500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+581550,582350,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+582050,582582,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+563809,583500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+583950,584750,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+585170,585702,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+563809,586500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+586350,587150,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+563809,589500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+588750,589550,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+589250,589782,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+591150,591950,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+563809,592500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+592370,592902,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+593550,594350,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+595490,596022,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+595010,598500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+598350,599150,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+598850,599382,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+595010,601500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+600750,601550,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+601970,602502,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+603753,603753,Swiftcast,,,,,,,[]
+603150,603950,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+595010,604500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+605230,605230,Chain Stratagem,,,,,,,[]
+604610,605410,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,['Swiftcast']
+605473,605473,Divination,,,,,,,[]
+605090,605622,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+606089,606089,Dokumori,,,,,,,[]
+606305,606305,Starry Muse,,,,,,,[]
+606400,606400,Quadruple Technical Finish,,,,,,,[]
+606438,606438,Starry Muse,,,,,,,[]
+606533,606533,Quadruple Technical Finish,,,,,,,[]
+595010,607500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+607950,608750,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+608450,608982,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+608553,609623,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+595010,610500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+610350,611150,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+610953,612023,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+611570,612102,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+595010,613500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+612750,613550,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+613353,614423,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+615150,615950,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+615650,616182,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+595010,616500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+617550,618350,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+618770,619302,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+615753,619500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+595010,619500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+619950,620750,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+620553,621623,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+595010,622500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+615753,622500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+622350,623150,Broil IV,320.0,52948.0,,Default Target,[],183558587.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+622850,623382,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+622953,624023,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+624430,625500,Energy Drain,100.0,16558.0,,Default Target,[],17950453.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+623810,625500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+615753,625500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+625970,626502,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+627150,627950,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+615753,628500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+623810,628500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+629551,630351,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+630051,630583,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+623810,631500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+615753,631500,Baneful Impaction (dot),140.0,24050.0,,Default Target,[],37870774.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+631951,632751,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+633171,633703,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+623810,634500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+634351,635151,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+623810,637500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+636751,637551,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+637251,637783,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+639151,639951,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+623810,640500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+640371,640903,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+641551,642351,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+623810,643500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+643951,644751,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+644451,644983,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+623810,646500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+646351,647151,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+647571,648103,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+623810,649500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+648751,649551,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+651151,651951,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+651651,652183,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+623810,652500,Biolysis (dot),85.0,14543.0,,Default Target,[],13844901.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Technical Finish']"
+653551,654351,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+654771,655303,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+655011,658500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+658351,659151,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+658851,659383,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+655011,661500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+660751,661551,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+661971,662503,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+663151,663951,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+655011,664500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+665551,666351,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+666051,666583,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+655011,667500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+667951,668751,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+669171,669703,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+655011,670500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+670351,671151,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+655011,673500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+672751,673551,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+673251,673783,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+675151,675951,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+655011,676500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+676371,676903,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+677551,678351,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+655011,679500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+679951,680751,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+680451,680983,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+655011,682500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+682351,683151,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+683571,684103,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+655011,685500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+684751,685551,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+686691,687223,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+686211,688500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+689552,690352,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+690052,690584,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+686211,691500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+691952,692752,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+693172,693704,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+686211,694500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+694352,695152,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+686211,697500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+696752,697552,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+697252,697784,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+699152,699952,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+686211,700500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+700372,700904,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+701552,702352,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+686211,703500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+703952,704752,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+704452,704984,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+686211,706500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+706352,707152,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+707572,708104,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+686211,709500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+708752,709552,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+711152,711952,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+711652,712184,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+686211,712500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+713552,714352,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+714772,715304,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+686211,715500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+716555,716555,Grade 4 Gemdraught,,,,,,,[]
+715952,716752,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+717892,718424,Auto,90.0,220.0,,Default Target,[],2952.0,['Grade 4 Gemdraught']
+717412,718500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+718032,719102,Energy Drain,100.0,13871.0,,Default Target,[],11799404.0,['Grade 4 Gemdraught']
+719032,720102,Energy Drain,100.0,13871.0,,Default Target,[],11799404.0,['Grade 4 Gemdraught']
+717412,721500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+720752,721552,Broil IV,320.0,44354.0,,Default Target,[],120637446.0,['Grade 4 Gemdraught']
+721252,721784,Auto,90.0,220.0,,Default Target,[],2952.0,['Grade 4 Gemdraught']
+721355,722425,Energy Drain,100.0,13871.0,,Default Target,[],11799404.0,['Grade 4 Gemdraught']
+723755,723755,Swiftcast,,,,,,,[]
+723152,723952,Broil IV,320.0,44354.0,,Default Target,[],120637446.0,['Grade 4 Gemdraught']
+717412,724500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+724372,724904,Auto,90.0,220.0,,Default Target,[],2952.0,['Grade 4 Gemdraught']
+725232,725232,Chain Stratagem,,,,,,,[]
+724612,725412,Broil IV,320.0,44354.0,,Default Target,[],120637446.0,"['Grade 4 Gemdraught', 'Swiftcast']"
+725473,725473,Divination,,,,,,,[]
+725852,725852,Dissipation,,,,,,,[]
+726089,726089,Dokumori,,,,,,,[]
+726400,726400,Quadruple Technical Finish,,,,,,,[]
+726533,726533,Quadruple Technical Finish,,,,,,,[]
+727457,727457,Starry Muse,,,,,,,[]
+717412,727500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+727590,727590,Starry Muse,,,,,,,[]
+727952,728752,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+728452,728984,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+728555,730500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+717412,730500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+730352,731152,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+730955,732025,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+731572,732104,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+728555,733500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+717412,733500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+732752,733552,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+733355,734425,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+735152,735952,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+735652,736184,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+728555,736500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+717412,736500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+735755,736825,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+737552,738352,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+738772,739304,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+717412,739500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+728555,739500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+739952,740752,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+740555,741625,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+717412,742500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+728555,742500,Baneful Impaction (dot),140.0,26031.0,,Default Target,[],44359725.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+742352,743152,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+742852,743384,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+742955,744025,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+717412,745500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
+744752,745552,Broil IV,320.0,57299.0,,Default Target,[],214954611.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+745355,746425,Energy Drain,100.0,17919.0,,Default Target,[],21024951.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+745972,746504,Auto,90.0,284.0,,Default Target,[],5253.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse', 'Technical Finish']"
+747152,747952,Broil IV,320.0,43035.0,,Default Target,[],113578296.0,['Starry Muse']
+749553,750353,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+750053,750585,Auto,90.0,220.0,,Default Target,[],2952.0,[]
+751953,752753,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
