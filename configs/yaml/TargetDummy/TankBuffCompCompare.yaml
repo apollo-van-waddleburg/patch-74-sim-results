@@ -1,0 +1,1091 @@
+DRK-GNB:
+  AST:
+    actor-receive: AST
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  BRD:
+    actor-receive: BRD
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  DRK:
+    actor-receive: DRK
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  GNB:
+    actor-receive: GNB
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  MNK:
+    actor-receive: MNK
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  NIN:
+    actor-receive: NIN
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        - the Balance
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  PCT:
+    actor-receive: PCT
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        - the Spear
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  SCH:
+    actor-receive: SCH
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+DRK-PLD:
+  AST:
+    actor-receive: AST
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  BRD:
+    actor-receive: BRD
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  DRK:
+    actor-receive: DRK
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  MNK:
+    actor-receive: MNK
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  NIN:
+    actor-receive: NIN
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        - the Balance
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  PCT:
+    actor-receive: PCT
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        - the Spear
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  PLD:
+    actor-receive: PLD
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  SCH:
+    actor-receive: SCH
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+DRK-WAR:
+  AST:
+    actor-receive: AST
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  BRD:
+    actor-receive: BRD
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  DRK:
+    actor-receive: DRK
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  MNK:
+    actor-receive: MNK
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  NIN:
+    actor-receive: NIN
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        - the Balance
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  PCT:
+    actor-receive: PCT
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        - the Spear
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  SCH:
+    actor-receive: SCH
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  WAR:
+    actor-receive: WAR
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+GNB-PLD:
+  AST:
+    actor-receive: AST
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  BRD:
+    actor-receive: BRD
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  GNB:
+    actor-receive: GNB
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  MNK:
+    actor-receive: MNK
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  NIN:
+    actor-receive: NIN
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        - the Balance
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  PCT:
+    actor-receive: PCT
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        - the Spear
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  PLD:
+    actor-receive: PLD
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  SCH:
+    actor-receive: SCH
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+GNB-WAR:
+  AST:
+    actor-receive: AST
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  BRD:
+    actor-receive: BRD
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  GNB:
+    actor-receive: GNB
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  MNK:
+    actor-receive: MNK
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  NIN:
+    actor-receive: NIN
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        - the Balance
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  PCT:
+    actor-receive: PCT
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        - the Spear
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  SCH:
+    actor-receive: SCH
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  WAR:
+    actor-receive: WAR
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+PLD-WAR:
+  AST:
+    actor-receive: AST
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  BRD:
+    actor-receive: BRD
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  MNK:
+    actor-receive: MNK
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  NIN:
+    actor-receive: NIN
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        - the Balance
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  PCT:
+    actor-receive: PCT
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        - the Spear
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  PLD:
+    actor-receive: PLD
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  SCH:
+    actor-receive: SCH
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+  WAR:
+    actor-receive: WAR
+    buffs:
+      sheet_buffs:
+        AST:
+        - Divination
+        BRD:
+        - Battle Voice
+        - Radiant Finale
+        - Mage's Ballad
+        - The Wanderer's Minuet
+        - Army's Paeon
+        MNK:
+        - Brotherhood
+        NIN:
+        - Dokumori
+        PCT:
+        - Starry Muse
+        SCH:
+        - Chain Stratagem
+actor-pass-down:
+  AST:
+    rotation:
+      local_csv: configs/csv/TargetDummy/AST Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|6281c579-48ce-408e-9859-2dacb4c1c140&partyBonus=0
+  BLM:
+    rotation:
+      local_csv: configs/csv/TargetDummy/BLM Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|08698620-8f30-42df-b4c8-df525fe78a95&partyBonus=0
+  BRD:
+    rotation:
+      local_csv: configs/csv/TargetDummy/BRD Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|552632a5-b318-40a8-b79a-a0a9dd981194&partyBonus=0
+  DNC:
+    rotation:
+      local_csv: configs/csv/TargetDummy/DNC_2_50_BIS_6_40_Tech
+    stats:
+      etro: https://xivgear.app/?page=sl|8732dd5a-cd34-4c99-9e9d-0840607de2c6&partyBonus=0
+  DRG:
+    rotation:
+      local_csv: configs/csv/TargetDummy/DRG Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|b0c11f17-3066-452a-975d-54abc6752fa5&partyBonus=0
+  DRK:
+    rotation:
+      local_csv: configs/csv/TargetDummy/DRK Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|7c243eb4-6c67-4053-8ef1-e13138d29679&partyBonus=0
+  GNB:
+    rotation:
+      local_csv: configs/csv/TargetDummy/GNB_2_50_BIS_5_625_NM.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|d3084322-928b-49c4-97e7-dd0fe282f513&partyBonus=0
+  MCH:
+    rotation:
+      local_csv: configs/csv/TargetDummy/MCH Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|8540233a-9e85-4fe9-a829-ae90388d84e2&partyBonus=0
+  MNK:
+    rotation:
+      local_csv: configs/csv/TargetDummy/MNK Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|8b497272-0f8d-4e2b-b97e-5e54d4cc3ef2&partyBonus=0
+  NIN:
+    rotation:
+      local_csv: configs/csv/TargetDummy/NIN Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|21e96423-a28b-48e8-bfc8-5b3ca34c5d53&partyBonus=0
+  PCT:
+    rotation:
+      local_csv: configs/csv/TargetDummy/PCT Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|4bd90c49-7a54-483f-9107-042c89c8c68f&partyBonus=0
+  PLD:
+    rotation:
+      local_csv: configs/csv/TargetDummy/PLD_2_50_BIS_6_625_FoF.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|773f0da3-f324-429b-a34e-7068ca0a7da2&partyBonus=0
+  RDM:
+    rotation:
+      local_csv: configs/csv/TargetDummy/RDM Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|7f383452-863f-421f-8fbb-e5245ae4f1fa&partyBonus=0
+  RPR:
+    rotation:
+      local_csv: configs/csv/TargetDummy/RPR Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|e1bc7058-af52-4551-a655-abf074667b60&partyBonus=0
+  SAM:
+    rotation:
+      local_csv: configs/csv/TargetDummy/SAM Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|021b1f33-231a-4ea9-831b-d69faa5a928c&partyBonus=0
+  SCH:
+    rotation:
+      local_csv: configs/csv/TargetDummy/SCH Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|5620c007-e5a3-4402-80e9-b29c01370505&partyBonus=0
+  SGE:
+    rotation:
+      local_csv: configs/csv/TargetDummy/SGE Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|7616da00-86ca-4aa6-9d2e-941c91f0be62&partyBonus=0
+  VPR:
+    rotation:
+      local_csv: configs/csv/TargetDummy/VPR Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|44a76822-aca7-4dae-af79-4cdda08a79aa&partyBonus=0
+  WAR:
+    rotation:
+      local_csv: configs/csv/TargetDummy/WAR Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|65fae8a5-9de6-4ab0-bf8c-ec09d8206101&partyBonus=0
+  WHM:
+    rotation:
+      local_csv: configs/csv/TargetDummy/WHM Target_Dummy_12_30.csv
+    stats:
+      etro: https://xivgear.app/?page=sl|fe531dbd-2d2c-4b1e-af0a-8ee3e2f235f7&partyBonus=0
+config-pass-down:
+  card_target_melee: NIN
+  card_target_ranged: PCT
+  dynamically_render_from_rotations: true
+  enable_autos: true
+  fight_start_time: 0
+  ignore_trailing_dots: true
+  level: 100
+  snap_dots_to_server_tick_starting_at: 1.5
+global:
+  sim_version: '7.4'
+  boss_hp: 150000000

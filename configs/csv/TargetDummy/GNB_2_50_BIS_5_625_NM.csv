@@ -1,0 +1,484 @@
+#gear_url=https://xivgear.app/?page=sl|d3084322-928b-49c4-97e7-dd0fe282f513&partyBonus=0
+#job_abbrev=GNB
+#csv_name=GNB_2_50_BIS_5_625_NM_7_4_BIS
+skill_name,time
+Keen Edge,0
+Brutal Shell,2.5
+Bloodfest,3.125
+Pot,3.75
+Solid Barrel,5
+No Mercy,5.625
+Gnashing Fang,7.5
+Jugular Rip,8.125
+Double Down,10
+Bow Shock,10.625
+Blasting Zone,11.25
+Sonic Break,12.5
+Savage Claw,15
+Abdomen Tear,15.625
+Wicked Talon,17.5
+Eye Gouge,18.125
+Reign of Beasts,20
+Noble Blood,22.5
+Lionheart,25
+Gnashing Fang,27.5
+Jugular Rip,28.125
+Savage Claw,30
+Abdomen Tear,30.625
+Wicked Talon,32.5
+Eye Gouge,33.125
+Keen Edge,35
+Brutal Shell,37.5
+Solid Barrel,40
+Blasting Zone,40.625
+Keen Edge,42.5
+Brutal Shell,45
+Solid Barrel,47.5
+Keen Edge,50
+Brutal Shell,52.5
+Solid Barrel,55
+Burst Strike,57.5
+Hypervelocity,58.125
+Gnashing Fang,60
+Jugular Rip,60.625
+Savage Claw,62.5
+Bloodfest,63.125
+Abdomen Tear,63.75
+Wicked Talon,65
+No Mercy,65.625
+Eye Gouge,66.25
+Gnashing Fang,67.5
+Jugular Rip,68.125
+Double Down,70
+Bow Shock,70.625
+Blasting Zone,71.25
+Sonic Break,72.5
+Savage Claw,75
+Abdomen Tear,75.625
+Wicked Talon,77.5
+Eye Gouge,78.125
+Reign of Beasts,80
+Noble Blood,82.5
+Lionheart,85
+Keen Edge,87.5
+Brutal Shell,90
+Solid Barrel,92.5
+Keen Edge,95
+Brutal Shell,97.5
+Solid Barrel,100
+Blasting Zone,100.625
+Burst Strike,102.5
+Hypervelocity,103.125
+Keen Edge,105
+Brutal Shell,107.5
+Solid Barrel,110
+Burst Strike,112.5
+Hypervelocity,113.125
+Keen Edge,115
+Brutal Shell,117.5
+Solid Barrel,120
+Gnashing Fang,122.5
+Bloodfest,123.125
+Jugular Rip,123.75
+Savage Claw,125
+No Mercy,125.625
+Abdomen Tear,126.25
+Wicked Talon,127.5
+Eye Gouge,128.125
+Double Down,130
+Bow Shock,130.625
+Blasting Zone,131.25
+Reign of Beasts,132.5
+Noble Blood,135
+Lionheart,137.5
+Gnashing Fang,140
+Jugular Rip,140.625
+Savage Claw,142.5
+Abdomen Tear,143.125
+Sonic Break,145
+Wicked Talon,147.5
+Eye Gouge,148.125
+Keen Edge,150
+Brutal Shell,152.5
+Solid Barrel,155
+Burst Strike,157.5
+Hypervelocity,158.125
+Keen Edge,160
+Blasting Zone,160.625
+Brutal Shell,162.5
+Solid Barrel,165
+Burst Strike,167.5
+Hypervelocity,168.125
+Keen Edge,170
+Brutal Shell,172.5
+Solid Barrel,175
+Burst Strike,177.5
+Hypervelocity,178.125
+Gnashing Fang,180
+Jugular Rip,180.625
+Savage Claw,182.5
+Bloodfest,183.125
+Abdomen Tear,183.75
+Wicked Talon,185
+No Mercy,185.625
+Eye Gouge,186.25
+Reign of Beasts,187.5
+Double Down,190
+Bow Shock,190.625
+Blasting Zone,191.25
+Noble Blood,192.5
+Lionheart,195
+Gnashing Fang,197.5
+Jugular Rip,198.125
+Savage Claw,200
+Abdomen Tear,200.625
+Wicked Talon,202.5
+Eye Gouge,203.125
+Sonic Break,205
+Keen Edge,207.5
+Brutal Shell,210
+Solid Barrel,212.5
+Keen Edge,215
+Brutal Shell,217.5
+Solid Barrel,220
+Blasting Zone,220.625
+Burst Strike,222.5
+Hypervelocity,223.125
+Keen Edge,225
+Brutal Shell,227.5
+Solid Barrel,230
+Burst Strike,232.5
+Hypervelocity,233.125
+Keen Edge,235
+Brutal Shell,237.5
+Solid Barrel,240
+Gnashing Fang,242.5
+Bloodfest,243.125
+Jugular Rip,243.75
+Savage Claw,245
+No Mercy,245.625
+Abdomen Tear,246.25
+Wicked Talon,247.5
+Eye Gouge,248.125
+Double Down,250
+Bow Shock,250.625
+Blasting Zone,251.25
+Reign of Beasts,252.5
+Noble Blood,255
+Lionheart,257.5
+Gnashing Fang,260
+Jugular Rip,260.625
+Savage Claw,262.5
+Abdomen Tear,263.125
+Sonic Break,265
+Wicked Talon,267.5
+Eye Gouge,268.125
+Keen Edge,270
+Brutal Shell,272.5
+Solid Barrel,275
+Burst Strike,277.5
+Hypervelocity,278.125
+Keen Edge,280
+Blasting Zone,280.625
+Brutal Shell,282.5
+Solid Barrel,285
+Burst Strike,287.5
+Hypervelocity,288.125
+Keen Edge,290
+Brutal Shell,292.5
+Solid Barrel,295
+Burst Strike,297.5
+Hypervelocity,298.125
+Gnashing Fang,300
+Jugular Rip,300.625
+Savage Claw,302.5
+Bloodfest,303.125
+Abdomen Tear,303.75
+Wicked Talon,305
+No Mercy,305.625
+Eye Gouge,306.25
+Reign of Beasts,307.5
+Double Down,310
+Bow Shock,310.625
+Blasting Zone,311.25
+Noble Blood,312.5
+Lionheart,315
+Gnashing Fang,317.5
+Jugular Rip,318.125
+Savage Claw,320
+Abdomen Tear,320.625
+Wicked Talon,322.5
+Eye Gouge,323.125
+Sonic Break,325
+Keen Edge,327.5
+Brutal Shell,330
+Solid Barrel,332.5
+Keen Edge,335
+Brutal Shell,337.5
+Solid Barrel,340
+Blasting Zone,340.625
+Burst Strike,342.5
+Hypervelocity,343.125
+Keen Edge,345
+Brutal Shell,347.5
+Solid Barrel,350
+Burst Strike,352.5
+Hypervelocity,353.125
+Keen Edge,355
+Brutal Shell,357.5
+Delay (0.625),358.125
+Solid Barrel,360
+Delay (0.625),360.625
+Pot,361.25
+Gnashing Fang,362.5
+Bloodfest,363.125
+Jugular Rip,363.75
+Savage Claw,365
+No Mercy,365.625
+Abdomen Tear,366.25
+Wicked Talon,367.5
+Eye Gouge,368.125
+Double Down,370
+Bow Shock,370.625
+Blasting Zone,371.25
+Reign of Beasts,372.5
+Noble Blood,375
+Lionheart,377.5
+Gnashing Fang,380
+Jugular Rip,380.625
+Savage Claw,382.5
+Abdomen Tear,383.125
+Sonic Break,385
+Wicked Talon,387.5
+Eye Gouge,388.125
+Burst Strike,390
+Hypervelocity,390.625
+Keen Edge,392.5
+Brutal Shell,395
+Solid Barrel,397.5
+Keen Edge,400
+Blasting Zone,400.625
+Brutal Shell,402.5
+Solid Barrel,405
+Burst Strike,407.5
+Hypervelocity,408.125
+Keen Edge,410
+Brutal Shell,412.5
+Solid Barrel,415
+Burst Strike,417.5
+Hypervelocity,418.125
+Gnashing Fang,420
+Jugular Rip,420.625
+Savage Claw,422.5
+Bloodfest,423.125
+Abdomen Tear,423.75
+Wicked Talon,425
+No Mercy,425.625
+Eye Gouge,426.25
+Reign of Beasts,427.5
+Double Down,430
+Bow Shock,430.625
+Blasting Zone,431.25
+Noble Blood,432.5
+Lionheart,435
+Gnashing Fang,437.5
+Jugular Rip,438.125
+Savage Claw,440
+Abdomen Tear,440.625
+Wicked Talon,442.5
+Eye Gouge,443.125
+Sonic Break,445
+Keen Edge,447.5
+Brutal Shell,450
+Solid Barrel,452.5
+Keen Edge,455
+Brutal Shell,457.5
+Solid Barrel,460
+Blasting Zone,460.625
+Burst Strike,462.5
+Hypervelocity,463.125
+Keen Edge,465
+Brutal Shell,467.5
+Solid Barrel,470
+Burst Strike,472.5
+Hypervelocity,473.125
+Keen Edge,475
+Brutal Shell,477.5
+Solid Barrel,480
+Gnashing Fang,482.5
+Bloodfest,483.125
+Jugular Rip,483.75
+Savage Claw,485
+No Mercy,485.625
+Abdomen Tear,486.25
+Wicked Talon,487.5
+Eye Gouge,488.125
+Double Down,490
+Bow Shock,490.625
+Blasting Zone,491.25
+Reign of Beasts,492.5
+Noble Blood,495
+Lionheart,497.5
+Gnashing Fang,500
+Jugular Rip,500.625
+Savage Claw,502.5
+Abdomen Tear,503.125
+Sonic Break,505
+Wicked Talon,507.5
+Eye Gouge,508.125
+Keen Edge,510
+Brutal Shell,512.5
+Solid Barrel,515
+Burst Strike,517.5
+Hypervelocity,518.125
+Keen Edge,520
+Blasting Zone,520.625
+Brutal Shell,522.5
+Solid Barrel,525
+Burst Strike,527.5
+Hypervelocity,528.125
+Keen Edge,530
+Brutal Shell,532.5
+Solid Barrel,535
+Burst Strike,537.5
+Hypervelocity,538.125
+Gnashing Fang,540
+Jugular Rip,540.625
+Savage Claw,542.5
+Bloodfest,543.125
+Abdomen Tear,543.75
+Wicked Talon,545
+No Mercy,545.625
+Eye Gouge,546.25
+Reign of Beasts,547.5
+Double Down,550
+Bow Shock,550.625
+Blasting Zone,551.25
+Noble Blood,552.5
+Lionheart,555
+Gnashing Fang,557.5
+Jugular Rip,558.125
+Savage Claw,560
+Abdomen Tear,560.625
+Wicked Talon,562.5
+Eye Gouge,563.125
+Sonic Break,565
+Keen Edge,567.5
+Brutal Shell,570
+Solid Barrel,572.5
+Keen Edge,575
+Brutal Shell,577.5
+Solid Barrel,580
+Blasting Zone,580.625
+Burst Strike,582.5
+Hypervelocity,583.125
+Keen Edge,585
+Brutal Shell,587.5
+Solid Barrel,590
+Burst Strike,592.5
+Hypervelocity,593.125
+Keen Edge,595
+Brutal Shell,597.5
+Solid Barrel,600
+Gnashing Fang,602.5
+Bloodfest,603.125
+Jugular Rip,603.75
+Savage Claw,605
+No Mercy,605.625
+Abdomen Tear,606.25
+Wicked Talon,607.5
+Eye Gouge,608.125
+Double Down,610
+Bow Shock,610.625
+Blasting Zone,611.25
+Reign of Beasts,612.5
+Noble Blood,615
+Lionheart,617.5
+Gnashing Fang,620
+Jugular Rip,620.625
+Savage Claw,622.5
+Abdomen Tear,623.125
+Sonic Break,625
+Wicked Talon,627.5
+Eye Gouge,628.125
+Keen Edge,630
+Brutal Shell,632.5
+Solid Barrel,635
+Burst Strike,637.5
+Hypervelocity,638.125
+Keen Edge,640
+Blasting Zone,640.625
+Brutal Shell,642.5
+Solid Barrel,645
+Burst Strike,647.5
+Hypervelocity,648.125
+Keen Edge,650
+Brutal Shell,652.5
+Solid Barrel,655
+Burst Strike,657.5
+Hypervelocity,658.125
+Gnashing Fang,660
+Jugular Rip,660.625
+Savage Claw,662.5
+Bloodfest,663.125
+Abdomen Tear,663.75
+Wicked Talon,665
+No Mercy,665.625
+Eye Gouge,666.25
+Reign of Beasts,667.5
+Double Down,670
+Bow Shock,670.625
+Blasting Zone,671.25
+Noble Blood,672.5
+Lionheart,675
+Gnashing Fang,677.5
+Jugular Rip,678.125
+Savage Claw,680
+Abdomen Tear,680.625
+Wicked Talon,682.5
+Eye Gouge,683.125
+Sonic Break,685
+Keen Edge,687.5
+Brutal Shell,690
+Solid Barrel,692.5
+Keen Edge,695
+Brutal Shell,697.5
+Solid Barrel,700
+Blasting Zone,700.625
+Burst Strike,702.5
+Hypervelocity,703.125
+Keen Edge,705
+Brutal Shell,707.5
+Solid Barrel,710
+Burst Strike,712.5
+Hypervelocity,713.125
+Keen Edge,715
+Brutal Shell,717.5
+Solid Barrel,720
+Delay (0.625),720.625
+Pot,721.25
+Gnashing Fang,722.5
+Bloodfest,723.125
+Jugular Rip,723.75
+Savage Claw,725
+No Mercy,725.625
+Abdomen Tear,726.25
+Wicked Talon,727.5
+Eye Gouge,728.125
+Double Down,730
+Bow Shock,730.625
+Blasting Zone,731.25
+Reign of Beasts,732.5
+Noble Blood,735
+Lionheart,737.5
+Gnashing Fang,740
+Jugular Rip,740.625
+Savage Claw,742.5
+Abdomen Tear,743.125
+Sonic Break,745
+Wicked Talon,747.5
+Eye Gouge,748.125
+Burst Strike,750
+Hypervelocity,750.625
+Burst Strike,752.5
+Hypervelocity,753.125

@@ -1,0 +1,426 @@
+#gear_url=https://xivgear.app/?page=sl|773f0da3-f324-429b-a34e-7068ca0a7da2&partyBonus=0
+#job_abbrev=PLD
+#csv_name=PLD_2_50_BIS_6_625_FoF_7_4_BIS
+skill_name,time
+Holy Spirit,-1.5
+Fast Blade,1
+Riot Blade,3.5
+Pot,4.125
+Royal Authority,6
+Fight or Flight,6.625
+Imperator,7.25
+Goring Blade,8.5
+Circle of Scorn,9.125
+Holy Spirit,11
+Expiacion,11.625
+Confiteor,13.5
+Intervene,14.125
+Blade of Faith,16
+Blade of Truth,18.5
+Intervene,19.125
+Blade of Valor,21
+Blade of Honor,21.625
+Atonement,23.5
+Supplication,26
+Sepulcher,28.5
+Fast Blade,31
+Riot Blade,33.5
+Royal Authority,36
+Fast Blade,38.5
+Circle of Scorn,39.125
+Riot Blade,41
+Expiacion,41.625
+Atonement,43.5
+Supplication,46
+Sepulcher,48.5
+Holy Spirit,51
+Royal Authority,53.5
+Fast Blade,56
+Riot Blade,58.5
+Atonement,61
+Supplication,63.5
+Holy Spirit,66
+Fight or Flight,66.625
+Imperator,67.25
+Goring Blade,68.5
+Circle of Scorn,69.125
+Sepulcher,71
+Expiacion,71.625
+Confiteor,73.5
+Intervene,74.125
+Blade of Faith,76
+Intervene,76.625
+Blade of Truth,78.5
+Blade of Valor,81
+Blade of Honor,81.625
+Royal Authority,83.5
+Holy Spirit,86
+Fast Blade,88.5
+Riot Blade,91
+Atonement,93.5
+Supplication,96
+Sepulcher,98.5
+Circle of Scorn,99.125
+Royal Authority,101
+Expiacion,101.625
+Fast Blade,103.5
+Riot Blade,106
+Atonement,108.5
+Supplication,111
+Sepulcher,113.5
+Holy Spirit,116
+Royal Authority,118.5
+Fast Blade,121
+Riot Blade,123.5
+Atonement,126
+Fight or Flight,126.625
+Imperator,127.25
+Goring Blade,128.5
+Circle of Scorn,129.125
+Supplication,131
+Expiacion,131.625
+Confiteor,133.5
+Intervene,134.125
+Blade of Faith,136
+Intervene,136.625
+Blade of Truth,138.5
+Blade of Valor,141
+Blade of Honor,141.625
+Holy Spirit,143.5
+Sepulcher,146
+Royal Authority,148.5
+Atonement,151
+Supplication,153.5
+Sepulcher,156
+Holy Spirit,158.5
+Circle of Scorn,159.125
+Fast Blade,161
+Expiacion,161.625
+Riot Blade,163.5
+Royal Authority,166
+Fast Blade,168.5
+Riot Blade,171
+Holy Spirit,173.5
+Atonement,176
+Supplication,178.5
+Sepulcher,181
+Royal Authority,183.5
+Atonement,186
+Fight or Flight,186.625
+Imperator,187.25
+Goring Blade,188.5
+Circle of Scorn,189.125
+Supplication,191
+Expiacion,191.625
+Confiteor,193.5
+Intervene,194.125
+Blade of Faith,196
+Intervene,196.625
+Blade of Truth,198.5
+Blade of Valor,201
+Blade of Honor,201.625
+Sepulcher,203.5
+Holy Spirit,206
+Fast Blade,208.5
+Riot Blade,211
+Royal Authority,213.5
+Fast Blade,216
+Riot Blade,218.5
+Circle of Scorn,219.125
+Atonement,221
+Expiacion,221.625
+Supplication,223.5
+Sepulcher,226
+Holy Spirit,228.5
+Royal Authority,231
+Fast Blade,233.5
+Riot Blade,236
+Holy Spirit,238.5
+Atonement,241
+Supplication,243.5
+Sepulcher,246
+Fight or Flight,246.625
+Imperator,247.25
+Goring Blade,248.5
+Circle of Scorn,249.125
+Royal Authority,251
+Expiacion,251.625
+Confiteor,253.5
+Intervene,254.125
+Blade of Faith,256
+Intervene,256.625
+Blade of Truth,258.5
+Blade of Valor,261
+Blade of Honor,261.625
+Holy Spirit,263.5
+Atonement,266
+Supplication,268.5
+Sepulcher,271
+Fast Blade,273.5
+Riot Blade,276
+Royal Authority,278.5
+Circle of Scorn,279.125
+Fast Blade,281
+Expiacion,281.625
+Riot Blade,283.5
+Atonement,286
+Supplication,288.5
+Sepulcher,291
+Holy Spirit,293.5
+Royal Authority,296
+Fast Blade,298.5
+Riot Blade,301
+Atonement,303.5
+Supplication,306
+Fight or Flight,306.625
+Imperator,307.25
+Goring Blade,308.5
+Circle of Scorn,309.125
+Sepulcher,311
+Expiacion,311.625
+Confiteor,313.5
+Intervene,314.125
+Blade of Faith,316
+Intervene,316.625
+Blade of Truth,318.5
+Blade of Valor,321
+Blade of Honor,321.625
+Holy Spirit,323.5
+Royal Authority,326
+Atonement,328.5
+Supplication,331
+Sepulcher,333.5
+Holy Spirit,336
+Fast Blade,338.5
+Circle of Scorn,339.125
+Riot Blade,341
+Expiacion,341.625
+Royal Authority,343.5
+Fast Blade,346
+Riot Blade,348.5
+Atonement,351
+Supplication,353.5
+Sepulcher,356
+Holy Spirit,358.5
+Royal Authority,361
+Fast Blade,363.5
+Pot,364.125
+Atonement,366
+Fight or Flight,366.625
+Imperator,367.25
+Goring Blade,368.5
+Circle of Scorn,369.125
+Supplication,371
+Expiacion,371.625
+Confiteor,373.5
+Intervene,374.125
+Blade of Faith,376
+Intervene,376.625
+Blade of Truth,378.5
+Blade of Valor,381
+Blade of Honor,381.625
+Holy Spirit,383.5
+Sepulcher,386
+Riot Blade,388.5
+Royal Authority,391
+Holy Spirit,393.5
+Atonement,396
+Supplication,398.5
+Circle of Scorn,399.125
+Sepulcher,401
+Expiacion,401.625
+Fast Blade,403.5
+Riot Blade,406
+Royal Authority,408.5
+Fast Blade,411
+Riot Blade,413.5
+Holy Spirit,416
+Atonement,418.5
+Supplication,421
+Sepulcher,423.5
+Royal Authority,426
+Fight or Flight,426.625
+Imperator,427.25
+Goring Blade,428.5
+Circle of Scorn,429.125
+Atonement,431
+Expiacion,431.625
+Confiteor,433.5
+Intervene,434.125
+Blade of Faith,436
+Intervene,436.625
+Blade of Truth,438.5
+Blade of Valor,441
+Blade of Honor,441.625
+Holy Spirit,443.5
+Supplication,446
+Sepulcher,448.5
+Fast Blade,451
+Riot Blade,453.5
+Royal Authority,456
+Atonement,458.5
+Circle of Scorn,459.125
+Supplication,461
+Expiacion,461.625
+Sepulcher,463.5
+Holy Spirit,466
+Fast Blade,468.5
+Riot Blade,471
+Royal Authority,473.5
+Fast Blade,476
+Riot Blade,478.5
+Holy Spirit,481
+Atonement,483.5
+Supplication,486
+Fight or Flight,486.625
+Imperator,487.25
+Goring Blade,488.5
+Circle of Scorn,489.125
+Sepulcher,491
+Expiacion,491.625
+Confiteor,493.5
+Intervene,494.125
+Blade of Faith,496
+Intervene,496.625
+Blade of Truth,498.5
+Blade of Valor,501
+Blade of Honor,501.625
+Royal Authority,503.5
+Holy Spirit,506
+Atonement,508.5
+Supplication,511
+Sepulcher,513.5
+Fast Blade,516
+Riot Blade,518.5
+Circle of Scorn,519.125
+Royal Authority,521
+Expiacion,521.625
+Atonement,523.5
+Supplication,526
+Sepulcher,528.5
+Holy Spirit,531
+Fast Blade,533.5
+Riot Blade,536
+Royal Authority,538.5
+Atonement,541
+Fast Blade,543.5
+Riot Blade,546
+Fight or Flight,546.625
+Imperator,547.25
+Goring Blade,548.5
+Circle of Scorn,549.125
+Supplication,551
+Expiacion,551.625
+Confiteor,553.5
+Intervene,554.125
+Blade of Faith,556
+Intervene,556.625
+Blade of Truth,558.5
+Blade of Valor,561
+Blade of Honor,561.625
+Holy Spirit,563.5
+Sepulcher,566
+Royal Authority,568.5
+Atonement,571
+Supplication,573.5
+Sepulcher,576
+Holy Spirit,578.5
+Circle of Scorn,579.125
+Fast Blade,581
+Expiacion,581.625
+Riot Blade,583.5
+Royal Authority,586
+Atonement,588.5
+Supplication,591
+Holy Spirit,593.5
+Fast Blade,596
+Riot Blade,598.5
+Sepulcher,601
+Royal Authority,603.5
+Atonement,606
+Fight or Flight,606.625
+Imperator,607.25
+Goring Blade,608.5
+Circle of Scorn,609.125
+Supplication,611
+Expiacion,611.625
+Confiteor,613.5
+Intervene,614.125
+Blade of Faith,616
+Intervene,616.625
+Blade of Truth,618.5
+Blade of Valor,621
+Blade of Honor,621.625
+Sepulcher,623.5
+Holy Spirit,626
+Fast Blade,628.5
+Riot Blade,631
+Royal Authority,633.5
+Atonement,636
+Supplication,638.5
+Circle of Scorn,639.125
+Holy Spirit,641
+Expiacion,641.625
+Sepulcher,643.5
+Fast Blade,646
+Riot Blade,648.5
+Royal Authority,651
+Atonement,653.5
+Fast Blade,656
+Riot Blade,658.5
+Supplication,661
+Holy Spirit,663.5
+Sepulcher,666
+Fight or Flight,666.625
+Imperator,667.25
+Goring Blade,668.5
+Circle of Scorn,669.125
+Royal Authority,671
+Expiacion,671.625
+Confiteor,673.5
+Intervene,674.125
+Blade of Faith,676
+Intervene,676.625
+Blade of Truth,678.5
+Blade of Valor,681
+Blade of Honor,681.625
+Holy Spirit,683.5
+Atonement,686
+Supplication,688.5
+Sepulcher,691
+Fast Blade,693.5
+Riot Blade,696
+Royal Authority,698.5
+Circle of Scorn,699.125
+Atonement,701
+Expiacion,701.625
+Fast Blade,703.5
+Riot Blade,706
+Supplication,708.5
+Holy Spirit,711
+Sepulcher,713.5
+Royal Authority,716
+Fast Blade,718.5
+Riot Blade,721
+Pot,721.625
+Atonement,723.5
+Holy Spirit,726
+Fight or Flight,726.625
+Imperator,727.25
+Goring Blade,728.5
+Circle of Scorn,729.125
+Supplication,731
+Expiacion,731.625
+Confiteor,733.5
+Intervene,734.125
+Blade of Faith,736
+Intervene,736.625
+Blade of Truth,738.5
+Blade of Valor,741
+Blade of Honor,741.625
+Sepulcher,743.5
+Royal Authority,746
+Holy Spirit,748.5
+Atonement,751
+Supplication,753.5
+Sepulcher,756
