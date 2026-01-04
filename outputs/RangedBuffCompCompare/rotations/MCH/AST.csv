@@ -1,0 +1,885 @@
+sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,sim_target,sim_conditions,sim_variance,sim_buffs
+-12000,-12000,Earthly Star,,,,,,,[]
+-2000,-2000,Lightspeed,,,,,,,[]
+240,240,Grade 4 Gemdraught,,,,,,,[]
+3491,3491,Dokumori,,,,,,,[]
+1310,4500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+3620,4690,Fall Malefic,270.0,37833.0,,Default Target,[],74230445.0,"['Dokumori', 'Grade 4 Gemdraught', 'Lightspeed']"
+4500,5032,Auto,90.0,0.0,,Default Target,[],0.0,"['Dokumori', 'Grade 4 Gemdraught', 'Lightspeed']"
+5220,5220,Chain Stratagem,,,,,,,[]
+5340,5340,Divination,,,,,,,[]
+5400,5400,Starry Muse,,,,,,,[]
+5533,5533,Starry Muse,,,,,,,[]
+6580,6580,the Balance,,,,,,,[]
+5960,7030,Fall Malefic,270.0,42109.0,,Default Target,[],91960186.0,"['Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+1310,7500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+7200,7820,Lord of Crowns,400.0,65691.0,,Default Target,[],246474661.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+8000,8000,Stellar Explosion (pet),310.0,48932.0,,Default Target,['Giant Dominance'],136753394.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Giant Dominance', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+7700,8232,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+8890,8890,Umbral Draw,,,,,,,[]
+8270,9340,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+9510,9510,the Spear,,,,,,,[]
+1310,10500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+10900,11432,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+10580,11650,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+11200,12940,Oracle,860.0,141177.0,,Default Target,[],1138404450.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+1310,13500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+12890,13960,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+14100,14632,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+1310,16500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+16090,17160,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+17300,17832,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+18400,19470,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+1310,19500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+21210,21742,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+20710,21780,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+1310,22500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+23620,23620,Swiftcast,,,,,,,[]
+23020,24090,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+24410,24942,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+24440,25500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+26750,27820,Fall Malefic,270.0,36032.0,,Default Target,[],67331583.0,"['Grade 4 Gemdraught', 'Swiftcast']"
+27610,28142,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
+24440,28500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+29950,31020,Fall Malefic,270.0,36032.0,,Default Target,[],67331583.0,['Grade 4 Gemdraught']
+30810,31342,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
+24440,31500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+32260,33330,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+24440,34500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+35070,35602,Auto,90.0,0.0,,Default Target,[],0.0,[]
+34570,35640,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+24440,37500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+36880,37950,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+38270,38802,Auto,90.0,0.0,,Default Target,[],0.0,[]
+39190,40260,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+24440,40500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+42001,42533,Auto,90.0,0.0,,Default Target,[],0.0,[]
+41501,42571,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+24440,43500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+43811,44881,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+45201,45733,Auto,90.0,0.0,,Default Target,[],0.0,[]
+24440,46500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+46121,47191,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+49031,49031,Earthly Star,,,,,,,[]
+48931,49463,Auto,90.0,0.0,,Default Target,[],0.0,[]
+24440,49500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+48431,49501,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+50741,51811,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+24440,52500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+52131,52663,Auto,90.0,0.0,,Default Target,[],0.0,[]
+53051,54121,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+54471,55500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+55331,55863,Auto,90.0,0.0,,Default Target,[],0.0,[]
+54471,58500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+57671,58741,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+58531,59063,Auto,90.0,0.0,,Default Target,[],0.0,[]
+59981,61051,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+54471,61500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+62791,63323,Auto,90.0,0.0,,Default Target,[],0.0,[]
+62291,63361,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+54471,64500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+65200,65200,Astral Draw,,,,,,,[]
+64601,65671,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+65991,66523,Auto,90.0,0.0,,Default Target,[],0.0,[]
+54471,67500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+66911,67981,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+69031,69031,Stellar Explosion (pet),310.0,36627.0,,Default Target,['Giant Dominance'],69576362.0,['Giant Dominance']
+69721,70253,Auto,90.0,0.0,,Default Target,[],0.0,[]
+69221,70291,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+54471,70500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+71531,72601,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+72921,73453,Auto,90.0,0.0,,Default Target,[],0.0,[]
+54471,73500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+73841,74911,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+54471,76500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+76651,77183,Auto,90.0,0.0,,Default Target,[],0.0,[]
+76151,77221,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+54471,79500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+78461,79531,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+79851,80383,Auto,90.0,0.0,,Default Target,[],0.0,[]
+80771,81841,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+54471,82500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+83581,84113,Auto,90.0,0.0,,Default Target,[],0.0,[]
+83081,84151,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+84501,85500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+86781,87313,Auto,90.0,0.0,,Default Target,[],0.0,[]
+84501,88500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+87701,88771,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+90511,91043,Auto,90.0,0.0,,Default Target,[],0.0,[]
+90011,91081,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+84501,91500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+92321,93391,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+93711,94243,Auto,90.0,0.0,,Default Target,[],0.0,[]
+84501,94500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+94631,95701,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+84501,97500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+97441,97973,Auto,90.0,0.0,,Default Target,[],0.0,[]
+96941,98011,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+99251,100321,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+84501,100500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+100641,101173,Auto,90.0,0.0,,Default Target,[],0.0,[]
+101561,102631,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+84501,103500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+104371,104903,Auto,90.0,0.0,,Default Target,[],0.0,[]
+103871,104941,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+84501,106500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+106181,107251,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+107571,108103,Auto,90.0,0.0,,Default Target,[],0.0,[]
+109091,109091,Earthly Star,,,,,,,[]
+84501,109500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+108491,109561,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+111301,111833,Auto,90.0,0.0,,Default Target,[],0.0,[]
+110801,111871,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+84501,112500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+113111,114181,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+114501,115033,Auto,90.0,0.0,,Default Target,[],0.0,[]
+114532,115500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+118332,118332,Lightspeed,,,,,,,[]
+114532,118500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+118232,118764,Auto,90.0,0.0,,Default Target,[],0.0,[]
+117732,118802,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+119152,120222,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+114532,121500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+121432,121964,Auto,90.0,0.0,,Default Target,[],0.0,['Lightspeed']
+121462,122532,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+114532,124500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+123772,124842,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+124632,125164,Auto,90.0,0.0,,Default Target,[],0.0,['Lightspeed']
+125222,125222,Chain Stratagem,,,,,,,[]
+125340,125340,Divination,,,,,,,[]
+125582,125582,Dokumori,,,,,,,[]
+126253,126253,Starry Muse,,,,,,,[]
+126386,126386,Starry Muse,,,,,,,[]
+126702,126702,the Balance,,,,,,,[]
+126082,127152,Fall Malefic,270.0,38980.0,,Default Target,[],86788190.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed']"
+114532,127500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+127322,127942,Lord of Crowns,400.0,60703.0,,Default Target,[],210484683.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+127832,128364,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+129012,129012,Umbral Draw,,,,,,,[]
+129091,129091,Stellar Explosion (pet),310.0,45024.0,,Default Target,['Giant Dominance'],115794894.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Giant Dominance', 'Lightspeed', 'Starry Muse']"
+128392,129462,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+129632,129632,the Spear,,,,,,,[]
+114532,130500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+131032,131564,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+130702,131772,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+131322,133062,Oracle,860.0,130456.0,,Default Target,[],972065196.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+114532,133500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+133012,134082,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+134232,134764,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+114532,136500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+136212,137282,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+137432,137964,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+114532,139500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+138522,139592,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+141432,141432,Swiftcast,,,,,,,[]
+141332,141864,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+140832,141902,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+114532,142500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+142252,143322,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Swiftcast']"
+144532,145064,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+144562,145500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+144562,148500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+148262,148794,Auto,90.0,0.0,,Default Target,[],0.0,[]
+147762,148832,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+150072,151142,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+144562,151500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+151462,151994,Auto,90.0,0.0,,Default Target,[],0.0,[]
+152382,153452,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+144562,154500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+155192,155724,Auto,90.0,0.0,,Default Target,[],0.0,[]
+154692,155762,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+144562,157500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+157002,158072,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+158392,158924,Auto,90.0,0.0,,Default Target,[],0.0,[]
+159312,160382,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+144562,160500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+162122,162654,Auto,90.0,0.0,,Default Target,[],0.0,[]
+161622,162692,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+144562,163500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+163932,165002,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+165322,165854,Auto,90.0,0.0,,Default Target,[],0.0,[]
+144562,166500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+166242,167312,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+169152,169152,Earthly Star,,,,,,,[]
+144562,169500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+169052,169584,Auto,90.0,0.0,,Default Target,[],0.0,[]
+168552,169622,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+170862,171932,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+144562,172500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+172252,172784,Auto,90.0,0.0,,Default Target,[],0.0,[]
+173172,174242,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+174592,175500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+175452,175984,Auto,90.0,0.0,,Default Target,[],0.0,[]
+174592,178500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+177792,178862,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+178652,179184,Auto,90.0,0.0,,Default Target,[],0.0,[]
+180102,181172,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+174592,181500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+182912,183444,Auto,90.0,0.0,,Default Target,[],0.0,[]
+182412,183482,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+174592,184500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+185322,185322,Astral Draw,,,,,,,[]
+184722,185792,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+186112,186644,Auto,90.0,0.0,,Default Target,[],0.0,[]
+174592,187500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+187032,188102,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+189152,189152,Stellar Explosion (pet),310.0,36627.0,,Default Target,['Giant Dominance'],69576362.0,['Giant Dominance']
+189843,190375,Auto,90.0,0.0,,Default Target,[],0.0,[]
+189343,190413,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+174592,190500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+191653,192723,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+174592,193500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+193043,193575,Auto,90.0,0.0,,Default Target,[],0.0,[]
+193963,195033,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+174592,196500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+196773,197305,Auto,90.0,0.0,,Default Target,[],0.0,[]
+196273,197343,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+174592,199500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+198583,199653,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+199973,200505,Auto,90.0,0.0,,Default Target,[],0.0,[]
+200893,201963,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+174592,202500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+203703,204235,Auto,90.0,0.0,,Default Target,[],0.0,[]
+203203,204273,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+204623,205500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+206903,207435,Auto,90.0,0.0,,Default Target,[],0.0,[]
+204623,208500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+207823,208893,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+210633,211165,Auto,90.0,0.0,,Default Target,[],0.0,[]
+210133,211203,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+204623,211500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+212443,213513,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+213833,214365,Auto,90.0,0.0,,Default Target,[],0.0,[]
+204623,214500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+214753,215823,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+204623,217500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+217563,218095,Auto,90.0,0.0,,Default Target,[],0.0,[]
+217063,218133,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+219373,220443,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+204623,220500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+220763,221295,Auto,90.0,0.0,,Default Target,[],0.0,[]
+221683,222753,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+204623,223500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+224493,225025,Auto,90.0,0.0,,Default Target,[],0.0,[]
+223993,225063,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+204623,226500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+226303,227373,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+227693,228225,Auto,90.0,0.0,,Default Target,[],0.0,[]
+229213,229213,Earthly Star,,,,,,,[]
+204623,229500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+228613,229683,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+231423,231955,Auto,90.0,0.0,,Default Target,[],0.0,[]
+230923,231993,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+204623,232500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+233233,234303,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+234623,235155,Auto,90.0,0.0,,Default Target,[],0.0,[]
+234653,235500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+238453,238453,Lightspeed,,,,,,,[]
+234653,238500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+238353,238885,Auto,90.0,0.0,,Default Target,[],0.0,[]
+237853,238923,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+239273,240343,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+234653,241500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+241553,242085,Auto,90.0,0.0,,Default Target,[],0.0,['Lightspeed']
+241583,242653,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+234653,244500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+243893,244963,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+245224,245224,Chain Stratagem,,,,,,,[]
+244753,245285,Auto,90.0,0.0,,Default Target,[],0.0,['Lightspeed']
+245340,245340,Divination,,,,,,,[]
+245582,245582,Dokumori,,,,,,,[]
+246253,246253,Starry Muse,,,,,,,[]
+246386,246386,Starry Muse,,,,,,,[]
+246823,246823,the Balance,,,,,,,[]
+246203,247273,Fall Malefic,270.0,38980.0,,Default Target,[],86788190.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed']"
+234653,247500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+247443,248063,Lord of Crowns,400.0,60703.0,,Default Target,[],210484683.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+247953,248485,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+249133,249133,Umbral Draw,,,,,,,[]
+249213,249213,Stellar Explosion (pet),310.0,45024.0,,Default Target,['Giant Dominance'],115794894.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Giant Dominance', 'Lightspeed', 'Starry Muse']"
+248513,249583,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+249753,249753,the Spear,,,,,,,[]
+234653,250500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+251153,251685,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+250823,251893,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+251443,253183,Oracle,860.0,130456.0,,Default Target,[],972065196.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+234653,253500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+253133,254203,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+254353,254885,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+234653,256500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+256333,257403,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+257553,258085,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+234653,259500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+258643,259713,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+261553,261553,Swiftcast,,,,,,,[]
+261453,261985,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+260953,262023,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+234653,262500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+262374,263444,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse', 'Swiftcast']"
+264653,265185,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+264684,265500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+264684,268500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+268384,268916,Auto,90.0,0.0,,Default Target,[],0.0,[]
+267884,268954,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+270194,271264,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+264684,271500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+271584,272116,Auto,90.0,0.0,,Default Target,[],0.0,[]
+272504,273574,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+264684,274500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+275314,275846,Auto,90.0,0.0,,Default Target,[],0.0,[]
+274814,275884,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+264684,277500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+277124,278194,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+278514,279046,Auto,90.0,0.0,,Default Target,[],0.0,[]
+264684,280500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+279434,280504,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+282244,282776,Auto,90.0,0.0,,Default Target,[],0.0,[]
+281744,282814,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+264684,283500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+284054,285124,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+285444,285976,Auto,90.0,0.0,,Default Target,[],0.0,[]
+264684,286500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+286364,287434,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+289274,289274,Earthly Star,,,,,,,[]
+264684,289500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+289174,289706,Auto,90.0,0.0,,Default Target,[],0.0,[]
+288674,289744,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+290984,292054,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+264684,292500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+292374,292906,Auto,90.0,0.0,,Default Target,[],0.0,[]
+293294,294364,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+294714,295500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+295574,296106,Auto,90.0,0.0,,Default Target,[],0.0,[]
+294714,298500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+297914,298984,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+298774,299306,Auto,90.0,0.0,,Default Target,[],0.0,[]
+300224,301294,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+294714,301500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+303034,303566,Auto,90.0,0.0,,Default Target,[],0.0,[]
+302534,303604,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+294714,304500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+305444,305444,Astral Draw,,,,,,,[]
+304844,305914,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+306234,306766,Auto,90.0,0.0,,Default Target,[],0.0,[]
+294714,307500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+307154,308224,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+309274,309274,Stellar Explosion (pet),310.0,36627.0,,Default Target,['Giant Dominance'],69576362.0,['Giant Dominance']
+309964,310496,Auto,90.0,0.0,,Default Target,[],0.0,[]
+294714,310500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+309464,310534,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+311774,312844,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+294714,313500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+313164,313696,Auto,90.0,0.0,,Default Target,[],0.0,[]
+314084,315154,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+294714,316500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+316894,317426,Auto,90.0,0.0,,Default Target,[],0.0,[]
+316394,317464,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+294714,319500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+318704,319774,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+320094,320626,Auto,90.0,0.0,,Default Target,[],0.0,[]
+321014,322084,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+294714,322500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+323824,324356,Auto,90.0,0.0,,Default Target,[],0.0,[]
+323324,324394,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+324744,325500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+327024,327556,Auto,90.0,0.0,,Default Target,[],0.0,[]
+324744,328500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+327944,329014,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+330754,331286,Auto,90.0,0.0,,Default Target,[],0.0,[]
+330254,331324,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+324744,331500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+332564,333634,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+333954,334486,Auto,90.0,0.0,,Default Target,[],0.0,[]
+324744,334500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+334874,335944,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+324744,337500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+337684,338216,Auto,90.0,0.0,,Default Target,[],0.0,[]
+337184,338254,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+324744,340500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+339495,340565,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+340884,341416,Auto,90.0,0.0,,Default Target,[],0.0,[]
+341805,342875,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+324744,343500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+344615,345147,Auto,90.0,0.0,,Default Target,[],0.0,[]
+344115,345185,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+324744,346500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+346425,347495,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+347815,348347,Auto,90.0,0.0,,Default Target,[],0.0,[]
+349335,349335,Earthly Star,,,,,,,[]
+324744,349500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+348735,349805,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+351545,352077,Auto,90.0,0.0,,Default Target,[],0.0,[]
+351045,352115,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+324744,352500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+353355,354425,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+354745,355277,Auto,90.0,0.0,,Default Target,[],0.0,[]
+354775,355500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+354775,358500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+358575,358575,Lightspeed,,,,,,,[]
+358475,359007,Auto,90.0,0.0,,Default Target,[],0.0,[]
+357975,359045,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+359395,360465,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+354775,361500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+361675,362207,Auto,90.0,0.0,,Default Target,[],0.0,['Lightspeed']
+361705,362775,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+363325,363325,Grade 4 Gemdraught,,,,,,,[]
+354775,364500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+364015,365085,Fall Malefic,270.0,36032.0,,Default Target,[],67331583.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+365226,365226,Chain Stratagem,,,,,,,[]
+365340,365340,Divination,,,,,,,[]
+364875,365407,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+366089,366089,Dokumori,,,,,,,[]
+366305,366305,Starry Muse,,,,,,,[]
+366438,366438,Starry Muse,,,,,,,[]
+366945,366945,the Balance,,,,,,,[]
+366325,367395,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+354775,367500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+367565,368185,Lord of Crowns,400.0,65691.0,,Default Target,[],246474661.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+368075,368607,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+369255,369255,Umbral Draw,,,,,,,[]
+369335,369335,Stellar Explosion (pet),310.0,48932.0,,Default Target,['Giant Dominance'],136753394.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Giant Dominance', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+368635,369705,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+369875,369875,the Spear,,,,,,,[]
+354775,370500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+371275,371807,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+370945,372015,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+371565,373305,Oracle,860.0,141177.0,,Default Target,[],1138404450.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+354775,373500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+373255,374325,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+374475,375007,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+354775,376500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+376455,377525,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+377675,378207,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+354775,379500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+378765,379835,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+381575,382107,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+381075,382145,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+354775,382500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+383985,383985,Swiftcast,,,,,,,[]
+383385,384455,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+384775,385307,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+384805,385500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+387115,388185,Fall Malefic,270.0,36032.0,,Default Target,[],67331583.0,"['Grade 4 Gemdraught', 'Swiftcast']"
+384805,388500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+387975,388507,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
+390315,391385,Fall Malefic,270.0,36032.0,,Default Target,[],67331583.0,['Grade 4 Gemdraught']
+384805,391500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+391175,391707,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
+392625,393695,Fall Malefic,270.0,36032.0,,Default Target,[],67331583.0,['Grade 4 Gemdraught']
+384805,394500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+395435,395967,Auto,90.0,0.0,,Default Target,[],0.0,[]
+394935,396005,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+384805,397500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+397245,398315,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+398635,399167,Auto,90.0,0.0,,Default Target,[],0.0,[]
+384805,400500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+399555,400625,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+402365,402897,Auto,90.0,0.0,,Default Target,[],0.0,[]
+401865,402935,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+384805,403500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+404175,405245,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+405565,406097,Auto,90.0,0.0,,Default Target,[],0.0,[]
+384805,406500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+406485,407555,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+384805,409500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+409295,409827,Auto,90.0,0.0,,Default Target,[],0.0,[]
+408795,409865,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+411706,411706,Earthly Star,,,,,,,[]
+411105,412175,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+384805,412500,Combust III (dot),70.0,12285.0,,Default Target,[],8621532.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+412495,413027,Auto,90.0,0.0,,Default Target,[],0.0,[]
+413416,414486,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+414836,415500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+415695,416227,Auto,90.0,0.0,,Default Target,[],0.0,[]
+414836,418500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+418036,419106,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+418895,419427,Auto,90.0,0.0,,Default Target,[],0.0,[]
+420346,421416,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+414836,421500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+423156,423688,Auto,90.0,0.0,,Default Target,[],0.0,[]
+422656,423726,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+414836,424500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+425566,425566,Astral Draw,,,,,,,[]
+424966,426036,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+426356,426888,Auto,90.0,0.0,,Default Target,[],0.0,[]
+414836,427500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+427276,428346,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+414836,430500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+430086,430618,Auto,90.0,0.0,,Default Target,[],0.0,[]
+429586,430656,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+431706,431706,Stellar Explosion (pet),310.0,36627.0,,Default Target,['Giant Dominance'],69576362.0,['Giant Dominance']
+431896,432966,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+414836,433500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+433286,433818,Auto,90.0,0.0,,Default Target,[],0.0,[]
+434206,435276,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+414836,436500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+437016,437548,Auto,90.0,0.0,,Default Target,[],0.0,[]
+436516,437586,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+414836,439500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+438826,439896,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+440216,440748,Auto,90.0,0.0,,Default Target,[],0.0,[]
+441136,442206,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+414836,442500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+443946,444478,Auto,90.0,0.0,,Default Target,[],0.0,[]
+443446,444516,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+444866,445500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+447146,447678,Auto,90.0,0.0,,Default Target,[],0.0,[]
+444866,448500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+448066,449136,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+450876,451408,Auto,90.0,0.0,,Default Target,[],0.0,[]
+450376,451446,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+444866,451500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+452686,453756,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+444866,454500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+454076,454608,Auto,90.0,0.0,,Default Target,[],0.0,[]
+454996,456066,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+444866,457500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+457806,458338,Auto,90.0,0.0,,Default Target,[],0.0,[]
+457306,458376,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+444866,460500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+459616,460686,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+461006,461538,Auto,90.0,0.0,,Default Target,[],0.0,[]
+461926,462996,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+444866,463500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+464736,465268,Auto,90.0,0.0,,Default Target,[],0.0,[]
+464236,465306,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+444866,466500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+466546,467616,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+467936,468468,Auto,90.0,0.0,,Default Target,[],0.0,[]
+444866,469500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+468856,469926,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+471766,471766,Earthly Star,,,,,,,[]
+471666,472198,Auto,90.0,0.0,,Default Target,[],0.0,[]
+471166,472236,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+444866,472500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+473476,474546,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+474866,475398,Auto,90.0,0.0,,Default Target,[],0.0,[]
+474896,478500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+478696,478696,Lightspeed,,,,,,,[]
+478596,479128,Auto,90.0,0.0,,Default Target,[],0.0,[]
+478096,479166,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+479516,480586,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+474896,481500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+481796,482328,Auto,90.0,0.0,,Default Target,[],0.0,['Lightspeed']
+481826,482896,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+474896,484500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+484136,485206,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+485228,485228,Chain Stratagem,,,,,,,[]
+485340,485340,Divination,,,,,,,[]
+484996,485528,Auto,90.0,0.0,,Default Target,[],0.0,['Lightspeed']
+486089,486089,Dokumori,,,,,,,[]
+486305,486305,Starry Muse,,,,,,,[]
+486438,486438,Starry Muse,,,,,,,[]
+487067,487067,the Balance,,,,,,,[]
+474896,487500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+486447,487517,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+487687,488307,Lord of Crowns,400.0,60703.0,,Default Target,[],210484683.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+488196,488728,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+489377,489377,Umbral Draw,,,,,,,[]
+488757,489827,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+489997,489997,the Spear,,,,,,,[]
+474896,490500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+491766,491766,Stellar Explosion (pet),310.0,45024.0,,Default Target,['Giant Dominance'],115794894.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Giant Dominance', 'Lightspeed', 'Starry Muse']"
+491396,491928,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+491067,492137,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+491687,493427,Oracle,860.0,130456.0,,Default Target,[],972065196.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+474896,493500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+493377,494447,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+494596,495128,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+474896,496500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+496577,497647,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+497796,498328,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+474896,499500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+498887,499957,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+501697,502229,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+501197,502267,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+474896,502500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+504107,504107,Swiftcast,,,,,,,[]
+503507,504577,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+504897,505429,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+474896,505500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+507237,508307,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Swiftcast']
+504927,508500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+508097,508629,Auto,90.0,0.0,,Default Target,[],0.0,[]
+504927,511500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+510437,511507,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+511297,511829,Auto,90.0,0.0,,Default Target,[],0.0,[]
+512747,513817,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+504927,514500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+515557,516089,Auto,90.0,0.0,,Default Target,[],0.0,[]
+515057,516127,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+504927,517500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+517367,518437,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+518757,519289,Auto,90.0,0.0,,Default Target,[],0.0,[]
+504927,520500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+519677,520747,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+522487,523019,Auto,90.0,0.0,,Default Target,[],0.0,[]
+521987,523057,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+504927,523500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+524297,525367,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+525687,526219,Auto,90.0,0.0,,Default Target,[],0.0,[]
+504927,526500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+526607,527677,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+504927,529500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+529417,529949,Auto,90.0,0.0,,Default Target,[],0.0,[]
+528917,529987,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+531827,531827,Earthly Star,,,,,,,[]
+531227,532297,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+504927,532500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+532617,533149,Auto,90.0,0.0,,Default Target,[],0.0,[]
+533537,534607,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+504927,535500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+535817,536349,Auto,90.0,0.0,,Default Target,[],0.0,[]
+534957,538500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+538157,539227,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+539017,539549,Auto,90.0,0.0,,Default Target,[],0.0,[]
+534957,541500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+540467,541537,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+543277,543809,Auto,90.0,0.0,,Default Target,[],0.0,[]
+542777,543847,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+534957,544500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+545687,545687,Astral Draw,,,,,,,[]
+545087,546157,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+546477,547009,Auto,90.0,0.0,,Default Target,[],0.0,[]
+534957,547500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+547397,548467,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+534957,550500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+550207,550739,Auto,90.0,0.0,,Default Target,[],0.0,[]
+549707,550777,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+551827,551827,Stellar Explosion (pet),310.0,36627.0,,Default Target,['Giant Dominance'],69576362.0,['Giant Dominance']
+552017,553087,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+534957,553500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+553407,553939,Auto,90.0,0.0,,Default Target,[],0.0,[]
+554327,555397,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+534957,556500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+557137,557669,Auto,90.0,0.0,,Default Target,[],0.0,[]
+556637,557707,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+534957,559500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+558947,560017,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+560337,560869,Auto,90.0,0.0,,Default Target,[],0.0,[]
+561258,562328,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+534957,562500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+564068,564600,Auto,90.0,0.0,,Default Target,[],0.0,[]
+563568,564638,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+534957,565500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+567268,567800,Auto,90.0,0.0,,Default Target,[],0.0,[]
+564988,568500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+568188,569258,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+564988,571500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+570998,571530,Auto,90.0,0.0,,Default Target,[],0.0,[]
+570498,571568,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+572808,573878,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+564988,574500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+574198,574730,Auto,90.0,0.0,,Default Target,[],0.0,[]
+575118,576188,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+564988,577500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+577928,578460,Auto,90.0,0.0,,Default Target,[],0.0,[]
+577428,578498,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+564988,580500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+579738,580808,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+581128,581660,Auto,90.0,0.0,,Default Target,[],0.0,[]
+582048,583118,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+564988,583500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+584858,585390,Auto,90.0,0.0,,Default Target,[],0.0,[]
+584358,585428,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+564988,586500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+586668,587738,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+588058,588590,Auto,90.0,0.0,,Default Target,[],0.0,[]
+564988,589500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+588978,590048,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+591888,591888,Earthly Star,,,,,,,[]
+591788,592320,Auto,90.0,0.0,,Default Target,[],0.0,[]
+591288,592358,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+564988,592500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+593598,594668,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+564988,595500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+594988,595520,Auto,90.0,0.0,,Default Target,[],0.0,[]
+595018,598500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+598818,598818,Lightspeed,,,,,,,[]
+598718,599250,Auto,90.0,0.0,,Default Target,[],0.0,[]
+598218,599288,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+599638,600708,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+595018,601500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+601918,602450,Auto,90.0,0.0,,Default Target,[],0.0,['Lightspeed']
+601948,603018,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+595018,604500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+605230,605230,Chain Stratagem,,,,,,,[]
+604258,605328,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
+605340,605340,Divination,,,,,,,[]
+605118,605650,Auto,90.0,0.0,,Default Target,[],0.0,['Lightspeed']
+606089,606089,Dokumori,,,,,,,[]
+606305,606305,Starry Muse,,,,,,,[]
+606438,606438,Starry Muse,,,,,,,[]
+607188,607188,the Balance,,,,,,,[]
+595018,607500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+606568,607638,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+607808,608428,Lord of Crowns,400.0,60703.0,,Default Target,[],210484683.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+608318,608850,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+609498,609498,Umbral Draw,,,,,,,[]
+608878,609948,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+610118,610118,the Spear,,,,,,,[]
+595018,610500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+611888,611888,Stellar Explosion (pet),310.0,45024.0,,Default Target,['Giant Dominance'],115794894.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Giant Dominance', 'Lightspeed', 'Starry Muse']"
+611518,612050,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+611188,612258,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+595018,613500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+611808,613548,Oracle,860.0,130456.0,,Default Target,[],972065196.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+613498,614568,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Lightspeed', 'Starry Muse']"
+614718,615250,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+595018,616500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+616698,617768,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+617918,618450,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+595018,619500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+619008,620078,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+621818,622350,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+621318,622388,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+595018,622500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+624228,624228,Swiftcast,,,,,,,[]
+623628,624698,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+595018,625500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+625018,625550,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+627358,628428,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Swiftcast']
+625048,628500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+628218,628750,Auto,90.0,0.0,,Default Target,[],0.0,[]
+625048,631500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+630558,631628,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+631418,631950,Auto,90.0,0.0,,Default Target,[],0.0,[]
+632868,633938,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+625048,634500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+635678,636210,Auto,90.0,0.0,,Default Target,[],0.0,[]
+635178,636248,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+625048,637500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+637489,638559,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+638878,639410,Auto,90.0,0.0,,Default Target,[],0.0,[]
+625048,640500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+639799,640869,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+642609,643141,Auto,90.0,0.0,,Default Target,[],0.0,[]
+642109,643179,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+625048,643500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+644419,645489,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+645809,646341,Auto,90.0,0.0,,Default Target,[],0.0,[]
+625048,646500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+646729,647799,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+625048,649500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+649539,650071,Auto,90.0,0.0,,Default Target,[],0.0,[]
+649039,650109,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+651949,651949,Earthly Star,,,,,,,[]
+651349,652419,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+625048,652500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+652739,653271,Auto,90.0,0.0,,Default Target,[],0.0,[]
+653659,654729,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+625048,655500,Combust III (dot),70.0,11349.0,,Default Target,[],7357396.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+655939,656471,Auto,90.0,0.0,,Default Target,[],0.0,[]
+655079,658500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+658279,659349,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+659139,659671,Auto,90.0,0.0,,Default Target,[],0.0,[]
+655079,661500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+660589,661659,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+663399,663931,Auto,90.0,0.0,,Default Target,[],0.0,[]
+662899,663969,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+655079,664500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+665809,665809,Astral Draw,,,,,,,[]
+665209,666279,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+666599,667131,Auto,90.0,0.0,,Default Target,[],0.0,[]
+655079,667500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+667519,668589,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+655079,670500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+670329,670861,Auto,90.0,0.0,,Default Target,[],0.0,[]
+669829,670899,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+671949,671949,Stellar Explosion (pet),310.0,36627.0,,Default Target,['Giant Dominance'],69576362.0,['Giant Dominance']
+672139,673209,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+655079,673500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+673529,674061,Auto,90.0,0.0,,Default Target,[],0.0,[]
+674449,675519,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+655079,676500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+677259,677791,Auto,90.0,0.0,,Default Target,[],0.0,[]
+676759,677829,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+655079,679500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+679069,680139,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+680459,680991,Auto,90.0,0.0,,Default Target,[],0.0,[]
+681379,682449,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+655079,682500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+684189,684721,Auto,90.0,0.0,,Default Target,[],0.0,[]
+683689,684759,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+655079,685500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+687389,687921,Auto,90.0,0.0,,Default Target,[],0.0,[]
+685109,688500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+688309,689379,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+685109,691500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+691119,691651,Auto,90.0,0.0,,Default Target,[],0.0,[]
+690619,691689,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+692929,693999,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+685109,694500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+694319,694851,Auto,90.0,0.0,,Default Target,[],0.0,[]
+695239,696309,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+685109,697500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+698049,698581,Auto,90.0,0.0,,Default Target,[],0.0,[]
+697549,698619,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+685109,700500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+699859,700929,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+701249,701781,Auto,90.0,0.0,,Default Target,[],0.0,[]
+702169,703239,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+685109,703500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+704979,705511,Auto,90.0,0.0,,Default Target,[],0.0,[]
+704479,705549,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+685109,706500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+706789,707859,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+708179,708711,Auto,90.0,0.0,,Default Target,[],0.0,[]
+685109,709500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+709099,710169,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+712010,712010,Earthly Star,,,,,,,[]
+711910,712442,Auto,90.0,0.0,,Default Target,[],0.0,[]
+711410,712480,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+685109,712500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+713720,714790,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+685109,715500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+715110,715642,Auto,90.0,0.0,,Default Target,[],0.0,[]
+716630,716630,Grade 4 Gemdraught,,,,,,,[]
+716030,717100,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+718070,718070,Lightspeed,,,,,,,[]
+717450,718500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,['Grade 4 Gemdraught']
+718310,718842,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+719760,720830,Fall Malefic,270.0,36032.0,,Default Target,[],67331583.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+717450,721500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,['Grade 4 Gemdraught']
+721510,722042,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+722070,723140,Fall Malefic,270.0,36032.0,,Default Target,[],67331583.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+717450,724500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,['Grade 4 Gemdraught']
+725232,725232,Chain Stratagem,,,,,,,[]
+724710,725242,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+725340,725340,Divination,,,,,,,[]
+724380,725450,Fall Malefic,270.0,36032.0,,Default Target,[],67331583.0,"['Grade 4 Gemdraught', 'Lightspeed']"
+726089,726089,Dokumori,,,,,,,[]
+727310,727310,the Balance,,,,,,,[]
+727457,727457,Starry Muse,,,,,,,[]
+717450,727500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,['Grade 4 Gemdraught']
+727590,727590,Starry Muse,,,,,,,[]
+726690,727760,Fall Malefic,270.0,42184.0,,Default Target,[],101643365.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed']"
+727910,728442,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+727930,728550,Lord of Crowns,400.0,65691.0,,Default Target,[],246474661.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+729620,729620,Umbral Draw,,,,,,,[]
+729000,730070,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+730240,730240,the Spear,,,,,,,[]
+717450,730500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,['Grade 4 Gemdraught']
+731110,731642,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+732010,732010,Stellar Explosion (pet),310.0,48932.0,,Default Target,['Giant Dominance'],136753394.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Giant Dominance', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+731310,732380,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+717450,733500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,['Grade 4 Gemdraught']
+731930,733670,Oracle,860.0,141177.0,,Default Target,[],1138404450.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+735010,735542,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+734510,735580,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+717450,736500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,['Grade 4 Gemdraught']
+736820,737890,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+738210,738742,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+717450,739500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,['Grade 4 Gemdraught']
+739130,740200,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+741940,742472,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+717450,742500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,['Grade 4 Gemdraught']
+741440,742510,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+744350,744350,Lightspeed,,,,,,,[]
+743750,744820,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+717450,745500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,['Grade 4 Gemdraught']
+745140,745672,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+745170,746240,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
+747480,748550,Fall Malefic,270.0,34959.0,,Default Target,[],63381916.0,"['Lightspeed', 'Starry Muse']"
+748340,748872,Auto,90.0,0.0,,Default Target,[],0.0,['Lightspeed']
+749790,750860,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']

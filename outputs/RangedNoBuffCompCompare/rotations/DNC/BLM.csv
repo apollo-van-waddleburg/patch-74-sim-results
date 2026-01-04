@@ -1,0 +1,917 @@
+sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,sim_target,sim_conditions,sim_variance,sim_buffs
+100,100,Swiftcast,,,,,,,[]
+-1200,590,Fire III,290.0,33775.0,,Default Target,['3 Astral Fire'],35211484.0,[]
+800,800,Grade 4 Gemdraught,,,,,,,[]
+590,1122,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+1050,1810,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+2250,2250,Amplifier,,,,,,,[]
+1550,2710,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught', 'Swiftcast']"
+2950,2950,Ley Lines,,,,,,,[]
+1050,4500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+5160,5692,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
+4660,5820,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
+6400,6400,Quadruple Technical Finish,,,,,,,[]
+6533,6533,Quadruple Technical Finish,,,,,,,[]
+1050,7500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+6490,7650,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
+8820,9352,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+8320,9480,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+1050,10500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+10150,11310,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+11020,11640,Xenoglossy,890.0,149642.0,,Default Target,[],691242214.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+11720,11720,Manafont,,,,,,,[]
+11600,12132,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+1050,13500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+14380,14912,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+13810,14970,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+15641,16261,Flare Star,500.0,151339.0,,Default Target,['3 Astral Fire'],706988471.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+1050,16500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+17971,18503,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+17471,18631,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+1050,19500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+19301,20461,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+21631,22163,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+21131,22291,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+1050,22500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+22961,24121,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+1050,25500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+25481,26241,High Thunder,150.0,25220.0,,Default Target,[],19631802.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+25981,26513,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+27201,28361,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught']"
+25481,28500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+29851,30383,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught']"
+29351,30511,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught']"
+25481,31500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+31501,32121,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+32430,32920,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+33131,33131,Transpose,,,,,,,[]
+33131,33663,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+33831,33831,Triplecast,,,,,,,[]
+25481,34500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+34581,35421,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Triplecast']"
+36411,36943,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+25481,37500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+36731,37891,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,"['Enochian', 'Triplecast']"
+38881,39551,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,"['Enochian', 'Triplecast']"
+39581,39581,Transpose,,,,,,,[]
+39691,40223,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+25481,40500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+41031,41701,Paradox,540.0,79886.0,,Default Target,['1 Astral Fire'],197010726.0,['Enochian']
+25481,43500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+42971,43503,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+43881,43881,Ley Lines,,,,,,,[]
+43181,44471,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+25481,46500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+46791,47323,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines']"
+46291,47451,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,"['Enochian', 'Ley Lines']"
+48121,49281,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,"['Enochian', 'Ley Lines']"
+25481,49500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+50451,50983,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines']"
+49951,51111,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,"['Enochian', 'Ley Lines']"
+25481,52500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+51781,52941,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,"['Enochian', 'Ley Lines']"
+54111,54643,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines']"
+53611,54771,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,"['Enochian', 'Ley Lines']"
+55182,55182,Triplecast,,,,,,,[]
+25481,55500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Technical Finish']"
+55802,56562,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,"['Enochian', 'Ley Lines']"
+56891,57423,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines']"
+56312,57472,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,"['Enochian', 'Ley Lines', 'Triplecast']"
+55802,58500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,"['Enochian', 'Ley Lines']"
+58142,58762,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,"['Enochian', 'Ley Lines', 'Triplecast']"
+59671,60203,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines']"
+59972,60462,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,"['Enochian', 'Ley Lines']"
+60672,60672,Transpose,,,,,,,[]
+55802,61500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,"['Enochian', 'Ley Lines']"
+61802,62642,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Ley Lines', 'Triplecast']"
+62451,62983,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines']"
+55802,64500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,"['Enochian', 'Ley Lines']"
+64592,65752,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,['Enochian']
+65231,65763,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+65462,66132,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,['Enochian']
+66162,66162,Transpose,,,,,,,[]
+55802,67500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,"['Enochian', 'Ley Lines']"
+67612,68282,Paradox,540.0,79886.0,,Default Target,['1 Astral Fire'],197010726.0,['Enochian']
+68511,69043,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+55802,70500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,"['Enochian', 'Ley Lines']"
+69762,71052,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+71791,72323,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+55802,73500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,"['Enochian', 'Ley Lines']"
+73132,74292,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+75782,76314,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+75282,76442,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+55802,76500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,"['Enochian', 'Ley Lines']"
+77432,78592,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+55802,79500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,"['Enochian', 'Ley Lines']"
+80082,80614,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+79582,80742,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+55802,82500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,"['Enochian', 'Ley Lines']"
+81732,82892,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+84382,84914,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+83882,85042,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+55802,85500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,"['Enochian', 'Ley Lines']"
+86462,87222,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+86462,88500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+88182,88802,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+88682,89214,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+89112,89602,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+89812,89812,Swiftcast,,,,,,,[]
+90512,90512,Transpose,,,,,,,[]
+86462,91500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+91262,92102,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Swiftcast']"
+91962,92494,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+86462,94500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+95242,95774,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+94632,95792,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,['Enochian']
+95562,96232,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,['Enochian']
+96262,96262,Transpose,,,,,,,[]
+86462,97500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+97712,98382,Paradox,540.0,79886.0,,Default Target,['1 Astral Fire'],197010726.0,['Enochian']
+98522,99054,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+86462,100500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+99862,101152,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+101802,102334,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+86462,103500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+103232,104392,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+105882,106414,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+86462,106500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+105382,106542,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+107532,108692,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+86462,109500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+110182,110714,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+109682,110842,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+86462,112500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+111832,112992,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+114482,115014,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+113982,115142,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+86462,115500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+114912,115532,Xenoglossy,890.0,131676.0,,Default Target,[],535209949.0,['Enochian']
+117062,117552,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+117762,117762,Manafont,,,,,,,[]
+117762,118294,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+120432,121052,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+121042,121574,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+122582,123742,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+123512,124182,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+124322,124854,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+125012,125012,Ley Lines,,,,,,,[]
+126400,126400,Quadruple Technical Finish,,,,,,,[]
+126533,126533,Quadruple Technical Finish,,,,,,,[]
+126672,127832,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+128863,129623,High Thunder,150.0,23301.0,,Default Target,[],16760673.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+129363,129895,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+128863,130500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+130332,131492,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+132663,133195,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+132163,133323,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+128863,133500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+133993,135153,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+128863,136500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+136323,136855,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+135823,136983,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+137653,138273,Flare Star,500.0,139825.0,,Default Target,['3 Astral Fire'],603503236.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+138523,139143,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+139223,139223,Amplifier,,,,,,,[]
+128863,139500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+139103,139635,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+140353,140973,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+141053,141053,Swiftcast,,,,,,,[]
+141883,142415,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+128863,142500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+142183,142803,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+144013,144633,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+144663,145195,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+128863,145500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+145843,146333,Despair,350.0,97874.0,,Default Target,['3 Astral Fire'],295736628.0,"['Enochian', 'Technical Finish']"
+146543,146543,Transpose,,,,,,,[]
+147443,147975,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+128863,148500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+147993,148833,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Swiftcast']"
+128863,151500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+151863,152395,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+151363,152523,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,['Enochian']
+152293,152963,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,['Enochian']
+152993,152993,Transpose,,,,,,,[]
+128863,154500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+155143,155675,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+154443,155733,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+128863,157500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+158423,158955,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+157813,158973,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+160393,161153,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+162613,163145,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+162113,163273,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+160393,163500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+164263,165423,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+160393,166500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+166913,167445,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+166413,167573,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+160393,169500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+168563,169723,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+171214,171746,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+170714,171874,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+171644,172314,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+172344,172344,Triplecast,,,,,,,[]
+160393,172500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+173794,174414,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,"['Enochian', 'Triplecast']"
+174494,175026,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+160393,175500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+175944,176434,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+176644,176644,Transpose,,,,,,,[]
+177774,178306,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+160393,178500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+178094,178934,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Triplecast']"
+180244,181404,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,"['Enochian', 'Triplecast']"
+160393,181500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+181054,181586,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+182394,183064,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,['Enochian']
+183094,183094,Transpose,,,,,,,[]
+160393,184500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+184334,184866,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+184544,185834,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+160393,187500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+188414,188946,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+187914,189074,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+160393,190500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+190494,191254,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+192714,193246,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+192214,193374,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+190494,193500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+194364,195524,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+190494,196500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+197014,197546,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+196514,197674,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+190494,199500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+198664,199824,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+201314,201846,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+200814,201974,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+190494,202500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+202964,203584,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+203894,204564,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+204594,204594,Swiftcast,,,,,,,[]
+204594,205126,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+190494,205500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+206044,206534,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+206744,206744,Transpose,,,,,,,[]
+207874,208406,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+190494,208500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+208194,209034,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Swiftcast']"
+190494,211500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+212064,212596,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+211564,212724,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,['Enochian']
+212494,213164,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,['Enochian']
+213194,213194,Transpose,,,,,,,[]
+190494,214500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+215344,215876,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+214644,215934,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+190494,217500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+218624,219156,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+218014,219174,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+190494,220500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+220594,221354,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+222814,223346,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+222314,223474,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+220594,223500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+224464,225624,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+220594,226500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+227114,227646,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+226614,227774,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+220594,229500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+228764,229924,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+231414,231946,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+230914,232074,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+220594,232500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+231844,232514,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+233994,234614,Xenoglossy,890.0,131676.0,,Default Target,[],535209949.0,['Enochian']
+234694,235226,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+220594,235500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+236144,236634,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+236844,236844,Manafont,,,,,,,[]
+220594,238500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+237974,238506,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+239514,240134,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+220594,241500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+242164,242696,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+241664,242824,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+242594,243264,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+244094,244094,Ley Lines,,,,,,,[]
+220594,244500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+246400,246400,Quadruple Technical Finish,,,,,,,[]
+246533,246533,Quadruple Technical Finish,,,,,,,[]
+246254,246786,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines']"
+245754,246914,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,"['Enochian', 'Ley Lines']"
+220594,247500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+247944,248704,High Thunder,150.0,23301.0,,Default Target,[],16760673.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+249914,250446,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+247944,250500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+249414,250574,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+251244,252404,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+247944,253500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+253574,254106,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+253074,254234,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+254904,256064,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+247944,256500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+256735,257355,Flare Star,500.0,139825.0,,Default Target,['3 Astral Fire'],603503236.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+257235,257767,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+257605,258225,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+247944,259500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+259435,260055,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+260135,260135,Amplifier,,,,,,,[]
+260015,260547,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+261265,261885,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+261964,261964,Triplecast,,,,,,,[]
+247944,262500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+262795,263327,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+263095,263715,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+264925,265415,Despair,350.0,97874.0,,Default Target,['3 Astral Fire'],295736628.0,"['Enochian', 'Technical Finish']"
+247944,265500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+265625,265625,Transpose,,,,,,,[]
+265575,266107,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Technical Finish']"
+267075,267745,Paradox,540.0,83881.0,,Default Target,['1 Umbral Ice'],217202488.0,"['Enochian', 'Technical Finish', 'Triplecast']"
+247944,268500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+268855,269387,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+269225,270065,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Triplecast']"
+247944,271500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+272075,272075,Transpose,,,,,,,[]
+271375,272535,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,"['Enochian', 'Triplecast']"
+272135,272667,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+247944,274500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+273525,274815,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+275415,275947,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+247944,277500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+276895,278055,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+279475,280235,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+279475,280500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+279975,280507,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+281195,282355,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+279475,283500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+283845,284377,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+283345,284505,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+279475,286500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+285495,286655,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+288145,288677,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+287645,288805,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+279475,289500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+289795,290955,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+279475,292500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+291945,292565,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+292445,292977,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+292875,293545,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+293575,293575,Swiftcast,,,,,,,[]
+279475,295500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+295025,295515,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+295725,295725,Transpose,,,,,,,[]
+295725,296257,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+297175,298015,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Swiftcast']"
+279475,298500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+299005,299537,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+279475,301500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+300545,301705,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,['Enochian']
+301475,302145,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,['Enochian']
+302175,302175,Transpose,,,,,,,[]
+302285,302817,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+279475,304500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+303625,304915,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+305565,306097,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+279475,307500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+306995,308155,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+309575,310335,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+309575,310500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+310075,310607,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+311295,312455,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+309575,313500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+313945,314477,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+313445,314605,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+309575,316500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+315595,316755,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+318245,318777,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+317745,318905,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+309575,319500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+319895,321055,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+309575,322500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+322045,322665,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+322545,323077,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+322975,323645,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+323675,323675,Triplecast,,,,,,,[]
+309575,325500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+325125,325615,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+325825,325825,Transpose,,,,,,,[]
+325825,326357,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+327275,328115,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Triplecast']"
+309575,328500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+329105,329637,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+329425,330585,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,"['Enochian', 'Triplecast']"
+309575,331500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+331575,332245,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,"['Enochian', 'Triplecast']"
+332275,332275,Transpose,,,,,,,[]
+332385,332917,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+309575,334500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+333725,335015,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+335665,336197,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+309575,337500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+337095,338255,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+339675,340435,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+339675,340500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+340175,340707,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+341395,342555,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+339675,343500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+344045,344577,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+343545,344705,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+339675,346500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+345695,346855,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+348345,348877,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+347845,349005,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+339675,349500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+349996,351156,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+350926,351596,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+351625,352157,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+339675,352500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+353076,353566,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+353776,353776,Manafont,,,,,,,[]
+354476,354476,Grade 4 Gemdraught,,,,,,,[]
+354905,355437,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+339675,355500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+356446,357066,Flare Star,500.0,144132.0,,Default Target,['3 Astral Fire'],641256316.0,"['Enochian', 'Grade 4 Gemdraught']"
+357376,357996,Xenoglossy,890.0,142516.0,,Default Target,[],626983220.0,"['Enochian', 'Grade 4 Gemdraught']"
+339675,358500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+358185,358717,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught']"
+339675,361500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+360746,361906,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught']"
+361465,361997,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught']"
+362896,364056,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught']"
+363826,364496,Paradox,540.0,86463.0,,Default Target,['3 Astral Fire'],230768546.0,"['Enochian', 'Grade 4 Gemdraught']"
+339675,364500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+364526,364526,Ley Lines,,,,,,,[]
+364745,365277,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
+366400,366400,Quadruple Technical Finish,,,,,,,[]
+366533,366533,Quadruple Technical Finish,,,,,,,[]
+339675,367500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+367525,368057,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+366936,368096,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+369126,369886,High Thunder,150.0,25220.0,,Default Target,[],19631802.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+369126,370500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+371096,371628,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+370596,371756,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+369126,373500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+372426,373586,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+374756,375288,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+374256,375416,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+369126,376500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+376086,376706,Flare Star,500.0,151339.0,,Default Target,['3 Astral Fire'],706988471.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+376956,377576,Xenoglossy,890.0,149642.0,,Default Target,[],691242214.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+377536,378068,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+378786,379406,Xenoglossy,890.0,149642.0,,Default Target,[],691242214.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+369126,379500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+380316,380848,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+380616,381236,Xenoglossy,890.0,149642.0,,Default Target,[],691242214.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+381316,381316,Amplifier,,,,,,,[]
+369126,382500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+382446,383066,Xenoglossy,890.0,149642.0,,Default Target,[],691242214.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+383146,383146,Triplecast,,,,,,,[]
+383096,383628,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+384276,384766,Despair,350.0,105932.0,,Default Target,['3 Astral Fire'],346417842.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+384976,384976,Transpose,,,,,,,[]
+369126,385500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+385876,386408,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Technical Finish']"
+386107,386777,Paradox,540.0,83881.0,,Default Target,['1 Umbral Ice'],217202488.0,"['Enochian', 'Technical Finish', 'Triplecast']"
+369126,388500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+388257,389097,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Triplecast']"
+389156,389688,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+391107,391107,Transpose,,,,,,,[]
+369126,391500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+390407,391567,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,"['Enochian', 'Triplecast']"
+392436,392968,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+392557,393847,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+369126,394500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+396427,396959,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+395927,397087,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+369126,397500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+398507,399267,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+398507,400500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+400727,401259,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+400227,401387,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+398507,403500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+402377,403537,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+405027,405559,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+404527,405687,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+398507,406500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+406677,407837,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+398507,409500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+409327,409859,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+408827,409987,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+410977,411597,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+398507,412500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+411907,412577,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+412607,412607,Swiftcast,,,,,,,[]
+412607,413139,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+414057,414547,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+414757,414757,Transpose,,,,,,,[]
+398507,415500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+415887,416419,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+416207,417047,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Swiftcast']"
+398507,418500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+420077,420609,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+419577,420737,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,['Enochian']
+420507,421177,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,['Enochian']
+421207,421207,Transpose,,,,,,,[]
+398507,421500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+423357,423889,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+422657,423947,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+398507,424500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+426457,427217,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+426957,427489,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+426457,427500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+428177,429337,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+426457,430500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+430827,431359,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+430327,431487,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+426457,433500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+432477,433637,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+435127,435659,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+434627,435787,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+426457,436500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+436777,437937,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+426457,439500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+439427,439959,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+438927,440087,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+441077,441697,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+426457,442500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+442007,442677,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+442707,442707,Triplecast,,,,,,,[]
+442707,443239,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+444157,444647,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+444857,444857,Transpose,,,,,,,[]
+426457,445500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+445987,446519,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+446307,447147,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Triplecast']"
+426457,448500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+448457,449617,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,"['Enochian', 'Triplecast']"
+449267,449799,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+450607,451277,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,"['Enochian', 'Triplecast']"
+451307,451307,Transpose,,,,,,,[]
+426457,451500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+452547,453079,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+426457,454500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+454407,455167,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+454907,456197,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+455827,456359,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+454407,457500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+458277,459437,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+459107,459639,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+454407,460500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+460427,461587,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+454407,463500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+463077,463609,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+462577,463737,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+464727,465887,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+454407,466500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+467377,467909,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+466877,468037,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+454407,469500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+469027,470187,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+469957,470627,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+470657,471189,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+454407,472500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+472107,472597,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+472807,472807,Manafont,,,,,,,[]
+473937,474469,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+454407,475500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+475477,476097,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+476407,477027,Xenoglossy,890.0,131676.0,,Default Target,[],535209949.0,['Enochian']
+477217,477749,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+454407,478500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+479777,480937,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+480497,481029,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+454407,481500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+481927,483087,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+482857,483527,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+483777,484309,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+484357,484357,Ley Lines,,,,,,,[]
+454407,484500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+486400,486400,Quadruple Technical Finish,,,,,,,[]
+486533,486533,Quadruple Technical Finish,,,,,,,[]
+486017,487177,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,"['Enochian', 'Ley Lines']"
+488207,488967,High Thunder,150.0,23301.0,,Default Target,[],16760673.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+488707,489239,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+488207,490500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+489677,490837,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+492007,492539,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+491507,492667,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+488207,493500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+493338,494498,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+495168,495788,Flare Star,500.0,139825.0,,Default Target,['3 Astral Fire'],603503236.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+495668,496200,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+488207,496500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+496038,496658,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+497868,498488,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+498448,498980,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+488207,499500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+499698,500318,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+500398,500398,Triplecast,,,,,,,[]
+501228,501760,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+501528,502018,Despair,350.0,97874.0,,Default Target,['3 Astral Fire'],295736628.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+502228,502228,Amplifier,,,,,,,[]
+488207,502500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+503358,503978,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+504058,504058,Transpose,,,,,,,[]
+504008,504540,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+488207,505500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+505188,505858,Paradox,540.0,83881.0,,Default Target,['1 Umbral Ice'],217202488.0,"['Enochian', 'Technical Finish', 'Triplecast']"
+506788,507320,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Technical Finish']"
+507338,508178,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Triplecast']"
+488207,508500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+510188,510188,Transpose,,,,,,,[]
+510068,510600,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+509488,510648,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,"['Enochian', 'Triplecast']"
+488207,511500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+511638,512928,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+513348,513880,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+488207,514500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+515008,516168,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+488207,517500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+517588,518348,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+518088,518620,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+519307,520467,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+517588,520500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+521958,522490,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+521458,522618,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+517588,523500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+523608,524768,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+517588,526500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+526258,526790,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+525758,526918,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+527908,529068,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+517588,529500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+530058,530678,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+530558,531090,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+530988,531658,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+531688,531688,Swiftcast,,,,,,,[]
+517588,532500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+533138,533628,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+533838,533838,Transpose,,,,,,,[]
+533838,534370,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+517588,535500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+535288,536128,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Swiftcast']"
+537118,537650,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+517588,538500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+538658,539818,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,['Enochian']
+539588,540258,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,['Enochian']
+540288,540288,Transpose,,,,,,,[]
+540398,540930,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+517588,541500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+541738,543028,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+543678,544210,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+517588,544500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+545108,546268,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+517588,547500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+547688,548448,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+548188,548720,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+547688,550500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+549408,550568,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+552058,552590,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+551558,552718,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+547688,553500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+553708,554868,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+547688,556500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+556358,556890,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+555858,557018,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+558008,559168,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+547688,559500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+560159,560779,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+560659,561191,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+561089,561759,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+561789,561789,Triplecast,,,,,,,[]
+547688,562500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+563239,563729,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+563939,563939,Transpose,,,,,,,[]
+563939,564471,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+547688,565500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+565389,566229,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Triplecast']"
+567219,567751,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+547688,568500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+567539,568699,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,"['Enochian', 'Triplecast']"
+569689,570359,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,"['Enochian', 'Triplecast']"
+570389,570389,Transpose,,,,,,,[]
+570499,571031,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+547688,571500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+571839,573129,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+573779,574311,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+547688,574500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+575209,576369,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+547688,577500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+577789,578549,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+578289,578821,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+577789,580500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+579509,580669,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+582159,582691,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+581659,582819,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+577789,583500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+583809,584969,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+577789,586500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+586459,586991,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+585959,587119,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+588109,589269,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+577789,589500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+590259,590879,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+590759,591291,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+591189,591859,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+577789,592500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+593339,593829,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+594039,594039,Manafont,,,,,,,[]
+594039,594571,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+577789,595500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+595489,596109,Xenoglossy,890.0,131676.0,,Default Target,[],535209949.0,['Enochian']
+597319,597851,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+577789,598500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+598859,600019,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+577789,601500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+601509,602041,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+601009,602169,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+603159,604319,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+577789,604500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+604089,604759,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+604789,605321,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+605589,605589,Ley Lines,,,,,,,[]
+606400,606400,Quadruple Technical Finish,,,,,,,[]
+606533,606533,Quadruple Technical Finish,,,,,,,[]
+577789,607500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+607249,608409,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+608069,608601,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+609439,610199,High Thunder,150.0,23301.0,,Default Target,[],16760673.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+609439,610500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+611409,611941,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+610909,612069,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+609439,613500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+612739,613899,Fire IV,300.0,83893.0,,Default Target,['3 Astral Fire'],217248674.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+614569,615189,Flare Star,500.0,139825.0,,Default Target,['3 Astral Fire'],603503236.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+615069,615601,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+615439,616059,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+609439,616500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+617269,617889,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+617849,618381,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+609439,619500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+619099,619719,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+619799,619799,Triplecast,,,,,,,[]
+620629,621161,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+620929,621419,Despair,350.0,97874.0,,Default Target,['3 Astral Fire'],295736628.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+621629,621629,Transpose,,,,,,,[]
+609439,622500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+622760,623430,Paradox,540.0,83881.0,,Default Target,['1 Umbral Ice'],217202488.0,"['Enochian', 'Ley Lines', 'Technical Finish', 'Triplecast']"
+623460,623460,Amplifier,,,,,,,[]
+623409,623941,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+624590,625210,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+609439,625500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+626189,626721,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Technical Finish']"
+626420,627260,Blizzard III,290.0,45038.0,,Default Target,['1 Umbral Ice'],62614232.0,"['Enochian', 'Technical Finish', 'Triplecast']"
+609439,628500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+629270,629270,Transpose,,,,,,,[]
+628570,629730,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,"['Enochian', 'Triplecast']"
+629469,630001,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+609439,631500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+630720,632010,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+632749,633281,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+609439,634500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+634090,635250,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+636740,637272,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+636240,637400,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+609439,637500,Thunder (dot),60.0,10528.0,,Default Target,[],3421026.0,"['Enochian', 'Ley Lines', 'Technical Finish']"
+638820,639580,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+638820,640500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+641040,641572,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+640540,641700,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+638820,643500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+642690,643850,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+645340,645872,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+644840,646000,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+638820,646500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+646990,648150,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+638820,649500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+649140,649760,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+649640,650172,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+650070,650740,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+650770,650770,Swiftcast,,,,,,,[]
+638820,652500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+652220,652710,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+652920,652920,Transpose,,,,,,,[]
+652920,653452,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+654370,655210,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Swiftcast']"
+638820,655500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+656200,656732,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+638820,658500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+657740,658900,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,['Enochian']
+658670,659340,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,['Enochian']
+659370,659370,Transpose,,,,,,,[]
+659480,660012,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+638820,661500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+660820,662110,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+662760,663292,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+638820,664500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+664190,665350,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+666840,667372,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+638820,667500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+666340,667500,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+668920,669680,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+668920,670500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+671140,671672,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+670640,671800,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+668920,673500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+672790,673950,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+675440,675972,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+674940,676100,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+668920,676500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+677090,678250,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+668920,679500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+679240,679860,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+679740,680272,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+680170,680840,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+680870,680870,Triplecast,,,,,,,[]
+668920,682500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+682320,682810,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+683020,683020,Transpose,,,,,,,[]
+683020,683552,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+684470,685310,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Triplecast']"
+668920,685500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+686300,686832,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+686620,687780,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,"['Enochian', 'Triplecast']"
+668920,688500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+688770,689440,Paradox,540.0,79886.0,,Default Target,['3 Umbral Ice'],197010726.0,"['Enochian', 'Triplecast']"
+689470,689470,Transpose,,,,,,,[]
+689580,690112,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+668920,691500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+690920,692210,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+692860,693392,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+668920,694500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+694290,695450,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+696940,697472,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+668920,697500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+696440,697600,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+699020,699780,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
+699020,700500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+701240,701772,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+700740,701900,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+699020,703500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+702890,704050,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+705540,706072,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+705040,706200,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+699020,706500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+707190,708350,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
+699020,709500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+709340,709960,Flare Star,500.0,133166.0,,Default Target,['3 Astral Fire'],547404282.0,['Enochian']
+709840,710372,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+710270,710940,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
+699020,712500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+712420,712910,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+713120,713120,Manafont,,,,,,,[]
+713120,713652,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+713820,713820,Grade 4 Gemdraught,,,,,,,[]
+699020,715500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+716400,716932,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught']"
+715790,716950,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught']"
+716720,717340,Xenoglossy,890.0,142516.0,,Default Target,[],626983220.0,"['Enochian', 'Grade 4 Gemdraught']"
+699020,718500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+720590,721122,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught']"
+720090,721250,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught']"
+699020,721500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+722240,723400,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught']"
+723170,723840,Paradox,540.0,86463.0,,Default Target,['3 Astral Fire'],230768546.0,"['Enochian', 'Grade 4 Gemdraught']"
+723870,724402,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught']"
+699020,724500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+724670,724670,Ley Lines,,,,,,,[]
+726400,726400,Quadruple Technical Finish,,,,,,,[]
+726533,726533,Quadruple Technical Finish,,,,,,,[]
+726330,727490,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
+699020,727500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+727150,727682,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+727900,727900,Triplecast,,,,,,,[]
+728520,729280,High Thunder,150.0,25220.0,,Default Target,[],19631802.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+729031,730191,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish', 'Triplecast']"
+729930,730462,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+728520,730500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+730861,732021,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish', 'Triplecast']"
+732710,733242,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+732691,733311,Flare Star,500.0,151339.0,,Default Target,['3 Astral Fire'],706988471.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish', 'Triplecast']"
+728520,733500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+734521,735011,Despair,350.0,105932.0,,Default Target,['3 Astral Fire'],346417842.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+735221,735221,Transpose,,,,,,,[]
+735490,736022,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+728520,736500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+736351,736971,Xenoglossy,890.0,149642.0,,Default Target,[],691242214.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+738181,738801,Xenoglossy,890.0,149642.0,,Default Target,[],691242214.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+738270,738802,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+728520,739500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+740011,740631,Xenoglossy,890.0,149642.0,,Default Target,[],691242214.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+741050,741582,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+728520,742500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+741841,742511,Paradox,540.0,90786.0,,Default Target,['1 Umbral Ice'],254424007.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+742541,742541,Transpose,,,,,,,[]
+743830,744362,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+744371,744371,Amplifier,,,,,,,[]
+743671,744961,Fire III,290.0,68243.0,,Default Target,['3 Astral Fire'],143763106.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+728520,745500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+745501,746121,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Enochian', 'Technical Finish']"
+746610,747142,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Technical Finish']"
+747651,748141,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+748351,748351,Transpose,,,,,,,[]
+728520,748500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines', 'Technical Finish']"
+749890,750422,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+749801,750471,Paradox,540.0,79886.0,,Default Target,['1 Umbral Ice'],197010726.0,['Enochian']
