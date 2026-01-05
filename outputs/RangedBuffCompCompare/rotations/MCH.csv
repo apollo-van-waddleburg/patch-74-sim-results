@@ -177,6 +177,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 10702,11552,Dream Within a Dream,180.0,26847.0,,Default Target,[],53138067.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Starry Muse']"
 10580,11650,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
 10702,11702,Dream Within a Dream,180.0,26847.0,,Default Target,[],53138067.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Starry Muse']"
+11331,11821,Hissatsu: Gyoten,100.0,16131.0,,Default Target,[],19018926.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Starry Muse']"
 11250,11875,Blasting Zone,800.0,102023.0,,Default Target,[],725361808.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'No Mercy', 'Starry Muse']"
 11250,12007,Salt and Darkness,500.0,59238.0,,Default Target,[],244543890.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 10943,12013,Energy Drain,100.0,17066.0,,Default Target,[],19070657.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
@@ -650,6 +651,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 63125,63125,Bloodfest,,,,,,,[]
 63131,63131,Pile Bunker (pet),340.0,38417.0,,Default Target,[],103775197.0,[]
 62741,63273,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
+62695,63315,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 62791,63323,Auto,90.0,0.0,,Default Target,[],0.0,[]
 62291,63361,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
 62755,63465,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
@@ -824,7 +826,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 70625,82500,Bow Shock (dot),60.0,5735.0,,Default Target,[],2186852.0,['No Mercy']
 72500,82500,Sonic Break (dot),120.0,11477.0,,Default Target,[],8758007.0,['No Mercy']
 77856,82500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
-81956,82576,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 82093,82625,Auto,90.0,8009.0,,Default Target,[],4264185.0,['No Mercy']
 81990,82748,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 82502,83126,Syphon Strike,380.0,33797.0,,Default Target,[],75931792.0,['Darkside']
@@ -841,6 +842,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 82500,84150,Noble Blood,900.0,86111.0,,Default Target,[],492928511.0,['No Mercy']
 83081,84151,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
 83476,84326,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
+84096,84716,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 84019,84819,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
 84937,84937,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
 84630,85388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
@@ -1067,6 +1069,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 77856,112500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 83801,112500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
 84501,112500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
+111918,112538,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 112362,112894,Auto,90.0,220.0,,Default Target,[],2952.0,[]
 111652,113032,Hammer Stamp,560.0,129187.0,,Default Target,[],13912686.0,[]
 112502,113126,Syphon Strike,380.0,33797.0,,Default Target,[],75931792.0,['Darkside']
@@ -1083,7 +1086,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 113542,114342,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
 113670,114428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 114161,114561,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
-114058,114678,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 114025,114825,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 114501,115033,Auto,90.0,0.0,,Default Target,[],0.0,[]
 114781,115401,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
@@ -1183,6 +1185,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 125222,125222,Chain Stratagem,,,,,,,[]
 124762,125302,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
 125340,125340,Divination,,,,,,,[]
+124759,125379,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 124602,125402,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,['Swiftcast']
 124901,125433,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 125473,125473,Divination,,,,,,,[]
@@ -1398,7 +1401,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 140347,140879,Auto,90.0,10534.0,,Default Target,[],8182586.0,"['Chain Stratagem', 'Divination', 'Dokumori', ""Kunai's Bane"", 'Starry Muse']"
 140927,140927,Disesteem (pet),620.0,71710.0,,Default Target,[],358365943.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 130268,140938,Wildfire (dot),1440.0,163285.0,,Default Target,['6 GCD'],22219686.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
-140520,141140,Hissatsu: Shinten,250.0,37274.0,,Default Target,[],101565215.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 140829,141361,Auto,90.0,11936.0,,Default Target,[],10414096.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 140532,141382,Blazing Shot,260.0,39581.0,,Default Target,['Overheated'],115520229.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Overheated', 'Starry Muse']"
 140893,141425,Auto,90.0,9860.0,,Default Target,[],6775742.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'No Mercy', 'Starry Muse']"
@@ -1436,11 +1438,12 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 143693,144225,Auto,90.0,9860.0,,Default Target,[],6775742.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'No Mercy', 'Starry Muse']"
 143533,144383,Blazing Shot,260.0,39581.0,,Default Target,['Overheated'],115520229.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Overheated', 'Starry Muse']"
 143913,144445,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
-144039,144619,Shoha,640.0,90026.0,,Default Target,[],592442912.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
+144020,144640,Hissatsu: Shinten,250.0,35165.0,,Default Target,[],90391543.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 144153,144863,Double Check,180.0,27396.0,,Default Target,[],55346612.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 144249,145009,Fleeting Raiju,700.0,96482.0,,Default Target,[],686323274.0,"['Chain Stratagem', 'Divination', 'Dokumori', ""Kunai's Bane"", 'Starry Muse']"
 144532,145064,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 144687,145219,Auto,90.0,9577.0,,Default Target,[],6762442.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+144640,145220,Shoha,640.0,90026.0,,Default Target,[],592442912.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 144422,145492,Energy Drain,100.0,15770.0,,Default Target,[],16282175.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 130625,145500,Bow Shock (dot),60.0,7061.0,,Default Target,[],3474156.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'No Mercy', 'Starry Muse']"
 137780,145500,Higanbana (dot),50.0,7540.0,,Default Target,[],4154788.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
@@ -1784,6 +1787,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 184950,185708,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 184722,185792,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
 185004,185844,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+185303,185923,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 185438,185978,Aeolian Edge,560.0,56992.0,,Default Target,"['Bunshin', 'Kazematoi']",229211933.0,['Bunshin']
 185000,186162,Wicked Talon,560.0,44648.0,,Default Target,['No Combo'],132518163.0,[]
 185693,186225,Auto,90.0,6674.0,,Default Target,[],2960971.0,[]
@@ -1796,7 +1800,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 186203,186823,Kasha,420.0,47982.0,,Default Target,['Meikyo Shisui'],161026141.0,"['Fugetsu', 'Fuka', 'Meikyo Shisui']"
 186146,187216,Energy Drain,100.0,12818.0,,Default Target,[],10074649.0,[]
 186250,187231,Eye Gouge,300.0,28699.0,,Default Target,[],54747652.0,['No Mercy']
-186823,187443,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 137780,187500,Higanbana (dot),50.0,7540.0,,Default Target,[],4154788.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 174592,187500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
 175003,187500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
@@ -2061,6 +2064,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 216493,217025,Auto,90.0,6674.0,,Default Target,[],2960971.0,[]
 216661,217193,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 216630,217388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+216785,217405,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 197704,217500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 204623,217500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
 205000,217500,Sonic Break (dot),120.0,11477.0,,Default Target,[],8758007.0,['No Mercy']
@@ -2099,7 +2103,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 220763,221295,Auto,90.0,0.0,,Default Target,[],0.0,[]
 220000,221653,Solid Barrel,460.0,36674.0,,Default Target,[],89411073.0,[]
 221124,221656,Auto,90.0,0.0,,Default Target,[],0.0,[]
-221065,221685,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 221544,222344,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
 221550,222350,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 222093,222625,Auto,90.0,6674.0,,Default Target,[],2960971.0,[]
@@ -2116,6 +2119,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 197704,223500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 204623,223500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
 206203,223500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+223205,223825,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 223125,223883,Hypervelocity,180.0,14347.0,,Default Target,[],13684216.0,[]
 224605,224605,Subtractive Palette,,,,,,,[]
 224084,224616,Auto,90.0,0.0,,Default Target,[],0.0,[]
@@ -2209,7 +2213,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 234586,235118,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 234623,235155,Auto,90.0,0.0,,Default Target,[],0.0,[]
 234764,235296,Auto,90.0,220.0,,Default Target,[],2952.0,[]
-234686,235306,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 197704,235500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 206203,235500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
 234653,235500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
@@ -2221,6 +2224,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 235827,236359,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 236093,236625,Auto,90.0,6674.0,,Default Target,[],2960971.0,[]
 236227,236627,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+236046,236666,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 236805,237337,Auto,90.0,0.0,,Default Target,[],0.0,[]
 236876,237408,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 236554,237704,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
@@ -2577,6 +2581,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 265388,266238,Gyofu,240.0,33757.0,,Default Target,[],83299880.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 265561,266411,Blazing Shot,260.0,39581.0,,Default Target,['Overheated'],115520229.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Overheated', 'Starry Muse']"
 265964,266496,Auto,90.0,270.0,,Default Target,[],4773.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+266008,266628,Hissatsu: Shinten,250.0,35165.0,,Default Target,[],90391543.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 266368,266768,Spinning Edge,300.0,33659.0,,Default Target,[],79952301.0,"['Dokumori', 'Starry Muse']"
 266181,266891,Checkmate,180.0,24537.0,,Default Target,[],42333545.0,"['Dokumori', 'Starry Muse']"
 266855,267387,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
@@ -3696,6 +3701,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 383385,384455,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 383965,384497,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 384208,384918,Checkmate,180.0,29655.0,,Default Target,[],64848228.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+384355,384975,Hissatsu: Shinten,250.0,38056.0,,Default Target,[],105866809.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Starry Muse']"
 384248,385008,Fleeting Raiju,700.0,104425.0,,Default Target,['Bunshin'],803944892.0,"['Bunshin', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Starry Muse']"
 384493,385025,Auto,90.0,10674.0,,Default Target,[],7939616.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'No Mercy', 'Starry Muse']"
 385096,385096,Fleeting Raiju (pet),160.0,20170.0,,Default Target,[],29996280.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
@@ -3719,7 +3725,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 385590,386348,Shot,80.0,9659.0,,Default Target,[],6879733.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 386368,386368,Phantom Kamaitachi,,,,,,,[]
 385966,386498,Auto,90.0,270.0,,Default Target,[],4773.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
-386476,387096,Hissatsu: Shinten,250.0,34078.0,,Default Target,[],81227539.0,"['Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Starry Muse']"
 386856,387388,Auto,90.0,8839.0,,Default Target,[],5513498.0,"['Dokumori', 'Grade 4 Gemdraught']"
 386925,387457,Auto,90.0,0.0,,Default Target,[],0.0,"['Dokumori', 'Grade 4 Gemdraught']"
 387135,387667,Auto,90.0,9898.0,,Default Target,[],6851445.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
@@ -3981,6 +3986,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 377475,418500,Higanbana (dot),50.0,8162.0,,Default Target,[],4868400.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Starry Muse']"
 414836,418500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
 415007,418500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
+417958,418578,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 418093,418625,Auto,90.0,6674.0,,Default Target,[],2960971.0,[]
 418125,418883,Hypervelocity,180.0,14347.0,,Default Target,[],13684216.0,[]
 418036,419106,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
@@ -4071,7 +4077,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 428156,428688,Auto,90.0,0.0,,Default Target,[],0.0,[]
 427947,428747,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
 428397,428929,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
-428659,429279,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 428381,429671,Kunai's Bane,700.0,71241.0,,Default Target,[],358158594.0,[]
 429167,429699,Auto,90.0,220.0,,Default Target,[],2952.0,[]
 429293,429825,Auto,90.0,8009.0,,Default Target,[],4264185.0,['No Mercy']
@@ -4304,6 +4309,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 456296,456828,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 456421,456953,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 456257,457097,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
+456481,457101,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 456604,457404,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 437399,457500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 443807,457500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
@@ -4431,7 +4437,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 471148,471948,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
 471486,472018,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 472080,472080,Jin,,,,,,,[]
-471461,472081,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 471257,472097,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
 471666,472198,Auto,90.0,0.0,,Default Target,[],0.0,[]
 471166,472236,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
@@ -4465,6 +4470,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 475488,476020,Auto,90.0,220.0,,Default Target,[],2952.0,[]
 475350,476108,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 475826,476358,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+475742,476362,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 476201,476601,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
 476857,476857,Subtractive Palette,,,,,,,[]
 476257,477237,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
@@ -4497,7 +4503,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 479516,480586,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
 480101,480633,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 480010,480634,Syphon Strike,380.0,33797.0,,Default Target,[],75931792.0,['Darkside']
-480022,480642,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 480166,480698,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 480177,480709,Auto,90.0,0.0,,Default Target,[],0.0,[]
 480441,480981,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
@@ -4538,6 +4543,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 475008,484500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
 483750,484552,Jugular Rip,220.0,17538.0,,Default Target,[],20445684.0,[]
 484729,484729,Reassemble,,,,,,,[]
+484302,484922,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 484506,485038,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 484682,485082,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
 484109,485139,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
@@ -4699,6 +4705,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 494515,494515,Subtractive Palette,,,,,,,[]
 493830,494588,Shot,80.0,8925.0,,Default Target,[],5873369.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 494004,494894,Fuma Shuriken,500.0,68912.0,,Default Target,['Ten Chi Jin'],350118423.0,"['Chain Stratagem', 'Divination', 'Dokumori', ""Kunai's Bane"", 'Starry Muse', 'Ten Chi Jin']"
+495003,495003,Ikishoten,,,,,,,[]
 494596,495128,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 494383,495143,Gekko,420.0,62619.0,,Default Target,['Meikyo Shisui'],286633141.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Meikyo Shisui', 'Starry Muse']"
 493815,495195,Hammer Stamp,560.0,170063.0,,Default Target,[],24108840.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
@@ -4706,8 +4713,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 494901,495433,Auto,90.0,9704.0,,Default Target,[],6561947.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Starry Muse']"
 494612,495462,Blazing Shot,260.0,39581.0,,Default Target,['Overheated'],115520229.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Overheated', 'Starry Muse']"
 494977,495509,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
-495003,495623,Hissatsu: Shinten,250.0,37274.0,,Default Target,[],101565215.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
-495623,495623,Ikishoten,,,,,,,[]
 495010,495630,Torcleaver,820.0,89797.0,,Default Target,[],561927023.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Starry Muse']"
 495005,495715,Raiton,740.0,101994.0,,Default Target,['Ten Chi Jin'],766983245.0,"['Chain Stratagem', 'Divination', 'Dokumori', ""Kunai's Bane"", 'Starry Muse', 'Ten Chi Jin']"
 495232,495942,Checkmate,180.0,27396.0,,Default Target,[],55346612.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
@@ -4808,6 +4813,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 503781,504313,Auto,90.0,9704.0,,Default Target,[],6561947.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Starry Muse']"
 503955,504487,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 503507,504577,Fall Malefic,270.0,40929.0,,Default Target,[],95681159.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+504203,504823,Hissatsu: Shinten,250.0,35165.0,,Default Target,[],90391543.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 504114,504964,Blazing Shot,260.0,39581.0,,Default Target,['Overheated'],115520229.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Overheated', 'Starry Muse']"
 503755,505005,Hammer Brush,580.0,176200.0,,Default Target,[],25886718.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 504248,505008,Fleeting Raiju,700.0,96482.0,,Default Target,[],686323274.0,"['Chain Stratagem', 'Divination', 'Dokumori', ""Kunai's Bane"", 'Starry Muse']"
@@ -4826,7 +4832,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 505000,505581,Sonic Break,340.0,40042.0,,Default Target,[],111741109.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'No Mercy', 'Starry Muse']"
 505010,505634,Souleater,480.0,52560.0,,Default Target,[],192512035.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Starry Muse']"
 505084,505704,Kasha,420.0,59075.0,,Default Target,[],255097318.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
-505704,506324,Hissatsu: Shinten,250.0,35165.0,,Default Target,[],90391543.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 505615,506465,Blazing Shot,260.0,39581.0,,Default Target,['Overheated'],115520229.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Overheated', 'Starry Muse']"
 505968,506500,Auto,90.0,270.0,,Default Target,[],4773.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 506368,506908,Aeolian Edge,560.0,62833.0,,Default Target,['Kazematoi'],278608124.0,"['Dokumori', 'Starry Muse']"
@@ -5002,6 +5007,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 526485,527285,Shifu,300.0,34274.0,,Default Target,[],82159455.0,"['Fugetsu', 'Fuka']"
 526620,527470,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
 526607,527677,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
+527105,527725,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 527736,527736,Crowned Collider (pet),390.0,44069.0,,Default Target,[],136559340.0,[]
 527293,527825,Auto,90.0,6674.0,,Default Target,[],2960971.0,[]
 527240,527950,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
@@ -5041,7 +5047,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 531827,531827,Earthly Star,,,,,,,[]
 531149,531949,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
 531121,531971,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
-531385,532005,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 531649,532181,Auto,90.0,220.0,,Default Target,[],2952.0,[]
 531227,532297,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
 532310,532310,Chi,,,,,,,[]
@@ -5089,6 +5094,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 537511,538135,Syphon Strike,380.0,33797.0,,Default Target,[],75931792.0,['Darkside']
 537356,538156,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
 537500,538214,Burst Strike,420.0,33485.0,,Default Target,[],74536445.0,[]
+537806,538426,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 497323,538500,Higanbana (dot),50.0,7540.0,,Default Target,[],4154788.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 532609,538500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
 534957,538500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
@@ -5191,7 +5197,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 547949,548749,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
 548316,548848,Auto,90.0,0.0,,Default Target,[],0.0,[]
 548136,548893,Salt and Darkness,500.0,44474.0,,Default Target,[],131481340.0,['Darkside']
-548507,549127,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 548552,549622,Energy Drain,100.0,12818.0,,Default Target,[],10074649.0,[]
 548381,549671,Kunai's Bane,700.0,71241.0,,Default Target,[],358158594.0,[]
 549169,549701,Auto,90.0,220.0,,Default Target,[],2952.0,[]
@@ -5370,6 +5375,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 567649,568181,Auto,90.0,220.0,,Default Target,[],2952.0,[]
 567511,568313,Bloodspiller,600.0,53368.0,,Default Target,[],189331056.0,['Darkside']
 567758,568378,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+567768,568388,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 567500,568393,Keen Edge,300.0,23916.0,,Default Target,[],38018986.0,[]
 557247,568500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 563809,568500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
@@ -5420,6 +5426,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 574126,574658,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 574157,574689,Auto,90.0,0.0,,Default Target,[],0.0,[]
 574198,574730,Auto,90.0,0.0,,Default Target,[],0.0,[]
+574188,574808,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 574130,574930,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 574350,575150,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
 574821,575353,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
@@ -5467,7 +5474,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 580478,581098,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
 580257,581107,Thunder in Magenta,940.0,125930.0,,Default Target,[],1123398008.0,[]
 580636,581168,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
-580609,581229,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 580625,581250,Blasting Zone,800.0,63788.0,,Default Target,[],270476675.0,[]
 580741,581273,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 580757,581289,Auto,90.0,0.0,,Default Target,[],0.0,[]
@@ -5486,6 +5492,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 582512,583136,Souleater,480.0,42692.0,,Default Target,[],121157060.0,['Darkside']
 582500,583214,Burst Strike,420.0,33485.0,,Default Target,[],74536445.0,[]
 582806,583338,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+582749,583369,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 557247,583500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 563809,583500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
 564988,583500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
@@ -5521,7 +5528,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 586409,587209,Shifu,300.0,34274.0,,Default Target,[],82159455.0,"['Fugetsu', 'Fuka']"
 586677,587209,Auto,90.0,0.0,,Default Target,[],0.0,[]
 586839,587379,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
-587029,587649,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 587146,587678,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 586668,587738,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
 587133,587983,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
@@ -5590,6 +5596,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 595000,595893,Keen Edge,300.0,23916.0,,Default Target,[],38018986.0,[]
 595490,596022,Auto,90.0,220.0,,Default Target,[],2952.0,[]
 595541,596073,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
+595590,596210,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 595257,596237,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
 595826,596358,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 596201,596741,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
@@ -5655,14 +5662,13 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 603289,603821,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 603912,603912,Kassatsu,,,,,,,[]
 603150,603950,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
+604150,604150,Meikyo Shisui,,,,,,,[]
 603497,604207,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
 603530,604290,Gekko,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
 557247,604500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 595010,604500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
 595018,604500,Combust III (dot),70.0,9233.0,,Default Target,[],4420941.0,[]
 603750,604552,Jugular Rip,220.0,17538.0,,Default Target,[],20445684.0,[]
-604150,604770,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
-604770,604770,Meikyo Shisui,,,,,,,[]
 604421,604953,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 604506,605038,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 604682,605082,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
@@ -5679,6 +5685,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 604258,605328,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,['Lightspeed']
 605340,605340,Divination,,,,,,,[]
 605377,605377,Reassemble,,,,,,,[]
+604770,605390,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 604610,605410,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,['Swiftcast']
 604757,605467,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 604710,605468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
@@ -5824,11 +5831,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 614093,614625,Auto,90.0,9860.0,,Default Target,[],6775742.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'No Mercy', 'Starry Muse']"
 614004,614894,Fuma Shuriken,500.0,68912.0,,Default Target,['Ten Chi Jin'],350118423.0,"['Chain Stratagem', 'Divination', 'Dokumori', ""Kunai's Bane"", 'Starry Muse', 'Ten Chi Jin']"
 614231,614991,Gekko,420.0,62619.0,,Default Target,[],286633141.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
+615003,615003,Ikishoten,,,,,,,[]
 614718,615250,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 615256,615256,Crowned Collider (pet),780.0,108498.0,,Default Target,[],868016928.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
-614851,615471,Hissatsu: Shinten,250.0,37274.0,,Default Target,[],101565215.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 614640,615490,Blazing Shot,260.0,39581.0,,Default Target,['Overheated'],115520229.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Overheated', 'Starry Muse']"
-615623,615623,Ikishoten,,,,,,,[]
 615012,615632,Torcleaver,820.0,89797.0,,Default Target,[],561927023.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Starry Muse']"
 615005,615715,Raiton,740.0,101994.0,,Default Target,['Ten Chi Jin'],766983245.0,"['Chain Stratagem', 'Divination', 'Dokumori', ""Kunai's Bane"", 'Starry Muse', 'Ten Chi Jin']"
 615035,615785,Blizzard in Cyan,860.0,150295.0,,Default Target,['2 Hyperphantasia'],1674490024.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Inspiration', 'Starry Muse']"
@@ -5890,6 +5896,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 619626,620386,Fleeting Raiju,700.0,96482.0,,Default Target,[],686323274.0,"['Chain Stratagem', 'Divination', 'Dokumori', ""Kunai's Bane"", 'Starry Muse']"
 619455,620435,Winged Muse,800.0,139872.0,,Default Target,[],1450290211.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 619761,620471,Double Check,180.0,27396.0,,Default Target,[],55346612.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
+619912,620532,Hissatsu: Shinten,250.0,37274.0,,Default Target,[],101565215.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 620000,620623,Gnashing Fang,440.0,51821.0,,Default Target,[],187136382.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'No Mercy', 'Starry Muse']"
 619950,620750,Broil IV,320.0,50427.0,,Default Target,[],166495750.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 620221,620753,Auto,90.0,11936.0,,Default Target,[],10414096.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
@@ -5951,7 +5958,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 625141,625673,Auto,90.0,9704.0,,Default Target,[],6561947.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Starry Muse']"
 624932,625782,Gyofu,240.0,33757.0,,Default Target,[],83299880.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 625293,625825,Auto,90.0,9860.0,,Default Target,[],6775742.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'No Mercy', 'Starry Muse']"
-625552,626172,Hissatsu: Shinten,250.0,35165.0,,Default Target,[],90391543.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 625643,626493,Blazing Shot,260.0,39581.0,,Default Target,['Overheated'],115520229.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Overheated', 'Starry Muse']"
 625970,626502,Auto,90.0,270.0,,Default Target,[],4773.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
 625830,626588,Shot,80.0,8925.0,,Default Target,[],5873369.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
@@ -6103,6 +6109,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 642109,643179,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
 642716,643248,Auto,90.0,0.0,,Default Target,[],0.0,[]
 643256,643256,Maw Motif,,,,,,,[]
+642673,643293,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 643417,643417,Gust Slash (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
 642901,643433,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 617171,643500,Higanbana (dot),50.0,7540.0,,Default Target,[],4154788.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
@@ -6167,6 +6174,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 650672,651204,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 650726,651258,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 650613,651413,Shifu,300.0,34274.0,,Default Target,[],82159455.0,"['Fugetsu', 'Fuka']"
+651233,651853,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 651949,651949,Earthly Star,,,,,,,[]
 651151,651951,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
 651651,652183,Auto,90.0,220.0,,Default Target,[],2952.0,[]
@@ -6187,7 +6195,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 652962,653494,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 652500,653574,Brutal Shell,380.0,30295.0,,Default Target,[],61007469.0,[]
 653293,653825,Auto,90.0,6674.0,,Default Target,[],2960971.0,[]
-653373,653993,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 653551,654351,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
 654430,654430,Chi,,,,,,,[]
 653659,654729,Fall Malefic,270.0,33295.0,,Default Target,[],57490602.0,[]
@@ -6237,6 +6244,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 660013,660637,Syphon Strike,380.0,33797.0,,Default Target,[],75931792.0,['Darkside']
 659856,660746,Aero in Green,530.0,70983.0,,Default Target,[],356930415.0,[]
 660150,660908,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+660424,661044,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 660624,661156,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 660661,661193,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 660625,661427,Jugular Rip,220.0,17538.0,,Default Target,[],20445684.0,[]
@@ -6251,7 +6259,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 661693,662225,Auto,90.0,6674.0,,Default Target,[],2960971.0,[]
 661651,662451,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 661971,662503,Auto,90.0,220.0,,Default Target,[],2952.0,[]
-661934,662554,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 662956,662956,Subtractive Palette,,,,,,,[]
 662500,663125,Savage Claw,500.0,39867.0,,Default Target,['No Combo'],105656829.0,[]
 663125,663125,Bloodfest,,,,,,,[]
@@ -6290,6 +6297,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 665916,666448,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 666051,666583,Auto,90.0,220.0,,Default Target,[],2952.0,[]
 666156,666688,Auto,90.0,0.0,,Default Target,[],0.0,[]
+666214,666834,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 666581,667113,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 666599,667131,Auto,90.0,0.0,,Default Target,[],0.0,[]
 666250,667231,Eye Gouge,300.0,28699.0,,Default Target,[],54747652.0,['No Mercy']
@@ -6308,7 +6316,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 667951,668751,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
 668152,668772,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
 668070,668828,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
-668354,668974,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 669171,669703,Auto,90.0,220.0,,Default Target,[],2952.0,[]
 668956,669756,Stone in Yellow,900.0,120585.0,,Default Target,[],1030051342.0,[]
 669152,669952,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
@@ -6546,6 +6553,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 695556,696316,Gekko,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
 696238,696638,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
 696181,696713,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
+696176,696796,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 696296,696828,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 696659,697459,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 685000,697500,Sonic Break (dot),120.0,11477.0,,Default Target,[],8758007.0,['No Mercy']
@@ -6695,6 +6703,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 715110,715642,Auto,90.0,0.0,,Default Target,[],0.0,[]
 715820,715820,Chi,,,,,,,[]
 715000,715893,Keen Edge,300.0,23916.0,,Default Target,[],38018986.0,[]
+715437,716057,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 715257,716237,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
 716320,716320,Jin,,,,,,,[]
 715590,716348,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
@@ -6713,7 +6722,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 716757,718097,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
 717514,718138,Syphon Strike,380.0,33797.0,,Default Target,[],75931792.0,['Darkside']
 718183,718183,Grade 4 Gemdraught,,,,,,,[]
-717578,718198,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
+718208,718208,Grade 4 Gemdraught,,,,,,,[]
 717693,718225,Auto,90.0,6674.0,,Default Target,[],2960971.0,[]
 717892,718424,Auto,90.0,220.0,,Default Target,[],2952.0,['Grade 4 Gemdraught']
 685656,718500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
@@ -6726,16 +6735,15 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 718941,718941,Grade 4 Gemdraught,,,,,,,[]
 718230,718988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 718032,719102,Energy Drain,100.0,13871.0,,Default Target,[],11799404.0,['Grade 4 Gemdraught']
-719007,719539,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
-719718,719718,Grade 4 Gemdraught,,,,,,,[]
+719007,719539,Auto,90.0,9898.0,,Default Target,[],6851445.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
+719718,719718,Meikyo Shisui,,,,,,,[]
 719783,719783,Automaton Queen,,,,,,,[]
-719098,719948,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
+719098,719948,Gyofu,240.0,29670.0,,Default Target,[],61572204.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 719957,719957,Subtractive Palette,,,,,,,[]
 719032,720102,Energy Drain,100.0,13871.0,,Default Target,[],11799404.0,['Grade 4 Gemdraught']
 719637,720169,Auto,90.0,0.0,,Default Target,[],0.0,[]
 719561,720181,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
 719163,720313,Air Anchor,660.0,88349.0,,Default Target,[],548862248.0,['Grade 4 Gemdraught']
-720338,720338,Meikyo Shisui,,,,,,,[]
 719861,720393,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 719257,720597,Holy in White,570.0,76329.0,,Default Target,[],412717799.0,[]
 720014,720638,Souleater,480.0,42692.0,,Default Target,[],121157060.0,['Darkside']
@@ -6743,6 +6751,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 720166,720698,Auto,90.0,8419.0,,Default Target,[],5001062.0,['Grade 4 Gemdraught']
 719760,720830,Fall Malefic,270.0,36032.0,,Default Target,[],67331583.0,"['Grade 4 Gemdraught', 'Lightspeed']"
 720441,720841,Gust Slash,400.0,44058.0,,Default Target,[],136973835.0,['Grade 4 Gemdraught']
+720338,720958,Hissatsu: Shinten,250.0,30910.0,,Default Target,[],66828064.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 720493,721025,Auto,90.0,6674.0,,Default Target,[],2960971.0,[]
 721250,721250,Grade 4 Gemdraught,,,,,,,[]
 685656,721500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
@@ -6845,7 +6854,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 717412,727500,Biolysis (dot),85.0,12186.0,,Default Target,[],9106082.0,['Grade 4 Gemdraught']
 717450,727500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,['Grade 4 Gemdraught']
 726265,727500,Salted Earth (dot),50.0,5639.0,,Default Target,[],2215583.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught']"
-726919,727539,Hissatsu: Shinten,250.0,36244.0,,Default Target,[],96028915.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 727590,727590,Starry Muse,,,,,,,[]
 727590,727590,Starry Muse,,,,,,,[]
 727590,727590,Starry Muse,,,,,,,[]
@@ -6896,6 +6904,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 730000,730716,Double Down,1000.0,127530.0,,Default Target,[],1133408009.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'No Mercy', 'Starry Muse']"
 730317,730849,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 729449,731009,Phantom Kamaitachi (pet),700.0,88270.0,,Default Target,[],574460286.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+730418,731038,Hissatsu: Shinten,250.0,40340.0,,Default Target,[],118949293.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Starry Muse']"
 730352,731152,Broil IV,320.0,54570.0,,Default Target,[],194981299.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 730625,731252,Bow Shock,150.0,19124.0,,Default Target,[],25482757.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'No Mercy', 'Starry Muse']"
 731527,731527,Subtractive Palette,,,,,,,[]
@@ -7007,9 +7016,9 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 738574,739554,Suiton,580.0,86518.0,,Default Target,['Ten Chi Jin'],551879009.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Starry Muse', 'Ten Chi Jin']"
 739197,739729,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 739168,740018,Blazing Shot,260.0,42840.0,,Default Target,['Overheated'],135333365.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated', 'Starry Muse']"
+739599,740089,Hissatsu: Gyoten,100.0,16131.0,,Default Target,[],19018926.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Starry Muse']"
 739350,740108,Shot,80.0,9659.0,,Default Target,[],6879733.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 739130,740200,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
-739599,740219,Hissatsu: Shinten,250.0,40340.0,,Default Target,[],118949293.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Starry Muse']"
 739788,740498,Checkmate,180.0,29655.0,,Default Target,[],64848228.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 740000,740623,Gnashing Fang,440.0,56108.0,,Default Target,[],219387266.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'No Mercy', 'Starry Muse']"
 740093,740625,Auto,90.0,10674.0,,Default Target,[],7939616.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'No Mercy', 'Starry Muse']"
@@ -7081,7 +7090,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 745084,745616,Auto,90.0,11401.0,,Default Target,[],9583928.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Starry Muse']"
 745117,745649,Auto,90.0,0.0,,Default Target,[],0.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 745140,745672,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
-745399,745889,Hissatsu: Gyoten,100.0,15217.0,,Default Target,[],16925888.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Starry Muse']"
+745399,746019,Hissatsu: Shinten,250.0,38056.0,,Default Target,[],105866809.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Starry Muse']"
 745170,746020,Blazing Shot,260.0,42840.0,,Default Target,['Overheated'],135333365.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated', 'Starry Muse']"
 745693,746225,Auto,90.0,10674.0,,Default Target,[],7939616.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'No Mercy', 'Starry Muse']"
 745170,746240,Fall Malefic,270.0,44293.0,,Default Target,[],112062726.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Lightspeed', 'Starry Muse']"
@@ -7106,6 +7115,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 747480,748550,Fall Malefic,270.0,34959.0,,Default Target,[],63381916.0,"['Lightspeed', 'Starry Muse']"
 748077,748609,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 747911,748621,Double Check,180.0,25295.0,,Default Target,[],44994323.0,"['Grade 4 Gemdraught', 'Starry Muse']"
+748160,748650,Hissatsu: Gyoten,100.0,12360.0,,Default Target,[],10684474.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 747500,748662,Wicked Talon,560.0,50754.0,,Default Target,['No Combo'],171235720.0,"['Grade 4 Gemdraught', 'Starry Muse']"
 748340,748872,Auto,90.0,0.0,,Default Target,[],0.0,['Lightspeed']
 749024,749024,Aeolian Edge (pet),160.0,16383.0,,Default Target,[],18941541.0,['Grade 4 Gemdraught']
@@ -7115,11 +7125,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 749377,749377,Swiftcast,,,,,,,[]
 748936,749476,Aeolian Edge,560.0,61682.0,,Default Target,['Kazematoi'],268481031.0,['Grade 4 Gemdraught']
 747607,749707,Polishing Hammer,600.0,157387.0,,Default Target,[],20643010.0,"['Grade 4 Gemdraught', 'Starry Muse']"
-749060,749910,Gyofu,240.0,29670.0,,Default Target,[],61572204.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
+749060,749910,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
 749171,749971,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
 749461,749993,Auto,90.0,8530.0,,Default Target,[],4836494.0,"['Darkside', 'Grade 4 Gemdraught']"
-749528,750060,Auto,90.0,9898.0,,Default Target,[],6851445.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
-749680,750300,Hissatsu: Shinten,250.0,30910.0,,Default Target,[],66828064.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
+749528,750060,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
+749680,750300,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 749553,750353,Broil IV,320.0,40986.0,,Default Target,[],103014961.0,[]
 749791,750501,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
 750053,750585,Auto,90.0,220.0,,Default Target,[],2952.0,[]
