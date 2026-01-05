@@ -23,23 +23,22 @@ From these comps, we focus on specific roles by testing all **unique permutation
 labeled with the 1-2 jobs it is specifically testing. All permutations are simulated against each other and plotted in 
 the same graph for easy side-by-side comparison.
 
-* `(Variable Tanks)-AST-SCH-MNK-NIN-BRD-PCT` [results](outputs/TankBuffCompCompare)
-* `(Variable Tanks)-SGE-WHM-SAM-VPR-MCH-BLM` [results](outputs/TankNoBuffCompCompare)
-* `DRK-GNB-(Variable Healers)-MNK-NIN-BRD-PCT` [results](outputs/HealerBuffCompCompare)
-* `PLD-WAR-(Variable Healers)-SAM-VPR-MCH-BLM` [results](outputs/HealerNoBuffCompCompare)
-* `DRK-GNB-WHM-SCH-(Variable Melees)-BRD-PCT` [results](outputs/MeleeBuffCompCompare)
-  * Mostly laziness regarding using AST here, I didn't want to configure cards.
-* `PLD-WAR-SGE-WHM-(Variable Melees)-MCH-BLM` [results](outputs/MeleeNoBuffCompCompare)
-* `DRK-GNB-AST-SCH-SAM-NIN-(Variable Ranged)-PCT` [results](outputs/RangedBuffCompCompare)
-  * Please note, I have deviated from the `meta` comp and added SAM. This helps DNC. It won't matter much.
-* `PLD-WAR-SGE-WHM-SAM-VPR-(Variable Ranged)-BLM` [results](outputs/RangedNoBuffCompCompare)
-* `DRK-GNB-WHM-SCH-MNK-NIN-BRD-(Variable Caster)` [results](outputs/CasterBuffCompCompare)
-* `DRK-GNB-AST-SCH-MNK-NIN-BRD-(Variable Caster)` [results](outputs/CasterAstBuffCompCompare)
-  * Ranged cards were used on the caster.
-* `PLD-WAR-SGE-WHM-SAM-VPR-MCH-(Variable Caster)` [results](outputs/CasterNoBuffCompCompare)
+| Comp                                            | Link                                                                                                                | Comment                                                                  |
+|:------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------|
+| `(Variable Tanks)-AST-SCH-MNK-NIN-BRD-PCT`      | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/TankBuffCompCompare)      |                                                                          |
+| `(Variable Tanks)-SGE-WHM-SAM-VPR-MCH-BLM`      | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/TankNoBuffCompCompare)    |                                                                          |
+| `DRK-GNB-(Variable Healers)-MNK-NIN-BRD-PCT`    | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/HealerBuffCompCompare)    |                                                                          |
+| `PLD-WAR-(Variable Healers)-SAM-VPR-MCH-BLM`    | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/HealerNoBuffCompCompare)  |                                                                          |
+| `DRK-GNB-WHM-SCH-(Variable Melees)-BRD-PCT`     | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/MeleeBuffCompCompare)     | Mostly laziness on not using AST here, I didn't want to configure cards. |
+| `PLD-WAR-SGE-WHM-(Variable Melees)-MCH-BLM`     | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/MeleeNoBuffCompCompare)   |                                                                          |
+| `DRK-GNB-AST-SCH-SAM-NIN-(Variable Ranged)-PCT` | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedBuffCompCompare)    |                                                                          |
+| `PLD-WAR-SGE-WHM-SAM-VPR-(Variable Ranged)-BLM` | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedNoBuffCompCompare)  |                                                                          |
+| `DRK-GNB-WHM-SCH-MNK-NIN-BRD-(Variable Caster)` | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterBuffCompCompare)    |                                                                          |
+| `DRK-GNB-AST-SCH-MNK-NIN-BRD-(Variable Caster)` | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterAstBuffCompCompare) | Ranged cards were used on the caster.                                    |
+| `PLD-WAR-SGE-WHM-SAM-VPR-MCH-(Variable Caster)` | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterNoBuffCompCompare)  |                                                                          |
 
 ### Rotations
-All rotations are hand-sheeted 12 minute and 30s rotations, using Pots in the opener, 6 minute, and 12 minute windows.
+All rotations are hand-sheeted `12:30` rotations, using pots in the opener, 6 minute, and 12 minute windows.
 All rotations attempted to align with a ~6s buff opener. As mentioned before, MNK/BRD/DNC have some random elements
 in the simulation:
 * MNK: Chakra is randomly simulated based on game values. TFC's are used whenever possible with no holding.
@@ -56,6 +55,17 @@ in the simulation:
 * DNC:
   * The sim replaces almost all gcds and ogcds following the generally recommended priority system.
   * Dance timings, Standard refreshes, and Flourish/Devilment usages are never moved.
+
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <figure style="flex: 1; text-align: center;">
+    <img src="/figures/brd-rng.png" style="width: 100%;">
+    <figcaption>BRD RNG Solver Output</figcaption></figcaption>
+  </figure>
+  <figure style="flex: 1; text-align: center;">
+    <img src="/figures/dnc-rng.png" style="width: 100%;">
+    <figcaption>DNC RNG Solver Output</figcaption>
+  </figure>
+</div>
 
 MNK and DNC also scan other rotations in the comp to simulate the chakra/esprit generation from the party.
 
@@ -89,20 +99,27 @@ There are many generated outputs and plenty of them might not be very insightful
 These are initial reactions based on the `comp_dps` graphs generated by our sim. You can also draw similar conclusions
 by looking at the `comp_dps_over_time` version if you only care about expected value.
 
-### Tanks
-Tanks seem very balanced, with GNB performing well without buffs, while DRK takes a decent lead with buffs.
+| Name                       | Comment                                                                                                                                       | Link                                                                                                                                                                                       |
+|:---------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Buff Comp Dps (Tanks)      | DRK comps are the strongest, gaining at most `1000 DPS` against the worst pair (PLD-WAR).                                                     | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/TankBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)      |
+| No Buff Comp Dps (Tanks)   | GNB comps are the strongest, gaining at most `600 DPS` against the worst pair (WAR-DRK).                                                      | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/TankNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)    |
+| Buff Comp Dps (Healers)    | Buff-using healers seem very strong in this experiment, AST/SCH gaining over `3000 DPS` against WHM/SGE.                                      | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/HealerBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)    |
+| No Buff Comp Dps (Healers) | AST/SCH remains relatively dominant (`+1500 DPS` against WHM/SGH), but AST's performance seems to fall in line with WHM.                      | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/HealerNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)  |
+| Buff Comp Dps (Melees)     | MNK/NIN is a clear winner (`~600 DPS` over NIN/RPR), Outside of this, differences are small with SAM/VPR being the worst.                     | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/MeleeBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)     |
+| No Buff Comp Dps (Melees)  | MNK/NIN is a narrow winner (`<100 DPS` over MNK/RPR). RPR seems a lot more powerful in this situation, while SAM/DRG has moved to the bottom. | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/MeleeNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)   |
+| Buff Comp Dps (Ranged)     | BRD is the strongest in this experiment, even with using SAM for DNC Partner. MCH is down about `3000 DPS`                                    | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)    |
+| No Buff Comp Dps (Ranged)  | BRD is still a clear winner, but by a smaller margin (`~1300 DPS`). DNC is very slightly above MCH.                                           | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)  |
+| AST Buff Comp Dps (Caster) | PCT seems to win by a good margin (`~600 DPS` over RDM), with RDM slightly edging out BLM.                                                    | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterAstBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html) |
+| Buff Comp Dps (Caster)     | PCT is still ahead, but the three real casters are within `300 DPS` of each other.                                                            | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)    |
+| No Buff Comp Dps (Caster)  | BLM takes a dominant lead in this scenario (`+1500 DPS` over PCT), with PCT actually moving below RDM.                                        | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)  |
 
-* [Buff Comp Dps](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/TankBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)
-* [No Buff Comp Dps](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/TankNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)
-* Difference between the best and worse in all situations seems to be around 600 dps at most.
+### Tanks
+Tanks seem very balanced. GNB performs the best without buffs, while DRK takes a decent lead with buffs.
 
 ### Healers
-SCH and AST are very dominant in buff-stacking comps, gaining over 3000 dps over the WHM/SGE pair. In cases where AST/SCH
-are the only buff providers, the difference drops dramatically: it seems like the ranking is `SCH > AST >= WHM > SGE` in that case.
-
-* [Buff Comp Dps](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/HealerBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)
-* [No Buff Comp Dps](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/HealerNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)
-* The difference between the best and worse can be over 3000 dps. Another way to put this is in the most extreme situation, an absolutely insane WHM/SGE performance (99% in an otherwise meta buff comp) is about equal to the *average* AST/SCH run.
+SCH and AST are very dominant in buff-stacking comps, gaining over 3000 dps over the WHM/SGE pair. 
+Another way to put this is in the most extreme situation, an absolutely insane WHM/SGE performance (99% in an otherwise meta buff comp) is about equal to the *average* AST/SCH run
+In cases where AST/SCH are the only buff providers, the difference drops dramatically: it seems like the ranking is `SCH > AST >= WHM > SGE` in that case.
 
 ### Melees
 MNK/NIN seems to be a strong combo, and this is not surprising if you follow top speed runs. These jobs seem to do really
@@ -110,16 +127,12 @@ well when supported by (and supporting) other buff jobs. It's still the best in 
 
 Regarding SAM/VPR, they seem to be a bit weak. SAM is pretty contextual regarding when it's going to do really well, but I think
 it's fair to say that it often comes up a little short. Raid-buffs are just that good. You can also call out that
-I didn't use DNC or AST in this test, which would favor SAM/VPR: I might follow up with these analyses later, 
+I didn't use DNC or AST in this test, which would favor SAM/VPR: I might follow up with more experiments later, 
 but I will call out that BRD is generally stronger than DNC so the decision-making to bring DNC to justify SAM/VPR seems dubious.
 
 The maiming jobs seem to be in the middle of the pack. I personally haven't looked so much as to why: I think I was expecting
 a bit more out of DRG and a bit less out of RPR. I'm not really familiar with what's going on here since we haven't simmed
-those jobs much since 7.0 (**Sleepocat** internally banned DRG after that patch). 
-
-* [Buff Comp Dps](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/MeleeBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)
-* [No Buff Comp Dps](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/MeleeNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)
-* The difference between the best and worse can be near 3000 dps. This is similar to healers, but Melee are more impactful in terms of net damage, so I'd argue it's a bit more balanced here.
+those jobs much since 7.0 (**Sleepocat** internally banned DRG after that patch).
 
 ### Ranged
 BRD slaps. MCH sucks. This should not be surprising to anyone. DNC is in a decent spot, but I think it is edged-out by 
@@ -133,13 +146,9 @@ I will call out that DNC seems to do better in shorter fights since BRD starts o
 Peeking at the [comp-dps-over-time](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedBuffCompCompare/comp_dps_over_time/comp_dps_over_time.html) 
 graph, you can see this play out around the 4-5m mark.
 
-MCH is just below everyone else even in no-buff situations (but it's close to DNC!). It could stand to do 2k more dps on average and that would 
-put it into the "conditionally best" tier. I'll also call out that we haven't simmed MCH before this week so ah... maybe
+MCH is just below everyone else even in no-buff situations (but it's close to DNC!). In a high-buff situations, it's 
+likely the single worst job you can bring over BRD or DNC. It could stand to do 2k more dps on average and that would put it into the "conditionally best" tier. I'll also call out that we haven't simmed MCH before this week so ah... maybe
 something is off. But no-one is really surprised here... right?
-
-* [Buff Comp Dps](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)
-* [No Buff Comp Dps](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)
-* The difference between the best and worse can be over 3000 dps. This is worse than healers since it's all from 1 job pick in a specific situation. In the otherwise meta buff comp, the best MCH run can still be less than the average BRD run.
 
 ### Caster
 The balance between casters is... honestly great (if you exclude SMN). They all seem to push ahead in specific scenarios:
@@ -152,12 +161,14 @@ I did something special where I compared had an AST buff comp and a no AST buff 
 (but maybe I should have carded the PhysRanged over SMN). PCT shot ahead in that specific scenario as you would 
 expect since it's kinda the perfect job for the current meta (I couldn't make SMN work though).
 
-* [AST Buff Comp Dps](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterAstBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)
-* [Buff Comp Dps](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)
-* [No Buff Comp Dps](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)
-* Excluding SMN, Casters are insanely balanced in strong buff comps, while BLM is dominant by about 1k dps in low-buff comps.
-
 ## Disclaimers
+
+### Bias
+These simulations bias towards buff-stacking comps. While I do believe the strongest comp will heavily utilize
+raid-buffs, the reality for most people in most situations is that people will fail to play around raid-buffs well. 
+This failure to perform optimally is not something we try to emulate with these simulations, so it's hard to know exactly
+how these results translate to a real world scenario. As such, I wouldn't overthink the results here regarding specific 
+underperformers and I encourage you to consider the context of your own situation when evaluating this data.
 
 ### Mistakes
 
