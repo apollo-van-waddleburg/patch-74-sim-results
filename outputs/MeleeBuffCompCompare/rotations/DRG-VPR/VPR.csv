@@ -168,7 +168,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 123863,124483,Reawaken,750.0,84811.0,,Default Target,[],515993402.0,"[""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 125195,125195,Battle Voice,,,,,,,[]
 125222,125222,Chain Stratagem,,,,,,,[]
-125756,125756,Battle Litany,,,,,,,[]
+125753,125753,Battle Litany,,,,,,,[]
 125815,125815,Radiant Finale,,,,,,,[]
 126253,126253,Starry Muse,,,,,,,[]
 126386,126386,Starry Muse,,,,,,,[]
@@ -327,7 +327,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 244650,245182,Auto,90.0,8936.0,,Default Target,[],5727828.0,"[""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 245224,245224,Chain Stratagem,,,,,,,[]
 245366,245366,Battle Voice,,,,,,,[]
-245758,245758,Battle Litany,,,,,,,[]
+245753,245753,Battle Litany,,,,,,,[]
 245986,245986,Radiant Finale,,,,,,,[]
 246253,246253,Starry Muse,,,,,,,[]
 246386,246386,Starry Muse,,,,,,,[]
@@ -488,7 +488,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 363503,364123,Reawaken,750.0,91822.0,,Default Target,[],604815284.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 365226,365226,Chain Stratagem,,,,,,,[]
 365366,365366,Battle Voice,,,,,,,[]
-365760,365760,Battle Litany,,,,,,,[]
+365753,365753,Battle Litany,,,,,,,[]
 365986,365986,Radiant Finale,,,,,,,[]
 365610,366142,Auto,90.0,9677.0,,Default Target,[],6718650.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 366305,366305,Starry Muse,,,,,,,[]
@@ -648,7 +648,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 483939,485099,Swiftskin's Sting,300.0,33921.0,,Default Target,[],82540275.0,"[""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 485228,485228,Chain Stratagem,,,,,,,[]
 485366,485366,Battle Voice,,,,,,,[]
-485763,485763,Battle Litany,,,,,,,[]
+485753,485753,Battle Litany,,,,,,,[]
 485986,485986,Radiant Finale,,,,,,,[]
 486305,486305,Starry Muse,,,,,,,[]
 486438,486438,Starry Muse,,,,,,,[]
@@ -807,14 +807,14 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 602684,604384,Death Rattle,280.0,31659.0,,Default Target,[],71896435.0,"[""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 604184,604804,Reawaken,750.0,84811.0,,Default Target,[],515993402.0,"[""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 605230,605230,Chain Stratagem,,,,,,,[]
-605765,605765,Battle Litany,,,,,,,[]
 605290,605822,Auto,90.0,8936.0,,Default Target,[],5727828.0,"[""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 606152,606152,Battle Voice,,,,,,,[]
 606305,606305,Starry Muse,,,,,,,[]
+606373,606373,Battle Litany,,,,,,,[]
 606438,606438,Starry Muse,,,,,,,[]
 606772,606772,Radiant Finale,,,,,,,[]
 606055,607755,First Generation,680.0,80965.0,,Default Target,[],482705525.0,"['Chain Stratagem', ""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
-606675,607965,First Legacy,320.0,42016.0,,Default Target,[],124039833.0,"['Battle Litany', 'Chain Stratagem', ""Hunter's Instinct"", 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
+606675,607965,First Legacy,320.0,40004.0,,Default Target,[],117838894.0,"['Chain Stratagem', ""Hunter's Instinct"", 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
 607530,608062,Auto,90.0,11510.0,,Default Target,[],9434009.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Hunter's Instinct"", 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
 607756,609226,Second Generation,680.0,99044.0,,Default Target,[],698626148.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Hunter's Instinct"", 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
 608376,609446,Second Legacy,320.0,46606.0,,Default Target,[],154694034.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Hunter's Instinct"", 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
@@ -841,7 +841,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 623002,624072,Fourth Legacy,320.0,46606.0,,Default Target,[],154694034.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Hunter's Instinct"", 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
 625450,625982,Auto,90.0,11510.0,,Default Target,[],9434009.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Hunter's Instinct"", 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
 624082,626412,Ouroboros,1150.0,167508.0,,Default Target,[],1998300050.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Hunter's Instinct"", 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
-626633,627433,Uncoiled Fury,680.0,89561.0,,Default Target,[],583050492.0,"['Battle Voice', ""Hunter's Instinct"", 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
+626633,627433,Uncoiled Fury,680.0,94302.0,,Default Target,[],663320958.0,"['Battle Litany', 'Battle Voice', ""Hunter's Instinct"", 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
 627253,627873,Uncoiled Twinfang,170.0,20374.0,,Default Target,['Poised for Twinfang'],29780738.0,"[""Hunter's Instinct"", 'Poised for Twinfang', 'Radiant Finale', 'Swiftscaled', ""The Wanderer's Minuet""]"
 627690,628222,Auto,90.0,8936.0,,Default Target,[],5727828.0,"[""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 627873,628853,Uncoiled Twinblood,170.0,19221.0,,Default Target,['Poised for Twinblood'],26504432.0,"[""Hunter's Instinct"", 'Poised for Twinblood', 'Swiftscaled', ""The Wanderer's Minuet""]"
@@ -970,8 +970,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 723761,725231,Second Generation,680.0,83254.0,,Default Target,[],497212069.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 725232,725232,Chain Stratagem,,,,,,,[]
 724381,725451,Second Legacy,320.0,39176.0,,Default Target,[],110095996.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
-725768,725768,Battle Litany,,,,,,,[]
 726152,726152,Battle Voice,,,,,,,[]
+726373,726373,Battle Litany,,,,,,,[]
 726772,726772,Radiant Finale,,,,,,,[]
 726250,726782,Auto,90.0,10189.0,,Default Target,[],7646010.0,"['Chain Stratagem', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 725462,726932,Third Generation,680.0,83254.0,,Default Target,[],497212069.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
@@ -1003,7 +1003,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 744170,744702,Auto,90.0,11510.0,,Default Target,[],9434009.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Hunter's Instinct"", 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
 743878,744858,Uncoiled Twinblood,170.0,26802.0,,Default Target,['Poised for Twinblood'],51161337.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Poised for Twinblood', 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
 745609,746189,Vicewinder,500.0,72826.0,,Default Target,[],377725650.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Hunter's Instinct"", 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
-746410,746942,Auto,90.0,10408.0,,Default Target,[],7873219.0,"['Battle Voice', ""Hunter's Instinct"", 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
+746410,746942,Auto,90.0,10959.0,,Default Target,[],8957231.0,"['Battle Litany', 'Battle Voice', ""Hunter's Instinct"", 'Radiant Finale', 'Starry Muse', 'Swiftscaled', ""The Wanderer's Minuet""]"
 748159,748959,Uncoiled Fury,680.0,76894.0,,Default Target,[],424158135.0,"[""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 748650,749182,Auto,90.0,8936.0,,Default Target,[],5727828.0,"[""Hunter's Instinct"", 'Swiftscaled', ""The Wanderer's Minuet""]"
 748779,749399,Uncoiled Twinfang,170.0,19221.0,,Default Target,['Poised for Twinfang'],26504432.0,"[""Hunter's Instinct"", 'Poised for Twinfang', 'Swiftscaled', ""The Wanderer's Minuet""]"

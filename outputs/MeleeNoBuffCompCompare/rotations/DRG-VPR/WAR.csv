@@ -105,7 +105,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 120997,121529,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 122672,123295,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
 124357,124889,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
-125756,125756,Battle Litany,,,,,,,[]
+125753,125753,Battle Litany,,,,,,,[]
 125173,125796,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
 125798,125798,Inner Release,,,,,,,[]
 126423,126423,Infuriate,,,,,,,[]
@@ -204,7 +204,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 240175,240707,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 241957,242489,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 242675,243298,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
-245758,245758,Battle Litany,,,,,,,[]
+245753,245753,Battle Litany,,,,,,,[]
 245175,245798,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
 245800,245800,Inner Release,,,,,,,[]
 245317,245849,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
@@ -305,7 +305,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 362677,363300,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
 363302,363302,Grade 4 Gemdraught,,,,,,,[]
 362917,363449,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
-365760,365760,Battle Litany,,,,,,,[]
+365753,365753,Battle Litany,,,,,,,[]
 365177,365800,Fell Cleave,580.0,55814.0,,Default Target,['Surging Tempest'],207082394.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
 365802,365802,Inner Release,,,,,,,[]
 366427,366427,Infuriate,,,,,,,[]
@@ -404,7 +404,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 480180,481829,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 482680,483212,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 483877,484409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
-485763,485763,Battle Litany,,,,,,,[]
+485753,485753,Battle Litany,,,,,,,[]
 485180,485803,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
 485805,485805,Inner Release,,,,,,,[]
 486430,486430,Infuriate,,,,,,,[]
@@ -506,8 +506,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 602682,604197,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 604837,605369,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 605182,605714,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
-605765,605765,Battle Litany,,,,,,,[]
 605807,605807,Inner Release,,,,,,,[]
+606373,606373,Battle Litany,,,,,,,[]
 607682,608619,Inner Chaos,660.0,107606.0,,Default Target,['Surging Tempest'],9649926.0,"['Battle Litany', 'Surging Tempest']"
 608197,608729,Auto,90.0,9419.0,,Default Target,['Surging Tempest'],6182100.0,"['Battle Litany', 'Surging Tempest']"
 608307,608930,Upheaval,420.0,39352.0,,Default Target,['Surging Tempest'],107914522.0,"['Battle Litany', 'Surging Tempest']"
@@ -606,9 +606,9 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 722437,722969,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
 722684,724199,Storm's Path,500.0,48117.0,,Default Target,['Surging Tempest'],153906513.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
 725185,725717,Heavy Swing,240.0,23089.0,,Default Target,['Surging Tempest'],35438482.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
-725768,725768,Battle Litany,,,,,,,[]
 725810,725810,Inner Release,,,,,,,[]
 725797,726329,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+726373,726373,Battle Litany,,,,,,,[]
 727685,728622,Inner Chaos,660.0,116427.0,,Default Target,['Surging Tempest'],11294680.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Surging Tempest']"
 728310,728933,Upheaval,420.0,42577.0,,Default Target,['Surging Tempest'],126332394.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Surging Tempest']"
 728935,729602,Onslaught,150.0,15202.0,,Default Target,['Surging Tempest'],16104006.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Surging Tempest']"

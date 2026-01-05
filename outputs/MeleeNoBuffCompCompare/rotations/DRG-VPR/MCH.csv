@@ -157,7 +157,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 124230,124988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 124027,125057,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
 125146,125146,Roller Dash (pet),432.0,48811.0,,Default Target,[],167525369.0,[]
-125756,125756,Battle Litany,,,,,,,[]
+125753,125753,Battle Litany,,,,,,,[]
 125267,125977,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 126528,127598,Excavator,660.0,149428.0,,Default Target,['Reassemble'],18612752.0,"['Battle Litany', 'Reassemble']"
 126870,127628,Shot,80.0,7637.0,,Default Target,[],4300644.0,['Battle Litany']
@@ -316,7 +316,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 244675,244675,Reassemble,,,,,,,[]
 244055,245085,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
 245174,245174,Roller Dash (pet),480.0,54238.0,,Default Target,[],206852178.0,[]
-245758,245758,Battle Litany,,,,,,,[]
+245753,245753,Battle Litany,,,,,,,[]
 245295,246005,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 245670,246428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 246556,247626,Excavator,660.0,149428.0,,Default Target,['Reassemble'],18612752.0,"['Battle Litany', 'Reassemble']"
@@ -467,7 +467,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 364082,365112,Chain Saw,660.0,88349.0,,Default Target,[],548862248.0,['Grade 4 Gemdraught']
 365201,365201,Roller Dash (pet),480.0,58967.0,,Default Target,[],244512823.0,['Grade 4 Gemdraught']
 364470,365228,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
-365760,365760,Battle Litany,,,,,,,[]
+365753,365753,Battle Litany,,,,,,,[]
 365322,366032,Checkmate,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
 366583,367653,Excavator,660.0,161731.0,,Default Target,['Reassemble'],21799856.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Reassemble']"
 367110,367868,Shot,80.0,8266.0,,Default Target,[],5037777.0,"['Battle Litany', 'Grade 4 Gemdraught']"
@@ -619,7 +619,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 484729,484729,Reassemble,,,,,,,[]
 484109,485139,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
 485228,485228,Roller Dash (pet),432.0,48811.0,,Default Target,[],167525369.0,[]
-485763,485763,Battle Litany,,,,,,,[]
+485753,485753,Battle Litany,,,,,,,[]
 485349,486059,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
 485910,486668,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 486610,487680,Excavator,660.0,149428.0,,Default Target,['Reassemble'],18612752.0,"['Battle Litany', 'Reassemble']"
@@ -780,9 +780,9 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 605377,605377,Reassemble,,,,,,,[]
 604757,605467,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 604710,605468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
-605765,605765,Battle Litany,,,,,,,[]
+606373,606373,Battle Litany,,,,,,,[]
 605997,606707,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
-606638,607708,Excavator,660.0,149428.0,,Default Target,['Reassemble'],18612752.0,"['Battle Litany', 'Reassemble']"
+606638,607708,Excavator,660.0,140638.0,,Default Target,['Reassemble'],16475976.0,['Reassemble']
 607258,607968,Checkmate,180.0,23443.0,,Default Target,[],40523421.0,['Battle Litany']
 607350,608108,Shot,80.0,7637.0,,Default Target,[],4300644.0,['Battle Litany']
 608456,608456,Arm Punch (pet),240.0,28561.0,,Default Target,[],60149402.0,['Battle Litany']
@@ -931,11 +931,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 724784,724784,Reassemble,,,,,,,[]
 724164,725194,Chain Saw,660.0,152217.0,,Default Target,['Reassemble'],19309106.0,"['Grade 4 Gemdraught', 'Reassemble']"
 725283,725283,Roller Dash (pet),480.0,58967.0,,Default Target,[],244512823.0,['Grade 4 Gemdraught']
-725768,725768,Battle Litany,,,,,,,[]
 725404,726114,Double Check,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+726373,726373,Battle Litany,,,,,,,[]
 726024,726734,Checkmate,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
 726150,726908,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
-726665,727735,Excavator,660.0,161731.0,,Default Target,['Reassemble'],21799856.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Reassemble']"
+726665,727735,Excavator,660.0,152217.0,,Default Target,['Reassemble'],19309106.0,"['Grade 4 Gemdraught', 'Reassemble']"
 727905,727905,Hypercharge,,,,,,,[]
 727285,727995,Double Check,180.0,25376.0,,Default Target,[],47482437.0,"['Battle Litany', 'Grade 4 Gemdraught']"
 728483,728483,Arm Punch (pet),240.0,31053.0,,Default Target,[],71102595.0,"['Battle Litany', 'Grade 4 Gemdraught']"
@@ -971,7 +971,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 744630,745388,Shot,80.0,8266.0,,Default Target,[],5037777.0,"['Battle Litany', 'Grade 4 Gemdraught']"
 745170,746020,Blazing Shot,260.0,36658.0,,Default Target,['Overheated'],99090439.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Overheated']"
 745790,746500,Checkmate,180.0,25376.0,,Default Target,[],47482437.0,"['Battle Litany', 'Grade 4 Gemdraught']"
-746671,747821,Drill,660.0,88349.0,,Default Target,[],548862248.0,['Grade 4 Gemdraught']
+746671,747821,Drill,660.0,93061.0,,Default Target,[],638578508.0,"['Battle Litany', 'Grade 4 Gemdraught']"
 747291,748001,Checkmate,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
 747270,748028,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
 747911,748621,Double Check,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']

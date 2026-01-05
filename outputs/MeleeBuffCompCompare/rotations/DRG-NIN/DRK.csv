@@ -142,7 +142,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 125582,125582,Dokumori,,,,,,,[]
 125003,125627,Souleater,480.0,43149.0,,Default Target,[],125950290.0,"['Darkside', ""The Wanderer's Minuet""]"
 125628,125628,Delirium,,,,,,,[]
-125756,125756,Battle Litany,,,,,,,[]
+125753,125753,Battle Litany,,,,,,,[]
 125815,125815,Radiant Finale,,,,,,,[]
 126253,126253,Starry Muse,,,,,,,[]
 126386,126386,Starry Muse,,,,,,,[]
@@ -264,7 +264,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 245366,245366,Battle Voice,,,,,,,[]
 245582,245582,Dokumori,,,,,,,[]
 245630,245630,Delirium,,,,,,,[]
-245758,245758,Battle Litany,,,,,,,[]
+245753,245753,Battle Litany,,,,,,,[]
 245005,245807,Bloodspiller,600.0,53939.0,,Default Target,[],196821604.0,"['Darkside', ""The Wanderer's Minuet""]"
 245986,245986,Radiant Finale,,,,,,,[]
 246253,246253,Starry Muse,,,,,,,[]
@@ -388,7 +388,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 365226,365226,Chain Stratagem,,,,,,,[]
 365366,365366,Battle Voice,,,,,,,[]
 365632,365632,Delirium,,,,,,,[]
-365760,365760,Battle Litany,,,,,,,[]
+365753,365753,Battle Litany,,,,,,,[]
 365007,365809,Bloodspiller,600.0,58358.0,,Default Target,[],230390051.0,"['Darkside', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 365986,365986,Radiant Finale,,,,,,,[]
 366089,366089,Dokumori,,,,,,,[]
@@ -517,7 +517,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 485228,485228,Chain Stratagem,,,,,,,[]
 485366,485366,Battle Voice,,,,,,,[]
 485635,485635,Delirium,,,,,,,[]
-485763,485763,Battle Litany,,,,,,,[]
+485753,485753,Battle Litany,,,,,,,[]
 485010,485812,Bloodspiller,600.0,53939.0,,Default Target,[],196821604.0,"['Darkside', ""The Wanderer's Minuet""]"
 485986,485986,Radiant Finale,,,,,,,[]
 486089,486089,Dokumori,,,,,,,[]
@@ -640,11 +640,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 604421,604953,Auto,90.0,7966.0,,Default Target,[],4292547.0,"['Darkside', ""The Wanderer's Minuet""]"
 605230,605230,Chain Stratagem,,,,,,,[]
 605637,605637,Delirium,,,,,,,[]
-605765,605765,Battle Litany,,,,,,,[]
 605012,605814,Bloodspiller,600.0,53939.0,,Default Target,[],196821604.0,"['Darkside', ""The Wanderer's Minuet""]"
 606089,606089,Dokumori,,,,,,,[]
 606152,606152,Battle Voice,,,,,,,[]
 606305,606305,Starry Muse,,,,,,,[]
+606373,606373,Battle Litany,,,,,,,[]
 606438,606438,Starry Muse,,,,,,,[]
 606772,606772,Radiant Finale,,,,,,,[]
 607381,607913,Auto,90.0,10179.0,,Default Target,[],7347555.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Darkside', 'Dokumori', 'Starry Muse', ""The Wanderer's Minuet""]"
@@ -764,11 +764,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 723764,723764,Grade 4 Gemdraught,,,,,,,[]
 725232,725232,Chain Stratagem,,,,,,,[]
 725640,725640,Delirium,,,,,,,[]
-725768,725768,Battle Litany,,,,,,,[]
 725015,725817,Bloodspiller,600.0,58358.0,,Default Target,[],230390051.0,"['Darkside', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 726089,726089,Dokumori,,,,,,,[]
 726152,726152,Battle Voice,,,,,,,[]
 725781,726313,Auto,90.0,8621.0,,Default Target,[],5027856.0,"['Darkside', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+726373,726373,Battle Litany,,,,,,,[]
 726772,726772,Radiant Finale,,,,,,,[]
 727457,727457,Starry Muse,,,,,,,[]
 726265,727500,Salted Earth (dot),50.0,5374.0,,Default Target,[],2009823.0,"['Chain Stratagem', 'Darkside', 'Dokumori', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
@@ -805,7 +805,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 742515,743139,Souleater,480.0,63230.0,,Default Target,[],283534737.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Darkside', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 743541,744073,Auto,90.0,11676.0,,Default Target,[],9670003.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Darkside', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 745015,745596,Hard Slash,300.0,39518.0,,Default Target,[],110753252.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Darkside', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
-746501,747033,Auto,90.0,10559.0,,Default Target,[],8058133.0,"['Battle Voice', 'Darkside', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+746501,747033,Auto,90.0,11118.0,,Default Target,[],9176140.0,"['Battle Litany', 'Battle Voice', 'Darkside', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 747515,748139,Syphon Strike,380.0,38804.0,,Default Target,[],101863175.0,"['Darkside', 'Grade 4 Gemdraught', 'Starry Muse', ""The Wanderer's Minuet""]"
 749461,749993,Auto,90.0,8621.0,,Default Target,[],5027856.0,"['Darkside', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 750015,750639,Souleater,480.0,46684.0,,Default Target,[],147444357.0,"['Darkside', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"

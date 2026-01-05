@@ -156,7 +156,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 125222,125222,Chain Stratagem,,,,,,,[]
 125000,125625,Savage Claw,500.0,40293.0,,Default Target,['No Combo'],109836909.0,"[""The Wanderer's Minuet""]"
 125625,125625,No Mercy,,,,,,,[]
-125756,125756,Battle Litany,,,,,,,[]
+125753,125753,Battle Litany,,,,,,,[]
 125815,125815,Radiant Finale,,,,,,,[]
 126253,126253,Starry Muse,,,,,,,[]
 126386,126386,Starry Muse,,,,,,,[]
@@ -303,7 +303,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 245366,245366,Battle Voice,,,,,,,[]
 245625,245625,No Mercy,,,,,,,[]
 245000,245625,Savage Claw,500.0,40293.0,,Default Target,['No Combo'],109836909.0,"[""The Wanderer's Minuet""]"
-245758,245758,Battle Litany,,,,,,,[]
+245753,245753,Battle Litany,,,,,,,[]
 245986,245986,Radiant Finale,,,,,,,[]
 246253,246253,Starry Muse,,,,,,,[]
 246386,246386,Starry Muse,,,,,,,[]
@@ -451,7 +451,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 364893,365425,Auto,90.0,7303.0,,Default Target,[],3607473.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 365625,365625,No Mercy,,,,,,,[]
 365000,365625,Savage Claw,500.0,43619.0,,Default Target,['No Combo'],128714602.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
-365760,365760,Battle Litany,,,,,,,[]
+365753,365753,Battle Litany,,,,,,,[]
 365986,365986,Radiant Finale,,,,,,,[]
 366305,366305,Starry Muse,,,,,,,[]
 366438,366438,Starry Muse,,,,,,,[]
@@ -597,7 +597,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 485366,485366,Battle Voice,,,,,,,[]
 485625,485625,No Mercy,,,,,,,[]
 485000,485625,Savage Claw,500.0,40293.0,,Default Target,['No Combo'],109836909.0,"[""The Wanderer's Minuet""]"
-485763,485763,Battle Litany,,,,,,,[]
+485753,485753,Battle Litany,,,,,,,[]
 485293,485825,Auto,90.0,6746.0,,Default Target,[],3078120.0,"[""The Wanderer's Minuet""]"
 485986,485986,Radiant Finale,,,,,,,[]
 486305,486305,Starry Muse,,,,,,,[]
@@ -743,10 +743,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 605230,605230,Chain Stratagem,,,,,,,[]
 605000,605625,Savage Claw,500.0,40293.0,,Default Target,['No Combo'],109836909.0,"[""The Wanderer's Minuet""]"
 605625,605625,No Mercy,,,,,,,[]
-605765,605765,Battle Litany,,,,,,,[]
 606152,606152,Battle Voice,,,,,,,[]
 605693,606225,Auto,90.0,6746.0,,Default Target,[],3078120.0,"[""The Wanderer's Minuet""]"
 606305,606305,Starry Muse,,,,,,,[]
+606373,606373,Battle Litany,,,,,,,[]
 606438,606438,Starry Muse,,,,,,,[]
 606772,606772,Radiant Finale,,,,,,,[]
 606250,607007,Abdomen Tear,260.0,26467.0,,Default Target,[],48760258.0,"['Chain Stratagem', 'No Mercy', ""The Wanderer's Minuet""]"
@@ -891,8 +891,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 725232,725232,Chain Stratagem,,,,,,,[]
 725000,725625,Savage Claw,500.0,43619.0,,Default Target,['No Combo'],128714602.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 725625,725625,No Mercy,,,,,,,[]
-725768,725768,Battle Litany,,,,,,,[]
 726152,726152,Battle Voice,,,,,,,[]
+726373,726373,Battle Litany,,,,,,,[]
 726093,726625,Auto,90.0,7689.0,,Default Target,[],4114859.0,"['Chain Stratagem', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 726772,726772,Radiant Finale,,,,,,,[]
 726250,727007,Abdomen Tear,260.0,28655.0,,Default Target,[],57156037.0,"['Chain Stratagem', 'Grade 4 Gemdraught', 'No Mercy', ""The Wanderer's Minuet""]"

@@ -125,7 +125,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 125195,125195,Battle Voice,,,,,,,[]
 125222,125222,Chain Stratagem,,,,,,,[]
 125327,125327,Arcane Circle,,,,,,,[]
-125756,125756,Battle Litany,,,,,,,[]
+125753,125753,Battle Litany,,,,,,,[]
 125815,125815,Radiant Finale,,,,,,,[]
 125445,125977,Auto,90.0,10953.0,,Default Target,[],8591859.0,"[""Death's Design"", ""The Wanderer's Minuet""]"
 126253,126253,Starry Muse,,,,,,,[]
@@ -246,7 +246,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 245366,245366,Battle Voice,,,,,,,[]
 244870,245402,Auto,90.0,10953.0,,Default Target,[],8591859.0,"[""Death's Design"", ""The Wanderer's Minuet""]"
 245473,245473,Arcane Circle,,,,,,,[]
-245758,245758,Battle Litany,,,,,,,[]
+245753,245753,Battle Litany,,,,,,,[]
 245986,245986,Radiant Finale,,,,,,,[]
 246253,246253,Starry Muse,,,,,,,[]
 246386,246386,Starry Muse,,,,,,,[]
@@ -367,7 +367,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 364199,365359,Shadow of Death,300.0,34308.0,,Default Target,[],84312123.0,"[""Death's Design"", ""The Wanderer's Minuet""]"
 365366,365366,Battle Voice,,,,,,,[]
 365473,365473,Arcane Circle,,,,,,,[]
-365760,365760,Battle Litany,,,,,,,[]
+365753,365753,Battle Litany,,,,,,,[]
 365986,365986,Radiant Finale,,,,,,,[]
 366305,366305,Starry Muse,,,,,,,[]
 366438,366438,Starry Muse,,,,,,,[]
@@ -487,7 +487,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 485366,485366,Battle Voice,,,,,,,[]
 485473,485473,Arcane Circle,,,,,,,[]
 484345,485505,Shadow of Death,300.0,34308.0,,Default Target,[],84312123.0,"[""Death's Design"", ""The Wanderer's Minuet""]"
-485763,485763,Battle Litany,,,,,,,[]
+485753,485753,Battle Litany,,,,,,,[]
 485986,485986,Radiant Finale,,,,,,,[]
 486305,486305,Starry Muse,,,,,,,[]
 486438,486438,Starry Muse,,,,,,,[]
@@ -601,13 +601,13 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 604637,605169,Auto,90.0,10953.0,,Default Target,[],8591859.0,"[""Death's Design"", ""The Wanderer's Minuet""]"
 605230,605230,Chain Stratagem,,,,,,,[]
 605473,605473,Arcane Circle,,,,,,,[]
-605765,605765,Battle Litany,,,,,,,[]
 606152,606152,Battle Voice,,,,,,,[]
 606305,606305,Starry Muse,,,,,,,[]
+606373,606373,Battle Litany,,,,,,,[]
 606438,606438,Starry Muse,,,,,,,[]
 606093,606713,Cross Reaping,600.0,72255.0,,Default Target,['Enhanced Cross Reaping'],383885194.0,"['Chain Stratagem', ""Death's Design"", 'Enhanced Cross Reaping', ""The Wanderer's Minuet""]"
 606772,606772,Radiant Finale,,,,,,,[]
-606713,607423,Lemure's Slice,280.0,38295.0,,Default Target,[],102897367.0,"['Arcane Circle', 'Battle Litany', 'Chain Stratagem', ""Death's Design"", 'Starry Muse', ""The Wanderer's Minuet""]"
+606713,607423,Lemure's Slice,280.0,36462.0,,Default Target,[],97759340.0,"['Arcane Circle', 'Chain Stratagem', ""Death's Design"", 'Starry Muse', ""The Wanderer's Minuet""]"
 607593,608133,Void Reaping,600.0,91046.0,,Default Target,['Enhanced Void Reaping'],590646491.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Death's Design"", 'Enhanced Void Reaping', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 607837,608369,Auto,90.0,14531.0,,Default Target,[],15045840.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Death's Design"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 608213,608973,Sacrificium,600.0,91046.0,,Default Target,[],590646491.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Death's Design"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
@@ -630,7 +630,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 622387,623007,Communio,1100.0,166919.0,,Default Target,[],1985265378.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Death's Design"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 624694,625226,Auto,90.0,14531.0,,Default Target,[],15045840.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Death's Design"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 624088,625378,Perfectio,1300.0,197270.0,,Default Target,[],2772881971.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Death's Design"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
-626578,627118,Infernal Slice,600.0,79930.0,,Default Target,[],464624949.0,"['Battle Voice', ""Death's Design"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+626578,627118,Infernal Slice,600.0,84162.0,,Default Target,[],528585325.0,"['Battle Litany', 'Battle Voice', ""Death's Design"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 627894,628426,Auto,90.0,10953.0,,Default Target,[],8591859.0,"[""Death's Design"", ""The Wanderer's Minuet""]"
 629069,630099,Soul Slice,520.0,59471.0,,Default Target,[],253357229.0,"[""Death's Design"", ""The Wanderer's Minuet""]"
 631094,631626,Auto,90.0,10953.0,,Default Target,[],8591859.0,"[""Death's Design"", ""The Wanderer's Minuet""]"
@@ -722,12 +722,12 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 725232,725232,Chain Stratagem,,,,,,,[]
 724738,725278,Void Reaping,540.0,66841.0,,Default Target,[],320021173.0,"[""Death's Design"", 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 725473,725473,Arcane Circle,,,,,,,[]
-725768,725768,Battle Litany,,,,,,,[]
 726152,726152,Battle Voice,,,,,,,[]
+726373,726373,Battle Litany,,,,,,,[]
 726772,726772,Radiant Finale,,,,,,,[]
 726239,726859,Cross Reaping,600.0,80550.0,,Default Target,['Enhanced Cross Reaping'],477092991.0,"['Arcane Circle', 'Chain Stratagem', ""Death's Design"", 'Enhanced Cross Reaping', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 727457,727457,Starry Muse,,,,,,,[]
-726859,727569,Lemure's Slice,280.0,41312.0,,Default Target,[],121611420.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Death's Design"", 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+726859,727569,Lemure's Slice,280.0,39334.0,,Default Target,[],115463129.0,"['Arcane Circle', 'Battle Voice', 'Chain Stratagem', ""Death's Design"", 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 727590,727590,Starry Muse,,,,,,,[]
 727404,727936,Auto,90.0,14982.0,,Default Target,[],15992931.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Death's Design"", 'Grade 4 Gemdraught', 'Radiant Finale', ""The Wanderer's Minuet""]"
 727739,728279,Void Reaping,600.0,98541.0,,Default Target,['Enhanced Void Reaping'],691918090.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Death's Design"", 'Enhanced Void Reaping', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
@@ -753,7 +753,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 744854,744854,Enshroud,,,,,,,[]
 744234,745524,Perfectio,1300.0,213511.0,,Default Target,[],3248278302.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Death's Design"", 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 745474,746234,Sacrificium,600.0,98541.0,,Default Target,[],691918090.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', ""Death's Design"", 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
-746604,747136,Auto,90.0,13811.0,,Default Target,[],13871110.0,"['Battle Voice', ""Death's Design"", 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+746604,747136,Auto,90.0,14542.0,,Default Target,[],15780756.0,"['Battle Litany', 'Battle Voice', ""Death's Design"", 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 747524,748144,Communio,1100.0,142974.0,,Default Target,[],1464262625.0,"[""Death's Design"", 'Grade 4 Gemdraught', 'Starry Muse', ""The Wanderer's Minuet""]"
 749804,750336,Auto,90.0,10953.0,,Default Target,[],8591859.0,"[""Death's Design"", ""The Wanderer's Minuet""]"
 749225,750385,Harvest Moon,800.0,99031.0,,Default Target,[],702500810.0,"[""Death's Design"", 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"

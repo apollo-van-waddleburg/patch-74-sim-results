@@ -1,0 +1,637 @@
+sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,sim_target,sim_conditions,sim_variance,sim_buffs
+-630,37,Onslaught,150.0,12126.0,,Default Target,[],9774958.0,[]
+37,569,Auto,90.0,8128.0,,Default Target,[],4391455.0,[]
+170,702,Heavy Swing,240.0,19401.0,,Default Target,[],25021639.0,[]
+795,795,Infuriate,,,,,,,[]
+2670,3293,Maim,340.0,27490.0,,Default Target,[],50236558.0,[]
+3397,3929,Auto,90.0,8128.0,,Default Target,[],4391455.0,[]
+5133,5133,Brotherhood,,,,,,,[]
+5795,5795,Inner Release,,,,,,,[]
+6420,6420,Grade 4 Gemdraught,,,,,,,[]
+5170,6819,Storm's Eye,500.0,40431.0,,Default Target,[],108662410.0,[]
+6757,7289,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+7670,8607,Inner Chaos,660.0,115024.0,,Default Target,['Surging Tempest'],11020833.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+8295,8918,Upheaval,420.0,42437.0,,Default Target,['Surging Tempest'],119714685.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+8920,9587,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+10117,10649,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+10170,10793,Fell Cleave,580.0,101081.0,,Default Target,['Surging Tempest'],8515990.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Inner Release', 'Surging Tempest']"
+10795,11462,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+12670,13293,Fell Cleave,580.0,101081.0,,Default Target,['Surging Tempest'],8515990.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Inner Release', 'Surging Tempest']"
+13477,14009,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+15170,15793,Fell Cleave,580.0,101081.0,,Default Target,['Surging Tempest'],8515990.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Inner Release', 'Surging Tempest']"
+16420,16420,Infuriate,,,,,,,[]
+15795,16945,Primal Wrath,700.0,70737.0,,Default Target,['Surging Tempest'],332620520.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+16837,17369,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+17670,18830,Primal Rend,700.0,121996.0,,Default Target,['Surging Tempest'],12405366.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+20197,20729,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+20170,21230,Primal Ruination,780.0,135946.0,,Default Target,['Surging Tempest'],15402002.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+22670,23607,Inner Chaos,660.0,115024.0,,Default Target,['Surging Tempest'],11020833.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+23557,24089,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+25171,25703,Heavy Swing,240.0,24243.0,,Default Target,['Surging Tempest'],39071248.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+26917,27449,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+27671,28294,Maim,340.0,32714.0,,Default Target,['Surging Tempest'],71146594.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+30277,30809,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+30796,31463,Onslaught,150.0,14430.0,,Default Target,['Surging Tempest'],13842047.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+30171,31686,Storm's Path,500.0,48117.0,,Default Target,['Surging Tempest'],153906513.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+32671,33294,Fell Cleave,580.0,55814.0,,Default Target,['Surging Tempest'],207082394.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+33296,33296,Infuriate,,,,,,,[]
+33637,34169,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+35171,36108,Inner Chaos,660.0,109547.0,,Default Target,['Surging Tempest'],9995525.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+36997,37529,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+37671,38203,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+38296,38919,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+40171,40794,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+40357,40889,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+43717,44249,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+42671,44320,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+45171,45703,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+47077,47609,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+47671,48294,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+50437,50969,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+50171,51820,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+52671,53203,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+53797,54329,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+55171,55794,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+57157,57689,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+57671,58294,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+60517,61049,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+60171,61686,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+62671,63203,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+63877,64409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+65171,65794,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+65796,65796,Inner Release,,,,,,,[]
+67237,67769,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+67671,68294,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+68296,68919,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+70171,70794,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+70597,71129,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+72671,73294,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+73921,73921,Infuriate,,,,,,,[]
+73296,74446,Primal Wrath,700.0,62264.0,,Default Target,['Surging Tempest'],257708492.0,['Surging Tempest']
+73957,74489,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+75172,76332,Primal Rend,700.0,107391.0,,Default Target,['Surging Tempest'],9610510.0,['Surging Tempest']
+77317,77849,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+77672,78732,Primal Ruination,780.0,119662.0,,Default Target,['Surging Tempest'],11930102.0,['Surging Tempest']
+80172,81109,Inner Chaos,660.0,101249.0,,Default Target,['Surging Tempest'],8541281.0,['Surging Tempest']
+80677,81209,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+82672,84187,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+84037,84569,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+85172,85795,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+87397,87929,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+87672,88204,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+90172,90795,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+90757,91289,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+92672,94321,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+94117,94649,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+95172,95704,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+97477,98009,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+97672,98295,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+98297,98920,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+100837,101369,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+100172,101687,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+102672,103204,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+104197,104729,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+105172,105795,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+107557,108089,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+107672,109187,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+110172,110704,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+110917,111449,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+112672,113295,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+114277,114809,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+115172,115795,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+117637,118169,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+117672,119187,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+120172,120704,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+120997,121529,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+122672,123295,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+124357,124889,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+125419,125419,Brotherhood,,,,,,,[]
+125173,125796,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+125798,125798,Inner Release,,,,,,,[]
+126423,126423,Infuriate,,,,,,,[]
+127717,128249,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+127673,128610,Inner Chaos,660.0,106311.0,,Default Target,['Surging Tempest'],9418180.0,"['Brotherhood', 'Surging Tempest']"
+128298,128921,Upheaval,420.0,39223.0,,Default Target,['Surging Tempest'],102267429.0,"['Brotherhood', 'Surging Tempest']"
+128923,129590,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Brotherhood', 'Surging Tempest']"
+130173,131333,Primal Rend,700.0,112761.0,,Default Target,['Surging Tempest'],10595681.0,"['Brotherhood', 'Surging Tempest']"
+131077,131609,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+131373,132040,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Brotherhood', 'Surging Tempest']"
+132673,133296,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Brotherhood', 'Inner Release', 'Surging Tempest']"
+133298,133965,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Brotherhood', 'Surging Tempest']"
+134437,134969,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+135173,135796,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Brotherhood', 'Inner Release', 'Surging Tempest']"
+137673,138296,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Brotherhood', 'Inner Release', 'Surging Tempest']"
+137797,138329,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+138298,139448,Primal Wrath,700.0,65377.0,,Default Target,['Surging Tempest'],284128536.0,"['Brotherhood', 'Surging Tempest']"
+140173,141233,Primal Ruination,780.0,125645.0,,Default Target,['Surging Tempest'],13152414.0,"['Brotherhood', 'Surging Tempest']"
+141157,141689,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+142673,144322,Storm's Eye,500.0,46698.0,,Default Target,['Surging Tempest'],144960611.0,"['Brotherhood', 'Surging Tempest']"
+144517,145049,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+145173,145705,Heavy Swing,240.0,22408.0,,Default Target,['Surging Tempest'],33381630.0,"['Brotherhood', 'Surging Tempest']"
+145798,145798,Infuriate,,,,,,,[]
+147877,148409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+147673,148610,Inner Chaos,660.0,101249.0,,Default Target,['Surging Tempest'],8541281.0,['Surging Tempest']
+150173,150796,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+151237,151769,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+152673,154188,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+154597,155129,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+155173,155796,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+157673,158205,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+157957,158489,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+158298,158921,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+160173,160796,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+161317,161849,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+162673,164322,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+164677,165209,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+165173,165705,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+167673,168296,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+168037,168569,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+170173,171688,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+171397,171929,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+172673,173296,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+174757,175289,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+175174,175706,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+177674,178297,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+178117,178649,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+180174,181689,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+181477,182009,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+182674,183206,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+184837,185369,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+185174,185797,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+185799,185799,Inner Release,,,,,,,[]
+187674,188297,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+188197,188729,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+188299,188922,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+188924,189591,Onslaught,150.0,13339.0,,Default Target,['Surging Tempest'],11827982.0,['Surging Tempest']
+190174,190797,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+191557,192089,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+192674,193297,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+193924,193924,Infuriate,,,,,,,[]
+193299,194449,Primal Wrath,700.0,62264.0,,Default Target,['Surging Tempest'],257708492.0,['Surging Tempest']
+194917,195449,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+195174,196334,Primal Rend,700.0,107391.0,,Default Target,['Surging Tempest'],9610510.0,['Surging Tempest']
+197674,198734,Primal Ruination,780.0,119662.0,,Default Target,['Surging Tempest'],11930102.0,['Surging Tempest']
+198277,198809,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+200174,201111,Inner Chaos,660.0,101249.0,,Default Target,['Surging Tempest'],8541281.0,['Surging Tempest']
+201637,202169,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+202674,203297,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+204997,205529,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+205174,206823,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+207674,208206,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+208357,208889,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+210174,210797,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+211717,212249,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+212674,214189,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+215077,215609,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+215174,215706,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+217674,218297,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+218299,218922,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+218437,218969,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+220174,221689,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+221797,222329,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+222674,223206,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+225157,225689,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+225175,225798,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+228517,229049,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+227675,229324,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+230175,230707,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+231877,232409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+232675,233298,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+235237,235769,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+235175,235798,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+238597,239129,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+237675,239190,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+240175,240707,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+241957,242489,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+242675,243298,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+245705,245705,Brotherhood,,,,,,,[]
+245175,245798,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+245800,245800,Inner Release,,,,,,,[]
+245317,245849,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+246425,246425,Infuriate,,,,,,,[]
+247675,248612,Inner Chaos,660.0,106311.0,,Default Target,['Surging Tempest'],9418180.0,"['Brotherhood', 'Surging Tempest']"
+248300,248923,Upheaval,420.0,39223.0,,Default Target,['Surging Tempest'],102267429.0,"['Brotherhood', 'Surging Tempest']"
+248677,249209,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+248925,249592,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Brotherhood', 'Surging Tempest']"
+250175,251335,Primal Rend,700.0,112761.0,,Default Target,['Surging Tempest'],10595681.0,"['Brotherhood', 'Surging Tempest']"
+251375,252042,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Brotherhood', 'Surging Tempest']"
+252037,252569,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+252675,253298,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Brotherhood', 'Inner Release', 'Surging Tempest']"
+253300,253967,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Brotherhood', 'Surging Tempest']"
+255175,255798,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Brotherhood', 'Inner Release', 'Surging Tempest']"
+255397,255929,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+257675,258298,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Brotherhood', 'Inner Release', 'Surging Tempest']"
+258925,258925,Infuriate,,,,,,,[]
+258757,259289,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+258300,259450,Primal Wrath,700.0,65377.0,,Default Target,['Surging Tempest'],284128536.0,"['Brotherhood', 'Surging Tempest']"
+260175,261235,Primal Ruination,780.0,125645.0,,Default Target,['Surging Tempest'],13152414.0,"['Brotherhood', 'Surging Tempest']"
+262117,262649,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+262675,263612,Inner Chaos,660.0,106311.0,,Default Target,['Surging Tempest'],9418180.0,"['Brotherhood', 'Surging Tempest']"
+265477,266009,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+265175,266690,Storm's Path,500.0,46698.0,,Default Target,['Surging Tempest'],144960611.0,"['Brotherhood', 'Surging Tempest']"
+267675,268298,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+268837,269369,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+270175,270707,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+272197,272729,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+272675,273298,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+275557,276089,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+275176,276825,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+277676,278208,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+278301,278924,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+278917,279449,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+280176,280799,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+282277,282809,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+282676,284191,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+285176,285799,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+285637,286169,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+287676,288208,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+288997,289529,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+290176,290799,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+292357,292889,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+292676,294191,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+295176,295708,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+295717,296249,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+297676,298299,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+299077,299609,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+300176,301825,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+302437,302969,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+302676,303299,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+305176,305708,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+305801,305801,Inner Release,,,,,,,[]
+305797,306329,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+306426,306426,Infuriate,,,,,,,[]
+307676,308613,Inner Chaos,660.0,101249.0,,Default Target,['Surging Tempest'],8541281.0,['Surging Tempest']
+308301,308924,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+308926,309593,Onslaught,150.0,13339.0,,Default Target,['Surging Tempest'],11827982.0,['Surging Tempest']
+309157,309689,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+310176,311336,Primal Rend,700.0,107391.0,,Default Target,['Surging Tempest'],9610510.0,['Surging Tempest']
+312517,313049,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+312676,313299,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+315176,315799,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+315877,316409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+317676,318299,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+318301,319451,Primal Wrath,700.0,62264.0,,Default Target,['Surging Tempest'],257708492.0,['Surging Tempest']
+319237,319769,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+320176,321236,Primal Ruination,780.0,119662.0,,Default Target,['Surging Tempest'],11930102.0,['Surging Tempest']
+322597,323129,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+322676,323299,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+325957,326489,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+325177,326692,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+327677,328209,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+329317,329849,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+330177,330800,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+332677,333209,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+332677,334192,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+335177,335800,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+336037,336569,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+337677,338209,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+338302,338925,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+339397,339929,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+340177,340800,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+342757,343289,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+342677,344326,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+345177,345709,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+346117,346649,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+347677,348300,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+349477,350009,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+350177,351692,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+352677,353209,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+352837,353369,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+355177,355800,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+356197,356729,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+357677,359192,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+359557,360089,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+360177,360709,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+362677,363300,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+363302,363302,Grade 4 Gemdraught,,,,,,,[]
+362917,363449,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+365177,365800,Fell Cleave,580.0,55814.0,,Default Target,['Surging Tempest'],207082394.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+365802,365802,Inner Release,,,,,,,[]
+365991,365991,Brotherhood,,,,,,,[]
+366427,366427,Infuriate,,,,,,,[]
+366277,366809,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+367677,368614,Inner Chaos,660.0,115024.0,,Default Target,['Surging Tempest'],11020833.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+368302,368925,Upheaval,420.0,42437.0,,Default Target,['Surging Tempest'],119714685.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+368927,369594,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+369637,370169,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+370177,371337,Primal Rend,700.0,121996.0,,Default Target,['Surging Tempest'],12405366.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+371377,372044,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+372677,373300,Fell Cleave,580.0,101081.0,,Default Target,['Surging Tempest'],8515990.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Inner Release', 'Surging Tempest']"
+372997,373529,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+373302,373969,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+375178,375801,Fell Cleave,580.0,101081.0,,Default Target,['Surging Tempest'],8515990.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Inner Release', 'Surging Tempest']"
+376357,376889,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+377678,378301,Fell Cleave,580.0,101081.0,,Default Target,['Surging Tempest'],8515990.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Inner Release', 'Surging Tempest']"
+378928,378928,Infuriate,,,,,,,[]
+378303,379453,Primal Wrath,700.0,70737.0,,Default Target,['Surging Tempest'],332620520.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+379717,380249,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+380178,381238,Primal Ruination,780.0,135946.0,,Default Target,['Surging Tempest'],15402002.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+383077,383609,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+382678,383615,Inner Chaos,660.0,115024.0,,Default Target,['Surging Tempest'],11020833.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+385178,385801,Fell Cleave,580.0,58605.0,,Default Target,['Surging Tempest'],228305718.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+386437,386969,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+387678,389327,Storm's Eye,500.0,48117.0,,Default Target,['Surging Tempest'],153906513.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+389797,390329,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+390178,390710,Heavy Swing,240.0,23089.0,,Default Target,['Surging Tempest'],35438482.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+392678,393301,Maim,340.0,32714.0,,Default Target,['Surging Tempest'],71146594.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+393157,393689,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+395178,396693,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+396517,397049,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+397678,398210,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+398303,398926,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+399877,400409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+400178,400801,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+402678,403301,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+403237,403769,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+405178,406693,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+406597,407129,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+407678,408210,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+409957,410489,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+410178,410801,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+413317,413849,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+412678,414327,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+415178,415710,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+416677,417209,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+417678,418301,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+420037,420569,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+420178,420801,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+423397,423929,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+422678,424193,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+425179,425711,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+425804,425804,Inner Release,,,,,,,[]
+426429,426429,Infuriate,,,,,,,[]
+426757,427289,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+427679,428616,Inner Chaos,660.0,101249.0,,Default Target,['Surging Tempest'],8541281.0,['Surging Tempest']
+428304,428927,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+428929,429596,Onslaught,150.0,13339.0,,Default Target,['Surging Tempest'],11827982.0,['Surging Tempest']
+430117,430649,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+430179,431339,Primal Rend,700.0,107391.0,,Default Target,['Surging Tempest'],9610510.0,['Surging Tempest']
+432679,433302,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+433477,434009,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+435179,435802,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+436837,437369,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+437679,438302,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+438304,439454,Primal Wrath,700.0,62264.0,,Default Target,['Surging Tempest'],257708492.0,['Surging Tempest']
+440197,440729,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+440179,441239,Primal Ruination,780.0,119662.0,,Default Target,['Surging Tempest'],11930102.0,['Surging Tempest']
+442679,443302,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+443557,444089,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+445179,446694,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+446917,447449,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+447679,448302,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+450179,450711,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+450277,450809,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+452679,453302,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+453637,454169,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+455179,456828,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+456997,457529,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+457679,458211,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+460179,460802,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+460357,460889,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+462679,464194,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+463717,464249,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+465179,465802,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+467077,467609,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+467679,468211,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+470179,470802,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+470437,470969,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+472679,474194,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+473797,474329,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+475180,475712,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+477157,477689,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+477680,478303,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+480517,481049,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+480180,481829,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+482680,483212,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+483877,484409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+485180,485803,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+485805,485805,Inner Release,,,,,,,[]
+486277,486277,Brotherhood,,,,,,,[]
+486430,486430,Infuriate,,,,,,,[]
+487237,487769,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+487680,488617,Inner Chaos,660.0,106311.0,,Default Target,['Surging Tempest'],9418180.0,"['Brotherhood', 'Surging Tempest']"
+488305,488928,Upheaval,420.0,39223.0,,Default Target,['Surging Tempest'],102267429.0,"['Brotherhood', 'Surging Tempest']"
+488930,489597,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Brotherhood', 'Surging Tempest']"
+490597,491129,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+490180,491340,Primal Rend,700.0,112761.0,,Default Target,['Surging Tempest'],10595681.0,"['Brotherhood', 'Surging Tempest']"
+491380,492047,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Brotherhood', 'Surging Tempest']"
+492680,493303,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Brotherhood', 'Inner Release', 'Surging Tempest']"
+493305,493972,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Brotherhood', 'Surging Tempest']"
+493957,494489,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+495180,495803,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Brotherhood', 'Inner Release', 'Surging Tempest']"
+497317,497849,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+497680,498303,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Brotherhood', 'Inner Release', 'Surging Tempest']"
+498930,498930,Infuriate,,,,,,,[]
+498305,499455,Primal Wrath,700.0,65377.0,,Default Target,['Surging Tempest'],284128536.0,"['Brotherhood', 'Surging Tempest']"
+500677,501209,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+500180,501240,Primal Ruination,780.0,125645.0,,Default Target,['Surging Tempest'],13152414.0,"['Brotherhood', 'Surging Tempest']"
+502680,503617,Inner Chaos,660.0,106311.0,,Default Target,['Surging Tempest'],9418180.0,"['Brotherhood', 'Surging Tempest']"
+504037,504569,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+505180,505803,Maim,340.0,31750.0,,Default Target,['Surging Tempest'],67017361.0,"['Brotherhood', 'Surging Tempest']"
+507397,507929,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+507680,509195,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+510180,510712,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+510757,511289,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+512679,513302,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+514117,514649,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+515179,516694,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+517477,518009,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+517679,518302,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+518304,518927,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+520179,520711,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+520837,521369,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+522679,523302,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+524197,524729,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+525181,526830,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+527557,528089,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+527681,528213,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+530181,530804,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+530917,531449,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+532681,534196,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+534277,534809,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+535181,535804,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+537637,538169,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+537681,538213,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+540181,540804,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+540997,541529,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+542681,544196,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+544357,544889,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+545181,545713,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+545806,545806,Inner Release,,,,,,,[]
+546431,546431,Infuriate,,,,,,,[]
+547717,548249,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+547681,548618,Inner Chaos,660.0,101249.0,,Default Target,['Surging Tempest'],8541281.0,['Surging Tempest']
+548306,548929,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+548931,549598,Onslaught,150.0,13339.0,,Default Target,['Surging Tempest'],11827982.0,['Surging Tempest']
+550181,551341,Primal Rend,700.0,107391.0,,Default Target,['Surging Tempest'],9610510.0,['Surging Tempest']
+551077,551609,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+552681,553304,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+554437,554969,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+555181,555804,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+557681,558304,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+557797,558329,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+558306,559456,Primal Wrath,700.0,62264.0,,Default Target,['Surging Tempest'],257708492.0,['Surging Tempest']
+560181,561241,Primal Ruination,780.0,119662.0,,Default Target,['Surging Tempest'],11930102.0,['Surging Tempest']
+561157,561689,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+562681,563304,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+564517,565049,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+565181,565804,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+567877,568409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+567681,569330,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+570181,570713,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+571237,571769,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+572681,573304,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+574597,575129,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+575182,576697,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+577682,578214,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+577957,578489,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+578307,578930,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+580182,580805,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+581317,581849,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+582682,583305,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+584677,585209,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+585182,586697,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+587682,588214,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+588037,588569,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+590182,590805,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+591397,591929,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+592682,594331,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+594757,595289,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+595182,595714,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+597682,598305,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+598117,598649,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+600182,600805,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+600807,600807,Infuriate,,,,,,,[]
+601477,602009,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+602682,604197,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+604837,605369,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+605182,605714,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+605807,605807,Inner Release,,,,,,,[]
+606562,606562,Brotherhood,,,,,,,[]
+607682,608619,Inner Chaos,660.0,106311.0,,Default Target,['Surging Tempest'],9418180.0,"['Brotherhood', 'Surging Tempest']"
+608197,608729,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+608307,608930,Upheaval,420.0,39223.0,,Default Target,['Surging Tempest'],102267429.0,"['Brotherhood', 'Surging Tempest']"
+608932,609599,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Brotherhood', 'Surging Tempest']"
+610182,611342,Primal Rend,700.0,112761.0,,Default Target,['Surging Tempest'],10595681.0,"['Brotherhood', 'Surging Tempest']"
+611382,612049,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Brotherhood', 'Surging Tempest']"
+611557,612089,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+612682,613305,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Brotherhood', 'Inner Release', 'Surging Tempest']"
+613307,613974,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Brotherhood', 'Surging Tempest']"
+614917,615449,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+615182,615805,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Brotherhood', 'Inner Release', 'Surging Tempest']"
+617682,618305,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Brotherhood', 'Inner Release', 'Surging Tempest']"
+618277,618809,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+618932,618932,Infuriate,,,,,,,[]
+618307,619457,Primal Wrath,700.0,65377.0,,Default Target,['Surging Tempest'],284128536.0,"['Brotherhood', 'Surging Tempest']"
+620182,621242,Primal Ruination,780.0,125645.0,,Default Target,['Surging Tempest'],13152414.0,"['Brotherhood', 'Surging Tempest']"
+621637,622169,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+622682,623619,Inner Chaos,660.0,106311.0,,Default Target,['Surging Tempest'],9418180.0,"['Brotherhood', 'Surging Tempest']"
+624997,625529,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Brotherhood', 'Surging Tempest']"
+625183,625806,Maim,340.0,31750.0,,Default Target,['Surging Tempest'],67017361.0,"['Brotherhood', 'Surging Tempest']"
+628357,628889,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+627683,629198,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+630183,630806,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+630808,630808,Infuriate,,,,,,,[]
+631717,632249,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+632683,633620,Inner Chaos,660.0,101249.0,,Default Target,['Surging Tempest'],8541281.0,['Surging Tempest']
+635077,635609,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+635183,635715,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+637683,638306,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+638308,638931,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+638437,638969,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+640183,641832,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+641797,642329,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+642683,643215,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+645157,645689,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+645183,645806,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+648517,649049,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+647683,649198,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+650183,650806,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+651877,652409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+652683,653215,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+655237,655769,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+655183,655806,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+658597,659129,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+657683,659198,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+660183,660715,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+661957,662489,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+662683,663306,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+665808,665808,Inner Release,,,,,,,[]
+665317,665849,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+665183,666698,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+667683,668306,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+668308,668931,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+668677,669209,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+668933,669600,Onslaught,150.0,13339.0,,Default Target,['Surging Tempest'],11827982.0,['Surging Tempest']
+670183,671343,Primal Rend,700.0,107391.0,,Default Target,['Surging Tempest'],9610510.0,['Surging Tempest']
+672037,672569,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+672683,673306,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+675184,675807,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+675397,675929,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+675809,676959,Primal Wrath,700.0,62264.0,,Default Target,['Surging Tempest'],257708492.0,['Surging Tempest']
+677684,678744,Primal Ruination,780.0,119662.0,,Default Target,['Surging Tempest'],11930102.0,['Surging Tempest']
+678757,679289,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+680184,680807,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+682117,682649,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+682684,683216,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+685184,685807,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+685477,686009,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+687684,689333,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+688837,689369,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+690184,690716,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+692197,692729,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+692684,693307,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+695557,696089,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+695184,696699,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+697684,698307,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+698309,698932,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
+698917,699449,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+700184,700716,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+702277,702809,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+702684,703307,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+705637,706169,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+705184,706699,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+707684,708216,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+708997,709529,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+710184,710807,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+712357,712889,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+712684,713307,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+713309,713309,Infuriate,,,,,,,[]
+715717,716249,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+715184,716833,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+717684,718216,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+719077,719609,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+720184,720807,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+720809,720809,Grade 4 Gemdraught,,,,,,,[]
+722437,722969,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+722684,724199,Storm's Path,500.0,48117.0,,Default Target,['Surging Tempest'],153906513.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+725185,725717,Heavy Swing,240.0,23089.0,,Default Target,['Surging Tempest'],35438482.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+725810,725810,Inner Release,,,,,,,[]
+725797,726329,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+726848,726848,Brotherhood,,,,,,,[]
+727685,728622,Inner Chaos,660.0,115024.0,,Default Target,['Surging Tempest'],11020833.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+728310,728933,Upheaval,420.0,42437.0,,Default Target,['Surging Tempest'],119714685.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+728935,729602,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+729157,729689,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+730185,731345,Primal Rend,700.0,121996.0,,Default Target,['Surging Tempest'],12405366.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+731385,732052,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+732517,733049,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+732685,733308,Fell Cleave,580.0,101081.0,,Default Target,['Surging Tempest'],8515990.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Inner Release', 'Surging Tempest']"
+733310,733977,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+735185,735808,Fell Cleave,580.0,101081.0,,Default Target,['Surging Tempest'],8515990.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Inner Release', 'Surging Tempest']"
+735877,736409,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+737685,738308,Fell Cleave,580.0,101081.0,,Default Target,['Surging Tempest'],8515990.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Inner Release', 'Surging Tempest']"
+738935,738935,Infuriate,,,,,,,[]
+738310,739460,Primal Wrath,700.0,70737.0,,Default Target,['Surging Tempest'],332620520.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+739237,739769,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+740185,741245,Primal Ruination,780.0,135946.0,,Default Target,['Surging Tempest'],15402002.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+742597,743129,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+742685,743622,Inner Chaos,660.0,115024.0,,Default Target,['Surging Tempest'],11020833.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+745185,745808,Maim,340.0,34350.0,,Default Target,['Surging Tempest'],78439797.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+745957,746489,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Brotherhood', 'Grade 4 Gemdraught', 'Surging Tempest']"
+747685,748308,Fell Cleave,580.0,55814.0,,Default Target,['Surging Tempest'],207082394.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+748310,748310,Infuriate,,,,,,,[]
+749317,749849,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+750185,751122,Inner Chaos,660.0,109547.0,,Default Target,['Surging Tempest'],9995525.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+752677,753209,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+752685,754200,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
