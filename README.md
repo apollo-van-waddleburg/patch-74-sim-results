@@ -9,6 +9,9 @@ the lower and upper bounds of each comp. These 10000 simulations are also used t
 we have solvers for the MNK/BRD/DNC random elements (RDM we treated as static), which should normalize the effects of 
 rng on these jobs as well. 
 
+### Disclaimer
+**You should not use the results of these tools to discriminate against any jobs in a public setting.**
+
 ## Contents and Methodology
 We experimented with simulating jobs in 8-player comp situations to assess the strength of particular jobs in a target 
 dummy situation against their peers. To limit variables, we started with three baseline comps:
@@ -23,23 +26,28 @@ From these comps, we focus on specific roles by testing all **unique permutation
 labeled with the 1-2 jobs it is specifically testing. All permutations are simulated against each other and plotted in 
 the same graph for easy side-by-side comparison.
 
-| Comp                                            | Link                                                                                                                | Comment                                                                  |
-|:------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------|
-| `(Variable Tanks)-AST-SCH-MNK-NIN-BRD-PCT`      | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/TankBuffCompCompare)      |                                                                          |
-| `(Variable Tanks)-SGE-WHM-SAM-VPR-MCH-BLM`      | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/TankNoBuffCompCompare)    |                                                                          |
-| `DRK-GNB-(Variable Healers)-MNK-NIN-BRD-PCT`    | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/HealerBuffCompCompare)    |                                                                          |
-| `PLD-WAR-(Variable Healers)-SAM-VPR-MCH-BLM`    | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/HealerNoBuffCompCompare)  |                                                                          |
-| `DRK-GNB-WHM-SCH-(Variable Melees)-BRD-PCT`     | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/MeleeBuffCompCompare)     | Mostly laziness on not using AST here, I didn't want to configure cards. |
-| `PLD-WAR-SGE-WHM-(Variable Melees)-MCH-BLM`     | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/MeleeNoBuffCompCompare)   |                                                                          |
-| `DRK-GNB-AST-SCH-SAM-NIN-(Variable Ranged)-PCT` | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedBuffCompCompare)    |                                                                          |
-| `PLD-WAR-SGE-WHM-SAM-VPR-(Variable Ranged)-BLM` | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedNoBuffCompCompare)  |                                                                          |
-| `DRK-GNB-WHM-SCH-MNK-NIN-BRD-(Variable Caster)` | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterBuffCompCompare)    |                                                                          |
-| `DRK-GNB-AST-SCH-MNK-NIN-BRD-(Variable Caster)` | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterAstBuffCompCompare) | Ranged cards were used on the caster.                                    |
-| `PLD-WAR-SGE-WHM-SAM-VPR-MCH-(Variable Caster)` | [results](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterNoBuffCompCompare)  |                                                                          |
+Below are the links to all generated results, but I will highlight important ones later in the doc.
+
+| Comp                                      | Link                                                                                                                  | Comment                                |
+|:------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:---------------------------------------|
+| `(Tanks)-AST-SCH-MNK-NIN-BRD-PCT`         | [results folder](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/TankBuffCompCompare) |                                        |
+| `(Tanks)-SGE-WHM-SAM-VPR-MCH-BLM`         | [results folder](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/TankNoBuffCompCompare)      |                                        |
+| `DRK-GNB-(Healers)-MNK-NIN-BRD-PCT`       | [results folder](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/HealerBuffCompCompare)      |                                        |
+| `PLD-WAR-(Healers)-SAM-VPR-MCH-BLM`       | [results folder](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/HealerNoBuffCompCompare)    |                                        |
+| `DRK-GNB-WHM-SCH-(Melees)-BRD-PCT`        | [results folder](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/MeleeBuffCompCompare)       | AST excluded to remove carding impact. |
+| `PLD-WAR-SGE-WHM-(Melees)-MCH-BLM`        | [results folder](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/MeleeNoBuffCompCompare)     |                                        |
+| `DRK-GNB-AST-SCH-SAM-NIN-(Ranged)-PCT`    | [results folder](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedBuffCompCompare)      |                                        |
+| `PLD-WAR-SGE-WHM-SAM-VPR-(Ranged)-BLM`    | [results folder](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedNoBuffCompCompare)    |                                        |
+| `DRK-GNB-WHM-SCH-MNK-NIN-BRD-(Caster)`    | [results folder](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterBuffCompCompare)      |                                        |
+| `DRK-GNB-AST-SCH-MNK-NIN-BRD-(Caster)`    | [results folder](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterAstBuffCompCompare)   | Ranged cards were used on the caster.  |
+| `PLD-WAR-SGE-WHM-SAM-VPR-MCH-(Caster)`    | [results folder](https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterNoBuffCompCompare)    |                                        |
 
 ### Rotations
 All rotations are hand-sheeted `12:30` rotations, using pots in the opener, 6 minute, and 12 minute windows.
-All rotations attempted to align with a ~6s buff opener. As mentioned before, MNK/BRD/DNC have some random elements
+All rotations attempted to align with a ~6s buff opener. Regarding GCD tiers, we picked a commonly recommended 
+tier for each job.
+
+As mentioned before, MNK/BRD/DNC have some random elements
 in the simulation:
 * MNK: Chakra is randomly simulated based on game values. TFC's are used whenever possible with no holding.
 * BRD:
@@ -58,11 +66,11 @@ in the simulation:
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <figure style="flex: 1; text-align: center;">
-    <img src="/figures/brd-rng.png" style="width: 100%;">
-    <figcaption>BRD RNG Solver Output</figcaption></figcaption>
+    <img src="https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/figures/brd-rng.png?raw=true" style="width: 100%;">
+    <figcaption>BRD RNG Solver Output</figcaption>
   </figure>
   <figure style="flex: 1; text-align: center;">
-    <img src="/figures/dnc-rng.png" style="width: 100%;">
+    <img src="https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/figures/dnc-rng.png?raw=true" style="width: 100%;">
     <figcaption>DNC RNG Solver Output</figcaption>
   </figure>
 </div>
@@ -90,8 +98,8 @@ There are many generated outputs and plenty of them might not be very insightful
 ### Files and Outputs
 * [configs](configs) contains the original csvs and 8-player comp configurations for generating these outputs.
 * [outputs](outputs) contains simulated results for all of these comps in `csv` and `html` formats.
-  * https://htmlpreview.github.io/? can be used to view `html` files without any other tools by appending the full url.
-  * Example: https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterAstBuffCompCompare/comp_dps_over_time/comp_dps_over_time.html
+  * `https://htmlpreview.github.io/?` can be used to view `html` files without any other tools by appending the full url.
+  * Example: [https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterAstBuffCompCompare/comp_dps_over_time/comp_dps_over_time.html](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterAstBuffCompCompare/comp_dps_over_time/comp_dps_over_time.html)
 
 
 ## Outcomes
@@ -188,7 +196,8 @@ Some of the jobs are very rarely simmed or haven't been simmed at all until this
 I also coded the solvers so there's definitely the possibility of mistakes.
 
 ### Discriminatory Use
-**You should not use the results of these tools to discriminate against any jobs in a public setting.**
+
+> **You should not use the results of these tools to discriminate against any jobs in a public setting.**
 
 These results come from an idealistic scenario and are biased towards jobs that play into a raid-buff meta. 
 Some of the jobs that are under-performing in these simulations fare better in more real-world situations since they
