@@ -1,3 +1,5 @@
-remote_theme: pages-themes/midnight@v0.2.0
+title: Patch 7.4 Simulation Results
+description: Comparative simulation data for FFXIV raid compositions for Patch 7.4 at BIS
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
