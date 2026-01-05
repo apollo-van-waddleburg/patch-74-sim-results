@@ -144,6 +144,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 11020,11640,Xenoglossy,890.0,148736.0,,Default Target,[],917101995.0,"['Battle Litany', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 11720,11720,Manafont,,,,,,,[]
 11000,11758,Holy Spirit,500.0,56851.0,,Default Target,['Divine Might'],225242974.0,"['Battle Litany', 'Divine Might', 'Fight or Flight', 'Grade 4 Gemdraught']"
+11331,11821,Hissatsu: Gyoten,100.0,13021.0,,Default Target,[],12393866.0,"['Battle Litany', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 11000,11850,Glare IV,640.0,94529.0,,Default Target,[],567319949.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Presence of Mind']"
 11625,11982,Expiacion,450.0,51161.0,,Default Target,[],182409599.0,"['Battle Litany', 'Fight or Flight', 'Grade 4 Gemdraught']"
 11458,11990,Auto,90.0,7594.0,,Default Target,[],4018166.0,"['Battle Litany', 'Fight or Flight', 'Grade 4 Gemdraught']"
@@ -622,6 +623,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 62594,63126,Auto,90.0,21.0,,Default Target,[],25.0,[]
 63131,63131,Pile Bunker (pet),340.0,38417.0,,Default Target,[],103775197.0,[]
 62671,63203,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+62695,63315,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 62755,63465,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
 62978,63510,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 62982,63514,Auto,90.0,0.0,,Default Target,[],0.0,[]
@@ -808,7 +810,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 55802,82500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,"['Enochian', 'Ley Lines']"
 69125,82500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
 77856,82500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
-81956,82576,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 81990,82748,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 81625,82785,Blade of Honor,1000.0,99736.0,,Default Target,[],661260162.0,['Fight or Flight']
 81732,82892,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
@@ -825,6 +826,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 83476,84326,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
 84037,84569,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 83392,84682,Dia,85.0,10969.0,,Default Target,[],7095404.0,[]
+84096,84716,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 84019,84819,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
 84382,84914,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
 84937,84937,Arm Punch (pet),120.0,13555.0,,Default Target,[],12921574.0,[]
@@ -1067,6 +1069,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 86462,112500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
 99125,112500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
 107502,112500,Chaotic Spring (dot),45.0,5102.0,,Default Target,[],1838345.0,['Power Surge']
+111918,112538,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 112258,112790,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 111832,112992,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
 112502,113122,Drakesbane,460.0,52183.0,,Default Target,['Wheeling Thrust'],192381453.0,"['Power Surge', 'Wheeling Thrust']"
@@ -1076,7 +1079,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 114172,114172,Ixochole,,,,,,,[]
 113438,114238,Yukikaze,340.0,38842.0,,Default Target,[],105525015.0,"['Fugetsu', 'Fuka']"
 113670,114428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
-114058,114678,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 113500,114790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
 113513,114803,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 114277,114809,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
@@ -1172,6 +1174,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 124027,125057,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
 124553,125085,Auto,90.0,21.0,,Default Target,[],25.0,[]
 125146,125146,Roller Dash (pet),432.0,48811.0,,Default Target,[],167525369.0,[]
+124759,125379,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 125003,125623,Drakesbane,460.0,52183.0,,Default Target,['Fang and Claw'],192381453.0,"['Fang and Claw', 'Power Surge']"
 125623,125623,Battle Litany,,,,,,,[]
 125756,125756,Battle Litany,,,,,,,[]
@@ -1359,7 +1362,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 140353,140973,Xenoglossy,890.0,137422.0,,Default Target,[],782865691.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
 141053,141053,Swiftcast,,,,,,,[]
 140417,141087,Dosis III,380.0,51994.0,,Default Target,[],174744350.0,['Battle Litany']
-140520,141140,Hissatsu: Shinten,250.0,30090.0,,Default Target,[],66184380.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 140173,141233,Primal Ruination,780.0,127177.0,,Default Target,['Surging Tempest'],13476840.0,"['Battle Litany', 'Surging Tempest']"
 140760,141292,Auto,90.0,12684.0,,Default Target,[],11874166.0,"['Battle Litany', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 140829,141361,Auto,90.0,9635.0,,Default Target,[],6786216.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
@@ -1392,14 +1394,15 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 143500,144258,Holy Spirit,500.0,52533.0,,Default Target,['Divine Might'],192321649.0,"['Battle Litany', 'Divine Might', 'Fight or Flight']"
 142673,144322,Storm's Eye,500.0,46852.0,,Default Target,['Surging Tempest'],152966805.0,"['Battle Litany', 'Surging Tempest']"
 143533,144383,Blazing Shot,260.0,33869.0,,Default Target,['Overheated'],84585201.0,"['Battle Litany', 'Overheated']"
-144039,144619,Shoha,640.0,77034.0,,Default Target,[],433783446.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 144013,144633,Xenoglossy,890.0,137422.0,,Default Target,[],782865691.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
+144020,144640,Hissatsu: Shinten,250.0,30090.0,,Default Target,[],66184380.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 144114,144646,Auto,90.0,0.0,,Default Target,[],0.0,['Battle Litany']
 143743,144723,Starcross,700.0,105835.0,,Default Target,[],826745714.0,"['Battle Litany', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 144153,144863,Double Check,180.0,23443.0,,Default Target,[],40523421.0,['Battle Litany']
 143614,144904,Glare III,350.0,47764.0,,Default Target,[],144838786.0,['Battle Litany']
 144517,145049,Auto,90.0,9419.0,,Default Target,['Surging Tempest'],6182100.0,"['Battle Litany', 'Surging Tempest']"
 144663,145195,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
+144640,145220,Shoha,640.0,77034.0,,Default Target,[],433783446.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 114983,145500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 128863,145500,Thunder (dot),60.0,10464.0,,Default Target,[],4539266.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
 132503,145500,Chaotic Spring (dot),45.0,6799.0,,Default Target,[],3411377.0,"['Battle Litany', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
@@ -1761,6 +1764,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 185174,185797,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
 185799,185799,Inner Release,,,,,,,[]
 184544,185834,Fire III,290.0,60051.0,,Default Target,['3 Astral Fire'],111314107.0,['Enochian']
+185303,185923,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 185560,186092,Auto,90.0,9517.0,,Default Target,[],6399668.0,['Power Surge']
 184924,186214,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 186243,186243,Lance Charge,,,,,,,[]
@@ -1769,7 +1773,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 186178,186710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 186203,186823,Kasha,420.0,47982.0,,Default Target,['Meikyo Shisui'],161026141.0,"['Fugetsu', 'Fuka', 'Meikyo Shisui']"
 186000,187293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
-186823,187443,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 137780,187500,Higanbana (dot),50.0,6087.0,,Default Target,[],2707198.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 160393,187500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
 172245,187500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -2046,6 +2049,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 216254,216924,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 216165,216965,Yukikaze,340.0,38842.0,,Default Target,[],105525015.0,"['Fugetsu', 'Fuka']"
 216630,217388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+216785,217405,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 190494,217500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
 197704,217500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 201591,217500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -2084,7 +2088,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 220445,221065,Jinpu,300.0,34274.0,,Default Target,[],82159455.0,"['Fugetsu', 'Fuka']"
 220624,221114,High Jump,400.0,45378.0,,Default Target,[],145482888.0,['Power Surge']
 220594,221354,High Thunder,150.0,22191.0,,Default Target,[],15203066.0,['Enochian']
-221065,221685,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 220174,221689,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 221134,221804,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 221625,221982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
@@ -2110,6 +2113,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 207504,223500,Chaotic Spring (dot),45.0,5102.0,,Default Target,[],1838345.0,['Power Surge']
 219125,223500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
 220594,223500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
+223205,223825,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 223575,224245,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 224075,224607,Auto,90.0,21.0,,Default Target,[],25.0,[]
 223500,224660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
@@ -2202,7 +2206,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 234053,234853,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
 234586,235118,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 234694,235226,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
-234686,235306,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 197704,235500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 205835,235500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 220594,235500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
@@ -2219,6 +2222,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 235960,236492,Auto,90.0,9517.0,,Default Target,[],6399668.0,['Power Surge']
 235838,236508,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 236144,236634,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
+236046,236666,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 236000,236758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
 236844,236844,Manafont,,,,,,,[]
 236698,237230,Auto,90.0,21.0,,Default Target,[],25.0,[]
@@ -2537,6 +2541,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 265388,266238,Gyofu,240.0,28885.0,,Default Target,[],60993906.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 265096,266386,Dia,85.0,11545.0,,Default Target,[],8461468.0,['Battle Litany']
 265561,266411,Blazing Shot,260.0,33869.0,,Default Target,['Overheated'],84585201.0,"['Battle Litany', 'Overheated']"
+266008,266628,Hissatsu: Shinten,250.0,30090.0,,Default Target,[],66184380.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 265175,266690,Storm's Path,500.0,46852.0,,Default Target,['Surging Tempest'],152966805.0,"['Battle Litany', 'Surging Tempest']"
 266181,266891,Checkmate,180.0,23443.0,,Default Target,[],40523421.0,['Battle Litany']
 266760,267292,Auto,90.0,12040.0,,Default Target,[],10240614.0,"['Lance Charge', 'Life of the Dragon', 'Power Surge']"
@@ -3650,6 +3655,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 384276,384766,Despair,350.0,105291.0,,Default Target,['3 Astral Fire'],459601077.0,"['Battle Litany', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 384360,384892,Auto,90.0,13729.0,,Default Target,[],13908982.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 384208,384918,Checkmate,180.0,25376.0,,Default Target,[],47482437.0,"['Battle Litany', 'Grade 4 Gemdraught']"
+384355,384975,Hissatsu: Shinten,250.0,32564.0,,Default Target,[],77519051.0,"['Battle Litany', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 384976,384976,Transpose,,,,,,,[]
 384845,385377,Auto,90.0,10428.0,,Default Target,[],7947611.0,"['Battle Litany', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 362507,385500,Chaotic Spring (dot),45.0,5520.0,,Default Target,[],2152180.0,"['Grade 4 Gemdraught', 'Power Surge']"
@@ -3670,7 +3676,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 386107,386777,Paradox,540.0,83373.0,,Default Target,['1 Umbral Ice'],288169826.0,"['Battle Litany', 'Enochian', 'Triplecast']"
 386404,386936,Auto,90.0,21.0,,Default Target,[],25.0,[]
 386437,386969,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
-386476,387096,Hissatsu: Shinten,250.0,30910.0,,Default Target,[],66828064.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 386569,387101,Auto,90.0,0.0,,Default Target,[],0.0,[]
 386000,387290,Sepulchre,540.0,61397.0,,Default Target,[],262691163.0,"['Battle Litany', 'Fight or Flight', 'Grade 4 Gemdraught']"
 386069,387359,Glare III,350.0,47764.0,,Default Target,[],144838786.0,['Battle Litany']
@@ -3952,6 +3957,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 407189,418500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 412508,418500,Chaotic Spring (dot),45.0,5102.0,,Default Target,[],1838345.0,['Power Surge']
 414269,418500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
+417958,418578,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 418159,418691,Auto,90.0,0.0,,Default Target,[],0.0,[]
 417659,418949,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 419138,419670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
@@ -4045,7 +4051,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 428304,428927,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
 428397,428929,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 428500,429034,Goring Blade,700.0,69814.0,,Default Target,[],324015381.0,['Fight or Flight']
-428659,429279,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 428177,429337,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
 428749,429509,Nastrond,720.0,103326.0,,Default Target,[],754302132.0,"['Lance Charge', 'Life of the Dragon', 'Power Surge']"
 428929,429596,Onslaught,150.0,13339.0,,Default Target,['Surging Tempest'],11827982.0,['Surging Tempest']
@@ -4294,6 +4299,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 456220,456752,Auto,90.0,0.0,,Default Target,[],0.0,[]
 455179,456828,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 456200,456870,Assize,400.0,51864.0,,Default Target,[],158638414.0,[]
+456481,457101,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 456604,457404,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 436536,457500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 437399,457500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
@@ -4422,7 +4428,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 471160,471692,Auto,90.0,9517.0,,Default Target,[],6399668.0,['Power Surge']
 471000,471758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
 471283,471815,Auto,90.0,21.0,,Default Target,[],25.0,[]
-471461,472081,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 471607,472407,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 471120,472410,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 437399,472500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
@@ -4462,6 +4467,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 475350,476108,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 475020,476310,Dia,85.0,10969.0,,Default Target,[],7095404.0,[]
 475664,476334,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
+475742,476362,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 476000,476623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
 476407,477027,Xenoglossy,890.0,131676.0,,Default Target,[],535209949.0,['Enochian']
 476760,477292,Auto,90.0,9517.0,,Default Target,[],6399668.0,['Power Surge']
@@ -4491,7 +4497,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 479402,480162,Gekko,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
 479108,480258,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
 480010,480630,Drakesbane,460.0,52183.0,,Default Target,['Fang and Claw'],192381453.0,"['Fang and Claw', 'Power Surge']"
-480022,480642,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 479777,480937,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
 480497,481029,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
 480517,481049,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
@@ -4537,6 +4542,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 484098,484630,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 484729,484729,Reassemble,,,,,,,[]
 483500,484793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
+484302,484922,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 484109,485139,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
 485228,485228,Roller Dash (pet),432.0,48811.0,,Default Target,[],167525369.0,[]
 485630,485630,Battle Litany,,,,,,,[]
@@ -4657,11 +4663,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 493830,494588,Shot,80.0,7637.0,,Default Target,[],4300644.0,['Battle Litany']
 494125,494703,Intervene,150.0,15757.0,,Default Target,[],17301971.0,"['Battle Litany', 'Fight or Flight']"
 493930,494730,Mirage Dive,380.0,57448.0,,Default Target,[],243589853.0,"['Battle Litany', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
+495003,495003,Ikishoten,,,,,,,[]
 494383,495143,Gekko,420.0,50549.0,,Default Target,['Meikyo Shisui'],186787134.0,"['Battle Litany', 'Fugetsu', 'Fuka', 'Meikyo Shisui']"
 495228,495228,Crowned Collider (pet),702.0,83555.0,,Default Target,[],514775640.0,['Battle Litany']
 494612,495462,Blazing Shot,260.0,33869.0,,Default Target,['Overheated'],84585201.0,"['Battle Litany', 'Overheated']"
-495003,495623,Hissatsu: Shinten,250.0,30090.0,,Default Target,[],66184380.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
-495623,495623,Ikishoten,,,,,,,[]
 495010,495630,Raiden Thrust,320.0,48377.0,,Default Target,[],172741041.0,"['Battle Litany', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 495168,495788,Flare Star,500.0,138978.0,,Default Target,['3 Astral Fire'],800685290.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
 495180,495803,Fell Cleave,580.0,94568.0,,Default Target,['Surging Tempest'],7454480.0,"['Battle Litany', 'Inner Release', 'Surging Tempest']"
@@ -4765,6 +4770,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 504037,504569,Auto,90.0,9419.0,,Default Target,['Surging Tempest'],6182100.0,"['Battle Litany', 'Surging Tempest']"
 504151,504683,Auto,90.0,0.0,,Default Target,[],0.0,['Battle Litany']
 504258,504790,Auto,90.0,7016.0,,Default Target,[],3429963.0,"['Battle Litany', 'Fight or Flight']"
+504203,504823,Hissatsu: Shinten,250.0,30090.0,,Default Target,[],66184380.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 503651,504941,Glare III,350.0,47764.0,,Default Target,[],144838786.0,['Battle Litany']
 504114,504964,Blazing Shot,260.0,33869.0,,Default Target,['Overheated'],84585201.0,"['Battle Litany', 'Overheated']"
 504390,505148,Shot,80.0,7637.0,,Default Target,[],4300644.0,['Battle Litany']
@@ -4781,7 +4787,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 505180,505803,Maim,340.0,31855.0,,Default Target,['Surging Tempest'],70717990.0,"['Battle Litany', 'Surging Tempest']"
 505184,505854,Dosis III,380.0,51994.0,,Default Target,[],174744350.0,['Battle Litany']
 505188,505858,Paradox,540.0,83373.0,,Default Target,['1 Umbral Ice'],288169826.0,"['Battle Litany', 'Enochian', 'Triplecast']"
-505704,506324,Hissatsu: Shinten,250.0,30090.0,,Default Target,[],66184380.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 505121,506411,Dia,85.0,11545.0,,Default Target,[],8461468.0,['Battle Litany']
 505615,506465,Blazing Shot,260.0,33869.0,,Default Target,['Overheated'],84585201.0,"['Battle Litany', 'Overheated']"
 506044,506576,Auto,90.0,22.0,,Default Target,[],29.0,['Battle Litany']
@@ -4970,6 +4975,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 526485,527285,Shifu,300.0,34274.0,,Default Target,[],82159455.0,"['Fugetsu', 'Fuka']"
 526620,527470,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
 527160,527692,Auto,90.0,9517.0,,Default Target,[],6399668.0,['Power Surge']
+527105,527725,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 527736,527736,Crowned Collider (pet),390.0,44069.0,,Default Target,[],136559340.0,[]
 527210,527880,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 527240,527950,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
@@ -5011,7 +5017,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 531688,531688,Swiftcast,,,,,,,[]
 531000,531758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
 531121,531971,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
-531385,532005,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 531741,532451,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 497323,532500,Higanbana (dot),50.0,6087.0,,Default Target,[],2707198.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 505121,532500,Dia (dot),85.0,11834.0,,Default Target,[],8892022.0,['Battle Litany']
@@ -5067,6 +5072,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 537637,538169,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 537681,538213,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 537858,538390,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+537806,538426,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 497323,538500,Higanbana (dot),50.0,6087.0,,Default Target,[],2707198.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 517588,538500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
 524749,538500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -5166,7 +5172,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 548131,548891,Nastrond,720.0,103326.0,,Default Target,[],754302132.0,"['Lance Charge', 'Life of the Dragon', 'Power Surge']"
 548306,548929,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
 548500,549034,Goring Blade,700.0,69814.0,,Default Target,[],324015381.0,['Fight or Flight']
-548507,549127,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 549058,549590,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
 548931,549598,Onslaught,150.0,13339.0,,Default Target,['Surging Tempest'],11827982.0,['Surging Tempest']
 549173,549843,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
@@ -5341,6 +5346,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 567148,567948,Shifu,300.0,34274.0,,Default Target,[],82159455.0,"['Fugetsu', 'Fuka']"
 567537,568069,Auto,90.0,21.0,,Default Target,[],25.0,[]
 567511,568131,Drakesbane,460.0,52183.0,,Default Target,['Wheeling Thrust'],192381453.0,"['Power Surge', 'Wheeling Thrust']"
+567768,568388,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 567877,568409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 547688,568500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
 554095,568500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -5397,6 +5403,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 562511,574500,Chaotic Spring (dot),45.0,6454.0,,Default Target,[],2942101.0,"['Lance Charge', 'Life of the Dragon', 'Power Surge']"
 565872,574500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 573500,574660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
+574188,574808,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 574130,574930,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 574498,575030,Auto,90.0,21.0,,Default Target,[],25.0,[]
 574597,575129,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
@@ -5452,7 +5459,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 580360,580892,Auto,90.0,9517.0,,Default Target,[],6399668.0,['Power Surge']
 580418,580950,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 580632,581122,High Jump,400.0,45378.0,,Default Target,[],145482888.0,['Power Surge']
-580609,581229,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 581568,581568,Taurochole,,,,,,,[]
 581000,581623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
 580960,581630,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
@@ -5471,6 +5477,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 582512,583132,Raiden Thrust,320.0,36300.0,,Default Target,[],93100792.0,['Power Surge']
 582658,583190,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 582682,583305,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
+582749,583369,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 554095,583500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 557247,583500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 562511,583500,Chaotic Spring (dot),45.0,6454.0,,Default Target,[],2942101.0,"['Lance Charge', 'Life of the Dragon', 'Power Surge']"
@@ -5511,7 +5518,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 586409,587209,Shifu,300.0,34274.0,,Default Target,[],82159455.0,"['Fugetsu', 'Fuka']"
 586273,587563,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 587060,587592,Auto,90.0,21.0,,Default Target,[],25.0,[]
-587029,587649,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 587138,587670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 587512,587962,Chaotic Spring,340.0,38570.0,,Default Target,[],105104800.0,['Power Surge']
 587133,587983,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
@@ -5585,6 +5591,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 595182,595714,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 594970,595820,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
 595489,596109,Xenoglossy,890.0,131676.0,,Default Target,[],535209949.0,['Enochian']
+595590,596210,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 595033,596323,Dia,85.0,10969.0,,Default Target,[],7095404.0,[]
 595664,596334,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 596000,596623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
@@ -5645,6 +5652,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 602985,603655,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 603289,603821,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 603500,604078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
+604150,604150,Meikyo Shisui,,,,,,,[]
 602682,604197,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 603497,604207,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
 603530,604290,Gekko,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
@@ -5658,13 +5666,12 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 595033,604500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 603283,604573,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 604089,604759,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
-604150,604770,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
-604770,604770,Meikyo Shisui,,,,,,,[]
 604137,605167,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
 605256,605256,Roller Dash (pet),480.0,54238.0,,Default Target,[],206852178.0,[]
 604789,605321,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
 604837,605369,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 605377,605377,Reassemble,,,,,,,[]
+604770,605390,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 604757,605467,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 604710,605468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 605589,605589,Ley Lines,,,,,,,[]
@@ -5783,14 +5790,13 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 614018,614550,Auto,90.0,7016.0,,Default Target,[],3429963.0,"['Battle Litany', 'Fight or Flight']"
 614125,614703,Intervene,150.0,15757.0,,Default Target,[],17301971.0,"['Battle Litany', 'Fight or Flight']"
 614231,614991,Gekko,420.0,50549.0,,Default Target,[],186787134.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
+615003,615003,Ikishoten,,,,,,,[]
 613932,615092,Rise of the Dragon,550.0,83150.0,,Default Target,[],510321769.0,"['Battle Litany', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 614569,615189,Flare Star,500.0,138978.0,,Default Target,['3 Astral Fire'],800685290.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
 615256,615256,Crowned Collider (pet),780.0,92840.0,,Default Target,[],635564475.0,['Battle Litany']
 614917,615449,Auto,90.0,9419.0,,Default Target,['Surging Tempest'],6182100.0,"['Battle Litany', 'Surging Tempest']"
-614851,615471,Hissatsu: Shinten,250.0,30090.0,,Default Target,[],66184380.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 614640,615490,Blazing Shot,260.0,33869.0,,Default Target,['Overheated'],84585201.0,"['Battle Litany', 'Overheated']"
 615069,615601,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
-615623,615623,Ikishoten,,,,,,,[]
 615012,615632,Wheeling Thrust,340.0,51401.0,,Default Target,[],195017291.0,"['Battle Litany', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 615632,615632,Life Surge,,,,,,,[]
 615182,615805,Fell Cleave,580.0,94568.0,,Default Target,['Surging Tempest'],7454480.0,"['Battle Litany', 'Inner Release', 'Surging Tempest']"
@@ -5846,6 +5852,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 619560,620092,Auto,90.0,12684.0,,Default Target,[],11874166.0,"['Battle Litany', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 619761,620471,Double Check,180.0,23443.0,,Default Target,[],40523421.0,['Battle Litany']
 619984,620516,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Presence of Mind']"
+619912,620532,Hissatsu: Shinten,250.0,30090.0,,Default Target,[],66184380.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 620012,620632,Raiden Thrust,320.0,48377.0,,Default Target,[],172741041.0,"['Battle Litany', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 620221,620753,Auto,90.0,9635.0,,Default Target,[],6786216.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 619484,620774,Glare III,350.0,47764.0,,Default Target,[],144838786.0,"['Battle Litany', 'Presence of Mind']"
@@ -5905,7 +5912,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 624932,625782,Gyofu,240.0,28885.0,,Default Target,[],60993906.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 625183,625806,Maim,340.0,31855.0,,Default Target,['Surging Tempest'],70717990.0,"['Battle Litany', 'Surging Tempest']"
 625510,626042,Auto,90.0,22.0,,Default Target,[],29.0,['Battle Litany']
-625552,626172,Hissatsu: Shinten,250.0,30090.0,,Default Target,[],66184380.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 625134,626424,Dia,85.0,11545.0,,Default Target,[],8461468.0,['Battle Litany']
 625643,626493,Blazing Shot,260.0,33869.0,,Default Target,['Overheated'],84585201.0,"['Battle Litany', 'Overheated']"
 625830,626588,Shot,80.0,7637.0,,Default Target,[],4300644.0,['Battle Litany']
@@ -6057,6 +6063,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 642053,642903,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
 642513,643133,Drakesbane,460.0,52183.0,,Default Target,['Wheeling Thrust'],192381453.0,"['Power Surge', 'Wheeling Thrust']"
 642683,643215,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+642673,643293,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 617171,643500,Higanbana (dot),50.0,6087.0,,Default Target,[],2707198.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
 625134,643500,Dia (dot),85.0,11834.0,,Default Target,[],8892022.0,['Battle Litany']
 637513,643500,Chaotic Spring (dot),45.0,5102.0,,Default Target,[],1838345.0,['Power Surge']
@@ -6128,6 +6135,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 650613,651413,Shifu,300.0,34274.0,,Default Target,[],82159455.0,"['Fugetsu', 'Fuka']"
 651000,651578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
 650394,651684,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
+651233,651853,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 651864,651864,Afflatus Rapture,,,,,,,[]
 651877,652409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 651904,652436,Auto,90.0,0.0,,Default Target,[],0.0,[]
@@ -6149,7 +6157,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 652920,653452,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
 652962,653494,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 653160,653692,Auto,90.0,9517.0,,Default Target,[],6399668.0,['Power Surge']
-653373,653993,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 654294,654294,Afflatus Rapture,,,,,,,[]
 653500,654793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
 654338,654870,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
@@ -6204,6 +6211,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 660183,660715,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 660150,660908,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 660457,660989,Auto,90.0,21.0,,Default Target,[],25.0,[]
+660424,661044,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 660624,661156,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 660013,661393,Spiral Blow,300.0,34032.0,,Default Target,[],81822727.0,['Power Surge']
 617171,661500,Higanbana (dot),50.0,6087.0,,Default Target,[],2707198.0,"['Battle Litany', 'Fugetsu', 'Fuka']"
@@ -6220,7 +6228,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 661678,662348,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 661651,662451,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 661957,662489,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
-661934,662554,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 662224,662756,Auto,90.0,0.0,,Default Target,[],0.0,[]
 662513,662963,Chaotic Spring,340.0,38570.0,,Default Target,[],105104800.0,['Power Surge']
 662760,663292,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
@@ -6254,6 +6261,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 664975,666265,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 666625,666625,Fight or Flight,,,,,,,[]
 665183,666698,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+666214,666834,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 667166,667166,Druochole,,,,,,,[]
 666559,667229,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 666000,667290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
@@ -6277,7 +6285,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 667405,668695,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 668070,668828,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 668308,668931,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
-668354,668974,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 668500,669034,Goring Blade,700.0,69814.0,,Default Target,[],324015381.0,['Fight or Flight']
 668677,669209,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 668133,669333,Wyrmwind Thrust,440.0,63143.0,,Default Target,[],281682590.0,"['Lance Charge', 'Life of the Dragon', 'Power Surge']"
@@ -6529,6 +6536,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 695905,696575,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 695184,696699,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 696000,696758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
+696176,696796,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 696765,697297,Auto,90.0,21.0,,Default Target,[],25.0,[]
 696898,697430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 696659,697459,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
@@ -6695,6 +6703,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 699020,715500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
 705708,715500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 715014,715634,Fang and Claw,340.0,38570.0,,Default Target,[],105104800.0,['Power Surge']
+715437,716057,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 715490,716160,Dosis III,380.0,53462.0,,Default Target,[],172533440.0,['Grade 4 Gemdraught']
 715717,716249,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 715590,716348,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
@@ -6713,7 +6722,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 717560,718092,Auto,90.0,8653.0,,Default Target,[],5289289.0,[]
 717514,718134,Drakesbane,460.0,47439.0,,Default Target,['Fang and Claw'],158995292.0,['Fang and Claw']
 718183,718183,Grade 4 Gemdraught,,,,,,,[]
-717578,718198,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
+718208,718208,Grade 4 Gemdraught,,,,,,,[]
 717684,718216,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 685656,718500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 699020,718500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
@@ -6723,19 +6732,19 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 718430,718962,Auto,90.0,21.0,,Default Target,[],25.0,['Grade 4 Gemdraught']
 718230,718988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 718500,719123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
-719007,719539,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
+719007,719539,Auto,90.0,9898.0,,Default Target,[],6851445.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 719077,719609,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
-719718,719718,Grade 4 Gemdraught,,,,,,,[]
+719718,719718,Meikyo Shisui,,,,,,,[]
 719783,719783,Automaton Queen,,,,,,,[]
 719298,719830,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
-719098,719948,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
+719098,719948,Gyofu,240.0,29670.0,,Default Target,[],61572204.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 719163,720313,Air Anchor,660.0,88349.0,,Default Target,[],548862248.0,['Grade 4 Gemdraught']
-720338,720338,Meikyo Shisui,,,,,,,[]
 720014,720634,Raiden Thrust,320.0,33001.0,,Default Target,[],76940247.0,[]
 720634,720634,Grade 4 Gemdraught,,,,,,,[]
 720184,720807,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
 720809,720809,Grade 4 Gemdraught,,,,,,,[]
 720360,720892,Auto,90.0,8653.0,,Default Target,[],5289289.0,[]
+720338,720958,Hissatsu: Shinten,250.0,30910.0,,Default Target,[],66828064.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 720371,721041,Dosis III,380.0,53462.0,,Default Target,[],172533440.0,['Grade 4 Gemdraught']
 720590,721122,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught']"
 720090,721250,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught']"
@@ -6810,7 +6819,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 699020,727500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
 705708,727500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 717476,727500,Dia (dot),85.0,12172.0,,Default Target,[],8737171.0,['Grade 4 Gemdraught']
-726919,727539,Hissatsu: Shinten,250.0,32564.0,,Default Target,[],77519051.0,"['Battle Litany', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 726875,727545,Geirskogul,280.0,36208.0,,Default Target,[],96767674.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Power Surge']"
 727150,727682,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 726665,727735,Excavator,660.0,161731.0,,Default Target,['Reassemble'],21799856.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Reassemble']"
@@ -6853,6 +6861,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 729798,730558,Gekko,420.0,54709.0,,Default Target,[],218792628.0,"['Battle Litany', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 730015,730635,Wheeling Thrust,340.0,55621.0,,Default Target,[],228337175.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 730498,731030,Auto,90.0,7594.0,,Default Target,[],4018166.0,"['Battle Litany', 'Fight or Flight', 'Grade 4 Gemdraught']"
+730418,731038,Hissatsu: Shinten,250.0,32564.0,,Default Target,[],77519051.0,"['Battle Litany', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 730635,731125,High Jump,400.0,65436.0,,Default Target,[],316035092.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 730185,731345,Primal Rend,700.0,123482.0,,Default Target,['Surging Tempest'],12712266.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Surging Tempest']"
 731435,731435,Life Surge,,,,,,,[]
@@ -6954,8 +6963,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 739237,739769,Auto,90.0,10193.0,,Default Target,['Surging Tempest'],7239938.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Surging Tempest']"
 739458,739990,Auto,90.0,7594.0,,Default Target,[],4018166.0,"['Battle Litany', 'Fight or Flight', 'Grade 4 Gemdraught']"
 739168,740018,Blazing Shot,260.0,36658.0,,Default Target,['Overheated'],99090439.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Overheated']"
+739599,740089,Hissatsu: Gyoten,100.0,13021.0,,Default Target,[],12393866.0,"['Battle Litany', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 739350,740108,Shot,80.0,8266.0,,Default Target,[],5037777.0,"['Battle Litany', 'Grade 4 Gemdraught']"
-739599,740219,Hissatsu: Shinten,250.0,32564.0,,Default Target,[],77519051.0,"['Battle Litany', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 739960,740492,Auto,90.0,13729.0,,Default Target,[],13908982.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 739788,740498,Checkmate,180.0,25376.0,,Default Target,[],47482437.0,"['Battle Litany', 'Grade 4 Gemdraught']"
 739996,740528,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Presence of Mind']"
@@ -7019,7 +7028,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 745015,745635,Drakesbane,460.0,75252.0,,Default Target,['Fang and Claw'],417976462.0,"['Battle Litany', 'Fang and Claw', 'Grade 4 Gemdraught', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 745147,745727,Afflatus Misery,1400.0,206815.0,,Default Target,[],2715504213.0,"['Battle Litany', 'Grade 4 Gemdraught']"
 745185,745808,Maim,340.0,34463.0,,Default Target,['Surging Tempest'],82772578.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Surging Tempest']"
-745399,745889,Hissatsu: Gyoten,100.0,13021.0,,Default Target,[],12393866.0,"['Battle Litany', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
+745399,746019,Hissatsu: Shinten,250.0,32564.0,,Default Target,[],77519051.0,"['Battle Litany', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 745170,746020,Blazing Shot,260.0,36658.0,,Default Target,['Overheated'],99090439.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Overheated']"
 745560,746092,Auto,90.0,13729.0,,Default Target,[],13908982.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 745501,746121,Xenoglossy,890.0,137422.0,,Default Target,[],782865691.0,"['Battle Litany', 'Enochian']"
@@ -7045,6 +7054,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 727515,748500,Chaotic Spring (dot),45.0,7356.0,,Default Target,[],3994238.0,"['Battle Litany', 'Grade 4 Gemdraught', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 728520,748500,Thunder (dot),60.0,11327.0,,Default Target,[],5318651.0,"['Battle Litany', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 747911,748621,Double Check,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
+748160,748650,Hissatsu: Gyoten,100.0,12360.0,,Default Target,[],10684474.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 748360,748892,Auto,90.0,10301.0,,Default Target,[],7496874.0,"['Grade 4 Gemdraught', 'Power Surge']"
 748418,748950,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
 749139,749139,Swiftcast,,,,,,,[]
@@ -7054,10 +7064,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 748537,749827,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 749317,749849,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
 748696,749896,Toxikon II,380.0,49391.0,,Default Target,[],147266966.0,[]
-749060,749910,Gyofu,240.0,29670.0,,Default Target,[],61572204.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
+749060,749910,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
 749171,749971,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
-749528,750060,Auto,90.0,9898.0,,Default Target,[],6851445.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
-749680,750300,Hissatsu: Shinten,250.0,30910.0,,Default Target,[],66828064.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
+749528,750060,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
+749680,750300,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 749890,750422,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
 749801,750471,Paradox,540.0,79886.0,,Default Target,['1 Umbral Ice'],197010726.0,['Enochian']
 749791,750501,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]

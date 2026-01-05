@@ -7,3 +7,6 @@
 *.xml
 .idea/*
 .idea
+old-outputs
+old-outputs/*
+*.py
