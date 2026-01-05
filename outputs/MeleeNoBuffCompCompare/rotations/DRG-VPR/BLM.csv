@@ -154,7 +154,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 123512,124182,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
 124322,124854,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
 125012,125012,Ley Lines,,,,,,,[]
-125756,125756,Battle Litany,,,,,,,[]
+125753,125753,Battle Litany,,,,,,,[]
 126672,127832,Fire IV,300.0,83384.0,,Default Target,['3 Astral Fire'],288233127.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
 128863,129623,High Thunder,150.0,23160.0,,Default Target,[],22237439.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
 129363,129895,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
@@ -294,7 +294,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 242594,243264,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
 244094,244094,Ley Lines,,,,,,,[]
 220594,244500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
-245758,245758,Battle Litany,,,,,,,[]
+245753,245753,Battle Litany,,,,,,,[]
 246254,246786,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Ley Lines']"
 245754,246914,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,"['Enochian', 'Ley Lines']"
 220594,247500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
@@ -440,7 +440,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 339675,364500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
 364526,364526,Ley Lines,,,,,,,[]
 364745,365277,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
-365760,365760,Battle Litany,,,,,,,[]
+365753,365753,Battle Litany,,,,,,,[]
 339675,367500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
 367525,368057,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 366936,368096,Fire IV,300.0,90249.0,,Default Target,['3 Astral Fire'],337649736.0,"['Battle Litany', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
@@ -584,7 +584,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 483777,484309,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
 484357,484357,Ley Lines,,,,,,,[]
 454407,484500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
-485763,485763,Battle Litany,,,,,,,[]
+485753,485753,Battle Litany,,,,,,,[]
 486017,487177,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,"['Enochian', 'Ley Lines']"
 488207,488967,High Thunder,150.0,23160.0,,Default Target,[],22237439.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
 488707,489239,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
@@ -727,7 +727,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 604089,604759,Paradox,540.0,79886.0,,Default Target,['3 Astral Fire'],197010726.0,['Enochian']
 604789,605321,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
 605589,605589,Ley Lines,,,,,,,[]
-605765,605765,Battle Litany,,,,,,,[]
+606373,606373,Battle Litany,,,,,,,[]
 577789,607500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
 607249,608409,Fire IV,300.0,83384.0,,Default Target,['3 Astral Fire'],288233127.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
 608069,608601,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
@@ -756,7 +756,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 624590,625210,Xenoglossy,890.0,137422.0,,Default Target,[],782865691.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
 609439,625500,Thunder (dot),60.0,10464.0,,Default Target,[],4539266.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
 626189,626721,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Enochian']"
-626420,627260,Blizzard III,290.0,42893.0,,Default Target,['1 Umbral Ice'],56791993.0,"['Enochian', 'Triplecast']"
+626420,627260,Blizzard III,290.0,44765.0,,Default Target,['1 Umbral Ice'],83073343.0,"['Battle Litany', 'Enochian', 'Triplecast']"
 609439,628500,Thunder (dot),60.0,10464.0,,Default Target,[],4539266.0,"['Battle Litany', 'Enochian', 'Ley Lines']"
 629270,629270,Transpose,,,,,,,[]
 628570,629730,Blizzard IV,300.0,44387.0,,Default Target,['3 Umbral Ice'],60819838.0,"['Enochian', 'Triplecast']"
@@ -871,7 +871,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 723870,724402,Auto,90.0,0.0,,Default Target,[],0.0,"['Enochian', 'Grade 4 Gemdraught']"
 699020,724500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
 724670,724670,Ley Lines,,,,,,,[]
-725768,725768,Battle Litany,,,,,,,[]
+726373,726373,Battle Litany,,,,,,,[]
 726330,727490,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 699020,727500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
 727150,727682,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
@@ -902,7 +902,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 743671,744961,Fire III,290.0,67830.0,,Default Target,['3 Astral Fire'],190731526.0,"['Battle Litany', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 728520,745500,Thunder (dot),60.0,11327.0,,Default Target,[],5318651.0,"['Battle Litany', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 745501,746121,Xenoglossy,890.0,137422.0,,Default Target,[],782865691.0,"['Battle Litany', 'Enochian']"
-746610,747142,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
+746610,747142,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Enochian']"
 747651,748141,Despair,350.0,93213.0,,Default Target,['3 Astral Fire'],268247312.0,['Enochian']
 748351,748351,Transpose,,,,,,,[]
 728520,748500,Thunder (dot),60.0,11327.0,,Default Target,[],5318651.0,"['Battle Litany', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"

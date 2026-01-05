@@ -1,0 +1,978 @@
+sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,sim_target,sim_conditions,sim_variance,sim_buffs
+-5999,-5999,Chi,,,,,,,[]
+-5499,-5499,Jin,,,,,,,[]
+-280,-280,Kassatsu,,,,,,,[]
+-900,80,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+80,612,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+601,1001,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+1221,1221,Grade 4 Gemdraught,,,,,,,[]
+2250,2782,Auto,90.0,8419.0,,Default Target,[],5001062.0,['Grade 4 Gemdraught']
+2721,3121,Gust Slash,400.0,44058.0,,Default Target,[],136973835.0,['Grade 4 Gemdraught']
+4111,4111,Bunshin,,,,,,,[]
+3491,4561,Dokumori,400.0,44058.0,,Default Target,[],136973835.0,['Grade 4 Gemdraught']
+4841,4841,Phantom Kamaitachi,,,,,,,[]
+4420,4952,Auto,90.0,8839.0,,Default Target,[],5513498.0,"['Dokumori', 'Grade 4 Gemdraught']"
+5133,5133,Brotherhood,,,,,,,[]
+4841,6401,Phantom Kamaitachi (pet),700.0,75279.0,,Default Target,[],399919684.0,"['Dokumori', 'Grade 4 Gemdraught']"
+7049,7049,Armor Crush (pet),160.0,18062.0,,Default Target,[],23021774.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught']"
+6590,7122,Auto,90.0,9281.0,,Default Target,[],6077743.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught']"
+6961,7581,Armor Crush,500.0,60719.0,,Default Target,"['Bunshin', 'Kazematoi']",260169548.0,"['Brotherhood', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught']"
+8760,9292,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+9581,9581,Jin,,,,,,,[]
+8381,9671,Kunai's Bane,700.0,85009.0,,Default Target,[],509950352.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught']"
+10082,10702,Hyosho Ranryu,1300.0,225763.0,,Default Target,['Kassatsu'],3596758350.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Kassatsu', ""Kunai's Bane""]"
+10702,11402,Dream Within a Dream,180.0,24041.0,,Default Target,[],40785405.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+10930,11462,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+10702,11552,Dream Within a Dream,180.0,24041.0,,Default Target,[],40785405.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+10702,11702,Dream Within a Dream,180.0,24041.0,,Default Target,[],40785405.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+12083,12083,Chi,,,,,,,[]
+13203,13203,Ten Chi Jin,,,,,,,[]
+12583,13293,Raiton,740.0,98851.0,,Default Target,[],689564660.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+13100,13632,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+14084,14974,Fuma Shuriken,500.0,66791.0,,Default Target,['Ten Chi Jin'],314811393.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Ten Chi Jin']"
+15085,15795,Raiton,740.0,98851.0,,Default Target,['Ten Chi Jin'],689564660.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Ten Chi Jin']"
+16085,16617,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+16706,16706,Meisui,,,,,,,[]
+16085,17065,Suiton,580.0,77475.0,,Default Target,['Ten Chi Jin'],423581166.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Ten Chi Jin']"
+17586,18346,Fleeting Raiju,700.0,93510.0,,Default Target,['Bunshin'],617055963.0,"['Brotherhood', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+18434,18434,Fleeting Raiju (pet),160.0,19868.0,,Default Target,[],27857365.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+18255,18787,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+18206,19236,Zesho Meppo,850.0,113548.0,,Default Target,['Meisui'],909848975.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Meisui']"
+19707,20467,Fleeting Raiju,700.0,93510.0,,Default Target,['Bunshin'],617055963.0,"['Brotherhood', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+18826,20516,Tenri Jindo,1100.0,146948.0,,Default Target,[],1523851411.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+20555,20555,Fleeting Raiju (pet),160.0,19868.0,,Default Target,[],27857365.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+20327,20947,Bhavacakra,400.0,53430.0,,Default Target,[],201453327.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+20425,20957,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+22327,22327,Chi,,,,,,,[]
+22595,23127,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+22828,23538,Raiton,740.0,98851.0,,Default Target,[],689564660.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+24328,25088,Fleeting Raiju,700.0,93510.0,,Default Target,['Bunshin'],617055963.0,"['Brotherhood', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+25176,25176,Fleeting Raiju (pet),160.0,17202.0,,Default Target,[],20881206.0,"['Brotherhood', 'Grade 4 Gemdraught']"
+24765,25297,Auto,90.0,8839.0,,Default Target,[],5513498.0,"['Brotherhood', 'Grade 4 Gemdraught']"
+26536,26536,Spinning Edge (pet),160.0,16383.0,,Default Target,[],18941541.0,['Grade 4 Gemdraught']
+26448,26848,Spinning Edge,300.0,33044.0,,Default Target,[],77050542.0,['Grade 4 Gemdraught']
+26935,27467,Auto,90.0,8419.0,,Default Target,[],5001062.0,['Grade 4 Gemdraught']
+28568,28968,Gust Slash,400.0,44058.0,,Default Target,[],136973835.0,['Grade 4 Gemdraught']
+29105,29637,Auto,90.0,8419.0,,Default Target,[],5001062.0,['Grade 4 Gemdraught']
+30689,31229,Aeolian Edge,560.0,61682.0,,Default Target,['Kazematoi'],268481031.0,['Grade 4 Gemdraught']
+31275,31807,Auto,90.0,8419.0,,Default Target,[],5001062.0,['Grade 4 Gemdraught']
+32809,33209,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+33445,33977,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+34929,35329,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+35615,36147,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+37049,37669,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+37785,38317,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+39169,39569,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+39955,40487,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+41289,41689,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+42125,42657,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+43409,43949,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+44029,44649,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+44295,44827,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+45529,45929,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+46465,46997,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+47650,48050,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+48635,49167,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+49770,50390,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+50805,51337,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+52390,52390,Chi,,,,,,,[]
+52891,52891,Jin,,,,,,,[]
+52975,53507,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+53391,54371,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+54892,55292,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+55145,55677,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+57012,57412,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+57315,57847,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+57632,58252,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+59132,59672,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+59752,59752,Kassatsu,,,,,,,[]
+59485,60017,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+61252,61652,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+61655,62187,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+63372,63772,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+63825,64357,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+65492,66112,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+65995,66527,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+67613,68013,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+68165,68697,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+68381,69671,Kunai's Bane,700.0,71241.0,,Default Target,[],358158594.0,[]
+69733,70133,Gust Slash,400.0,44777.0,,Default Target,[],141491665.0,"[""Kunai's Bane""]"
+70335,70867,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+70702,71402,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+70702,71552,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+70702,71702,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+72353,72353,Jin,,,,,,,[]
+72505,73037,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+72854,73474,Hyosho Ranryu,1300.0,189199.0,,Default Target,['Kassatsu'],2526052283.0,"['Kassatsu', ""Kunai's Bane""]"
+73474,74094,Bhavacakra,400.0,44777.0,,Default Target,[],141491665.0,"[""Kunai's Bane""]"
+74855,74855,Chi,,,,,,,[]
+74675,75207,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+75355,76065,Raiton,740.0,82842.0,,Default Target,[],484300724.0,"[""Kunai's Bane""]"
+77356,77356,Chi,,,,,,,[]
+76845,77377,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+77857,78567,Raiton,740.0,82842.0,,Default Target,[],484300724.0,"[""Kunai's Bane""]"
+79015,79547,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+79357,80117,Fleeting Raiju,700.0,78365.0,,Default Target,[],433372503.0,"[""Kunai's Bane""]"
+81185,81717,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+81477,82237,Fleeting Raiju,700.0,78365.0,,Default Target,[],433372503.0,"[""Kunai's Bane""]"
+83355,83887,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+83597,84137,Aeolian Edge,560.0,62691.0,,Default Target,['Kazematoi'],277350543.0,"[""Kunai's Bane""]"
+85525,86057,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+85718,86118,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+87695,88227,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+87838,88238,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+89865,90397,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+89958,90498,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+92078,92478,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+92035,92567,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+94198,94598,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+94205,94737,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+94818,94818,Bunshin,,,,,,,[]
+96406,96406,Armor Crush (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+96375,96907,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+96318,96938,Armor Crush,500.0,50884.0,,Default Target,"['Bunshin', 'Kazematoi']",182712561.0,['Bunshin']
+98526,98526,Spinning Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+98438,98838,Spinning Edge,300.0,30530.0,,Default Target,['Bunshin'],65777442.0,['Bunshin']
+98545,99077,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+100646,100646,Gust Slash (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+100558,100958,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+100715,101247,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+102767,102767,Aeolian Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+102679,103219,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+102885,103417,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+103299,103919,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+104887,104887,Spinning Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+104799,105199,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+105055,105587,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+106919,107319,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+107225,107757,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+109039,109579,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+109395,109927,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+111660,111660,Chi,,,,,,,[]
+111565,112097,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+112160,112160,Jin,,,,,,,[]
+112661,113641,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+113735,114267,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+114161,114561,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+114781,115401,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+115905,116437,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+116281,116681,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+118075,118607,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+118401,119021,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+120245,120777,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+120521,120921,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+121141,121141,Kassatsu,,,,,,,[]
+122415,122947,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+122642,123042,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+123262,123882,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+124585,125117,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+124762,125302,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+125419,125419,Brotherhood,,,,,,,[]
+125582,126652,Dokumori,400.0,40707.0,,Default Target,[],116934391.0,[]
+126882,126882,Phantom Kamaitachi,,,,,,,[]
+126755,127287,Auto,90.0,8575.0,,Default Target,[],5191122.0,"['Brotherhood', 'Dokumori']"
+126882,128442,Phantom Kamaitachi (pet),700.0,72703.0,,Default Target,[],372997404.0,"['Brotherhood', 'Dokumori']"
+128925,129457,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+129502,129502,Jin,,,,,,,[]
+128381,129671,Kunai's Bane,700.0,78543.0,,Default Target,[],435344721.0,"['Brotherhood', 'Dokumori']"
+130002,130622,Hyosho Ranryu,1300.0,208592.0,,Default Target,['Kassatsu'],3070439165.0,"['Brotherhood', 'Dokumori', 'Kassatsu', ""Kunai's Bane""]"
+130702,131402,Dream Within a Dream,180.0,22214.0,,Default Target,[],34819947.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+130702,131552,Dream Within a Dream,180.0,22214.0,,Default Target,[],34819947.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+131095,131627,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+130702,131702,Dream Within a Dream,180.0,22214.0,,Default Target,[],34819947.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+132004,132004,Chi,,,,,,,[]
+133203,133203,Ten Chi Jin,,,,,,,[]
+132504,133214,Raiton,740.0,91334.0,,Default Target,[],588670240.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+134005,134895,Fuma Shuriken,500.0,61709.0,,Default Target,['Ten Chi Jin'],268725384.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
+135006,135716,Raiton,740.0,91334.0,,Default Target,['Ten Chi Jin'],588670240.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
+136007,136539,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+136007,136987,Suiton,580.0,71585.0,,Default Target,['Ten Chi Jin'],361618854.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
+136627,137657,Zesho Meppo,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+138127,138127,Meisui,,,,,,,[]
+137507,138267,Fleeting Raiju,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+138177,138709,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+138747,139367,Bhavacakra,550.0,67880.0,,Default Target,['Meisui'],325156856.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Meisui']"
+139628,140388,Fleeting Raiju,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+140347,140879,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+140248,141938,Tenri Jindo,1100.0,135769.0,,Default Target,[],1300804015.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+142248,142248,Chi,,,,,,,[]
+142517,143049,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+142749,143459,Raiton,740.0,91334.0,,Default Target,[],588670240.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+144249,145009,Fleeting Raiju,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+144687,145219,Auto,90.0,8575.0,,Default Target,[],5191122.0,"['Brotherhood', 'Dokumori']"
+146369,146769,Spinning Edge,300.0,32057.0,,Default Target,[],72518732.0,['Dokumori']
+146857,147389,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+148489,148889,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+149027,149559,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+150610,151150,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+151197,151729,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+152730,153130,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+153367,153899,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+154850,155250,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+155537,156069,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+156970,157510,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+157590,158210,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+157707,158239,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+159090,159490,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+159877,160409,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+161210,161610,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+162047,162579,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+163330,163950,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+164217,164749,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+165450,165850,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+166387,166919,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+167570,167970,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+168557,169089,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+169691,170231,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+170311,170931,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+170727,171259,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+172311,172311,Chi,,,,,,,[]
+172812,172812,Jin,,,,,,,[]
+172897,173429,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+173312,174292,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+174813,175213,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+175067,175599,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+176933,177333,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+177237,177769,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+179053,179593,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+179407,179939,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+181173,181573,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+181793,181793,Kassatsu,,,,,,,[]
+181577,182109,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+183293,183693,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+183747,184279,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+184818,184818,Bunshin,,,,,,,[]
+185526,185526,Aeolian Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+185438,185978,Aeolian Edge,560.0,56992.0,,Default Target,"['Bunshin', 'Kazematoi']",229211933.0,['Bunshin']
+185917,186449,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+187646,187646,Spinning Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+187558,187958,Spinning Edge,300.0,30530.0,,Default Target,['Bunshin'],65777442.0,['Bunshin']
+188087,188619,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+188381,189671,Kunai's Bane,700.0,71241.0,,Default Target,[],358158594.0,[]
+189766,189766,Gust Slash (pet),160.0,16575.0,,Default Target,[],19386737.0,"[""Kunai's Bane""]"
+189678,190078,Gust Slash,400.0,44777.0,,Default Target,[],141491665.0,"[""Kunai's Bane""]"
+190257,190789,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+190702,191402,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+190702,191552,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+190702,191702,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+192299,192299,Jin,,,,,,,[]
+192427,192959,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+192799,193419,Hyosho Ranryu,1300.0,189199.0,,Default Target,['Kassatsu'],2526052283.0,"['Kassatsu', ""Kunai's Bane""]"
+193419,194039,Bhavacakra,400.0,44777.0,,Default Target,[],141491665.0,"[""Kunai's Bane""]"
+194800,194800,Chi,,,,,,,[]
+194597,195129,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+195301,196011,Raiton,740.0,82842.0,,Default Target,[],484300724.0,"[""Kunai's Bane""]"
+196767,197299,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+197302,197302,Chi,,,,,,,[]
+197802,198512,Raiton,740.0,82842.0,,Default Target,[],484300724.0,"[""Kunai's Bane""]"
+198937,199469,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+199303,200063,Fleeting Raiju,700.0,78365.0,,Default Target,['Bunshin'],433372503.0,"[""Kunai's Bane""]"
+200151,200151,Fleeting Raiju (pet),160.0,16575.0,,Default Target,[],19386737.0,"[""Kunai's Bane""]"
+201107,201639,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+201423,202183,Fleeting Raiju,700.0,78365.0,,Default Target,['Bunshin'],433372503.0,"[""Kunai's Bane""]"
+202271,202271,Fleeting Raiju (pet),160.0,16575.0,,Default Target,[],19386737.0,"[""Kunai's Bane""]"
+203277,203809,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+203543,204083,Aeolian Edge,560.0,62691.0,,Default Target,[],277350543.0,"[""Kunai's Bane""]"
+204163,204783,Bhavacakra,400.0,44777.0,,Default Target,[],141491665.0,"[""Kunai's Bane""]"
+205663,205663,Phantom Kamaitachi,,,,,,,[]
+205447,205979,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+205663,207223,Phantom Kamaitachi (pet),700.0,65944.0,,Default Target,[],306865801.0,[]
+207617,208149,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+207783,208183,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+209904,210304,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+209787,210319,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+211957,212489,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+212024,212644,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+214144,214544,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+214127,214659,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+216264,216664,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+216297,216829,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+218384,218924,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+218467,218999,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+220504,220904,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+220637,221169,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+222624,223024,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+222807,223339,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+224744,225284,Aeolian Edge,560.0,56992.0,,Default Target,[],229211933.0,[]
+224977,225509,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+226865,227265,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+227147,227679,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+228985,229385,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+229317,229849,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+229605,230225,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+231105,231725,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+231487,232019,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+233725,233725,Chi,,,,,,,[]
+233657,234189,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+234226,234226,Jin,,,,,,,[]
+234726,235706,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+235827,236359,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+236227,236627,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+237997,238529,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+238347,238747,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+238967,239587,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+240167,240699,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+240467,241007,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+241793,241793,Kassatsu,,,,,,,[]
+242337,242869,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+242587,242987,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+244507,245039,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+244707,245107,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+245705,245705,Brotherhood,,,,,,,[]
+245582,246652,Dokumori,400.0,40707.0,,Default Target,[],116934391.0,[]
+246677,247209,Auto,90.0,8575.0,,Default Target,[],5191122.0,"['Brotherhood', 'Dokumori']"
+246827,247367,Aeolian Edge,560.0,62833.0,,Default Target,[],278608124.0,"['Brotherhood', 'Dokumori']"
+248847,249379,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+249501,249501,Jin,,,,,,,[]
+248381,249671,Kunai's Bane,700.0,78543.0,,Default Target,[],435344721.0,"['Brotherhood', 'Dokumori']"
+250002,250622,Hyosho Ranryu,1300.0,208592.0,,Default Target,['Kassatsu'],3070439165.0,"['Brotherhood', 'Dokumori', 'Kassatsu', ""Kunai's Bane""]"
+250702,251402,Dream Within a Dream,180.0,22214.0,,Default Target,[],34819947.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+251017,251549,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+250702,251552,Dream Within a Dream,180.0,22214.0,,Default Target,[],34819947.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+250702,251702,Dream Within a Dream,180.0,22214.0,,Default Target,[],34819947.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+252003,252003,Chi,,,,,,,[]
+253203,253203,Ten Chi Jin,,,,,,,[]
+252503,253213,Raiton,740.0,91334.0,,Default Target,[],588670240.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+253187,253719,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+254004,254894,Fuma Shuriken,500.0,61709.0,,Default Target,['Ten Chi Jin'],268725384.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
+255005,255715,Raiton,740.0,91334.0,,Default Target,['Ten Chi Jin'],588670240.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
+256005,256537,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+256005,256985,Suiton,580.0,71585.0,,Default Target,['Ten Chi Jin'],361618854.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
+256625,257655,Zesho Meppo,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+257505,258265,Fleeting Raiju,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+258175,258707,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+258125,258745,Bhavacakra,400.0,49367.0,,Default Target,[],171985149.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+258745,258745,Meisui,,,,,,,[]
+259625,260385,Fleeting Raiju,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+260345,260877,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+260866,261486,Bhavacakra,550.0,67880.0,,Default Target,['Meisui'],325156856.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Meisui']"
+260245,261935,Tenri Jindo,1100.0,135769.0,,Default Target,[],1300804015.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+262247,262247,Chi,,,,,,,[]
+262515,263047,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+262748,263458,Raiton,740.0,91334.0,,Default Target,[],588670240.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+264248,265008,Fleeting Raiju,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+264685,265217,Auto,90.0,8575.0,,Default Target,[],5191122.0,"['Brotherhood', 'Dokumori']"
+266368,266768,Spinning Edge,300.0,33659.0,,Default Target,[],79952301.0,"['Brotherhood', 'Dokumori']"
+266855,267387,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+268488,268888,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+269025,269557,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+270608,271228,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+271195,271727,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+272729,273129,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+273365,273897,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+274849,275249,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+275469,275469,Bunshin,,,,,,,[]
+275535,276067,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+277057,277057,Aeolian Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+276969,277509,Aeolian Edge,560.0,56992.0,,Default Target,"['Bunshin', 'Kazematoi']",229211933.0,['Bunshin']
+277705,278237,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+279177,279177,Spinning Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+279089,279489,Spinning Edge,300.0,30530.0,,Default Target,['Bunshin'],65777442.0,['Bunshin']
+279875,280407,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+281297,281297,Gust Slash (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+281209,281609,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+282045,282577,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+283417,283417,Aeolian Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+283329,283869,Aeolian Edge,560.0,56992.0,,Default Target,[],229211933.0,[]
+284215,284747,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+285537,285537,Spinning Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+285449,285849,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+286385,286917,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+287569,287969,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+288189,288809,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+288555,289087,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+289690,290310,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+290725,291257,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+291810,292210,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+292895,293427,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+294430,294430,Chi,,,,,,,[]
+294931,294931,Jin,,,,,,,[]
+295065,295597,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+295431,296411,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+296932,297332,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+297235,297767,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+299052,299672,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+299405,299937,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+301172,301572,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+301793,301793,Kassatsu,,,,,,,[]
+301575,302107,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+303292,303692,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+303745,304277,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+305412,305952,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+305915,306447,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+307532,307932,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+308085,308617,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+309001,309621,Bhavacakra,400.0,44777.0,,Default Target,[],141491665.0,"[""Kunai's Bane""]"
+309653,309653,Phantom Kamaitachi,,,,,,,[]
+308381,309671,Kunai's Bane,700.0,71241.0,,Default Target,[],358158594.0,[]
+310255,310787,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+309653,311213,Phantom Kamaitachi (pet),700.0,72538.0,,Default Target,[],371303950.0,"[""Kunai's Bane""]"
+310702,311402,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+310702,311552,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+310702,311702,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+312273,312273,Jin,,,,,,,[]
+312425,312957,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+312774,313394,Hyosho Ranryu,1300.0,189199.0,,Default Target,['Kassatsu'],2526052283.0,"['Kassatsu', ""Kunai's Bane""]"
+314775,314775,Chi,,,,,,,[]
+314595,315127,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+315275,315985,Raiton,740.0,82842.0,,Default Target,[],484300724.0,"[""Kunai's Bane""]"
+317276,317276,Chi,,,,,,,[]
+316765,317297,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+317777,318487,Raiton,740.0,82842.0,,Default Target,[],484300724.0,"[""Kunai's Bane""]"
+318935,319467,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+319277,320037,Fleeting Raiju,700.0,78365.0,,Default Target,[],433372503.0,"[""Kunai's Bane""]"
+319897,320517,Bhavacakra,400.0,44777.0,,Default Target,[],141491665.0,"[""Kunai's Bane""]"
+321105,321637,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+321397,322157,Fleeting Raiju,700.0,78365.0,,Default Target,[],433372503.0,"[""Kunai's Bane""]"
+323275,323807,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+323517,323917,Gust Slash,400.0,44777.0,,Default Target,[],141491665.0,"[""Kunai's Bane""]"
+325445,325977,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+325637,326177,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+327615,328147,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+327758,328158,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+329878,330278,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+329785,330317,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+331955,332487,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+331998,332618,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+334118,334518,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+334125,334657,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+336238,336638,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+336295,336827,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+336858,337478,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+338358,338898,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+338465,338997,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+340478,340878,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+340635,341167,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+342598,342998,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+342805,343337,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+344719,345259,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+344975,345507,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+346839,347239,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+347145,347677,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+348959,349359,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+349315,349847,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+351579,351579,Chi,,,,,,,[]
+351485,352017,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+352080,352080,Jin,,,,,,,[]
+352580,353560,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+353655,354187,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+354081,354701,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+355825,356357,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+356201,356601,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+357621,357621,Grade 4 Gemdraught,,,,,,,[]
+357995,358527,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+358321,358721,Gust Slash,400.0,44058.0,,Default Target,[],136973835.0,['Grade 4 Gemdraught']
+358941,359561,Bhavacakra,400.0,44058.0,,Default Target,[],136973835.0,['Grade 4 Gemdraught']
+360165,360697,Auto,90.0,8419.0,,Default Target,[],5001062.0,['Grade 4 Gemdraught']
+360441,360981,Aeolian Edge,560.0,61682.0,,Default Target,['Kazematoi'],268481031.0,['Grade 4 Gemdraught']
+362335,362867,Auto,90.0,8419.0,,Default Target,[],5001062.0,['Grade 4 Gemdraught']
+362561,362961,Spinning Edge,300.0,33044.0,,Default Target,[],77050542.0,['Grade 4 Gemdraught']
+363181,363181,Kassatsu,,,,,,,[]
+364505,365037,Auto,90.0,8419.0,,Default Target,[],5001062.0,['Grade 4 Gemdraught']
+364682,365082,Gust Slash,400.0,44058.0,,Default Target,[],136973835.0,['Grade 4 Gemdraught']
+365469,365469,Bunshin,,,,,,,[]
+365991,365991,Brotherhood,,,,,,,[]
+366890,366890,Aeolian Edge (pet),160.0,18062.0,,Default Target,[],23021774.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught']"
+366089,367159,Dokumori,400.0,44058.0,,Default Target,[],136973835.0,['Grade 4 Gemdraught']
+366675,367207,Auto,90.0,8839.0,,Default Target,[],5513498.0,"['Dokumori', 'Grade 4 Gemdraught']"
+366802,367342,Aeolian Edge,560.0,68003.0,,Default Target,"['Bunshin', 'Kazematoi']",326341630.0,"['Brotherhood', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught']"
+368845,369377,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+369501,369501,Jin,,,,,,,[]
+368381,369671,Kunai's Bane,700.0,85009.0,,Default Target,[],509950352.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught']"
+370002,370622,Hyosho Ranryu,1300.0,225763.0,,Default Target,['Kassatsu'],3596758350.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Kassatsu', ""Kunai's Bane""]"
+370702,371402,Dream Within a Dream,180.0,24041.0,,Default Target,[],40785405.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+371015,371547,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+370702,371552,Dream Within a Dream,180.0,24041.0,,Default Target,[],40785405.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+370702,371702,Dream Within a Dream,180.0,24041.0,,Default Target,[],40785405.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+372003,372003,Chi,,,,,,,[]
+373203,373203,Ten Chi Jin,,,,,,,[]
+372503,373213,Raiton,740.0,98851.0,,Default Target,[],689564660.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+373185,373717,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+374004,374894,Fuma Shuriken,500.0,66791.0,,Default Target,['Ten Chi Jin'],314811393.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Ten Chi Jin']"
+375005,375715,Raiton,740.0,98851.0,,Default Target,['Ten Chi Jin'],689564660.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Ten Chi Jin']"
+376006,376538,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+376006,376986,Suiton,580.0,77475.0,,Default Target,['Ten Chi Jin'],423581166.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Ten Chi Jin']"
+376626,377656,Zesho Meppo,700.0,93510.0,,Default Target,[],617055963.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+377506,378266,Fleeting Raiju,700.0,93510.0,,Default Target,['Bunshin'],617055963.0,"['Brotherhood', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+378354,378354,Fleeting Raiju (pet),160.0,19868.0,,Default Target,[],27857365.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+378176,378708,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+378746,378746,Meisui,,,,,,,[]
+378126,379816,Tenri Jindo,1100.0,146948.0,,Default Target,[],1523851411.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+379626,380386,Fleeting Raiju,700.0,93510.0,,Default Target,['Bunshin'],617055963.0,"['Brotherhood', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+380474,380474,Fleeting Raiju (pet),160.0,19868.0,,Default Target,[],27857365.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+380246,380866,Bhavacakra,550.0,73471.0,,Default Target,['Meisui'],380936770.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Meisui']"
+380346,380878,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+382247,382247,Chi,,,,,,,[]
+382516,383048,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+382748,383458,Raiton,740.0,98851.0,,Default Target,[],689564660.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+383368,383988,Bhavacakra,400.0,53430.0,,Default Target,[],201453327.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+384248,385008,Fleeting Raiju,700.0,93510.0,,Default Target,['Bunshin'],617055963.0,"['Brotherhood', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+385096,385096,Fleeting Raiju (pet),160.0,18062.0,,Default Target,[],23021774.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught']"
+384686,385218,Auto,90.0,9281.0,,Default Target,[],6077743.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught']"
+386368,386368,Phantom Kamaitachi,,,,,,,[]
+386856,387388,Auto,90.0,8839.0,,Default Target,[],5513498.0,"['Dokumori', 'Grade 4 Gemdraught']"
+386368,387928,Phantom Kamaitachi (pet),700.0,79044.0,,Default Target,[],440910444.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught']"
+388576,388576,Spinning Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+388488,388888,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+389026,389558,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+390608,391008,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+391196,391728,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+392729,393269,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+393366,393898,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+393349,393969,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+394849,395249,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+395536,396068,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+396969,397369,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+397706,398238,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+399089,399709,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+399876,400408,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+401209,401609,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+402046,402578,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+403329,403729,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+404216,404748,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+405449,405989,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+406386,406918,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+407569,407969,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+408556,409088,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+409690,410090,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+410726,411258,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+412310,412310,Chi,,,,,,,[]
+412811,412811,Jin,,,,,,,[]
+412896,413428,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+413311,414291,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+414812,415432,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+415066,415598,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+416932,417332,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+417236,417768,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+419052,419452,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+419406,419938,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+421172,421712,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+421576,422108,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+421792,422412,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+423292,423692,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+423912,423912,Kassatsu,,,,,,,[]
+423746,424278,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+425412,425812,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+425916,426448,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+427532,428072,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+428086,428618,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+428381,429671,Kunai's Bane,700.0,71241.0,,Default Target,[],358158594.0,[]
+430153,430153,Jin,,,,,,,[]
+430256,430788,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+430654,431274,Hyosho Ranryu,1300.0,189199.0,,Default Target,['Kassatsu'],2526052283.0,"['Kassatsu', ""Kunai's Bane""]"
+431274,431974,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+431274,432124,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+431274,432274,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+432655,432655,Chi,,,,,,,[]
+432426,432958,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+433155,433865,Raiton,740.0,82842.0,,Default Target,[],484300724.0,"[""Kunai's Bane""]"
+433775,434395,Bhavacakra,400.0,44777.0,,Default Target,[],141491665.0,"[""Kunai's Bane""]"
+434596,435128,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+434656,435416,Fleeting Raiju,700.0,78365.0,,Default Target,[],433372503.0,"[""Kunai's Bane""]"
+437276,437276,Chi,,,,,,,[]
+436766,437298,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+437777,438487,Raiton,740.0,82842.0,,Default Target,[],484300724.0,"[""Kunai's Bane""]"
+438936,439468,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+439277,440037,Fleeting Raiju,700.0,78365.0,,Default Target,[],433372503.0,"[""Kunai's Bane""]"
+441106,441638,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+441397,441797,Spinning Edge,300.0,33583.0,,Default Target,[],79588472.0,"[""Kunai's Bane""]"
+443276,443808,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+443517,443917,Gust Slash,400.0,44777.0,,Default Target,[],141491665.0,"[""Kunai's Bane""]"
+445446,445978,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+445637,446177,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+447616,448148,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+447758,448158,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+449878,450278,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+449786,450318,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+451956,452488,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+451998,452538,Aeolian Edge,560.0,56992.0,,Default Target,[],229211933.0,[]
+454118,454518,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+454126,454658,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+455469,455469,Bunshin,,,,,,,[]
+456326,456326,Gust Slash (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+456238,456638,Gust Slash,400.0,40707.0,,Default Target,['Bunshin'],116934391.0,['Bunshin']
+456296,456828,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+458446,458446,Armor Crush (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+458358,458978,Armor Crush,500.0,50884.0,,Default Target,"['Bunshin', 'Kazematoi']",182712561.0,['Bunshin']
+458466,458998,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+460566,460566,Spinning Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+460478,460878,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+460636,461168,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+462686,462686,Gust Slash (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+462598,462998,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+462806,463338,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+463218,463838,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+464807,464807,Armor Crush (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+464719,465339,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+464976,465508,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+466839,467239,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+467146,467678,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+468959,469359,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+469316,469848,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+471579,471579,Chi,,,,,,,[]
+471486,472018,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+472080,472080,Jin,,,,,,,[]
+472580,473560,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+473656,474188,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+474081,474621,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+475826,476358,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+476201,476601,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+477996,478528,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+478321,478721,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+478941,479561,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+480166,480698,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+480441,480981,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+481061,481681,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+482336,482868,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+482561,482961,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+483912,483912,Kassatsu,,,,,,,[]
+484506,485038,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+484682,485082,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+486277,486277,Brotherhood,,,,,,,[]
+486802,486802,Phantom Kamaitachi,,,,,,,[]
+486089,487159,Dokumori,400.0,40707.0,,Default Target,[],116934391.0,[]
+486676,487208,Auto,90.0,8167.0,,Default Target,[],4707801.0,['Dokumori']
+486802,488362,Phantom Kamaitachi (pet),700.0,69241.0,,Default Target,[],338316177.0,['Dokumori']
+488846,489378,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+489501,489501,Jin,,,,,,,[]
+488381,489671,Kunai's Bane,700.0,78543.0,,Default Target,[],435344721.0,"['Brotherhood', 'Dokumori']"
+490002,490622,Hyosho Ranryu,1300.0,208592.0,,Default Target,['Kassatsu'],3070439165.0,"['Brotherhood', 'Dokumori', 'Kassatsu', ""Kunai's Bane""]"
+491016,491548,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+490622,491652,Zesho Meppo,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+492003,492003,Chi,,,,,,,[]
+493203,493203,Ten Chi Jin,,,,,,,[]
+492503,493213,Raiton,740.0,91334.0,,Default Target,[],588670240.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+493186,493718,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+494004,494894,Fuma Shuriken,500.0,61709.0,,Default Target,['Ten Chi Jin'],268725384.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
+495005,495715,Raiton,740.0,91334.0,,Default Target,['Ten Chi Jin'],588670240.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
+496006,496538,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+496006,496986,Suiton,580.0,71585.0,,Default Target,['Ten Chi Jin'],361618854.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
+496626,497326,Dream Within a Dream,180.0,22214.0,,Default Target,[],34819947.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+496626,497476,Dream Within a Dream,180.0,22214.0,,Default Target,[],34819947.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+496626,497626,Dream Within a Dream,180.0,22214.0,,Default Target,[],34819947.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+497506,498266,Fleeting Raiju,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+498176,498708,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+498746,498746,Meisui,,,,,,,[]
+498126,499816,Tenri Jindo,1100.0,135769.0,,Default Target,[],1300804015.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+499626,500386,Fleeting Raiju,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+500246,500866,Bhavacakra,550.0,67880.0,,Default Target,['Meisui'],325156856.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Meisui']"
+500346,500878,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+502247,502247,Chi,,,,,,,[]
+502516,503048,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+502748,503458,Raiton,740.0,91334.0,,Default Target,[],588670240.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+504248,505008,Fleeting Raiju,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+504686,505218,Auto,90.0,8575.0,,Default Target,[],5191122.0,"['Brotherhood', 'Dokumori']"
+506368,506908,Aeolian Edge,560.0,62833.0,,Default Target,['Kazematoi'],278608124.0,"['Brotherhood', 'Dokumori']"
+506856,507388,Auto,90.0,8575.0,,Default Target,[],5191122.0,"['Brotherhood', 'Dokumori']"
+506988,507608,Bhavacakra,400.0,44879.0,,Default Target,[],142139880.0,"['Brotherhood', 'Dokumori']"
+508488,508888,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+509026,509558,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+510608,511008,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+511196,511728,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+512729,513349,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+513366,513898,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+514849,515249,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+515536,516068,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+516969,517369,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+517706,518238,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+519089,519709,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+519708,520328,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+519876,520408,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+521208,521608,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+522046,522578,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+523328,523728,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+524216,524748,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+525449,525989,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+526386,526918,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+527569,527969,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+528556,529088,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+529690,530090,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+530726,531258,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+532310,532310,Chi,,,,,,,[]
+532811,532811,Jin,,,,,,,[]
+532896,533428,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+533311,534291,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+534812,535352,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+535066,535598,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+536932,537332,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+537236,537768,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+539052,539452,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+539406,539938,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+541172,541712,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+541576,542108,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+543292,543692,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+543912,543912,Kassatsu,,,,,,,[]
+543746,544278,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+545412,545812,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+546032,546032,Bunshin,,,,,,,[]
+545916,546448,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+547620,547620,Aeolian Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+547532,548072,Aeolian Edge,560.0,56992.0,,Default Target,"['Bunshin', 'Kazematoi']",229211933.0,['Bunshin']
+548086,548618,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+548381,549671,Kunai's Bane,700.0,71241.0,,Default Target,[],358158594.0,[]
+550153,550153,Jin,,,,,,,[]
+550256,550788,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+550654,551274,Hyosho Ranryu,1300.0,189199.0,,Default Target,['Kassatsu'],2526052283.0,"['Kassatsu', ""Kunai's Bane""]"
+551274,551894,Bhavacakra,400.0,44777.0,,Default Target,[],141491665.0,"[""Kunai's Bane""]"
+552154,552154,Phantom Kamaitachi,,,,,,,[]
+552426,552958,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+552154,553714,Phantom Kamaitachi (pet),700.0,72538.0,,Default Target,[],371303950.0,"[""Kunai's Bane""]"
+554775,554775,Chi,,,,,,,[]
+554596,555128,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+555275,555985,Raiton,740.0,82842.0,,Default Target,[],484300724.0,"[""Kunai's Bane""]"
+556766,557298,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+556776,557536,Fleeting Raiju,700.0,78365.0,,Default Target,['Bunshin'],433372503.0,"['Bunshin', ""Kunai's Bane""]"
+557624,557624,Fleeting Raiju (pet),160.0,16575.0,,Default Target,[],19386737.0,"[""Kunai's Bane""]"
+557396,558096,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+557396,558246,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+557396,558396,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+559396,559396,Chi,,,,,,,[]
+558936,559468,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+559897,560607,Raiton,740.0,82842.0,,Default Target,[],484300724.0,"[""Kunai's Bane""]"
+561106,561638,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+561397,562157,Fleeting Raiju,700.0,78365.0,,Default Target,['Bunshin'],433372503.0,"['Bunshin', ""Kunai's Bane""]"
+562245,562245,Fleeting Raiju (pet),160.0,16575.0,,Default Target,[],19386737.0,"[""Kunai's Bane""]"
+563605,563605,Spinning Edge (pet),160.0,16575.0,,Default Target,[],19386737.0,"[""Kunai's Bane""]"
+563276,563808,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+563517,563917,Spinning Edge,300.0,33583.0,,Default Target,[],79588472.0,"[""Kunai's Bane""]"
+565725,565725,Gust Slash (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+565446,565978,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+565637,566037,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+567616,568148,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+567758,568378,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+568378,568998,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+569878,570278,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+569786,570318,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+571998,572398,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+571956,572488,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+574118,574658,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+574126,574658,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+576238,576638,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+576296,576828,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+578358,578758,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+578466,578998,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+580478,581098,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+580636,581168,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+581098,581718,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+582598,582998,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+582806,583338,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+584719,585119,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+584976,585508,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+586839,587379,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+587146,587678,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+588959,589359,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+589316,589848,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+591079,591479,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+591486,592018,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+593700,593700,Chi,,,,,,,[]
+593656,594188,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+594200,594200,Jin,,,,,,,[]
+594701,595681,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+595826,596358,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+596201,596741,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+597996,598528,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+598321,598721,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+600166,600698,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+600441,600841,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+601061,601681,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+602336,602868,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+602561,603101,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+603912,603912,Kassatsu,,,,,,,[]
+604506,605038,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+604682,605082,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+606562,606562,Brotherhood,,,,,,,[]
+606089,607159,Dokumori,400.0,40707.0,,Default Target,[],116934391.0,[]
+606802,607202,Gust Slash,400.0,42742.0,,Default Target,[],128921796.0,['Dokumori']
+606676,607208,Auto,90.0,8167.0,,Default Target,[],4707801.0,['Dokumori']
+608846,609378,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+609501,609501,Jin,,,,,,,[]
+608381,609671,Kunai's Bane,700.0,78543.0,,Default Target,[],435344721.0,"['Brotherhood', 'Dokumori']"
+610002,610622,Hyosho Ranryu,1300.0,208592.0,,Default Target,['Kassatsu'],3070439165.0,"['Brotherhood', 'Dokumori', 'Kassatsu', ""Kunai's Bane""]"
+611016,611548,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+610622,611652,Zesho Meppo,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+612003,612003,Chi,,,,,,,[]
+613203,613203,Ten Chi Jin,,,,,,,[]
+612503,613213,Raiton,740.0,91334.0,,Default Target,[],588670240.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+613186,613718,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+614004,614894,Fuma Shuriken,500.0,61709.0,,Default Target,['Ten Chi Jin'],268725384.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
+615005,615715,Raiton,740.0,91334.0,,Default Target,['Ten Chi Jin'],588670240.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
+616006,616538,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+616006,616986,Suiton,580.0,71585.0,,Default Target,['Ten Chi Jin'],361618854.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
+617506,618266,Fleeting Raiju,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+616626,618316,Tenri Jindo,1100.0,135769.0,,Default Target,[],1300804015.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+618176,618708,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+618126,618826,Dream Within a Dream,180.0,22214.0,,Default Target,[],34819947.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+618126,618976,Dream Within a Dream,180.0,22214.0,,Default Target,[],34819947.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+618126,619126,Dream Within a Dream,180.0,22214.0,,Default Target,[],34819947.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+618746,619366,Bhavacakra,400.0,49367.0,,Default Target,[],171985149.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+620246,620246,Meisui,,,,,,,[]
+619626,620386,Fleeting Raiju,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+620346,620878,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+620866,621486,Bhavacakra,550.0,67880.0,,Default Target,['Meisui'],325156856.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane"", 'Meisui']"
+622247,622247,Chi,,,,,,,[]
+622516,623048,Auto,90.0,9433.0,,Default Target,[],6280530.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+622748,623458,Raiton,740.0,91334.0,,Default Target,[],588670240.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+624248,625008,Fleeting Raiju,700.0,86398.0,,Default Target,[],526758008.0,"['Brotherhood', 'Dokumori', ""Kunai's Bane""]"
+624686,625218,Auto,90.0,8575.0,,Default Target,[],5191122.0,"['Brotherhood', 'Dokumori']"
+626368,626908,Aeolian Edge,560.0,62833.0,,Default Target,[],278608124.0,"['Brotherhood', 'Dokumori']"
+626856,627388,Auto,90.0,8575.0,,Default Target,[],5191122.0,"['Brotherhood', 'Dokumori']"
+628488,628888,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+629026,629558,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+630608,631008,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+631196,631728,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+632729,633349,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+633366,633898,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+634849,635249,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+636032,636032,Bunshin,,,,,,,[]
+635536,636068,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+637057,637057,Gust Slash (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+636969,637369,Gust Slash,400.0,40707.0,,Default Target,['Bunshin'],116934391.0,['Bunshin']
+637706,638238,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+639177,639177,Armor Crush (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+639089,639709,Armor Crush,500.0,50884.0,,Default Target,"['Bunshin', 'Kazematoi']",182712561.0,['Bunshin']
+639876,640408,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+641297,641297,Spinning Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+641209,641609,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+642046,642578,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+643417,643417,Gust Slash (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+643329,643729,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+644216,644748,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+645537,645537,Aeolian Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+645449,645989,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+646386,646918,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+647569,647969,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+648556,649088,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+649690,650090,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+650726,651258,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+651810,652350,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+652896,653428,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+654430,654430,Chi,,,,,,,[]
+654931,654931,Jin,,,,,,,[]
+655066,655598,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+655431,656411,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+656051,656671,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+656932,657332,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+657236,657768,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+659052,659452,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+659406,659938,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+661172,661792,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+661576,662108,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+663292,663692,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+663912,663912,Kassatsu,,,,,,,[]
+663746,664278,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+665412,665812,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+665916,666448,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+667532,668072,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+668086,668618,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+668152,668772,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+668772,670062,Kunai's Bane,700.0,71241.0,,Default Target,[],358158594.0,[]
+670153,670153,Jin,,,,,,,[]
+670256,670788,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+670654,671274,Hyosho Ranryu,1300.0,189199.0,,Default Target,['Kassatsu'],2526052283.0,"['Kassatsu', ""Kunai's Bane""]"
+671274,671894,Bhavacakra,400.0,44777.0,,Default Target,[],141491665.0,"[""Kunai's Bane""]"
+672154,672154,Phantom Kamaitachi,,,,,,,[]
+672426,672958,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+672154,673714,Phantom Kamaitachi (pet),700.0,72538.0,,Default Target,[],371303950.0,"[""Kunai's Bane""]"
+674775,674775,Chi,,,,,,,[]
+674596,675128,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+675275,675985,Raiton,740.0,82842.0,,Default Target,[],484300724.0,"[""Kunai's Bane""]"
+676766,677298,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+676776,677536,Fleeting Raiju,700.0,78365.0,,Default Target,[],433372503.0,"[""Kunai's Bane""]"
+678126,678826,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+678126,678976,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+678126,679126,Dream Within a Dream,180.0,20148.0,,Default Target,[],28650561.0,"[""Kunai's Bane""]"
+679396,679396,Chi,,,,,,,[]
+678936,679468,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+679897,680607,Raiton,740.0,82842.0,,Default Target,[],484300724.0,"[""Kunai's Bane""]"
+681106,681638,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+681397,682157,Fleeting Raiju,700.0,78365.0,,Default Target,[],433372503.0,"[""Kunai's Bane""]"
+683276,683808,Auto,90.0,8556.0,,Default Target,[],5167252.0,"[""Kunai's Bane""]"
+683517,683917,Spinning Edge,300.0,33583.0,,Default Target,[],79588472.0,"[""Kunai's Bane""]"
+685446,685978,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+685637,686037,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+687616,688148,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+687758,688298,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+689878,690278,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+689786,690318,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+691998,692398,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+691956,692488,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+694126,694658,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+694118,694658,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+694738,695358,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+696238,696638,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+696296,696828,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+698358,698758,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+698466,698998,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+700478,701098,Armor Crush,500.0,50884.0,,Default Target,['Kazematoi'],182712561.0,[]
+700636,701168,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+702598,702998,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+702806,703338,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+704719,705119,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+704976,705508,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+706839,707379,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+707146,707678,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+708959,709359,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+709316,709848,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+711079,711479,Gust Slash,400.0,40707.0,,Default Target,[],116934391.0,[]
+711486,712018,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+713199,713739,Aeolian Edge,560.0,56992.0,,Default Target,['Kazematoi'],229211933.0,[]
+713656,714188,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+715820,715820,Chi,,,,,,,[]
+716320,716320,Jin,,,,,,,[]
+715826,716358,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+716821,717801,Suiton,580.0,59027.0,,Default Target,[],245872033.0,[]
+717996,718528,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
+718321,718721,Spinning Edge,300.0,30530.0,,Default Target,[],65777442.0,[]
+718941,718941,Grade 4 Gemdraught,,,,,,,[]
+719561,720181,Bhavacakra,400.0,40707.0,,Default Target,[],116934391.0,[]
+720166,720698,Auto,90.0,8419.0,,Default Target,[],5001062.0,['Grade 4 Gemdraught']
+720441,720841,Gust Slash,400.0,44058.0,,Default Target,[],136973835.0,['Grade 4 Gemdraught']
+722336,722868,Auto,90.0,8419.0,,Default Target,[],5001062.0,['Grade 4 Gemdraught']
+722561,723181,Armor Crush,500.0,55074.0,,Default Target,['Kazematoi'],214045744.0,['Grade 4 Gemdraught']
+723912,723912,Kassatsu,,,,,,,[]
+724506,725038,Auto,90.0,8419.0,,Default Target,[],5001062.0,['Grade 4 Gemdraught']
+724682,725082,Spinning Edge,300.0,33044.0,,Default Target,[],77050542.0,['Grade 4 Gemdraught']
+726709,726709,Bunshin,,,,,,,[]
+726848,726848,Brotherhood,,,,,,,[]
+726089,727159,Dokumori,400.0,44058.0,,Default Target,[],136973835.0,['Grade 4 Gemdraught']
+726676,727208,Auto,90.0,8839.0,,Default Target,[],5513498.0,"['Dokumori', 'Grade 4 Gemdraught']"
+727417,727417,Gust Slash (pet),160.0,17202.0,,Default Target,[],20881206.0,"['Dokumori', 'Grade 4 Gemdraught']"
+727329,727729,Gust Slash,400.0,46260.0,,Default Target,['Bunshin'],151017377.0,"['Bunshin', 'Dokumori', 'Grade 4 Gemdraught']"
+728846,729378,Auto,90.0,9281.0,,Default Target,[],6077743.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught']"
+729449,729449,Phantom Kamaitachi,,,,,,,[]
+729449,731009,Phantom Kamaitachi (pet),700.0,79044.0,,Default Target,[],440910444.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught']"
+731016,731548,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+732069,732069,Jin,,,,,,,[]
+730869,732159,Kunai's Bane,700.0,85009.0,,Default Target,[],509950352.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught']"
+732570,733190,Hyosho Ranryu,1300.0,225763.0,,Default Target,['Kassatsu'],3596758350.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', 'Kassatsu', ""Kunai's Bane""]"
+733186,733718,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+733190,734220,Zesho Meppo,700.0,93510.0,,Default Target,[],617055963.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+734571,734571,Chi,,,,,,,[]
+735691,735691,Ten Chi Jin,,,,,,,[]
+735071,735781,Raiton,740.0,98851.0,,Default Target,[],689564660.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+735356,735888,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+736572,737462,Fuma Shuriken,500.0,66791.0,,Default Target,['Ten Chi Jin'],314811393.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Ten Chi Jin']"
+737573,738283,Raiton,740.0,98851.0,,Default Target,['Ten Chi Jin'],689564660.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Ten Chi Jin']"
+738574,739106,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+738574,739554,Suiton,580.0,77475.0,,Default Target,['Ten Chi Jin'],423581166.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Ten Chi Jin']"
+740074,740834,Fleeting Raiju,700.0,93510.0,,Default Target,['Bunshin'],617055963.0,"['Brotherhood', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+739194,740884,Tenri Jindo,1100.0,146948.0,,Default Target,[],1523851411.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+740922,740922,Fleeting Raiju (pet),160.0,19868.0,,Default Target,[],27857365.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+740744,741276,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+741314,741314,Meisui,,,,,,,[]
+740694,741394,Dream Within a Dream,180.0,24041.0,,Default Target,[],40785405.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+740694,741544,Dream Within a Dream,180.0,24041.0,,Default Target,[],40785405.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+740694,741694,Dream Within a Dream,180.0,24041.0,,Default Target,[],40785405.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+742695,742695,Chi,,,,,,,[]
+742914,743446,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+743196,743906,Raiton,740.0,98851.0,,Default Target,[],689564660.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+743816,744436,Bhavacakra,550.0,73471.0,,Default Target,['Meisui'],380936770.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Meisui']"
+744696,745456,Fleeting Raiju,700.0,93510.0,,Default Target,['Bunshin'],617055963.0,"['Brotherhood', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+745544,745544,Fleeting Raiju (pet),160.0,19868.0,,Default Target,[],27857365.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+745084,745616,Auto,90.0,10209.0,,Default Target,[],7355901.0,"['Brotherhood', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+746816,747576,Fleeting Raiju,700.0,93510.0,,Default Target,['Bunshin'],617055963.0,"['Brotherhood', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
+747664,747664,Fleeting Raiju (pet),160.0,16383.0,,Default Target,[],18941541.0,['Grade 4 Gemdraught']
+747254,747786,Auto,90.0,8839.0,,Default Target,[],5513498.0,"['Brotherhood', 'Grade 4 Gemdraught']"
+747436,748056,Bhavacakra,400.0,46260.0,,Default Target,[],151017377.0,"['Brotherhood', 'Grade 4 Gemdraught']"
+749024,749024,Aeolian Edge (pet),160.0,16383.0,,Default Target,[],18941541.0,['Grade 4 Gemdraught']
+748936,749476,Aeolian Edge,560.0,61682.0,,Default Target,['Kazematoi'],268481031.0,['Grade 4 Gemdraught']

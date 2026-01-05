@@ -106,7 +106,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 125195,125195,Battle Voice,,,,,,,[]
 125222,125222,Chain Stratagem,,,,,,,[]
 125460,125460,Arcane Circle,,,,,,,[]
-125756,125756,Battle Litany,,,,,,,[]
+125753,125753,Battle Litany,,,,,,,[]
 125815,125815,Radiant Finale,,,,,,,[]
 126253,126253,Starry Muse,,,,,,,[]
 126153,126685,Auto,90.0,0.0,,Default Target,[],0.0,"['Arcane Circle', 'Battle Voice', 'Chain Stratagem', ""The Wanderer's Minuet""]"
@@ -204,7 +204,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 245366,245366,Battle Voice,,,,,,,[]
 245606,245606,Arcane Circle,,,,,,,[]
 244405,245745,Holy in White,570.0,77144.0,,Default Target,[],428687504.0,"[""The Wanderer's Minuet""]"
-245758,245758,Battle Litany,,,,,,,[]
+245753,245753,Battle Litany,,,,,,,[]
 245986,245986,Radiant Finale,,,,,,,[]
 246253,246253,Starry Muse,,,,,,,[]
 246025,246557,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Voice', 'Chain Stratagem', ""The Wanderer's Minuet""]"
@@ -300,7 +300,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 365226,365226,Chain Stratagem,,,,,,,[]
 365366,365366,Battle Voice,,,,,,,[]
 365606,365606,Arcane Circle,,,,,,,[]
-365760,365760,Battle Litany,,,,,,,[]
+365753,365753,Battle Litany,,,,,,,[]
 365986,365986,Radiant Finale,,,,,,,[]
 366305,366305,Starry Muse,,,,,,,[]
 365705,366505,Stone in Yellow,900.0,131872.0,,Default Target,[],1252684620.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
@@ -396,7 +396,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 485228,485228,Chain Stratagem,,,,,,,[]
 485366,485366,Battle Voice,,,,,,,[]
 485606,485606,Arcane Circle,,,,,,,[]
-485763,485763,Battle Litany,,,,,,,[]
+485753,485753,Battle Litany,,,,,,,[]
 485986,485986,Radiant Finale,,,,,,,[]
 485357,486107,Blizzard in Cyan,860.0,116404.0,,Default Target,[],976038107.0,"[""The Wanderer's Minuet""]"
 486305,486305,Starry Muse,,,,,,,[]
@@ -492,11 +492,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 602597,603129,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
 605230,605230,Chain Stratagem,,,,,,,[]
 605606,605606,Arcane Circle,,,,,,,[]
-605765,605765,Battle Litany,,,,,,,[]
 605157,605907,Blizzard in Cyan,860.0,116404.0,,Default Target,[],976038107.0,"[""The Wanderer's Minuet""]"
 606152,606152,Battle Voice,,,,,,,[]
 605657,606189,Auto,90.0,0.0,,Default Target,[],0.0,"[""The Wanderer's Minuet""]"
 606305,606305,Starry Muse,,,,,,,[]
+606373,606373,Battle Litany,,,,,,,[]
 606772,606772,Radiant Finale,,,,,,,[]
 608225,609025,Stone in Yellow,900.0,161573.0,,Default Target,['5 Hyperphantasia'],1842225907.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 608725,609257,Auto,90.0,0.0,,Default Target,[],0.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
@@ -589,11 +589,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 724057,724589,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 725232,725232,Chain Stratagem,,,,,,,[]
 725606,725606,Arcane Circle,,,,,,,[]
-725768,725768,Battle Litany,,,,,,,[]
 726152,726152,Battle Voice,,,,,,,[]
+726373,726373,Battle Litany,,,,,,,[]
 726772,726772,Radiant Finale,,,,,,,[]
 727457,727457,Starry Muse,,,,,,,[]
-726857,727657,Stone in Yellow,900.0,157080.0,,Default Target,[],1741195509.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+726857,727657,Stone in Yellow,900.0,149571.0,,Default Target,[],1651392069.0,"['Arcane Circle', 'Battle Voice', 'Chain Stratagem', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 727357,727889,Auto,90.0,0.0,,Default Target,[],0.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 729577,730427,Thunder in Magenta,940.0,182583.0,,Default Target,['5 Hyperphantasia'],2352522178.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Grade 4 Gemdraught', 'Inspiration', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 730317,730849,Auto,90.0,0.0,,Default Target,[],0.0,"['Arcane Circle', 'Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"

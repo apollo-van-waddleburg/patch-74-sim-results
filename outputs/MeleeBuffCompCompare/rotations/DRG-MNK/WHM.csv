@@ -146,7 +146,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 125195,125195,Battle Voice,,,,,,,[]
 125222,125222,Chain Stratagem,,,,,,,[]
 125419,125419,Brotherhood,,,,,,,[]
-125756,125756,Battle Litany,,,,,,,[]
+125753,125753,Battle Litany,,,,,,,[]
 125815,125815,Radiant Finale,,,,,,,[]
 126253,126253,Starry Muse,,,,,,,[]
 126265,126265,Presence of Mind,,,,,,,[]
@@ -282,7 +282,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 245224,245224,Chain Stratagem,,,,,,,[]
 245366,245366,Battle Voice,,,,,,,[]
 245705,245705,Brotherhood,,,,,,,[]
-245758,245758,Battle Litany,,,,,,,[]
+245753,245753,Battle Litany,,,,,,,[]
 245986,245986,Radiant Finale,,,,,,,[]
 246253,246253,Starry Muse,,,,,,,[]
 246277,246277,Presence of Mind,,,,,,,[]
@@ -416,7 +416,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 363258,364548,Glare III,350.0,49638.0,,Default Target,[],148847311.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 365226,365226,Chain Stratagem,,,,,,,[]
 365366,365366,Battle Voice,,,,,,,[]
-365760,365760,Battle Litany,,,,,,,[]
+365753,365753,Battle Litany,,,,,,,[]
 365986,365986,Radiant Finale,,,,,,,[]
 365991,365991,Brotherhood,,,,,,,[]
 366290,366290,Presence of Mind,,,,,,,[]
@@ -550,7 +550,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 483270,484560,Glare III,350.0,45857.0,,Default Target,[],127040550.0,"[""The Wanderer's Minuet""]"
 485228,485228,Chain Stratagem,,,,,,,[]
 485366,485366,Battle Voice,,,,,,,[]
-485763,485763,Battle Litany,,,,,,,[]
+485753,485753,Battle Litany,,,,,,,[]
 485986,485986,Radiant Finale,,,,,,,[]
 486277,486277,Brotherhood,,,,,,,[]
 486303,486303,Presence of Mind,,,,,,,[]
@@ -685,10 +685,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 595033,604500,Dia (dot),85.0,11326.0,,Default Target,[],7741163.0,"[""Army's Paeon""]"
 603283,604573,Glare III,350.0,45857.0,,Default Target,[],127040550.0,"[""The Wanderer's Minuet""]"
 605230,605230,Chain Stratagem,,,,,,,[]
-605765,605765,Battle Litany,,,,,,,[]
 606152,606152,Battle Voice,,,,,,,[]
 606305,606305,Starry Muse,,,,,,,[]
 606315,606315,Presence of Mind,,,,,,,[]
+606373,606373,Battle Litany,,,,,,,[]
 606438,606438,Starry Muse,,,,,,,[]
 606562,606562,Brotherhood,,,,,,,[]
 606772,606772,Radiant Finale,,,,,,,[]
@@ -820,9 +820,9 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 717476,724500,Dia (dot),85.0,12261.0,,Default Target,[],9070827.0,"[""Army's Paeon"", 'Grade 4 Gemdraught']"
 723296,724586,Glare III,350.0,49638.0,,Default Target,[],148847311.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 725232,725232,Chain Stratagem,,,,,,,[]
-725768,725768,Battle Litany,,,,,,,[]
 726152,726152,Battle Voice,,,,,,,[]
 726328,726328,Presence of Mind,,,,,,,[]
+726373,726373,Battle Litany,,,,,,,[]
 726226,726758,Auto,90.0,0.0,,Default Target,[],0.0,"['Chain Stratagem', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 726772,726772,Radiant Finale,,,,,,,[]
 726848,726848,Brotherhood,,,,,,,[]

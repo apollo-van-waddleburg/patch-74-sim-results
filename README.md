@@ -12,6 +12,9 @@ rng on these jobs as well.
 ### Disclaimer
 **You should not use the results of these tools to discriminate against any jobs in a public setting.**
 
+### Revisions
+2025/01/05: We initially released with a suboptimal DRG sheet. Siora from the balance has provided a completed rotation for us and we have revised our results accordingly.
+
 ## Contents and Methodology
 We experimented with simulating jobs in 8-player comp situations to assess the strength of particular jobs in a target 
 dummy situation against their peers. To limit variables, we started with three baseline comps:
@@ -132,9 +135,11 @@ a minute (so 20 extra gauge) and that puts it in the middle of the pack. It's be
 have a raid buff: SAM is stronger in buffs, but is a lot more contextual. VPR favors lower buff comps and has a lot 
 of tools to handle interruptions, so I think the balance here is in an interesting spot.
 
-RPR seems surprisingly good, and DRG seems surprisingly bad. I personally haven't looked so much as to why: I think I was expecting
-a bit more out of DRG and a bit less out of RPR. I'm not really familiar with what's going on here since we haven't simmed
-those jobs much since 7.0 (**Sleepocat** internally banned DRG after that patch).
+RPR seems surprisingly good. I personally haven't looked so much as to why: I think I was expecting a bit less out of RPR.
+We will be looking into this, so please let us know if there's any significant issues that might lead to an overestimation for RPR.
+
+*DRG was originally performing towards the bottom: this has been revised due to a newly submitted sheet, 
+and it is now solidly in the middle of the pack*.
 
 ### Ranged
 BRD slaps. MCH sucks. This should not be surprising to anyone. DNC is in a decent spot, but I think it is edged-out by 
@@ -208,6 +213,8 @@ new perspective on job performance that is not feasible to see via submitted log
   * They will be attempting speed-kills in 7.4, please support them!
 * **Sleepocat** for being the original testers for many of these simulations and visualizations.
   * For context, I played as a Tank for the team and managed a lot of the simulations, tools, and planning around their runs.
+* Revisions
+  * **Siora** (2025/01/05): Corrected DRG sheet.
 
 ### P.S
 If you are interested in speeds or spreadsheet theorycraft, please reach out to me on discord (apollo.van.waddleburg). 

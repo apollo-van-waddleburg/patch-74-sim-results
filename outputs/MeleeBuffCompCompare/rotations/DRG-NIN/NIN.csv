@@ -178,7 +178,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 125195,125195,Battle Voice,,,,,,,[]
 125222,125222,Chain Stratagem,,,,,,,[]
 124762,125302,Aeolian Edge,560.0,57602.0,,Default Target,['Kazematoi'],238014802.0,"[""The Wanderer's Minuet""]"
-125756,125756,Battle Litany,,,,,,,[]
+125753,125753,Battle Litany,,,,,,,[]
 125815,125815,Radiant Finale,,,,,,,[]
 126253,126253,Starry Muse,,,,,,,[]
 126386,126386,Starry Muse,,,,,,,[]
@@ -337,7 +337,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 244707,245107,Gust Slash,400.0,41143.0,,Default Target,[],121425260.0,"[""The Wanderer's Minuet""]"
 245224,245224,Chain Stratagem,,,,,,,[]
 245366,245366,Battle Voice,,,,,,,[]
-245758,245758,Battle Litany,,,,,,,[]
+245753,245753,Battle Litany,,,,,,,[]
 245986,245986,Radiant Finale,,,,,,,[]
 246253,246253,Starry Muse,,,,,,,[]
 246386,246386,Starry Muse,,,,,,,[]
@@ -498,7 +498,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 365226,365226,Chain Stratagem,,,,,,,[]
 365366,365366,Battle Voice,,,,,,,[]
 365469,365469,Bunshin,,,,,,,[]
-365760,365760,Battle Litany,,,,,,,[]
+365753,365753,Battle Litany,,,,,,,[]
 365986,365986,Radiant Finale,,,,,,,[]
 366305,366305,Starry Muse,,,,,,,[]
 366438,366438,Starry Muse,,,,,,,[]
@@ -663,7 +663,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 484682,485082,Gust Slash,400.0,41143.0,,Default Target,[],121425260.0,"[""The Wanderer's Minuet""]"
 485228,485228,Chain Stratagem,,,,,,,[]
 485366,485366,Battle Voice,,,,,,,[]
-485763,485763,Battle Litany,,,,,,,[]
+485753,485753,Battle Litany,,,,,,,[]
 485986,485986,Radiant Finale,,,,,,,[]
 486305,486305,Starry Muse,,,,,,,[]
 486438,486438,Starry Muse,,,,,,,[]
@@ -822,14 +822,14 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 604506,605038,Auto,90.0,7862.0,,Default Target,[],4434199.0,"[""The Wanderer's Minuet""]"
 604682,605082,Spinning Edge,300.0,30857.0,,Default Target,[],68303608.0,"[""The Wanderer's Minuet""]"
 605230,605230,Chain Stratagem,,,,,,,[]
-605765,605765,Battle Litany,,,,,,,[]
 606152,606152,Battle Voice,,,,,,,[]
 606305,606305,Starry Muse,,,,,,,[]
+606373,606373,Battle Litany,,,,,,,[]
 606438,606438,Starry Muse,,,,,,,[]
 606772,606772,Radiant Finale,,,,,,,[]
 606089,607159,Dokumori,400.0,43321.0,,Default Target,[],138186116.0,"['Chain Stratagem', ""The Wanderer's Minuet""]"
-606802,607202,Gust Slash,400.0,52493.0,,Default Target,[],196252036.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Dokumori', 'Starry Muse', ""The Wanderer's Minuet""]"
-606676,607208,Auto,90.0,9585.0,,Default Target,[],6457338.0,"['Battle Litany', 'Chain Stratagem', 'Dokumori', 'Starry Muse', ""The Wanderer's Minuet""]"
+606802,607202,Gust Slash,400.0,49980.0,,Default Target,[],186334515.0,"['Battle Voice', 'Chain Stratagem', 'Dokumori', 'Starry Muse', ""The Wanderer's Minuet""]"
+606676,607208,Auto,90.0,9126.0,,Default Target,[],6134555.0,"['Chain Stratagem', 'Dokumori', 'Starry Muse', ""The Wanderer's Minuet""]"
 608846,609378,Auto,90.0,11696.0,,Default Target,[],9743259.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Dokumori', ""Kunai's Bane"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 609501,609501,Jin,,,,,,,[]
 608381,609671,Kunai's Bane,700.0,97381.0,,Default Target,[],675374944.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
@@ -861,7 +861,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 624248,625008,Fleeting Raiju,700.0,107119.0,,Default Target,[],817203256.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Dokumori', ""Kunai's Bane"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 624686,625218,Auto,90.0,10632.0,,Default Target,[],8052200.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 626368,626908,Aeolian Edge,560.0,74174.0,,Default Target,[],410378119.0,"['Battle Litany', 'Battle Voice', 'Dokumori', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
-626856,627388,Auto,90.0,8750.0,,Default Target,[],5492596.0,"['Dokumori', 'Radiant Finale', ""The Wanderer's Minuet""]"
+626856,627388,Auto,90.0,9213.0,,Default Target,[],6250788.0,"['Battle Litany', 'Dokumori', 'Radiant Finale', ""The Wanderer's Minuet""]"
 628488,628888,Spinning Edge,300.0,30857.0,,Default Target,[],68303608.0,"[""The Wanderer's Minuet""]"
 629026,629558,Auto,90.0,7862.0,,Default Target,[],4434199.0,"[""The Wanderer's Minuet""]"
 630608,631008,Gust Slash,400.0,41143.0,,Default Target,[],121425260.0,"[""The Wanderer's Minuet""]"
@@ -982,12 +982,12 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 724506,725038,Auto,90.0,8509.0,,Default Target,[],5193127.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 724682,725082,Spinning Edge,300.0,33397.0,,Default Target,[],80009638.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 725232,725232,Chain Stratagem,,,,,,,[]
-725768,725768,Battle Litany,,,,,,,[]
 726152,726152,Battle Voice,,,,,,,[]
+726373,726373,Battle Litany,,,,,,,[]
 726709,726709,Bunshin,,,,,,,[]
 726772,726772,Radiant Finale,,,,,,,[]
 726089,727159,Dokumori,400.0,46887.0,,Default Target,[],161867452.0,"['Chain Stratagem', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
-726676,727208,Auto,90.0,9880.0,,Default Target,[],6858351.0,"['Battle Litany', 'Chain Stratagem', 'Dokumori', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+726676,727208,Auto,90.0,9407.0,,Default Target,[],6515523.0,"['Chain Stratagem', 'Dokumori', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 727417,727417,Gust Slash (pet),160.0,21328.0,,Default Target,[],32397667.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', ""The Wanderer's Minuet""]"
 727457,727457,Starry Muse,,,,,,,[]
 727590,727590,Starry Muse,,,,,,,[]
@@ -1024,7 +1024,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 744696,745456,Fleeting Raiju,700.0,115938.0,,Default Target,['Bunshin'],957270039.0,"['Battle Litany', 'Battle Voice', 'Bunshin', 'Chain Stratagem', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 745544,745544,Fleeting Raiju (pet),160.0,24634.0,,Default Target,[],43219412.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 745084,745616,Auto,90.0,12658.0,,Default Target,[],11411675.0,"['Battle Litany', 'Battle Voice', 'Chain Stratagem', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
-746816,747576,Fleeting Raiju,700.0,100182.0,,Default Target,['Bunshin'],719942374.0,"['Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
+746816,747576,Fleeting Raiju,700.0,105486.0,,Default Target,['Bunshin'],819319357.0,"['Battle Litany', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 747664,747664,Fleeting Raiju (pet),160.0,17386.0,,Default Target,[],21683140.0,"['Grade 4 Gemdraught', 'Starry Muse', ""The Wanderer's Minuet""]"
 747254,747786,Auto,90.0,9470.0,,Default Target,[],6433639.0,"['Grade 4 Gemdraught', 'Radiant Finale', 'Starry Muse', ""The Wanderer's Minuet""]"
 747436,748056,Bhavacakra,400.0,46755.0,,Default Target,[],156817173.0,"['Grade 4 Gemdraught', 'Starry Muse', ""The Wanderer's Minuet""]"
