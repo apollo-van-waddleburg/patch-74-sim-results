@@ -121,6 +121,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 7049,7049,Armor Crush (pet),160.0,20170.0,,Default Target,[],29996280.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 6590,7122,Auto,90.0,10365.0,,Default Target,[],7920887.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 7122,7122,Automaton Queen,,,,,,,[]
+6250,7150,Salted Earth,50.0,5921.0,,Default Target,[],2442287.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 6100,7350,Star Prism,1100.0,196325.0,,Default Target,['5 Hyperphantasia'],2857279321.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Inspiration', 'Starry Muse']"
 -200,7500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
 1310,7500,Combust III (dot),70.0,9994.0,,Default Target,[],5180165.0,"['Grade 4 Gemdraught', 'Lightspeed']"
@@ -940,6 +941,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 96318,96938,Armor Crush,500.0,50884.0,,Default Target,"['Bunshin', 'Kazematoi']",182712561.0,['Bunshin']
 96052,97032,Water in Blue,570.0,76329.0,,Default Target,[],412717799.0,[]
 96552,97084,Auto,90.0,0.0,,Default Target,[],0.0,[]
+96250,97150,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 96522,97322,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 77856,97500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 83801,97500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
@@ -1798,6 +1800,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 186112,186644,Auto,90.0,0.0,,Default Target,[],0.0,[]
 186112,186644,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 186203,186823,Kasha,420.0,47982.0,,Default Target,['Meikyo Shisui'],161026141.0,"['Fugetsu', 'Fuka', 'Meikyo Shisui']"
+186254,187154,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 186146,187216,Energy Drain,100.0,12818.0,,Default Target,[],10074649.0,[]
 186250,187231,Eye Gouge,300.0,28699.0,,Default Target,[],54747652.0,['No Mercy']
 137780,187500,Higanbana (dot),50.0,7540.0,,Default Target,[],4154788.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
@@ -2670,6 +2673,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 275861,276393,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 275000,276653,Solid Barrel,460.0,36674.0,,Default Target,[],89411073.0,[]
 277057,277057,Aeolian Edge (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
+276254,277154,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 276564,277364,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 257627,277500,Higanbana (dot),50.0,7540.0,,Default Target,[],4154788.0,"['Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Starry Muse']"
 263804,277500,Biolysis (dot),85.0,13851.0,,Default Target,[],12558776.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Starry Muse']"
@@ -3481,6 +3485,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 366945,366945,the Balance,,,,,,,[]
 366945,366945,Card,,,,,,,[]
 366250,367007,Abdomen Tear,260.0,31573.0,,Default Target,[],69466451.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'No Mercy']"
+366257,367157,Salted Earth,50.0,5639.0,,Default Target,[],2215583.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught']"
 366089,367159,Dokumori,400.0,49199.0,,Default Target,[],178459883.0,"['Chain Stratagem', 'Divination', 'Grade 4 Gemdraught']"
 366675,367207,Auto,90.0,10365.0,,Default Target,[],7920887.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 366802,367342,Aeolian Edge,560.0,75941.0,,Default Target,"['Bunshin', 'Kazematoi']",425182294.0,"['Bunshin', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
@@ -4310,6 +4315,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 456421,456953,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 456257,457097,Fire in Red,490.0,65637.0,,Default Target,[],305191668.0,[]
 456481,457101,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
+456257,457157,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 456604,457404,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 437399,457500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 443807,457500,Biolysis (dot),85.0,11258.0,,Default Target,[],7771012.0,[]
@@ -5175,6 +5181,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 545916,546448,Auto,90.0,7779.0,,Default Target,[],4270188.0,[]
 546049,546581,Auto,90.0,220.0,,Default Target,[],2952.0,[]
 546477,547009,Auto,90.0,0.0,,Default Target,[],0.0,[]
+546261,547161,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 546152,547222,Energy Drain,100.0,12818.0,,Default Target,[],10074649.0,[]
 546250,547231,Eye Gouge,300.0,28699.0,,Default Target,[],54747652.0,['No Mercy']
 546630,547388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
@@ -6050,6 +6057,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 636432,637052,Midare Setsugekka,640.0,101332.0,,Default Target,[],119853464.0,"['Fugetsu', 'Fuka']"
 637057,637057,Gust Slash (pet),160.0,15069.0,,Default Target,[],16022510.0,[]
 636390,637148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+636261,637161,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 636969,637369,Gust Slash,400.0,40707.0,,Default Target,['Bunshin'],116934391.0,['Bunshin']
 636646,637446,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 636932,637464,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
@@ -6838,6 +6846,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 726128,727158,Tendo Setsugekka,1100.0,222989.0,,Default Target,[],580394386.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 726089,727159,Dokumori,400.0,49199.0,,Default Target,[],178459883.0,"['Chain Stratagem', 'Divination', 'Grade 4 Gemdraught']"
 726628,727160,Auto,90.0,11606.0,,Default Target,[],9846928.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
+726265,727165,Salted Earth,50.0,5639.0,,Default Target,[],2215583.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught']"
 726676,727208,Auto,90.0,9871.0,,Default Target,[],7184234.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught']"
 727310,727310,the Balance,,,,,,,[]
 727310,727310,Card,,,,,,,[]

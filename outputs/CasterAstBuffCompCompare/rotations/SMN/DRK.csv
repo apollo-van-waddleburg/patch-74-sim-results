@@ -18,6 +18,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 5625,5625,Delirium,,,,,,,[]
 5723,5723,Radiant Finale,,,,,,,[]
 6501,7033,Auto,90.0,11907.0,,Default Target,[],10524544.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+6250,7150,Salted Earth,50.0,6582.0,,Default Target,[],3215805.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
 6250,7500,Salted Earth (dot),50.0,6582.0,,Default Target,[],3215805.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
 7500,8081,Hard Slash,300.0,40299.0,,Default Target,[],120551196.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 8125,8749,Edge of Shadow,460.0,61797.0,,Default Target,[],283476716.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
@@ -108,6 +109,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 92502,93126,Souleater,480.0,43000.0,,Default Target,[],124867098.0,"[""Army's Paeon"", 'Darkside']"
 95002,95583,Hard Slash,300.0,26876.0,,Default Target,[],48779146.0,"[""Army's Paeon"", 'Darkside']"
 95301,95833,Auto,90.0,7939.0,,Default Target,[],4255687.0,"[""Army's Paeon"", 'Darkside']"
+96250,97150,Salted Earth,50.0,4475.0,,Default Target,[],1352757.0,"[""Army's Paeon"", 'Darkside']"
 96250,97500,Salted Earth (dot),50.0,4475.0,,Default Target,[],1352757.0,"[""Army's Paeon"", 'Darkside']"
 97502,98126,Syphon Strike,380.0,34041.0,,Default Target,[],78256963.0,"[""Army's Paeon"", 'Darkside']"
 98261,98793,Auto,90.0,7939.0,,Default Target,[],4255687.0,"[""Army's Paeon"", 'Darkside']"
@@ -206,6 +208,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 184101,184633,Auto,90.0,7960.0,,Default Target,[],4212926.0,"['Darkside', ""Mage's Ballad""]"
 185004,185585,Hard Slash,300.0,26950.0,,Default Target,[],48278952.0,"['Darkside', ""Mage's Ballad""]"
 185629,185629,Delirium,,,,,,,[]
+186254,187154,Salted Earth,50.0,4488.0,,Default Target,[],1339176.0,"['Darkside', ""Mage's Ballad""]"
 186254,187500,Salted Earth (dot),50.0,4488.0,,Default Target,[],1339176.0,"['Darkside', ""Mage's Ballad""]"
 187061,187593,Auto,90.0,7960.0,,Default Target,[],4212926.0,"['Darkside', ""Mage's Ballad""]"
 187504,188085,Scarlet Delirium,620.0,55697.0,,Default Target,[],206213996.0,"['Darkside', ""Mage's Ballad""]"
@@ -305,6 +308,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 272901,273433,Auto,90.0,7966.0,,Default Target,[],4292547.0,"['Darkside', ""The Wanderer's Minuet""]"
 275006,275630,Syphon Strike,380.0,34158.0,,Default Target,[],78935899.0,"['Darkside', ""The Wanderer's Minuet""]"
 275861,276393,Auto,90.0,7966.0,,Default Target,[],4292547.0,"['Darkside', ""The Wanderer's Minuet""]"
+276254,277154,Salted Earth,50.0,4491.0,,Default Target,[],1364511.0,"['Darkside', ""The Wanderer's Minuet""]"
 276254,277500,Salted Earth (dot),50.0,4491.0,,Default Target,[],1364511.0,"['Darkside', ""The Wanderer's Minuet""]"
 277506,278130,Souleater,480.0,43149.0,,Default Target,[],125950290.0,"['Darkside', ""The Wanderer's Minuet""]"
 278131,278888,Salt and Darkness,500.0,44950.0,,Default Target,[],136683061.0,"['Darkside', ""The Wanderer's Minuet""]"
@@ -394,6 +398,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 365986,365986,Radiant Finale,,,,,,,[]
 365991,365991,Brotherhood,,,,,,,[]
 366089,366089,Dokumori,,,,,,,[]
+366257,367157,Salted Earth,50.0,6269.0,,Default Target,[],2915819.0,"['Battle Voice', 'Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
 366257,367500,Salted Earth (dot),50.0,6269.0,,Default Target,[],2915819.0,"['Battle Voice', 'Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
 367507,368088,Scarlet Delirium,620.0,86556.0,,Default Target,[],556105124.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 367621,368153,Auto,90.0,12374.0,,Default Target,[],11365538.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
@@ -486,6 +491,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 453461,453993,Auto,90.0,7939.0,,Default Target,[],4255687.0,"[""Army's Paeon"", 'Darkside']"
 455009,455590,Hard Slash,300.0,26876.0,,Default Target,[],48779146.0,"[""Army's Paeon"", 'Darkside']"
 456421,456953,Auto,90.0,7939.0,,Default Target,[],4255687.0,"[""Army's Paeon"", 'Darkside']"
+456257,457157,Salted Earth,50.0,4475.0,,Default Target,[],1352757.0,"[""Army's Paeon"", 'Darkside']"
 456257,457500,Salted Earth (dot),50.0,4475.0,,Default Target,[],1352757.0,"[""Army's Paeon"", 'Darkside']"
 457509,458133,Syphon Strike,380.0,34041.0,,Default Target,[],78256963.0,"[""Army's Paeon"", 'Darkside']"
 458134,458891,Salt and Darkness,500.0,44795.0,,Default Target,[],135507731.0,"[""Army's Paeon"", 'Darkside']"
@@ -584,6 +590,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 545011,545635,Syphon Strike,380.0,34135.0,,Default Target,[],77459466.0,"['Darkside', ""Mage's Ballad""]"
 545636,545636,Delirium,,,,,,,[]
 545221,545753,Auto,90.0,7960.0,,Default Target,[],4212926.0,"['Darkside', ""Mage's Ballad""]"
+546261,547161,Salted Earth,50.0,4488.0,,Default Target,[],1339176.0,"['Darkside', ""Mage's Ballad""]"
 546261,547500,Salted Earth (dot),50.0,4488.0,,Default Target,[],1339176.0,"['Darkside', ""Mage's Ballad""]"
 547511,548092,Scarlet Delirium,620.0,55697.0,,Default Target,[],206213996.0,"['Darkside', ""Mage's Ballad""]"
 548181,548713,Auto,90.0,7960.0,,Default Target,[],4212926.0,"['Darkside', ""Mage's Ballad""]"
@@ -682,6 +689,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 632513,633094,Hard Slash,300.0,26969.0,,Default Target,[],49202188.0,"['Darkside', ""The Wanderer's Minuet""]"
 634021,634553,Auto,90.0,7966.0,,Default Target,[],4292547.0,"['Darkside', ""The Wanderer's Minuet""]"
 635013,635637,Syphon Strike,380.0,34158.0,,Default Target,[],78935899.0,"['Darkside', ""The Wanderer's Minuet""]"
+636261,637161,Salted Earth,50.0,4491.0,,Default Target,[],1364511.0,"['Darkside', ""The Wanderer's Minuet""]"
 636261,637500,Salted Earth (dot),50.0,4491.0,,Default Target,[],1364511.0,"['Darkside', ""The Wanderer's Minuet""]"
 636981,637513,Auto,90.0,7966.0,,Default Target,[],4292547.0,"['Darkside', ""The Wanderer's Minuet""]"
 637513,638137,Souleater,480.0,43149.0,,Default Target,[],125950290.0,"['Darkside', ""The Wanderer's Minuet""]"
@@ -772,6 +780,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 725781,726313,Auto,90.0,9052.0,,Default Target,[],5543734.0,"['Darkside', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
 726772,726772,Radiant Finale,,,,,,,[]
 726848,726848,Brotherhood,,,,,,,[]
+726265,727165,Salted Earth,50.0,5981.0,,Default Target,[],2489235.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
 726265,727500,Salted Earth (dot),50.0,5981.0,,Default Target,[],2489235.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
 727515,728139,Syphon Strike,380.0,50519.0,,Default Target,[],189444923.0,"['Battle Voice', 'Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 728140,728764,Edge of Shadow,460.0,64221.0,,Default Target,[],306152694.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
