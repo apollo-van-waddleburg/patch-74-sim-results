@@ -13,7 +13,18 @@ rng on these jobs as well.
 **You should not use the results of these tools to discriminate against any jobs in a public setting.**
 
 ### Revisions
-2025/01/05: We initially released with a suboptimal DRG sheet. Siora from the balance has provided a completed rotation for us and we have revised our results accordingly.
+* 2025/01/05
+  * [Sheet Fix] We initially released with a suboptimal DRG sheet. Siora from the balance has provided a completed rotation for us and we have revised our results accordingly.
+* 2025/01/18
+  * [Visual] Improved the supplementary buff-feed analysis graphs to be more readable.
+  * [Visual] Corrected buff attribution logic for supplementary per-player graphs to more accurately attribute crit/dh buffs. Comp results are unaffected.
+  * [Sim Bug] RDM's `Grand Impact` was incorrectly coded as a normal cast.
+    * This didn't affect net base potency, but caused a lot of damage applications to be delayed since the sim would apply delays due to casting.
+    * This seems to have lead to RDM being underestimated by several hundreds of DPS due to missing buff feed, depending on comp. It also caused to some casts falling out of the scored window (`12:27.500`).
+    * It's relative position comparative to other casters is unchanged.
+  * [Sim Bug] DRK's `Salted Earth` was not applying the on-cast initial ticket (floor dots are weird).
+    * This cause it to lose 50p per cast, underestimating it's overall dps by a pretty small amount (~75).
+    * SMN's `Slipstream` may have a similar bug and might be losing 30p per cast. If this is the case, SMN's results are slightly underestimated as of this revision.
 
 ## Contents and Methodology
 We experimented with simulating jobs in 8-player comp situations to assess the strength of particular jobs in a target 
@@ -114,7 +125,7 @@ by looking at the `comp_dps_over_time` version if you only care about expected v
 | No Buff Comp Dps (Melees)  | MNK/NIN is a narrow winner. RPR seems a lot more powerful in this situation.                                             | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/MeleeNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)   |
 | Buff Comp Dps (Ranged)     | BRD is the strongest in this experiment, even with using SAM for DNC Partner. MCH is down about `3000 DPS`.              | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)    |
 | No Buff Comp Dps (Ranged)  | BRD is still a clear winner, but by a smaller margin (`~1200 DPS`). DNC is very slightly above MCH.                      | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/RangedNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)  |
-| AST Buff Comp Dps (Caster) | PCT seems to win by a good margin (`~600 DPS` over RDM), with RDM slightly edging out BLM.                               | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterAstBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html) |
+| AST Buff Comp Dps (Caster) | PCT seems to win by a narrow margin. PCT and RDM seem to be a few hundred dps over BLM.                                  | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterAstBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html) |
 | Buff Comp Dps (Caster)     | PCT is still ahead, but the three real casters are within `300 DPS` of each other.                                       | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)    |
 | No Buff Comp Dps (Caster)  | BLM takes a dominant lead in this scenario (`+1500 DPS` over PCT), with PCT actually moving below RDM.                   | [Link](https://htmlpreview.github.io/?https://github.com/apollo-van-waddleburg/patch-74-sim-results/blob/main/outputs/CasterNoBuffCompCompare/comp_dps/comp_dps_sampled_percentiles.html)  |
 

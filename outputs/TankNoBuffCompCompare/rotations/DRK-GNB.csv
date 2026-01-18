@@ -76,6 +76,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 6493,7025,Auto,90.0,8670.0,,Default Target,[],4996354.0,"['Grade 4 Gemdraught', 'No Mercy']"
 6501,7033,Auto,90.0,8530.0,,Default Target,[],4836494.0,"['Darkside', 'Grade 4 Gemdraught']"
 7122,7122,Automaton Queen,,,,,,,[]
+6250,7150,Salted Earth,50.0,4809.0,,Default Target,[],1537099.0,"['Darkside', 'Grade 4 Gemdraught']"
 6701,7233,Auto,90.0,21.0,,Default Target,[],25.0,['Grade 4 Gemdraught']
 6352,7332,Hunter's Coil,620.0,63060.0,,Default Target,[],280621606.0,['Swiftscaled']
 -170,7500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
@@ -940,6 +941,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 96093,96625,Auto,90.0,6674.0,,Default Target,[],2960971.0,[]
 96317,96937,Jinpu,300.0,34274.0,,Default Target,[],82159455.0,"['Fugetsu', 'Fuka']"
 96428,97098,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
+96250,97150,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 96522,97322,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 96810,97342,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 96302,97462,Steel Fangs,300.0,33562.0,,Default Target,['Honed Steel'],79487609.0,"['Honed Steel', ""Hunter's Instinct"", 'Swiftscaled']"
@@ -1776,6 +1778,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 186112,186644,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 186203,186823,Kasha,420.0,47982.0,,Default Target,['Meikyo Shisui'],161026141.0,"['Fugetsu', 'Fuka', 'Meikyo Shisui']"
 186410,186942,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+186254,187154,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 186250,187231,Eye Gouge,300.0,28699.0,,Default Target,[],54747652.0,['No Mercy']
 137780,187500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 160393,187500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
@@ -2627,6 +2630,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 275866,276398,Auto,90.0,0.0,,Default Target,[],0.0,[]
 276010,276542,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 275000,276653,Solid Barrel,460.0,36674.0,,Default Target,[],89411073.0,[]
+276254,277154,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 276564,277364,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 247944,277500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,"['Enochian', 'Ley Lines']"
 257627,277500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
@@ -3440,6 +3444,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 365688,366978,Glare III,350.0,49122.0,,Default Target,[],142303382.0,['Grade 4 Gemdraught']
 366250,367007,Abdomen Tear,260.0,26928.0,,Default Target,[],48201703.0,"['Grade 4 Gemdraught', 'No Mercy']"
 365374,367074,First Generation,680.0,82372.0,,Default Target,[],478822956.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
+366257,367157,Salted Earth,50.0,4809.0,,Default Target,[],1537099.0,"['Darkside', 'Grade 4 Gemdraught']"
 365994,367284,First Legacy,320.0,38761.0,,Default Target,[],106024157.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 317551,367500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 339675,367500,Thunder (dot),60.0,10027.0,,Default Target,[],3103341.0,['Enochian']
@@ -4303,6 +4308,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 456200,456870,Assize,400.0,51864.0,,Default Target,[],158638414.0,[]
 456421,456953,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 456481,457101,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
+456257,457157,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 456604,457404,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 436536,457500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 437399,457500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
@@ -5153,6 +5159,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 545108,546268,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
 545746,546366,Kasha,420.0,47982.0,,Default Target,['Meikyo Shisui'],161026141.0,"['Fugetsu', 'Fuka', 'Meikyo Shisui']"
 545773,546443,Phlegma III,600.0,78028.0,,Default Target,[],367528138.0,[]
+546261,547161,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 546250,547231,Eye Gouge,300.0,28699.0,,Default Target,[],54747652.0,['No Mercy']
 546630,547388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 546893,547425,Auto,90.0,8009.0,,Default Target,[],4264185.0,['No Mercy']
@@ -6006,6 +6013,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 636432,637052,Midare Setsugekka,640.0,101332.0,,Default Target,[],119853464.0,"['Fugetsu', 'Fuka']"
 635814,637104,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 636390,637148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+636261,637161,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 636650,637182,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 636740,637272,Auto,90.0,0.0,,Default Target,[],0.0,['Enochian']
 636240,637400,Fire IV,300.0,79898.0,,Default Target,['3 Astral Fire'],197058271.0,['Enochian']
@@ -6816,6 +6824,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 725726,727016,Glare III,350.0,49122.0,,Default Target,[],142303382.0,['Grade 4 Gemdraught']
 726128,727158,Tendo Setsugekka,1100.0,188493.0,,Default Target,[],414732390.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 726628,727160,Auto,90.0,9898.0,,Default Target,[],6851445.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
+726265,727165,Salted Earth,50.0,4809.0,,Default Target,[],1537099.0,"['Darkside', 'Grade 4 Gemdraught']"
 726082,727292,Third Legacy,320.0,38761.0,,Default Target,[],106024157.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 726330,727490,Fire IV,300.0,86475.0,,Default Target,['3 Astral Fire'],230834749.0,"['Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 685656,727500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"

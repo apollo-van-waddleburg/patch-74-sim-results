@@ -244,8 +244,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 20650,21182,Auto,90.0,10053.0,,Default Target,[],7131444.0,"['Embolden', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 20170,21230,Primal Ruination,780.0,135946.0,,Default Target,['Surging Tempest'],15402002.0,"['Embolden', 'Grade 4 Gemdraught', 'Surging Tempest']"
 20625,21335,Checkmate,180.0,25295.0,,Default Target,[],44994323.0,"['Embolden', 'Grade 4 Gemdraught']"
+20231,21781,Grand Impact,600.0,95441.0,,Default Target,[],644210105.0,"['Embolden', 'Grade 4 Gemdraught']"
 21281,21813,Auto,90.0,10393.0,,Default Target,[],7554387.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 21000,21891,Blade of Valor,1000.0,113334.0,,Default Target,['Requiescat'],853863301.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+21390,21922,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 21970,21970,Thin Air,,,,,,,[]
 21270,22028,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Embolden', 'Grade 4 Gemdraught']"
 21412,22032,Kasha,420.0,54527.0,,Default Target,[],207948625.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
@@ -278,6 +280,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 23601,24891,Glare III,350.0,51577.0,,Default Target,[],156889948.0,"['Embolden', 'Grade 4 Gemdraught']"
 23917,24897,Uncoiled Twinblood,170.0,21618.0,,Default Target,['Poised for Twinblood'],32976984.0,"['Embolden', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Poised for Twinblood', 'Swiftscaled']"
 24626,25336,Double Check,180.0,25295.0,,Default Target,[],44994323.0,"['Embolden', 'Grade 4 Gemdraught']"
+24830,25362,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 24898,25430,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught']"
 -170,25500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 940,25500,Eukrasian Dosis III (dot),85.0,12172.0,,Default Target,[],8943404.0,['Grade 4 Gemdraught']
@@ -285,9 +288,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 24211,25511,Verfire,380.0,60414.0,,Default Target,[],258130870.0,"['Embolden', 'Grade 4 Gemdraught']"
 25130,25662,Auto,90.0,10053.0,,Default Target,[],7131444.0,"['Embolden', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 25171,25703,Heavy Swing,240.0,24243.0,,Default Target,['Surging Tempest'],39071248.0,"['Embolden', 'Grade 4 Gemdraught', 'Surging Tempest']"
-25221,25753,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 25911,25911,Acceleration,,,,,,,[]
-24721,26280,Grand Impact,600.0,95441.0,,Default Target,['Dualcast'],644210105.0,"['Dualcast', 'Embolden', 'Grade 4 Gemdraught']"
+25211,25971,Verthunder III,440.0,69973.0,,Default Target,[],346301075.0,"['Embolden', 'Grade 4 Gemdraught']"
 25071,26361,Dia,85.0,12467.0,,Default Target,[],9164851.0,"['Embolden', 'Grade 4 Gemdraught']"
 25861,26393,Auto,90.0,10393.0,,Default Target,[],7554387.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 25648,26448,Uncoiled Fury,680.0,86491.0,,Default Target,[],527907154.0,"['Embolden', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
@@ -303,12 +305,13 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 26888,27868,Uncoiled Twinblood,170.0,20588.0,,Default Target,['Poised for Twinblood'],29913907.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Poised for Twinblood', 'Swiftscaled']"
 27370,27902,Auto,90.0,9574.0,,Default Target,[],6470170.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 27671,28294,Maim,340.0,32714.0,,Default Target,['Surging Tempest'],71146594.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
-27701,28461,Verthunder III,440.0,63612.0,,Default Target,['Dualcast'],286194593.0,"['Dualcast', 'Grade 4 Gemdraught']"
+27701,28461,Verthunder III,440.0,63612.0,,Default Target,[],286194593.0,['Grade 4 Gemdraught']
 28474,28474,Druochole,,,,,,,[]
 13652,28500,Higanbana (dot),50.0,6567.0,,Default Target,[],3015677.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 25071,28500,Dia (dot),85.0,12780.0,,Default Target,[],9632716.0,"['Embolden', 'Grade 4 Gemdraught']"
 25406,28500,Eukrasian Dosis III (dot),85.0,12780.0,,Default Target,[],9861716.0,"['Embolden', 'Grade 4 Gemdraught']"
 27866,28536,Dosis III,380.0,53462.0,,Default Target,[],172533440.0,['Grade 4 Gemdraught']
+28270,28802,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 28619,29239,Hindsbane Fang,400.0,48452.0,,Default Target,[],165661384.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 28442,29472,Tendo Setsugekka,1100.0,188493.0,,Default Target,[],414732390.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 28942,29474,Auto,90.0,9898.0,,Default Target,[],6851445.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
@@ -322,12 +325,9 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 29190,29948,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 28980,30140,Fleche,480.0,69385.0,,Default Target,[],340487310.0,['Grade 4 Gemdraught']
 29610,30142,Auto,90.0,9574.0,,Default Target,[],6470170.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
-30201,30733,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 30277,30809,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
 29239,30939,Death Rattle,280.0,33915.0,,Default Target,[],81171557.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
-29701,30961,Verthunder III,440.0,63612.0,,Default Target,[],286194593.0,['Grade 4 Gemdraught']
 30307,30977,Dosis III,380.0,53462.0,,Default Target,[],172533440.0,['Grade 4 Gemdraught']
-30191,30991,Verstone,380.0,54922.0,,Default Target,[],213328618.0,['Grade 4 Gemdraught']
 29973,31003,Tendo Kaeshi Setsugekka,1100.0,188493.0,,Default Target,[],414732390.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 30739,31319,Vicewinder,500.0,60566.0,,Default Target,[],258857373.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 30796,31463,Onslaught,150.0,14430.0,,Default Target,['Surging Tempest'],13842047.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
@@ -342,11 +342,14 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 32360,32360,Afflatus Rapture,,,,,,,[]
 31850,32382,Auto,90.0,9574.0,,Default Target,[],6470170.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 31830,32588,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+32181,32713,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 32401,32933,Auto,90.0,0.0,,Default Target,[],0.0,[]
 32113,32963,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
+31681,32981,Verstone,380.0,54922.0,,Default Target,[],213328618.0,['Grade 4 Gemdraught']
 32671,33294,Fell Cleave,580.0,55814.0,,Default Target,['Surging Tempest'],207082394.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
 33296,33296,Infuriate,,,,,,,[]
 32747,33417,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
+32680,33440,Veraero III,440.0,63612.0,,Default Target,[],286194593.0,['Grade 4 Gemdraught']
 33247,33779,Auto,90.0,21.0,,Default Target,[],25.0,[]
 33522,34054,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 33289,34089,Uncoiled Fury,680.0,82372.0,,Default Target,[],478822956.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
@@ -379,14 +382,14 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 25406,37500,Eukrasian Dosis III (dot),85.0,12780.0,,Default Target,[],9861716.0,"['Embolden', 'Grade 4 Gemdraught']"
 36880,37500,Twinfang Bite,170.0,20588.0,,Default Target,[],29913907.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 36997,37529,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
+37161,37693,Auto,90.0,0.0,,Default Target,[],0.0,[]
 37221,37801,Afflatus Misery,1400.0,181530.0,,Default Target,[],1943447881.0,[]
 37110,37868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 36661,37961,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
 37500,38170,Twinblood Bite,170.0,20588.0,,Default Target,[],29913907.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
-37670,38202,Auto,90.0,0.0,,Default Target,[],0.0,[]
 37671,38203,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 37628,38298,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
-37170,38430,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
+37661,38421,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 38102,38634,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 38338,38870,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 38296,38919,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
@@ -410,10 +413,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 40357,40889,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 40392,40924,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 40578,41110,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+40601,41133,Auto,90.0,0.0,,Default Target,[],0.0,[]
 40810,41342,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 40673,41433,Gekko,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
 41490,41490,Swiftcast,,,,,,,[]
-40151,41701,Grand Impact,600.0,80186.0,,Default Target,['Dualcast'],454729630.0,['Dualcast']
+40151,41701,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 41000,41758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
 40611,41901,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 41625,41982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
@@ -421,11 +425,9 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 41362,42522,Steel Fangs,300.0,33562.0,,Default Target,['Honed Steel'],79487609.0,"['Honed Steel', ""Hunter's Instinct"", 'Swiftscaled']"
 42390,43148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 42509,43179,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
-42651,43183,Auto,90.0,0.0,,Default Target,[],0.0,[]
 42682,43214,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 42818,43350,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 42641,43401,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
-42151,43411,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 13652,43500,Higanbana (dot),50.0,6567.0,,Default Target,[],3015677.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 25071,43500,Dia (dot),85.0,12780.0,,Default Target,[],9632716.0,"['Embolden', 'Grade 4 Gemdraught']"
 25406,43500,Eukrasian Dosis III (dot),85.0,12780.0,,Default Target,[],9861716.0,"['Embolden', 'Grade 4 Gemdraught']"
@@ -439,6 +441,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 43041,44331,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 43482,44372,Hunter's Sting,300.0,33562.0,,Default Target,[],79487609.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 43341,44501,Contre Sixte,420.0,56090.0,,Default Target,[],222500548.0,[]
+44041,44573,Auto,90.0,0.0,,Default Target,[],0.0,[]
 43500,44793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
 44010,44810,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 44972,45504,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
@@ -455,7 +458,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 25071,46500,Dia (dot),85.0,12780.0,,Default Target,[],9632716.0,"['Embolden', 'Grade 4 Gemdraught']"
 25406,46500,Eukrasian Dosis III (dot),85.0,12780.0,,Default Target,[],9861716.0,"['Embolden', 'Grade 4 Gemdraught']"
 39125,46500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
-46091,46623,Auto,90.0,0.0,,Default Target,[],0.0,[]
 45471,46761,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 46000,47160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
 46511,47311,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
@@ -465,6 +467,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 47298,47830,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 47131,47841,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 46222,47922,Death Rattle,280.0,31323.0,,Default Target,[],69237451.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+47481,48013,Auto,90.0,0.0,,Default Target,[],0.0,[]
 47390,48060,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 47530,48062,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 47671,48294,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
@@ -969,6 +972,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 84205,106500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 99125,106500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
 105750,106508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+105112,106662,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 106000,106758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
 106189,106859,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 106722,107254,Auto,90.0,0.0,,Default Target,[],0.0,[]
@@ -978,6 +982,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 107018,107638,Kaeshi: Setsugekka,640.0,101332.0,,Default Target,[],119853464.0,"['Fugetsu', 'Fuka']"
 107376,107908,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 107557,108089,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+107612,108144,Auto,90.0,0.0,,Default Target,[],0.0,[]
 107778,108310,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 107602,108362,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 107112,108372,Veraero III,440.0,58789.0,,Default Target,['Dualcast'],244427179.0,['Dualcast']
@@ -997,13 +1002,12 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 109022,110182,Steel Fangs,300.0,33562.0,,Default Target,['Honed Steel'],79487609.0,"['Honed Steel', ""Hunter's Instinct"", 'Swiftscaled']"
 110018,110550,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 109958,110578,Midare Setsugekka,640.0,101332.0,,Default Target,[],119853464.0,"['Fugetsu', 'Fuka']"
-110102,110634,Auto,90.0,0.0,,Default Target,[],0.0,[]
 110172,110704,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 110092,110722,Enchanted Riposte,340.0,45424.0,,Default Target,[],145935258.0,[]
 110250,110782,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 110458,110990,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
-109602,111161,Grand Impact,600.0,80186.0,,Default Target,['Dualcast'],454729630.0,['Dualcast']
 110917,111449,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+111052,111584,Auto,90.0,0.0,,Default Target,[],0.0,[]
 111070,111740,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 111030,111788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 111142,112032,Hunter's Sting,300.0,33562.0,,Default Target,[],79487609.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -1025,7 +1029,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 112672,113295,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
 113092,113722,Enchanted Redoublement,560.0,74789.0,,Default Target,[],395571785.0,[]
 113262,113882,Flanksbane Fang,500.0,55941.0,,Default Target,['Flanksbane Venom'],220843329.0,"['Flanksbane Venom', ""Hunter's Instinct"", 'Swiftscaled']"
-113542,114074,Auto,90.0,0.0,,Default Target,[],0.0,[]
 114172,114172,Ixochole,,,,,,,[]
 113438,114238,Yukikaze,340.0,38842.0,,Default Target,[],105525015.0,"['Fugetsu', 'Fuka']"
 113670,114428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
@@ -1034,6 +1037,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 114277,114809,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 114025,114825,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 113792,114952,Contre Sixte,420.0,56090.0,,Default Target,[],222500548.0,[]
+114492,115024,Auto,90.0,0.0,,Default Target,[],0.0,[]
 114498,115030,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 114730,115262,Auto,90.0,21.0,,Default Target,[],25.0,[]
 114730,115262,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -1052,11 +1056,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 116310,117068,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 116738,117270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 116970,117502,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
-116982,117514,Auto,90.0,0.0,,Default Target,[],0.0,[]
 116526,117676,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
 117328,117860,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 117637,118169,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 117718,118338,Jinpu,300.0,34274.0,,Default Target,[],82159455.0,"['Fugetsu', 'Fuka']"
+117932,118464,Auto,90.0,0.0,,Default Target,[],0.0,[]
 77856,118500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 113552,118500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 114983,118500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
@@ -1078,7 +1082,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 120243,120243,Serpent's Ire,,,,,,,[]
 119859,120619,Gekko,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
 120172,120704,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
-120422,120954,Auto,90.0,0.0,,Default Target,[],0.0,[]
 120973,120973,Manafication,,,,,,,[]
 120479,121099,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 77856,121500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
@@ -1089,6 +1092,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 121000,121623,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
 121218,121750,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 120273,121833,Resolution,850.0,113597.0,,Default Target,[],912629515.0,[]
+121372,121904,Auto,90.0,0.0,,Default Target,[],0.0,[]
 121450,121982,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 120803,122093,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 122147,122147,Barrel Stabilizer,,,,,,,[]
@@ -1107,7 +1111,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 123690,124222,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 123500,124258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
 123733,124265,Auto,90.0,0.0,,Default Target,[],0.0,[]
-123862,124394,Auto,90.0,0.0,,Default Target,[],0.0,[]
 123863,124483,Reawaken,750.0,83913.0,,Default Target,[],496909924.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 77856,124500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 113552,124500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -1122,6 +1125,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 124027,125057,Chain Saw,660.0,81629.0,,Default Target,[],468551960.0,[]
 124553,125085,Auto,90.0,21.0,,Default Target,[],25.0,[]
 125146,125146,Roller Dash (pet),432.0,48811.0,,Default Target,[],167525369.0,[]
+124812,125344,Auto,90.0,0.0,,Default Target,[],0.0,[]
 124759,125379,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 125173,125796,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
 125798,125798,Inner Release,,,,,,,[]
@@ -1155,7 +1159,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 126354,127644,First Legacy,320.0,35800.0,,Default Target,[],90446541.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 127768,127768,Hypercharge,,,,,,,[]
 127163,127793,Corps-a-corps,130.0,17345.0,,Default Target,[],21279571.0,[]
-127302,127834,Auto,90.0,0.0,,Default Target,[],0.0,[]
 127148,127858,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 127353,127885,Auto,90.0,22.0,,Default Target,[],29.0,['Embolden']
 127255,127925,Phlegma III,600.0,78028.0,,Default Target,[],367528138.0,[]
@@ -1165,6 +1168,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 127250,128540,Imperator,580.0,57844.0,,Default Target,[],222421460.0,['Fight or Flight']
 127673,128610,Inner Chaos,660.0,106311.0,,Default Target,['Surging Tempest'],9418180.0,"['Embolden', 'Surging Tempest']"
 128170,128702,Auto,90.0,9283.0,,Default Target,[],6080835.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
+128252,128784,Auto,90.0,0.0,,Default Target,[],0.0,[]
 128293,128825,Auto,90.0,0.0,,Default Target,[],0.0,"['Embolden', 'Presence of Mind']"
 127435,128905,Second Generation,680.0,79884.0,,Default Target,[],450323304.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
 128298,128921,Upheaval,420.0,39223.0,,Default Target,['Surging Tempest'],102267429.0,"['Embolden', 'Surging Tempest']"
@@ -1198,7 +1202,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 130178,130710,Auto,90.0,6993.0,,Default Target,[],3250657.0,"['Embolden', 'Fight or Flight']"
 130410,130942,Auto,90.0,9283.0,,Default Target,[],6080835.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
 129755,130965,Third Legacy,320.0,37591.0,,Default Target,[],99716250.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
-130742,131274,Auto,90.0,0.0,,Default Target,[],0.0,[]
 130173,131333,Primal Rend,700.0,112761.0,,Default Target,['Surging Tempest'],10595681.0,"['Embolden', 'Surging Tempest']"
 131546,131546,Arm Punch (pet),216.0,25620.0,,Default Target,[],46150190.0,['Embolden']
 131077,131609,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Embolden', 'Surging Tempest']"
@@ -1207,6 +1210,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 131000,132160,Supplication,500.0,52360.0,,Default Target,[],182253239.0,"['Embolden', 'Fight or Flight']"
 131169,132199,Tendo Setsugekka,1100.0,182875.0,,Default Target,[],390368906.0,"['Embolden', 'Fugetsu', 'Fuka']"
 131669,132201,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Embolden', 'Fugetsu', 'Fuka']"
+131692,132224,Auto,90.0,0.0,,Default Target,[],0.0,[]
 130453,132283,Scorch,750.0,110255.0,,Default Target,[],859721724.0,['Embolden']
 130836,132306,Fourth Generation,680.0,79884.0,,Default Target,[],450323304.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
 131529,132379,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Embolden', 'Overheated']"
@@ -1238,7 +1242,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 132943,134503,Resolution,850.0,124957.0,,Default Target,[],1104284214.0,['Embolden']
 133939,134559,Hissatsu: Shinten,250.0,29989.0,,Default Target,[],62902434.0,"['Embolden', 'Fugetsu', 'Fuka']"
 134125,134703,Intervene,150.0,15705.0,,Default Target,[],16394679.0,"['Embolden', 'Fight or Flight']"
-134182,134714,Auto,90.0,0.0,,Default Target,[],0.0,[]
 132537,134867,Ouroboros,1150.0,135104.0,,Default Target,[],1288103397.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
 133613,134903,Glare III,350.0,47649.0,,Default Target,[],133903750.0,"['Embolden', 'Presence of Mind']"
 134343,134923,Engagement,180.0,24028.0,,Default Target,[],40829175.0,[]
@@ -1250,6 +1253,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 134923,135455,Auto,90.0,0.0,,Default Target,[],0.0,"['Embolden', 'Presence of Mind']"
 134790,135548,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Embolden']
 134839,135599,Gekko,420.0,50381.0,,Default Target,['Meikyo Shisui'],177526449.0,"['Embolden', 'Fugetsu', 'Fuka', 'Meikyo Shisui']"
+135132,135664,Auto,90.0,0.0,,Default Target,[],0.0,[]
 135087,135707,Reawaken,750.0,88109.0,,Default Target,[],547838393.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
 134893,135743,Glare IV,640.0,87118.0,,Default Target,[],447612712.0,"['Embolden', 'Presence of Mind']"
 135173,135796,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Embolden', 'Inner Release', 'Surging Tempest']"
@@ -1272,7 +1276,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 137130,137662,Auto,90.0,9283.0,,Default Target,[],6080835.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
 136833,137683,Glare IV,640.0,87118.0,,Default Target,[],447612712.0,"['Embolden', 'Presence of Mind']"
 138151,138151,Hypercharge,,,,,,,[]
-137622,138154,Auto,90.0,0.0,,Default Target,[],0.0,[]
 137430,138188,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Embolden']
 137673,138205,Auto,90.0,0.0,,Default Target,[],0.0,"['Embolden', 'Presence of Mind']"
 137673,138296,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Embolden', 'Inner Release', 'Surging Tempest']"
@@ -1284,6 +1287,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 137578,138868,First Legacy,320.0,37591.0,,Default Target,[],99716250.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
 138433,139063,Enchanted Redoublement,560.0,82267.0,,Default Target,[],478644875.0,['Embolden']
 138539,139071,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Embolden', 'Fugetsu', 'Fuka']"
+138572,139104,Auto,90.0,0.0,,Default Target,[],0.0,[]
 138500,139391,Blade of Truth,880.0,92155.0,,Default Target,['Requiescat'],564544772.0,"['Embolden', 'Fight or Flight', 'Requiescat']"
 138298,139448,Primal Wrath,700.0,65377.0,,Default Target,['Surging Tempest'],284128536.0,"['Embolden', 'Surging Tempest']"
 113552,139500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -1306,7 +1310,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 140173,141233,Primal Ruination,780.0,125645.0,,Default Target,['Surging Tempest'],13152414.0,"['Embolden', 'Surging Tempest']"
 140829,141361,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Embolden', 'Fugetsu', 'Fuka']"
 140532,141382,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Embolden', 'Overheated']"
-141062,141594,Auto,90.0,0.0,,Default Target,[],0.0,[]
 141157,141689,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Embolden', 'Surging Tempest']"
 141260,141750,Kaeshi: Namikiri,1000.0,166254.0,,Default Target,[],322631970.0,"['Embolden', 'Fugetsu', 'Fuka']"
 140360,141830,Third Generation,680.0,79884.0,,Default Target,[],450323304.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
@@ -1321,6 +1324,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 129125,142500,Circle of Scorn (dot),30.0,3139.0,,Default Target,[],654824.0,"['Embolden', 'Fight or Flight']"
 137780,142500,Higanbana (dot),50.0,6066.0,,Default Target,[],2573835.0,"['Embolden', 'Fugetsu', 'Fuka']"
 141995,142527,Auto,90.0,22.0,,Default Target,[],29.0,['Embolden']
+142012,142544,Auto,90.0,0.0,,Default Target,[],0.0,[]
 141373,142663,Glare III,350.0,47649.0,,Default Target,[],133903750.0,"['Embolden', 'Presence of Mind']"
 141625,142785,Blade of Honor,1000.0,104723.0,,Default Target,[],729027788.0,"['Embolden', 'Fight or Flight']"
 142032,142882,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Embolden', 'Overheated']"
@@ -1340,7 +1344,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 144153,144863,Double Check,180.0,23368.0,,Default Target,[],38399269.0,['Embolden']
 143614,144904,Glare III,350.0,47649.0,,Default Target,[],133903750.0,['Embolden']
 143123,144953,Scorch,750.0,110255.0,,Default Target,[],859721724.0,['Embolden']
-144502,145034,Auto,90.0,0.0,,Default Target,[],0.0,[]
 144517,145049,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Embolden', 'Surging Tempest']"
 144640,145220,Shoha,640.0,76777.0,,Default Target,[],412298319.0,"['Embolden', 'Fugetsu', 'Fuka']"
 114983,145500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
@@ -1350,6 +1353,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 145798,145798,Infuriate,,,,,,,[]
 145033,145883,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Embolden', 'Overheated']"
 145409,145941,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Embolden', 'Fugetsu', 'Fuka']"
+145452,145984,Auto,90.0,0.0,,Default Target,[],0.0,[]
 145359,146029,Dosis III,380.0,51860.0,,Default Target,[],162358955.0,['Embolden']
 143761,146091,Ouroboros,1150.0,135104.0,,Default Target,[],1288103397.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
 145350,146108,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Embolden']
@@ -1369,7 +1373,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 147699,148231,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 147877,148409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 147799,148469,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
-147942,148474,Auto,90.0,0.0,,Default Target,[],0.0,[]
 147774,148484,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 137780,148500,Higanbana (dot),50.0,6066.0,,Default Target,[],2573835.0,"['Embolden', 'Fugetsu', 'Fuka']"
 142898,148500,Eukrasian Dosis III (dot),85.0,11807.0,,Default Target,[],8414727.0,['Embolden']
@@ -1383,6 +1386,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 148103,148863,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 148500,149078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
 148659,149191,Auto,90.0,21.0,,Default Target,[],25.0,[]
+148892,149424,Auto,90.0,0.0,,Default Target,[],0.0,[]
 148974,149506,Auto,90.0,0.0,,Default Target,[],0.0,[]
 148474,149764,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 149034,149834,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
@@ -1555,7 +1559,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 142898,169500,Eukrasian Dosis III (dot),85.0,11807.0,,Default Target,[],8414727.0,['Embolden']
 145084,169500,Dia (dot),85.0,11806.0,,Default Target,[],8221084.0,['Embolden']
 159125,169500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
-168024,169574,Grand Impact,600.0,80186.0,,Default Target,['Dualcast'],454729630.0,['Dualcast']
+168024,169574,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 169082,169702,Kasha,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
 168775,169755,Uncoiled Twinblood,170.0,19018.0,,Default Target,['Poised for Twinblood'],25524194.0,"[""Hunter's Instinct"", 'Poised for Twinblood', 'Swiftscaled']"
 169291,169823,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
@@ -1568,6 +1572,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 170498,171030,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 170506,171126,Reawaken,750.0,83913.0,,Default Target,[],496909924.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 170730,171262,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+170514,171314,Jolt III,360.0,48059.0,,Default Target,[],163349209.0,[]
 170539,171389,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
 170982,171514,Auto,90.0,21.0,,Default Target,[],25.0,[]
 170946,171616,Assize,400.0,51864.0,,Default Target,[],158638414.0,[]
@@ -1586,11 +1591,9 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 172039,172889,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
 172738,173270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 172673,173296,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
-172004,173304,Jolt III,360.0,48059.0,,Default Target,[],163349209.0,[]
 172863,173395,Auto,90.0,0.0,,Default Target,[],0.0,[]
 172970,173502,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 173704,173704,Acceleration,,,,,,,[]
-173004,173764,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 173274,173806,Auto,90.0,0.0,,Default Target,[],0.0,[]
 172774,174064,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 172377,174077,First Generation,680.0,76080.0,,Default Target,[],408471052.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -1616,7 +1619,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 175494,176254,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 175502,176352,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
 176194,176824,Corps-a-corps,130.0,17345.0,,Default Target,[],21279571.0,[]
-176303,176835,Auto,90.0,0.0,,Default Target,[],0.0,[]
 175778,177248,Third Generation,680.0,76080.0,,Default Target,[],408471052.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 176000,177293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
 176541,177341,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
@@ -1632,12 +1634,15 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 137780,178500,Higanbana (dot),50.0,6066.0,,Default Target,[],2573835.0,"['Embolden', 'Fugetsu', 'Fuka']"
 172245,178500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 174244,178500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
+177994,178526,Auto,90.0,0.0,,Default Target,[],0.0,[]
 178005,178537,Auto,90.0,21.0,,Default Target,[],25.0,[]
 178117,178649,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 178134,178666,Auto,90.0,0.0,,Default Target,[],0.0,[]
+177494,178754,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 177634,178924,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 177479,178949,Fourth Generation,680.0,76080.0,,Default Target,[],408471052.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 178099,179169,Fourth Legacy,320.0,35800.0,,Default Target,[],90446541.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+177984,179534,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 178500,179660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
 179242,179774,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 179041,179841,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
@@ -1650,6 +1655,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 179782,180632,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
 180281,180991,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 180402,181022,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
+180474,181274,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 180805,181337,Auto,90.0,21.0,,Default Target,[],25.0,[]
 180064,181354,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 137780,181500,Higanbana (dot),50.0,6066.0,,Default Target,[],2573835.0,"['Embolden', 'Fugetsu', 'Fuka']"
@@ -1657,6 +1663,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 174244,181500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 179179,181509,Ouroboros,1150.0,128671.0,,Default Target,[],1168358024.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 180174,181689,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
+181434,181966,Auto,90.0,0.0,,Default Target,[],0.0,[]
 181477,182009,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 181532,182064,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 181698,182230,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
@@ -1668,11 +1675,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 181730,182890,Steel Fangs,300.0,33562.0,,Default Target,['Honed Steel'],79487609.0,"['Honed Steel', ""Hunter's Instinct"", 'Swiftscaled']"
 182310,183068,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 182674,183206,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
-181964,183264,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
-182974,183506,Auto,90.0,0.0,,Default Target,[],0.0,[]
 182994,183526,Auto,90.0,0.0,,Default Target,[],0.0,[]
 182494,183784,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
-182474,184033,Grand Impact,600.0,80186.0,,Default Target,['Dualcast'],454729630.0,['Dualcast']
 183500,184078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
 183822,184354,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 183938,184470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
@@ -2109,11 +2113,13 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 233398,234068,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 233500,234123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
 233898,234430,Auto,90.0,21.0,,Default Target,[],25.0,[]
+232985,234535,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 234086,234706,Midare Setsugekka,640.0,101332.0,,Default Target,[],119853464.0,"['Fugetsu', 'Fuka']"
 233525,234815,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 234053,234853,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
 233277,234977,Death Rattle,280.0,31323.0,,Default Target,[],69237451.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 234586,235118,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
+234895,235427,Auto,90.0,0.0,,Default Target,[],0.0,[]
 197704,235500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 205835,235500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 230937,235500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -2140,11 +2146,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 197704,238500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 230937,238500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 234995,238500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
-237975,238507,Auto,90.0,0.0,,Default Target,[],0.0,[]
 237750,238508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+237965,238725,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 238186,238806,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
+238335,238867,Auto,90.0,0.0,,Default Target,[],0.0,[]
 238279,238949,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
-237475,239034,Grand Impact,600.0,80186.0,,Default Target,['Dualcast'],454729630.0,['Dualcast']
 238597,239129,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 237675,239190,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 238500,239258,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
@@ -2162,7 +2168,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 240175,240707,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 240294,241004,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
 240390,241148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
-240455,241255,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
 239637,241337,Death Rattle,280.0,31323.0,,Default Target,[],69237451.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 240719,241389,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 197704,241500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
@@ -2178,11 +2183,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 241555,242705,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
 242178,242710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 242410,242942,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+242445,242977,Auto,90.0,0.0,,Default Target,[],0.0,[]
+241945,243245,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
 242675,243298,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
-242955,243487,Auto,90.0,0.0,,Default Target,[],0.0,[]
 242795,243505,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 242945,243575,Enchanted Riposte,340.0,45424.0,,Default Target,[],145935258.0,[]
-242455,243715,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 243030,243788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 243159,243829,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 243257,243877,Reawaken,750.0,83913.0,,Default Target,[],496909924.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -2209,6 +2214,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 245295,246005,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 245600,246270,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 246277,246277,Presence of Mind,,,,,,,[]
+245885,246417,Auto,90.0,0.0,,Default Target,[],0.0,[]
 246425,246425,Infuriate,,,,,,,[]
 245670,246428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 246036,246568,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
@@ -2224,7 +2230,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 246778,246778,Embolden,,,,,,,[]
 246778,246778,Embolden,,,,,,,[]
 245128,246828,First Generation,680.0,76080.0,,Default Target,[],408471052.0,"[""Hunter's Instinct"", 'Swiftscaled']"
-246395,246927,Auto,90.0,0.0,,Default Target,[],0.0,[]
 245675,246965,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 246459,246991,Auto,90.0,21.0,,Default Target,[],25.0,[]
 245748,247038,First Legacy,320.0,35800.0,,Default Target,[],90446541.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -2260,6 +2265,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 249130,249662,Auto,90.0,9283.0,,Default Target,[],6080835.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
 249676,249676,Hypercharge,,,,,,,[]
 249259,249791,Auto,90.0,22.0,,Default Target,[],29.0,['Embolden']
+249325,249857,Auto,90.0,0.0,,Default Target,[],0.0,[]
 249085,249935,Glare IV,640.0,87118.0,,Default Target,[],447612712.0,"['Embolden', 'Presence of Mind']"
 249974,249974,Arm Punch (pet),240.0,28470.0,,Default Target,[],56997962.0,['Embolden']
 248530,250000,Third Generation,680.0,79884.0,,Default Target,[],450323304.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
@@ -2269,7 +2275,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 249521,250191,Phlegma III,600.0,81929.0,,Default Target,[],405194830.0,['Embolden']
 249645,250225,Engagement,180.0,24028.0,,Default Target,[],40829175.0,[]
 249150,250360,Third Legacy,320.0,37591.0,,Default Target,[],99716250.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
-249835,250367,Auto,90.0,0.0,,Default Target,[],0.0,[]
 197704,250500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 230937,250500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 234995,250500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
@@ -2297,6 +2302,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 252059,252591,Auto,90.0,22.0,,Default Target,[],29.0,['Embolden']
 251961,252631,Phlegma III,600.0,81929.0,,Default Target,[],405194830.0,['Embolden']
 253174,253174,Pile Bunker (pet),680.0,80681.0,,Default Target,[],457739264.0,['Embolden']
+252765,253297,Auto,90.0,0.0,,Default Target,[],0.0,[]
 252675,253298,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Embolden', 'Inner Release', 'Surging Tempest']"
 197704,253500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 230937,253500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -2304,7 +2310,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 249125,253500,Circle of Scorn (dot),30.0,3139.0,,Default Target,[],654824.0,"['Embolden', 'Fight or Flight']"
 252547,253577,Tendo Kaeshi Setsugekka,1100.0,182875.0,,Default Target,[],390368906.0,"['Embolden', 'Fugetsu', 'Fuka']"
 253787,253787,Ikishoten,,,,,,,[]
-253275,253807,Auto,90.0,0.0,,Default Target,[],0.0,[]
 252966,253816,Glare IV,640.0,87118.0,,Default Target,[],447612712.0,"['Embolden', 'Presence of Mind']"
 253167,253837,Hissatsu: Senei,800.0,95973.0,,Default Target,[],644220028.0,"['Embolden', 'Fugetsu', 'Fuka']"
 253057,253907,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Embolden', 'Overheated']"
@@ -2340,11 +2345,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 249125,256500,Circle of Scorn (dot),30.0,3139.0,,Default Target,[],654824.0,"['Embolden', 'Fight or Flight']"
 256097,256629,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Embolden', 'Fugetsu', 'Fuka']"
 256000,256666,Blade of Faith,760.0,79591.0,,Default Target,['Requiescat'],421104584.0,"['Embolden', 'Fight or Flight', 'Requiescat']"
+256205,256737,Auto,90.0,0.0,,Default Target,[],0.0,[]
 256058,256908,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Embolden', 'Overheated']"
 256230,256988,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Embolden']
 256555,257087,Auto,90.0,0.0,,Default Target,[],0.0,"['Embolden', 'Presence of Mind']"
 256625,257203,Intervene,150.0,15705.0,,Default Target,[],16394679.0,"['Embolden', 'Fight or Flight']"
-256715,257247,Auto,90.0,0.0,,Default Target,[],0.0,[]
 256678,257388,Checkmate,180.0,23368.0,,Default Target,[],38399269.0,['Embolden']
 256315,257475,Fleche,480.0,64122.0,,Default Target,[],290787518.0,[]
 257115,257745,Enchanted Zwerchhau,380.0,55832.0,,Default Target,[],220461023.0,['Embolden']
@@ -2374,11 +2379,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 258870,259628,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Embolden']
 258673,259743,Second Legacy,320.0,37591.0,,Default Target,[],99716250.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
 259059,259859,Heated Slug Shot,320.0,41553.0,,Default Target,[],121418339.0,['Embolden']
+259645,260177,Auto,90.0,0.0,,Default Target,[],0.0,[]
 259768,260268,Ogi Namikiri,1000.0,166254.0,,Default Target,[],322631970.0,"['Embolden', 'Fugetsu', 'Fuka']"
 259678,260388,Checkmate,180.0,23368.0,,Default Target,[],38399269.0,['Embolden']
 259946,260478,Auto,90.0,0.0,,Default Target,[],0.0,"['Embolden', 'Presence of Mind']"
 260098,260630,Auto,90.0,6993.0,,Default Target,[],3250657.0,"['Embolden', 'Fight or Flight']"
-260155,260687,Auto,90.0,0.0,,Default Target,[],0.0,[]
 259446,260736,Glare III,350.0,47649.0,,Default Target,[],133903750.0,"['Embolden', 'Presence of Mind']"
 260330,260862,Auto,90.0,9283.0,,Default Target,[],6080835.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
 250296,260966,Wildfire (dot),1440.0,146707.0,,Default Target,['6 GCD'],17936520.0,['Embolden']
@@ -2407,8 +2412,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 262744,263414,Dosis III,380.0,51860.0,,Default Target,[],162358955.0,['Embolden']
 262967,263499,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Embolden', 'Fugetsu', 'Fuka']"
 262675,263612,Inner Chaos,660.0,106311.0,,Default Target,['Surging Tempest'],9418180.0,"['Embolden', 'Surging Tempest']"
+263085,263617,Auto,90.0,0.0,,Default Target,[],0.0,[]
 263248,264008,Gekko,420.0,50381.0,,Default Target,[],177526449.0,"['Embolden', 'Fugetsu', 'Fuka']"
-263595,264127,Auto,90.0,0.0,,Default Target,[],0.0,[]
 263500,264258,Holy Spirit,500.0,52360.0,,Default Target,['Divine Might'],182253239.0,"['Divine Might', 'Embolden', 'Fight or Flight']"
 263887,264467,Shoha,640.0,76777.0,,Default Target,[],412298319.0,"['Embolden', 'Fugetsu', 'Fuka']"
 264126,264658,Auto,90.0,0.0,,Default Target,[],0.0,['Embolden']
@@ -2435,11 +2440,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 265175,266690,Storm's Path,500.0,46698.0,,Default Target,['Surging Tempest'],144960611.0,"['Embolden', 'Surging Tempest']"
 266181,266891,Checkmate,180.0,23368.0,,Default Target,[],38399269.0,['Embolden']
 266326,266946,Uncoiled Twinfang,170.0,19968.0,,Default Target,['Poised for Twinfang'],28141679.0,"['Embolden', ""Hunter's Instinct"", 'Poised for Twinfang', 'Swiftscaled']"
+266525,267057,Auto,90.0,0.0,,Default Target,[],0.0,[]
 266000,267293,Atonement,460.0,48169.0,,Default Target,[],154242503.0,"['Embolden', 'Fight or Flight']"
 266818,267350,Auto,90.0,6993.0,,Default Target,[],3250657.0,"['Embolden', 'Fight or Flight']"
 265795,267355,Resolution,850.0,124957.0,,Default Target,[],1104284214.0,['Embolden']
 266790,267548,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Embolden']
-267035,267567,Auto,90.0,0.0,,Default Target,[],0.0,[]
 267050,267582,Auto,90.0,9283.0,,Default Target,[],6080835.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
 267061,267911,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Embolden', 'Overheated']"
 266946,267926,Uncoiled Twinblood,170.0,19968.0,,Default Target,['Poised for Twinblood'],28141679.0,"['Embolden', ""Hunter's Instinct"", 'Poised for Twinblood', 'Swiftscaled']"
@@ -2467,8 +2472,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 269837,270369,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 270175,270707,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 270065,270735,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
+270276,270808,Auto,90.0,0.0,,Default Target,[],0.0,[]
 270062,270912,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
-270475,271007,Auto,90.0,0.0,,Default Target,[],0.0,[]
 269776,271076,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 270682,271392,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
 270797,271417,Flanksting Strike,500.0,55941.0,,Default Target,['Flankstung Venom'],220843329.0,"['Flankstung Venom', ""Hunter's Instinct"", 'Swiftscaled']"
@@ -2687,8 +2692,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 295938,296470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 296000,296578,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
 295830,296588,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+296126,296658,Auto,90.0,0.0,,Default Target,[],0.0,[]
 296170,296702,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 296241,296861,Twinfang Bite,170.0,19018.0,,Default Target,[],25524194.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+295676,297226,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 296568,297368,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 297579,297579,Rhizomata,,,,,,,[]
 296971,297641,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
@@ -2714,18 +2721,18 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 300019,300019,Druochole,,,,,,,[]
 299412,300082,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 299630,300480,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
+300156,300688,Auto,90.0,0.0,,Default Target,[],0.0,[]
 300418,300950,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 299656,300956,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 300631,301163,Auto,90.0,21.0,,Default Target,[],25.0,[]
 300650,301182,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
-300666,301198,Auto,90.0,0.0,,Default Target,[],0.0,[]
 300077,301367,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
+300656,301416,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 257627,301500,Higanbana (dot),50.0,6066.0,,Default Target,[],2573835.0,"['Embolden', 'Fugetsu', 'Fuka']"
 289630,301500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 294257,301500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 301080,301612,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 300523,301683,Steel Fangs,300.0,33562.0,,Default Target,['Honed Steel'],79487609.0,"['Honed Steel', ""Hunter's Instinct"", 'Swiftscaled']"
-300166,301725,Grand Impact,600.0,80186.0,,Default Target,['Dualcast'],454729630.0,['Dualcast']
 301000,301758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
 300176,301825,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 301110,301868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
@@ -2743,6 +2750,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 303146,303776,Enchanted Riposte,340.0,45424.0,,Default Target,[],145935258.0,[]
 302507,303797,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 303370,303902,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
+303596,304128,Auto,90.0,0.0,,Default Target,[],0.0,[]
 257627,304500,Higanbana (dot),50.0,6066.0,,Default Target,[],2573835.0,"['Embolden', 'Fugetsu', 'Fuka']"
 289630,304500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 294257,304500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
@@ -2761,11 +2769,9 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 305130,305662,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 305176,305708,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 305801,305801,Inner Release,,,,,,,[]
-305646,306178,Auto,90.0,0.0,,Default Target,[],0.0,[]
 305660,306192,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 304937,306227,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 305797,306329,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
-305146,306406,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 306426,306426,Infuriate,,,,,,,[]
 306625,306625,Fight or Flight,,,,,,,[]
 306051,306671,Kasha,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
@@ -2778,6 +2784,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 289630,307500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 294257,307500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 306883,307503,Reawaken,750.0,83913.0,,Default Target,[],496909924.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+307036,307568,Auto,90.0,0.0,,Default Target,[],0.0,[]
 306570,307640,Excavator,660.0,140638.0,,Default Target,['Reassemble'],16475976.0,['Reassemble']
 307138,307670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 307370,307902,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -2793,7 +2800,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 308500,309034,Goring Blade,700.0,69814.0,,Default Target,[],324015381.0,['Fight or Flight']
 308811,309431,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 308926,309593,Onslaught,150.0,13339.0,,Default Target,['Surging Tempest'],11827982.0,['Surging Tempest']
-309086,309618,Auto,90.0,0.0,,Default Target,[],0.0,[]
 309157,309689,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 308346,309776,Verholy,650.0,86868.0,,Default Target,[],533662903.0,[]
 309030,309788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
@@ -2812,6 +2818,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 310240,310772,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 310809,310809,Roller Dash (pet),336.0,37965.0,,Default Target,[],101352509.0,[]
 310393,310925,Auto,90.0,21.0,,Default Target,[],25.0,[]
+310476,311008,Auto,90.0,0.0,,Default Target,[],0.0,[]
 310310,311020,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
 309797,311087,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 310176,311336,Primal Rend,700.0,107391.0,,Default Target,['Surging Tempest'],9610510.0,['Surging Tempest']
@@ -2828,7 +2835,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 311670,312428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 310836,312666,Scorch,750.0,100233.0,,Default Target,[],710514409.0,[]
 312517,313049,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
-312526,313058,Auto,90.0,0.0,,Default Target,[],0.0,[]
 312530,313062,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 312727,313259,Auto,90.0,0.0,,Default Target,[],0.0,[]
 312676,313299,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
@@ -2848,6 +2854,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 313500,314123,Confiteor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
 313858,314390,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
 313787,314407,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
+313916,314448,Auto,90.0,0.0,,Default Target,[],0.0,[]
 314090,314622,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 314125,314703,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
 314071,314871,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
@@ -2861,12 +2868,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 315176,315799,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
 314657,315947,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 315877,316409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
-315966,316498,Auto,90.0,0.0,,Default Target,[],0.0,[]
 257627,316500,Higanbana (dot),50.0,6066.0,,Default Target,[],2573835.0,"['Embolden', 'Fugetsu', 'Fuka']"
 289630,316500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 294257,316500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 309125,316500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
-315816,316616,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 316098,316630,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
 316000,316666,Blade of Faith,760.0,75801.0,,Default Target,['Requiescat'],381953526.0,"['Fight or Flight', 'Requiescat']"
 316330,316862,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -2880,10 +2885,13 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 317587,318119,Auto,90.0,0.0,,Default Target,[],0.0,[]
 317551,318171,Higanbana,200.0,22847.0,,Default Target,[],36510407.0,"['Fugetsu', 'Fuka']"
 317676,318299,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
+317806,318338,Auto,90.0,0.0,,Default Target,[],0.0,[]
 317087,318377,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 318051,318583,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
+317306,318606,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 318809,318809,Pile Bunker (pet),476.0,53787.0,,Default Target,[],203427514.0,[]
 318338,318870,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
+318307,319067,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 318570,319102,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 318500,319391,Blade of Truth,880.0,87767.0,,Default Target,['Requiescat'],512059341.0,"['Fight or Flight', 'Requiescat']"
 318107,319397,Reaving Fangs,300.0,33562.0,,Default Target,['Honed Reavers'],79487609.0,"['Honed Reavers', ""Hunter's Instinct"", 'Swiftscaled']"
@@ -2921,12 +2929,12 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 322631,323163,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 321947,323237,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 322676,323299,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
+322787,323319,Auto,90.0,0.0,,Default Target,[],0.0,[]
 322818,323350,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
 323050,323582,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 322287,323587,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
-323297,323829,Auto,90.0,0.0,,Default Target,[],0.0,[]
 323172,324022,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
-322797,324057,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
+323287,324047,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 323500,324258,Holy Spirit,500.0,49867.0,,Default Target,['Divine Might'],165307933.0,"['Divine Might', 'Fight or Flight']"
 323877,324547,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 322968,324668,Death Rattle,280.0,31323.0,,Default Target,[],69237451.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -2943,7 +2951,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 325290,325822,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 325312,325932,Jinpu,300.0,34274.0,,Default Target,[],82159455.0,"['Fugetsu', 'Fuka']"
 325957,326489,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
-325777,326577,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
 326000,326578,Royal Authority,460.0,45875.0,,Default Target,[],139905235.0,['Fight or Flight']
 325177,326692,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 326318,326988,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
@@ -2958,11 +2965,12 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 327677,328209,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 327452,328212,Gekko,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
 327510,328268,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+327767,328299,Auto,90.0,0.0,,Default Target,[],0.0,[]
 317551,328500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 318976,328500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 323417,328500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
-328277,328809,Auto,90.0,0.0,,Default Target,[],0.0,[]
-327777,329037,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
+327267,328567,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
+328267,329027,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 328708,329328,Flanksting Strike,500.0,55941.0,,Default Target,['Flankstung Venom'],220843329.0,"['Flankstung Venom', ""Hunter's Instinct"", 'Swiftscaled']"
 328758,329428,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 328967,329547,Engagement,180.0,24028.0,,Default Target,[],40829175.0,[]
@@ -2985,8 +2993,9 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 317551,331500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 318976,331500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 323417,331500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
-330757,331517,Verthunder III,440.0,58789.0,,Default Target,['Dualcast'],244427179.0,['Dualcast']
+330757,331517,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 330828,331628,Uncoiled Fury,680.0,76080.0,,Default Target,[],408471052.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+331207,331739,Auto,90.0,0.0,,Default Target,[],0.0,[]
 331198,331868,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 331448,332068,Uncoiled Twinfang,170.0,19018.0,,Default Target,['Poised for Twinfang'],25524194.0,"[""Hunter's Instinct"", 'Poised for Twinfang', 'Swiftscaled']"
 331000,332160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
@@ -3000,9 +3009,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 332068,333048,Uncoiled Twinblood,170.0,19018.0,,Default Target,['Poised for Twinblood'],25524194.0,"[""Hunter's Instinct"", 'Poised for Twinblood', 'Swiftscaled']"
 332677,333209,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 332790,333548,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
-333257,333789,Auto,90.0,0.0,,Default Target,[],0.0,[]
 333075,333925,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
-332757,334017,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
+333247,334047,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 332677,334192,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 333639,334309,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 333695,334405,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
@@ -3016,14 +3024,13 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 333500,334790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
 333799,335089,Reaving Fangs,300.0,33562.0,,Default Target,['Honed Reavers'],79487609.0,"['Honed Reavers', ""Hunter's Instinct"", 'Swiftscaled']"
 334597,335129,Auto,90.0,0.0,,Default Target,[],0.0,[]
+334647,335179,Auto,90.0,0.0,,Default Target,[],0.0,[]
 334097,335387,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 334576,335426,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
 334877,335547,Assize,400.0,51864.0,,Default Target,[],158638414.0,[]
 335177,335800,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
 335196,335906,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
-334737,336037,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 335430,336188,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
-335737,336497,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 336037,336569,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 336079,336749,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 336000,336758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
@@ -3033,7 +3040,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 336437,337067,Corps-a-corps,130.0,17345.0,,Default Target,[],21279571.0,[]
 335919,337079,Swiftskin's Sting,300.0,33562.0,,Default Target,[],79487609.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 336579,337111,Auto,90.0,21.0,,Default Target,[],25.0,[]
-336697,337229,Auto,90.0,0.0,,Default Target,[],0.0,[]
 336813,337433,Midare Setsugekka,640.0,101332.0,,Default Target,[],119853464.0,"['Fugetsu', 'Fuka']"
 317551,337500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 318976,337500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -3064,14 +3070,14 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 318976,340500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 323417,340500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 339125,340500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
-340217,340749,Auto,90.0,0.0,,Default Target,[],0.0,[]
 340177,340800,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
 339717,341017,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
 340293,341093,Yukikaze,340.0,38842.0,,Default Target,[],105525015.0,"['Fugetsu', 'Fuka']"
+340727,341259,Auto,90.0,0.0,,Default Target,[],0.0,[]
 340738,341270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 340159,341319,Steel Fangs,300.0,33562.0,,Default Target,['Honed Steel'],79487609.0,"['Honed Steel', ""Hunter's Instinct"", 'Swiftscaled']"
 340710,341468,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
-340717,341477,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
+340227,341487,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 340970,341502,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 340913,341533,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 340960,341630,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
@@ -3090,6 +3096,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 339125,343500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
 342978,343510,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 343210,343742,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+343207,344007,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 343401,344071,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 343500,344078,Royal Authority,460.0,36701.0,,Default Target,[],89538338.0,[]
 343350,344108,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
@@ -3101,11 +3108,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 343818,345108,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 344573,345193,Jinpu,300.0,34274.0,,Default Target,[],82159455.0,"['Fugetsu', 'Fuka']"
 345177,345709,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
-345197,345729,Auto,90.0,0.0,,Default Target,[],0.0,[]
 345218,345750,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 345450,345982,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
-344697,345997,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
-345697,346457,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
+345707,346239,Auto,90.0,0.0,,Default Target,[],0.0,[]
+345207,346467,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 317551,346500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 318976,346500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 323417,346500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
@@ -3143,10 +3149,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 350148,350148,Afflatus Rapture,,,,,,,[]
 349698,350230,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 349930,350462,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
-350177,350709,Auto,90.0,0.0,,Default Target,[],0.0,[]
 349677,350977,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
+350687,351219,Auto,90.0,0.0,,Default Target,[],0.0,[]
 351391,351391,Grade 4 Gemdraught,,,,,,,[]
-350677,351437,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
+350187,351447,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 350783,351453,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 351053,351585,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 350177,351692,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
@@ -3172,7 +3178,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 353167,353797,Enchanted Riposte,340.0,45424.0,,Default Target,[],145935258.0,[]
 353343,353875,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 353224,353894,Dosis III,380.0,53462.0,,Default Target,[],172533440.0,['Grade 4 Gemdraught']
-353617,354149,Auto,90.0,0.0,,Default Target,[],0.0,[]
 354298,354298,Grade 4 Gemdraught,,,,,,,[]
 353741,354361,Swiftskin's Coil,620.0,69366.0,,Default Target,[],339545697.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 353500,354660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
@@ -3188,8 +3193,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 355177,355800,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
 355274,355894,Kaeshi: Setsugekka,640.0,101332.0,,Default Target,[],119853464.0,"['Fugetsu', 'Fuka']"
 355633,356165,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
+355667,356199,Auto,90.0,0.0,,Default Target,[],0.0,[]
 355008,356298,Dia,85.0,11873.0,,Default Target,[],8312512.0,['Grade 4 Gemdraught']
 355664,356334,Dosis III,380.0,53462.0,,Default Target,[],172533440.0,['Grade 4 Gemdraught']
+355167,356427,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 356058,356590,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 356164,356696,Auto,90.0,21.0,,Default Target,[],25.0,['Grade 4 Gemdraught']
 356197,356729,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
@@ -3201,7 +3208,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 356000,357290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
 356550,357308,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 356911,357531,Uncoiled Twinfang,170.0,19018.0,,Default Target,['Poised for Twinfang'],25524194.0,"[""Hunter's Instinct"", 'Poised for Twinfang', 'Swiftscaled']"
-357057,357589,Auto,90.0,0.0,,Default Target,[],0.0,[]
 356581,357731,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
 358201,358201,Grade 4 Gemdraught,,,,,,,[]
 317551,358500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
@@ -3217,6 +3223,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 358500,359258,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
 358890,359422,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 358964,359496,Auto,90.0,21.0,,Default Target,[],25.0,['Grade 4 Gemdraught']
+359107,359639,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 358398,359688,Glare III,350.0,49122.0,,Default Target,[],142303382.0,['Grade 4 Gemdraught']
 359701,359701,Automaton Queen,,,,,,,[]
 358367,359797,Verholy,650.0,93996.0,,Default Target,[],624852175.0,['Grade 4 Gemdraught']
@@ -3230,7 +3237,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 359262,360422,Swiftskin's Sting,300.0,33562.0,,Default Target,[],79487609.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 360177,360709,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 360174,360794,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
-360497,361029,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 361152,361152,Taurochole,,,,,,,[]
 360545,361215,Dosis III,380.0,53462.0,,Default Target,[],172533440.0,['Grade 4 Gemdraught']
 360898,361430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
@@ -3250,6 +3256,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 362623,362623,Grade 4 Gemdraught,,,,,,,[]
 360857,362687,Scorch,750.0,108457.0,,Default Target,[],831921978.0,['Grade 4 Gemdraught']
 361582,362732,Drill,660.0,88349.0,,Default Target,[],548862248.0,['Grade 4 Gemdraught']
+362547,363079,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 362677,363300,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
 363302,363302,Grade 4 Gemdraught,,,,,,,[]
 362917,363449,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
@@ -3265,7 +3272,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 364125,364125,Grade 4 Gemdraught,,,,,,,[]
 363758,364290,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 363834,364454,Kasha,420.0,47982.0,,Default Target,['Meikyo Shisui'],161026141.0,"['Fugetsu', 'Fuka', 'Meikyo Shisui']"
-363937,364469,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 317551,364500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 348323,364500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 355008,364500,Dia (dot),85.0,12172.0,,Default Target,[],8737171.0,['Grade 4 Gemdraught']
@@ -3287,6 +3293,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 366427,366427,Infuriate,,,,,,,[]
 365926,366458,Auto,90.0,21.0,,Default Target,[],25.0,['Grade 4 Gemdraught']
 365837,366467,Enchanted Riposte,340.0,49152.0,,Default Target,[],170862274.0,['Grade 4 Gemdraught']
+365987,366519,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 366595,366595,Grade 4 Gemdraught,,,,,,,[]
 366625,366625,Fight or Flight,,,,,,,[]
 366645,366645,Embolden,,,,,,,[]
@@ -3309,7 +3316,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 366906,367576,Phlegma III,600.0,84458.0,,Default Target,[],430601634.0,['Grade 4 Gemdraught']
 366583,367653,Excavator,660.0,152217.0,,Default Target,['Reassemble'],19309106.0,"['Grade 4 Gemdraught', 'Reassemble']"
 367110,367868,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
-367377,367909,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 367203,367913,Double Check,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
 367345,367975,Enchanted Zwerchhau,380.0,60414.0,,Default Target,[],258130870.0,"['Embolden', 'Grade 4 Gemdraught']"
 367618,368150,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught']"
@@ -3332,6 +3338,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 368845,369475,Enchanted Redoublement,560.0,89017.0,,Default Target,[],560428251.0,"['Embolden', 'Grade 4 Gemdraught']"
 368927,369594,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Embolden', 'Grade 4 Gemdraught', 'Surging Tempest']"
 369098,369948,Glare IV,640.0,94303.0,,Default Target,[],524495851.0,"['Embolden', 'Grade 4 Gemdraught', 'Presence of Mind']"
+369427,369959,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 369355,369975,Hissatsu: Shinten,250.0,32455.0,,Default Target,[],73677684.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 370001,370001,Arm Punch (pet),240.0,30954.0,,Default Target,[],67378006.0,"['Embolden', 'Grade 4 Gemdraught']"
 369083,370113,Full Metal Field,900.0,217951.0,,Default Target,[],39577904.0,"['Embolden', 'Grade 4 Gemdraught']"
@@ -3351,7 +3358,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 370090,370622,Auto,90.0,10053.0,,Default Target,[],7131444.0,"['Embolden', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 370164,370696,Auto,90.0,10393.0,,Default Target,[],7554387.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 370177,371337,Primal Rend,700.0,121996.0,,Default Target,['Surging Tempest'],12405366.0,"['Embolden', 'Grade 4 Gemdraught', 'Surging Tempest']"
-370817,371349,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 371068,371600,Auto,90.0,0.0,,Default Target,[],0.0,"['Embolden', 'Grade 4 Gemdraught', 'Presence of Mind']"
 371601,371601,Arm Punch (pet),240.0,30954.0,,Default Target,[],67378006.0,"['Embolden', 'Grade 4 Gemdraught']"
 371038,371888,Glare IV,640.0,94303.0,,Default Target,[],524495851.0,"['Embolden', 'Grade 4 Gemdraught', 'Presence of Mind']"
@@ -3373,6 +3379,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 372390,373148,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Embolden', 'Grade 4 Gemdraught']"
 373201,373201,Pile Bunker (pet),680.0,87718.0,,Default Target,[],541053086.0,"['Embolden', 'Grade 4 Gemdraught']"
 372677,373300,Fell Cleave,580.0,101081.0,,Default Target,['Surging Tempest'],8515990.0,"['Embolden', 'Grade 4 Gemdraught', 'Inner Release', 'Surging Tempest']"
+372867,373399,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 372395,373425,Tendo Kaeshi Setsugekka,1100.0,197918.0,,Default Target,[],457239242.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 317551,373500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 348323,373500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -3391,7 +3398,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 372176,374506,Ouroboros,1150.0,146270.0,,Default Target,[],1509810736.0,"['Embolden', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 373529,374629,Psyche,600.0,88681.0,,Default Target,[],474740355.0,"['Embolden', 'Grade 4 Gemdraught']"
 374125,374703,Intervene,150.0,16994.0,,Default Target,[],19195871.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught']"
-374257,374789,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 374326,374858,Auto,90.0,22.0,,Default Target,[],29.0,"['Embolden', 'Grade 4 Gemdraught']"
 374338,374870,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught']"
 374235,375035,Vice of Thorns,950.0,151118.0,,Default Target,[],1615068530.0,"['Embolden', 'Grade 4 Gemdraught']"
@@ -3414,6 +3420,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 355008,376500,Dia (dot),85.0,12172.0,,Default Target,[],8737171.0,['Grade 4 Gemdraught']
 369125,376500,Circle of Scorn (dot),30.0,3394.0,,Default Target,[],765751.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught']"
 376000,376666,Blade of Faith,760.0,86132.0,,Default Target,['Requiescat'],493172947.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
+376307,376839,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 376357,376889,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Embolden', 'Grade 4 Gemdraught', 'Surging Tempest']"
 376085,376935,Blazing Shot,260.0,36542.0,,Default Target,['Overheated'],93900074.0,"['Embolden', 'Grade 4 Gemdraught', 'Overheated']"
 376568,377100,Auto,90.0,0.0,,Default Target,[],0.0,"['Embolden', 'Grade 4 Gemdraught', 'Presence of Mind']"
@@ -3426,7 +3433,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 377425,378055,Corps-a-corps,130.0,18770.0,,Default Target,[],24916910.0,['Grade 4 Gemdraught']
 377475,378095,Higanbana,200.0,25962.0,,Default Target,[],47144949.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 376725,378145,Prefulgence,1200.0,190887.0,,Default Target,[],2576992463.0,"['Embolden', 'Grade 4 Gemdraught']"
-377697,378229,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 376598,378298,First Generation,680.0,86491.0,,Default Target,[],527907154.0,"['Embolden', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 377678,378301,Fell Cleave,580.0,101081.0,,Default Target,['Surging Tempest'],8515990.0,"['Embolden', 'Grade 4 Gemdraught', 'Inner Release', 'Surging Tempest']"
 377670,378428,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Embolden', 'Grade 4 Gemdraught']"
@@ -3450,6 +3456,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 378918,379988,Second Legacy,320.0,40699.0,,Default Target,[],116889139.0,"['Embolden', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 379615,380115,Ogi Namikiri,1000.0,179927.0,,Default Target,[],377876158.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 379717,380249,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Embolden', 'Grade 4 Gemdraught', 'Surging Tempest']"
+379747,380279,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 379706,380416,Double Check,180.0,25295.0,,Default Target,[],44994323.0,"['Embolden', 'Grade 4 Gemdraught']"
 379959,380491,Auto,90.0,0.0,,Default Target,[],0.0,"['Embolden', 'Grade 4 Gemdraught', 'Presence of Mind']"
 380015,380645,Enchanted Zwerchhau,380.0,60414.0,,Default Target,[],258130870.0,"['Embolden', 'Grade 4 Gemdraught']"
@@ -3466,7 +3473,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 380956,381446,Kaeshi: Namikiri,1000.0,179927.0,,Default Target,[],377876158.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 379999,381469,Third Generation,680.0,86491.0,,Default Target,[],527907154.0,"['Embolden', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 381058,381590,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught']"
-381137,381669,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 381290,381822,Auto,90.0,10053.0,,Default Target,[],7131444.0,"['Embolden', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 380619,381829,Third Legacy,320.0,40699.0,,Default Target,[],116889139.0,"['Embolden', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 381000,381891,Blade of Valor,1000.0,113334.0,,Default Target,['Requiescat'],853863301.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat']"
@@ -3488,6 +3494,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 383077,383609,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Embolden', 'Grade 4 Gemdraught', 'Surging Tempest']"
 382678,383615,Inner Chaos,660.0,115024.0,,Default Target,['Surging Tempest'],11020833.0,"['Embolden', 'Grade 4 Gemdraught', 'Surging Tempest']"
 382950,383708,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Embolden', 'Grade 4 Gemdraught']"
+383187,383719,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 382567,383727,Fleche,480.0,69385.0,,Default Target,[],340487310.0,['Grade 4 Gemdraught']
 383298,383830,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught']"
 383096,383946,Gyofu,240.0,31154.0,,Default Target,[],67885518.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
@@ -3500,7 +3507,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 384208,384918,Checkmate,180.0,25295.0,,Default Target,[],44994323.0,"['Embolden', 'Grade 4 Gemdraught']"
 384355,384975,Hissatsu: Shinten,250.0,32455.0,,Default Target,[],73677684.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 384415,384995,Engagement,180.0,25999.0,,Default Target,[],47804981.0,['Grade 4 Gemdraught']
-384577,385109,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 383715,385145,Verholy,650.0,103395.0,,Default Target,[],756068568.0,"['Embolden', 'Grade 4 Gemdraught']"
 384845,385377,Auto,90.0,10393.0,,Default Target,[],7554387.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 377475,385500,Higanbana (dot),50.0,6567.0,,Default Target,[],3015677.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
@@ -3520,6 +3526,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 386404,386936,Auto,90.0,22.0,,Default Target,[],29.0,['Embolden']
 386437,386969,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Embolden', 'Grade 4 Gemdraught', 'Surging Tempest']"
 386569,387101,Auto,90.0,0.0,,Default Target,[],0.0,['Embolden']
+386627,387159,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 386571,387191,Uncoiled Twinfang,170.0,21618.0,,Default Target,['Poised for Twinfang'],32976984.0,"['Embolden', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Poised for Twinfang', 'Swiftscaled']"
 386000,387290,Sepulchre,540.0,61195.0,,Default Target,[],248940042.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught']"
 386069,387359,Glare III,350.0,47649.0,,Default Target,[],133903750.0,['Embolden']
@@ -3538,7 +3545,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 382679,388500,Dia (dot),85.0,12780.0,,Default Target,[],9632716.0,"['Embolden', 'Grade 4 Gemdraught']"
 387829,388539,Checkmate,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
 388010,388542,Auto,90.0,9574.0,,Default Target,[],6470170.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
-388017,388549,Auto,90.0,0.0,,Default Target,[],0.0,[]
 388230,388988,Shot,80.0,7847.0,,Default Target,[],4329995.0,['Grade 4 Gemdraught']
 388449,389159,Double Check,180.0,24091.0,,Default Target,[],40811374.0,['Grade 4 Gemdraught']
 388500,389258,Riot Blade,330.0,28490.0,,Default Target,[],53957265.0,['Grade 4 Gemdraught']
@@ -3552,6 +3558,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 389797,390329,Auto,90.0,9676.0,,Default Target,['Surging Tempest'],6223026.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
 390009,390541,Auto,90.0,0.0,,Default Target,[],0.0,[]
 390018,390550,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
+390067,390599,Auto,90.0,0.0,,Default Target,[],0.0,[]
 390673,390673,Druochole,,,,,,,[]
 390178,390710,Heavy Swing,240.0,23089.0,,Default Target,['Surging Tempest'],35438482.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
 390065,390735,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
@@ -3566,6 +3573,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 391042,391932,Hunter's Sting,300.0,36336.0,,Default Target,[],93174175.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 391590,392390,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 392399,392399,Afflatus Rapture,,,,,,,[]
+391186,392736,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 392258,392790,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
 392490,393022,Auto,90.0,9574.0,,Default Target,[],6470170.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 392506,393176,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
@@ -3576,6 +3584,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 393162,393782,Flanksting Strike,500.0,60566.0,,Default Target,['Flankstung Venom'],258857373.0,"['Flankstung Venom', 'Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 393365,393897,Auto,90.0,21.0,,Default Target,[],25.0,[]
 393449,393981,Auto,90.0,0.0,,Default Target,[],0.0,[]
+393507,394039,Auto,90.0,0.0,,Default Target,[],0.0,[]
 393500,394258,Holy Spirit,500.0,43173.0,,Default Target,['Divine Might'],123905687.0,"['Divine Might', 'Grade 4 Gemdraught']"
 393510,394268,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 393676,394436,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
@@ -3595,11 +3604,9 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 395178,396693,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 395937,396697,Gekko,420.0,51930.0,,Default Target,[],188617385.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 396165,396697,Auto,90.0,21.0,,Default Target,[],25.0,[]
-396176,396708,Auto,90.0,0.0,,Default Target,[],0.0,[]
 396150,396908,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 396557,397047,Hissatsu: Gyoten,100.0,12360.0,,Default Target,[],10684474.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 396517,397049,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
-395676,397235,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 396738,397270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 396000,397293,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
 396591,397391,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
@@ -3611,6 +3618,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 397346,397878,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 397387,398057,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 397678,398210,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+398156,398688,Auto,90.0,0.0,,Default Target,[],0.0,[]
 397833,398813,Hunter's Coil,620.0,69366.0,,Default Target,[],339545697.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 398303,398926,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
 398077,398927,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
@@ -3625,7 +3633,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 399210,399742,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 399073,399743,Twinblood Bite,170.0,19018.0,,Default Target,[],25524194.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 399125,400148,Circle of Scorn,140.0,11164.0,,Default Target,[],8284059.0,[]
-399616,400148,Auto,90.0,0.0,,Default Target,[],0.0,[]
 399636,400168,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 399091,400241,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
 399877,400409,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
@@ -3909,6 +3916,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 431000,432293,Atonement,460.0,45875.0,,Default Target,[],139905235.0,['Fight or Flight']
 431141,432301,Steel Fangs,300.0,33562.0,,Default Target,['Honed Steel'],79487609.0,"['Honed Steel', ""Hunter's Instinct"", 'Swiftscaled']"
 431599,432399,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
+431026,432576,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 432114,432646,Auto,90.0,21.0,,Default Target,[],25.0,[]
 432718,432718,Roller Dash (pet),288.0,32540.0,,Default Target,[],74454638.0,[]
 432219,432929,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
@@ -3917,6 +3925,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 432679,433302,Fell Cleave,580.0,88980.0,,Default Target,['Surging Tempest'],6597867.0,"['Inner Release', 'Surging Tempest']"
 432810,433342,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 432319,433349,Tendo Kaeshi Setsugekka,1100.0,174167.0,,Default Target,[],354073868.0,"['Fugetsu', 'Fuka']"
+432936,433468,Auto,90.0,0.0,,Default Target,[],0.0,[]
 377475,433500,Higanbana (dot),50.0,6567.0,,Default Target,[],3015677.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 407189,433500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 414269,433500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
@@ -3949,9 +3958,9 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 414269,436500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 429125,436500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
 435750,436508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
-436016,436548,Auto,90.0,0.0,,Default Target,[],0.0,[]
 436000,436666,Blade of Faith,760.0,75801.0,,Default Target,['Requiescat'],381953526.0,"['Fight or Flight', 'Requiescat']"
-435516,437075,Grand Impact,600.0,80186.0,,Default Target,['Dualcast'],454729630.0,['Dualcast']
+436006,436766,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
+436376,436908,Auto,90.0,0.0,,Default Target,[],0.0,[]
 436625,437203,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
 436837,437369,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 436600,437400,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
@@ -3968,7 +3977,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 438159,438691,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 439118,439118,Arm Punch (pet),144.0,16269.0,,Default Target,[],18613055.0,[]
 438390,439148,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
-438497,439297,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 438739,439359,Kasha,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
 438500,439391,Blade of Truth,880.0,87767.0,,Default Target,['Requiescat'],512059341.0,"['Fight or Flight', 'Requiescat']"
 438304,439454,Primal Wrath,700.0,62264.0,,Default Target,['Surging Tempest'],257708492.0,['Surging Tempest']
@@ -3985,12 +3993,13 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 440197,440729,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 439530,440820,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 440449,440981,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
+440487,441019,Auto,90.0,0.0,,Default Target,[],0.0,[]
 439373,441073,First Generation,680.0,76080.0,,Default Target,[],408471052.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 440179,441239,Primal Ruination,780.0,119662.0,,Default Target,['Surging Tempest'],11930102.0,['Surging Tempest']
 439993,441283,First Legacy,320.0,35800.0,,Default Target,[],90446541.0,"[""Hunter's Instinct"", 'Swiftscaled']"
-440996,441528,Auto,90.0,0.0,,Default Target,[],0.0,[]
+439987,441287,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 440880,441640,Gekko,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
-440496,441756,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
+440987,441747,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 441030,441788,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 441000,441891,Blade of Valor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
 441538,442070,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
@@ -4017,6 +4026,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 443500,444258,Holy Spirit,500.0,49867.0,,Default Target,['Divine Might'],165307933.0,"['Divine Might', 'Fight or Flight']"
 443778,444310,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
 443670,444428,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
+443927,444459,Auto,90.0,0.0,,Default Target,[],0.0,[]
 444010,444542,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 443877,444547,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 443394,444604,Third Legacy,320.0,35800.0,,Default Target,[],90446541.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -4032,10 +4042,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 445160,445960,Yukikaze,340.0,38842.0,,Default Target,[],105525015.0,"['Fugetsu', 'Fuka']"
 445095,446165,Fourth Legacy,320.0,35800.0,,Default Target,[],90446541.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 445900,446432,Auto,90.0,0.0,,Default Target,[],0.0,[]
-445977,446509,Auto,90.0,0.0,,Default Target,[],0.0,[]
 446018,446550,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
 445179,446694,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
-445477,446737,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 446250,446782,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 446318,446988,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 446310,447068,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
@@ -4044,6 +4052,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 446000,447160,Supplication,500.0,49867.0,,Default Target,[],165307933.0,['Fight or Flight']
 446602,447402,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 446917,447449,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
+447367,447899,Auto,90.0,0.0,,Default Target,[],0.0,[]
 447537,448069,Auto,90.0,21.0,,Default Target,[],25.0,[]
 448290,448290,Afflatus Rapture,,,,,,,[]
 447679,448302,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
@@ -4059,7 +4068,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 448950,449708,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 448500,449790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
 449340,449872,Auto,90.0,0.0,,Default Target,[],0.0,[]
-449417,449949,Auto,90.0,0.0,,Default Target,[],0.0,[]
 448726,450016,Reaving Fangs,300.0,33562.0,,Default Target,['Honed Reavers'],79487609.0,"['Honed Reavers', ""Hunter's Instinct"", 'Swiftscaled']"
 448677,450107,Verflare,650.0,86868.0,,Default Target,[],533662903.0,[]
 449102,450252,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
@@ -4069,6 +4077,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 450277,450809,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 450498,451030,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 450730,451262,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+450807,451339,Auto,90.0,0.0,,Default Target,[],0.0,[]
 450890,451422,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 436536,451500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 437399,451500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
@@ -4084,7 +4093,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 452738,453270,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 452679,453302,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
 452780,453312,Auto,90.0,0.0,,Default Target,[],0.0,[]
-452857,453389,Auto,90.0,0.0,,Default Target,[],0.0,[]
 452970,453502,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 452966,453586,Hindsbane Fang,500.0,55941.0,,Default Target,['Hindsbane Venom'],220843329.0,"['Hindsbane Venom', ""Hunter's Instinct"", 'Swiftscaled']"
 453180,453712,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
@@ -4096,6 +4104,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 437399,454500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 445860,454500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 453720,454570,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
+454247,454779,Auto,90.0,0.0,,Default Target,[],0.0,[]
 454103,454903,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 454230,454988,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 454498,455030,Auto,90.0,21.0,,Default Target,[],25.0,[]
@@ -4113,9 +4122,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 456750,456750,Taurochole,,,,,,,[]
 456220,456752,Auto,90.0,0.0,,Default Target,[],0.0,[]
 455179,456828,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
-456297,456829,Auto,90.0,0.0,,Default Target,[],0.0,[]
 456200,456870,Assize,400.0,51864.0,,Default Target,[],158638414.0,[]
-456147,456907,Verthunder III,440.0,58789.0,,Default Target,['Dualcast'],244427179.0,['Dualcast']
+456147,456907,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 456481,457101,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 456604,457404,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 436536,457500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -4127,13 +4135,13 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 457298,457830,Auto,90.0,21.0,,Default Target,[],25.0,[]
 457450,457982,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 457679,458211,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+457687,458219,Auto,90.0,0.0,,Default Target,[],0.0,[]
 457760,458292,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 457637,458617,Hunter's Coil,620.0,69366.0,,Default Target,[],339545697.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 457567,458727,Fleche,480.0,64122.0,,Default Target,[],290787518.0,[]
 458001,458761,Gekko,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
 458257,458877,Twinfang Bite,170.0,19018.0,,Default Target,[],25524194.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 458520,459190,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
-458637,459437,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 458877,459547,Twinblood Bite,170.0,19018.0,,Default Target,[],25524194.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 458500,459793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
 459104,459904,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
@@ -4143,7 +4151,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 459690,460222,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 458970,460260,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 459510,460268,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
-459737,460269,Auto,90.0,0.0,,Default Target,[],0.0,[]
 436536,460500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 437399,460500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 445860,460500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
@@ -4153,8 +4160,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 460187,460807,Swiftskin's Coil,620.0,69366.0,,Default Target,[],339545697.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 460357,460889,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 460141,460991,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
+460127,461427,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 460807,461477,Twinblood Bite,170.0,19018.0,,Default Target,[],25524194.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 460960,461630,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
+461127,461659,Auto,90.0,0.0,,Default Target,[],0.0,[]
+461127,461887,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 461625,461982,Expiacion,450.0,35904.0,,Default Target,[],85693120.0,[]
 461460,461992,Auto,90.0,21.0,,Default Target,[],25.0,[]
 461427,462047,Twinfang Bite,170.0,19018.0,,Default Target,[],25524194.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -4182,8 +4192,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 464330,464862,Auto,90.0,0.0,,Default Target,[],0.0,[]
 464105,464905,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 464421,465041,Kasha,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
+464567,465099,Auto,90.0,0.0,,Default Target,[],0.0,[]
 463830,465120,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 464630,465162,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
+463617,465167,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 464725,465435,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
 464376,465536,Contre Sixte,420.0,56090.0,,Default Target,[],222500548.0,[]
 464790,465548,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
@@ -4194,10 +4206,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 445860,466500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 459125,466500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
 466502,466502,Druochole,,,,,,,[]
-466117,466649,Auto,90.0,0.0,,Default Target,[],0.0,[]
 466178,466710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 466000,466758,Holy Spirit,500.0,39894.0,,Default Target,['Divine Might'],105795169.0,['Divine Might']
-465617,466877,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 466410,466942,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 466561,467181,Kaeshi: Setsugekka,640.0,101332.0,,Default Target,[],119853464.0,"['Fugetsu', 'Fuka']"
 466920,467452,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
@@ -4208,6 +4218,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 466606,467756,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
 467430,468188,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 467679,468211,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
+468097,468629,Auto,90.0,0.0,,Default Target,[],0.0,[]
 467597,468897,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
 468418,468950,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 468950,468950,Kerachole,,,,,,,[]
@@ -4220,12 +4231,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 445860,469500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 459125,469500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
 465882,469500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
-468107,469666,Grand Impact,600.0,80186.0,,Default Target,['Dualcast'],454729630.0,['Dualcast']
 469190,469722,Auto,90.0,0.0,,Default Target,[],0.0,[]
 469297,469877,Engagement,180.0,24028.0,,Default Target,[],40829175.0,[]
 469106,469906,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
 468690,469980,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
-469557,470089,Auto,90.0,0.0,,Default Target,[],0.0,[]
 469501,470121,Midare Setsugekka,640.0,101332.0,,Default Target,[],119853464.0,"['Fugetsu', 'Fuka']"
 469098,470388,Reaving Fangs,300.0,33562.0,,Default Target,['Honed Reavers'],79487609.0,"['Honed Reavers', ""Hunter's Instinct"", 'Swiftscaled']"
 470001,470533,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
@@ -4787,8 +4796,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 519125,529500,Circle of Scorn (dot),30.0,2392.0,,Default Target,[],380146.0,[]
 524749,529500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 529130,529662,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+529248,529780,Auto,90.0,0.0,,Default Target,[],0.0,[]
 528500,529790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
 529650,530320,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
+528798,530348,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 529621,530471,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
 529082,530782,Death Rattle,280.0,31323.0,,Default Target,[],69237451.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 530181,530804,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
@@ -4813,6 +4824,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 532090,532760,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 531822,532802,Uncoiled Twinblood,170.0,19018.0,,Default Target,['Poised for Twinblood'],25524194.0,"[""Hunter's Instinct"", 'Poised for Twinblood', 'Swiftscaled']"
 532590,533122,Auto,90.0,21.0,,Default Target,[],25.0,[]
+532688,533220,Auto,90.0,0.0,,Default Target,[],0.0,[]
 532622,533472,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
 532567,533727,Fleche,480.0,64122.0,,Default Target,[],290787518.0,[]
 533312,533844,Auto,90.0,0.0,,Default Target,[],0.0,[]
@@ -4822,14 +4834,12 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 533610,534142,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 533430,534188,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 532681,534196,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
-533788,534320,Auto,90.0,0.0,,Default Target,[],0.0,[]
 533706,534326,Midare Setsugekka,640.0,101332.0,,Default Target,[],119853464.0,"['Fugetsu', 'Fuka']"
 533553,534353,Uncoiled Fury,680.0,76080.0,,Default Target,[],408471052.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 533778,534408,Enchanted Riposte,340.0,45424.0,,Default Target,[],145935258.0,[]
 534206,534738,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 534173,534793,Uncoiled Twinfang,170.0,19018.0,,Default Target,['Poised for Twinfang'],25524194.0,"[""Hunter's Instinct"", 'Poised for Twinfang', 'Swiftscaled']"
 534277,534809,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
-533288,534847,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 534122,534922,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
 535138,535138,Taurochole,,,,,,,[]
 534531,535201,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
@@ -4844,6 +4854,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 535618,536150,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 535850,536382,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 535242,536532,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
+536128,536660,Auto,90.0,0.0,,Default Target,[],0.0,[]
 536000,536758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
 536070,536828,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 536496,537028,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
@@ -4853,7 +4864,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 536779,537409,Enchanted Redoublement,560.0,74789.0,,Default Target,[],395571785.0,[]
 536623,537423,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 536971,537641,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
-537228,537760,Auto,90.0,0.0,,Default Target,[],0.0,[]
 537243,537953,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
 537186,537986,Yukikaze,340.0,38842.0,,Default Target,[],105525015.0,"['Fugetsu', 'Fuka']"
 536712,538002,Dia,85.0,10969.0,,Default Target,[],7095404.0,[]
@@ -4873,6 +4883,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 539123,539923,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 539074,540054,Hunter's Coil,620.0,69366.0,,Default Target,[],339545697.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 539412,540082,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
+539568,540100,Auto,90.0,0.0,,Default Target,[],0.0,[]
 539326,540176,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
 539694,540314,Twinfang Bite,170.0,19018.0,,Default Target,[],25524194.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 538979,540409,Verholy,650.0,86868.0,,Default Target,[],533662903.0,[]
@@ -4881,7 +4892,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 540330,540862,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 540314,540984,Twinblood Bite,170.0,19018.0,,Default Target,[],25524194.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 540602,541134,Auto,90.0,0.0,,Default Target,[],0.0,[]
-540668,541200,Auto,90.0,0.0,,Default Target,[],0.0,[]
 540102,541392,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 497323,541500,Higanbana (dot),50.0,6066.0,,Default Target,[],2573835.0,"['Embolden', 'Fugetsu', 'Fuka']"
 524749,541500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -4900,6 +4910,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 542570,543102,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 541469,543299,Scorch,750.0,100233.0,,Default Target,[],710514409.0,[]
 542865,543485,Twinfang Bite,170.0,19018.0,,Default Target,[],25524194.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+543008,543540,Auto,90.0,0.0,,Default Target,[],0.0,[]
 542532,543822,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 543366,543898,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 543500,544123,Fast Blade,220.0,17548.0,,Default Target,[],20469011.0,[]
@@ -4909,7 +4920,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 497323,544500,Higanbana (dot),50.0,6066.0,,Default Target,[],2573835.0,"['Embolden', 'Fugetsu', 'Fuka']"
 524749,544500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 536712,544500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
-544108,544640,Auto,90.0,0.0,,Default Target,[],0.0,[]
 543990,544748,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 544357,544889,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 544293,544963,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
@@ -4933,7 +4943,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 545773,546443,Phlegma III,600.0,78028.0,,Default Target,[],367528138.0,[]
 546625,546625,Fight or Flight,,,,,,,[]
 546000,546758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
-546449,547249,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
+546448,546980,Auto,90.0,0.0,,Default Target,[],0.0,[]
 546818,547350,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 546630,547388,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 546295,547455,Swiftskin's Sting,300.0,33562.0,,Default Target,[],79487609.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -4942,7 +4952,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 536712,547500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 547050,547582,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 546625,547695,Excavator,660.0,140638.0,,Default Target,['Reassemble'],16475976.0,['Reassemble']
-547548,548080,Auto,90.0,0.0,,Default Target,[],0.0,[]
 547717,548249,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 547946,548478,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 547952,548484,Auto,90.0,21.0,,Default Target,[],25.0,[]
@@ -4953,13 +4962,16 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 548306,548929,Upheaval,420.0,37355.0,,Default Target,['Surging Tempest'],92756681.0,['Surging Tempest']
 548500,549034,Goring Blade,700.0,69814.0,,Default Target,[],324015381.0,['Fight or Flight']
 548416,549036,Hindsting Strike,500.0,55941.0,,Default Target,['Hindstung Venom'],220843329.0,"['Hindstung Venom', ""Hunter's Instinct"", 'Swiftscaled']"
+547939,549239,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
 549058,549590,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
 548931,549598,Onslaught,150.0,13339.0,,Default Target,['Surging Tempest'],11827982.0,['Surging Tempest']
+548939,549699,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 549290,549822,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 549173,549843,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 549125,549925,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 549270,550028,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 549125,550148,Circle of Scorn,140.0,13955.0,,Default Target,[],12943806.0,['Fight or Flight']
+549888,550420,Auto,90.0,0.0,,Default Target,[],0.0,[]
 497323,550500,Higanbana (dot),50.0,6066.0,,Default Target,[],2573835.0,"['Embolden', 'Fugetsu', 'Fuka']"
 524749,550500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 536712,550500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
@@ -4991,15 +5003,15 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 552252,553542,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 552656,553546,Hunter's Sting,300.0,33562.0,,Default Target,[],79487609.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 553167,553837,Hissatsu: Senei,800.0,91403.0,,Default Target,[],584330583.0,"['Fugetsu', 'Fuka']"
+553419,553951,Auto,90.0,0.0,,Default Target,[],0.0,[]
 553427,553959,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 553538,554070,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
 553500,554123,Confiteor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
 552919,554219,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 553770,554302,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 554320,554320,Arm Punch (pet),144.0,16269.0,,Default Target,[],18613055.0,[]
-553929,554461,Auto,90.0,0.0,,Default Target,[],0.0,[]
 554619,554619,Swiftcast,,,,,,,[]
-553429,554689,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
+553919,554679,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 554125,554703,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
 554437,554969,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 554307,555067,Gekko,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
@@ -5021,9 +5033,10 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 556010,556542,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 556000,556666,Blade of Faith,760.0,75801.0,,Default Target,['Requiescat'],381953526.0,"['Fight or Flight', 'Requiescat']"
 555396,557096,Death Rattle,280.0,31323.0,,Default Target,[],69237451.0,"[""Hunter's Instinct"", 'Swiftscaled']"
-556409,557169,Veraero III,440.0,58789.0,,Default Target,['Dualcast'],244427179.0,['Dualcast']
+556409,557169,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 556625,557203,Intervene,150.0,14957.0,,Default Target,[],14871751.0,['Fight or Flight']
 556556,557226,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
+556859,557391,Auto,90.0,0.0,,Default Target,[],0.0,[]
 556627,557427,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
 557520,557520,Arm Punch (pet),144.0,16269.0,,Default Target,[],18613055.0,[]
 557247,557867,Higanbana,200.0,22847.0,,Default Target,[],36510407.0,"['Fugetsu', 'Fuka']"
@@ -5041,14 +5054,12 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 559120,559120,Pile Bunker (pet),408.0,46099.0,,Default Target,[],149433618.0,[]
 558587,559347,Gekko,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
 558500,559391,Blade of Truth,880.0,87767.0,,Default Target,['Requiescat'],512059341.0,"['Fight or Flight', 'Requiescat']"
-558909,559441,Auto,90.0,0.0,,Default Target,[],0.0,[]
 558306,559456,Primal Wrath,700.0,62264.0,,Default Target,['Surging Tempest'],257708492.0,['Surging Tempest']
 536712,559500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 549125,559500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
 554095,559500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 557247,559500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 558996,559666,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
-558409,559669,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
 558899,559699,Verstone,380.0,50757.0,,Default Target,[],182200329.0,[]
 559016,560176,Swiftskin's Sting,300.0,33562.0,,Default Target,[],79487609.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 559127,560277,Air Anchor,660.0,81629.0,,Default Target,[],468551960.0,[]
@@ -5057,6 +5068,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 559830,560588,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 560258,560790,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
 560297,560829,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
+560299,560831,Auto,90.0,0.0,,Default Target,[],0.0,[]
 559542,560832,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 560490,561022,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 560367,561077,Checkmate,180.0,22256.0,,Default Target,[],34830145.0,[]
@@ -5237,7 +5249,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 581888,582420,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 581632,582432,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 581413,582703,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
-581309,582859,Grand Impact,600.0,80186.0,,Default Target,['Dualcast'],454729630.0,[]
+581309,582859,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 582129,582889,Gekko,420.0,47982.0,,Default Target,[],161026141.0,"['Fugetsu', 'Fuka']"
 582658,583190,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 582682,583305,Fell Cleave,580.0,51589.0,,Default Target,['Surging Tempest'],176915445.0,['Surging Tempest']
@@ -5848,7 +5860,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 646950,647708,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 646648,647798,Drill,660.0,81629.0,,Default Target,[],468551960.0,[]
 647618,648150,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
-646788,648338,Grand Impact,600.0,80186.0,,Default Target,['Dualcast'],454729630.0,['Dualcast']
+646788,648338,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 647850,648382,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 647895,648427,Auto,90.0,21.0,,Default Target,[],25.0,[]
 648188,648720,Auto,90.0,0.0,,Default Target,[],0.0,[]
@@ -6106,9 +6118,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 676970,677502,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 676915,677535,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 677241,677773,Auto,90.0,21.0,,Default Target,[],25.0,[]
+677338,677870,Auto,90.0,0.0,,Default Target,[],0.0,[]
 678271,678271,Pile Bunker (pet),476.0,53787.0,,Default Target,[],203427514.0,[]
 676903,678373,Fourth Generation,680.0,76080.0,,Default Target,[],408471052.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 677125,678415,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
+676888,678438,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 677523,678593,Fourth Legacy,320.0,35800.0,,Default Target,[],90446541.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 677684,678744,Primal Ruination,780.0,119662.0,,Default Target,['Surging Tempest'],11930102.0,['Surging Tempest']
 678757,679289,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
@@ -6133,6 +6147,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 679555,680845,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 678604,680934,Ouroboros,1150.0,128671.0,,Default Target,[],1168358024.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 680138,681298,Contre Sixte,420.0,56090.0,,Default Target,[],222500548.0,[]
+680778,681310,Auto,90.0,0.0,,Default Target,[],0.0,[]
 680575,681425,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
 681218,681750,Auto,90.0,6660.0,,Default Target,[],2948197.0,['Fight or Flight']
 681000,681891,Blade of Valor,1000.0,99736.0,,Default Target,['Requiescat'],661260162.0,"['Fight or Flight', 'Requiescat']"
@@ -6141,7 +6156,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 681270,682028,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 682275,682275,Hypercharge,,,,,,,[]
 681154,682314,Steel Fangs,300.0,33562.0,,Default Target,['Honed Steel'],79487609.0,"['Honed Steel', ""Hunter's Instinct"", 'Swiftscaled']"
-681878,682410,Auto,90.0,0.0,,Default Target,[],0.0,[]
 681655,682455,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 656725,682500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 669125,682500,Circle of Scorn (dot),30.0,2990.0,,Default Target,[],593707.0,['Fight or Flight']
@@ -6149,7 +6163,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 682025,682557,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 682117,682649,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 681625,682785,Blade of Honor,1000.0,99736.0,,Default Target,[],661260162.0,['Fight or Flight']
-681378,682937,Grand Impact,600.0,80186.0,,Default Target,[],454729630.0,[]
 682684,683216,Heavy Swing,240.0,21341.0,,Default Target,['Surging Tempest'],30278556.0,['Surging Tempest']
 681985,683275,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 682715,683515,Yukikaze,340.0,38842.0,,Default Target,[],105525015.0,"['Fugetsu', 'Fuka']"
@@ -6161,6 +6174,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 683358,684658,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
 683910,684668,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 684203,684735,Auto,90.0,21.0,,Default Target,[],25.0,[]
+684218,684750,Auto,90.0,0.0,,Default Target,[],0.0,[]
 684315,684847,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 684155,685005,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
 684359,685119,Veraero III,440.0,58789.0,,Default Target,[],244427179.0,[]
@@ -6171,7 +6185,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 684415,685705,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 685759,685759,Swiftcast,,,,,,,[]
 685184,685807,Maim,340.0,30239.0,,Default Target,['Surging Tempest'],60784922.0,['Surging Tempest']
-685318,685850,Auto,90.0,0.0,,Default Target,[],0.0,[]
 685183,685853,Phlegma III,600.0,78028.0,,Default Target,[],367528138.0,[]
 685477,686009,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 685395,686015,Flanksbane Fang,500.0,55941.0,,Default Target,['Flanksbane Venom'],220843329.0,"['Flanksbane Venom', ""Hunter's Instinct"", 'Swiftscaled']"
@@ -6191,6 +6204,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 686015,687715,Death Rattle,280.0,31323.0,,Default Target,[],69237451.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 686996,687846,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
 687156,688006,Blazing Shot,260.0,32154.0,,Default Target,['Overheated'],72701607.0,['Overheated']
+687658,688190,Auto,90.0,0.0,,Default Target,[],0.0,[]
 687938,688470,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 687776,688486,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
 671481,688500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -6199,7 +6213,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 688170,688702,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 687515,688805,Reaving Fangs,300.0,33562.0,,Default Target,['Honed Reavers'],79487609.0,"['Honed Reavers', ""Hunter's Instinct"", 'Swiftscaled']"
 688584,689254,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
-688758,689290,Auto,90.0,0.0,,Default Target,[],0.0,[]
 687684,689333,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 688837,689369,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 688895,689427,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
@@ -6220,6 +6233,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 671481,691500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 685656,691500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 685885,691500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
+691098,691630,Auto,90.0,0.0,,Default Target,[],0.0,[]
 691024,691694,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 691185,691717,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 691276,692126,Gyofu,240.0,27418.0,,Default Target,[],52581804.0,"['Fugetsu', 'Fuka']"
@@ -6736,12 +6750,14 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 745170,746020,Blazing Shot,260.0,36542.0,,Default Target,['Overheated'],93900074.0,"['Embolden', 'Grade 4 Gemdraught', 'Overheated']"
 746180,746180,Swiftcast,,,,,,,[]
 745609,746189,Vicewinder,500.0,58738.0,,Default Target,[],243472831.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
+744780,746330,Grand Impact,600.0,95441.0,,Default Target,[],644210105.0,"['Embolden', 'Grade 4 Gemdraught']"
 745957,746489,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Embolden', 'Grade 4 Gemdraught', 'Surging Tempest']"
 745790,746500,Checkmate,180.0,25295.0,,Default Target,[],44994323.0,"['Embolden', 'Grade 4 Gemdraught']"
 746000,746578,Royal Authority,460.0,52129.0,,Default Target,[],180646723.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught']"
 745480,746640,Fleche,480.0,69385.0,,Default Target,[],340487310.0,['Grade 4 Gemdraught']
 746178,746710,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Embolden', 'Fight or Flight', 'Grade 4 Gemdraught']"
 746410,746942,Auto,90.0,9283.0,,Default Target,[],6080835.0,"['Embolden', ""Hunter's Instinct"", 'Swiftscaled']"
+746969,747501,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 746920,747540,Kasha,420.0,54527.0,,Default Target,[],207948625.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 747238,747770,Auto,90.0,10393.0,,Default Target,[],7554387.0,"['Embolden', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 746671,747821,Drill,660.0,92766.0,,Default Target,[],605119190.0,"['Embolden', 'Grade 4 Gemdraught']"
@@ -6770,20 +6786,19 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 749171,749971,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
 749528,750060,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 749680,750300,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
-749770,750302,Auto,90.0,0.0,,Default Target,[],0.0,[]
 749791,750501,Double Check,180.0,22256.0,,Default Target,[],34830145.0,[]
-749270,750829,Grand Impact,600.0,80186.0,,Default Target,['Dualcast'],454729630.0,['Dualcast']
+749760,750560,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
+750409,750941,Auto,90.0,0.0,,Default Target,[],0.0,[]
 750185,751122,Inner Chaos,660.0,109547.0,,Default Target,['Surging Tempest'],9995525.0,"['Grade 4 Gemdraught', 'Surging Tempest']"
 750658,751190,Auto,90.0,5767.0,,Default Target,[],2210488.0,['Grade 4 Gemdraught']
 750007,751297,Glare III,350.0,45381.0,,Default Target,[],121455354.0,['Swiftcast']
 751000,752293,Atonement,460.0,39718.0,,Default Target,[],104863158.0,['Grade 4 Gemdraught']
-751250,752550,Verfire,380.0,50757.0,,Default Target,[],182200329.0,[]
-752250,753010,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]
 752677,753209,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 752898,753430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
-753210,753742,Auto,90.0,0.0,,Default Target,[],0.0,[]
 752950,754110,Contre Sixte,420.0,56090.0,,Default Target,[],222500548.0,[]
 752685,754200,Storm's Path,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 753500,754660,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
 755138,755670,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 756000,757290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
+757240,757772,Auto,90.0,0.0,,Default Target,[],0.0,[]
+756740,758000,Verthunder III,440.0,58789.0,,Default Target,[],244427179.0,[]

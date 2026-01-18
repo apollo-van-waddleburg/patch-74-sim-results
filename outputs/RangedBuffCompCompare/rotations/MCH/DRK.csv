@@ -15,6 +15,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 5000,5624,Souleater,480.0,48499.0,,Default Target,[],156367501.0,"['Darkside', 'Dokumori', 'Grade 4 Gemdraught']"
 5625,5625,Delirium,,,,,,,[]
 6501,7033,Auto,90.0,10501.0,,Default Target,[],7685887.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
+6250,7150,Salted Earth,50.0,5921.0,,Default Target,[],2442287.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 6250,7500,Salted Earth (dot),50.0,5921.0,,Default Target,[],2442287.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 7500,8081,Hard Slash,300.0,35540.0,,Default Target,[],88027461.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 8125,8749,Edge of Shadow,460.0,54501.0,,Default Target,[],206998494.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
@@ -103,6 +104,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 92502,93126,Souleater,480.0,42692.0,,Default Target,[],121157060.0,['Darkside']
 95002,95583,Hard Slash,300.0,26683.0,,Default Target,[],47329667.0,['Darkside']
 95301,95833,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
+96250,97150,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 96250,97500,Salted Earth (dot),50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 97502,98126,Syphon Strike,380.0,33797.0,,Default Target,[],75931792.0,['Darkside']
 98261,98793,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
@@ -197,6 +199,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 184101,184633,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 185004,185585,Hard Slash,300.0,26683.0,,Default Target,[],47329667.0,['Darkside']
 185629,185629,Delirium,,,,,,,[]
+186254,187154,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 186254,187500,Salted Earth (dot),50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 187061,187593,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 187504,188085,Scarlet Delirium,620.0,55145.0,,Default Target,[],202157480.0,['Darkside']
@@ -292,6 +295,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 272901,273433,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 275006,275630,Syphon Strike,380.0,33797.0,,Default Target,[],75931792.0,['Darkside']
 275861,276393,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
+276254,277154,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 276254,277500,Salted Earth (dot),50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 277506,278130,Souleater,480.0,42692.0,,Default Target,[],121157060.0,['Darkside']
 278131,278888,Salt and Darkness,500.0,44474.0,,Default Target,[],131481340.0,['Darkside']
@@ -376,6 +380,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 366089,366089,Dokumori,,,,,,,[]
 366305,366305,Starry Muse,,,,,,,[]
 366438,366438,Starry Muse,,,,,,,[]
+366257,367157,Salted Earth,50.0,5639.0,,Default Target,[],2215583.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught']"
 366257,367500,Salted Earth (dot),50.0,5639.0,,Default Target,[],2215583.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught']"
 367507,368088,Scarlet Delirium,620.0,73455.0,,Default Target,[],376016278.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
 367621,368153,Auto,90.0,10501.0,,Default Target,[],7685887.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Starry Muse']"
@@ -466,6 +471,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 453461,453993,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 455009,455590,Hard Slash,300.0,26683.0,,Default Target,[],47329667.0,['Darkside']
 456421,456953,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
+456257,457157,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 456257,457500,Salted Earth (dot),50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 457509,458133,Syphon Strike,380.0,33797.0,,Default Target,[],75931792.0,['Darkside']
 458134,458891,Salt and Darkness,500.0,44474.0,,Default Target,[],131481340.0,['Darkside']
@@ -560,6 +566,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 545011,545635,Syphon Strike,380.0,33797.0,,Default Target,[],75931792.0,['Darkside']
 545636,545636,Delirium,,,,,,,[]
 545221,545753,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
+546261,547161,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 546261,547500,Salted Earth (dot),50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 547511,548092,Scarlet Delirium,620.0,55145.0,,Default Target,[],202157480.0,['Darkside']
 548181,548713,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
@@ -654,6 +661,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 632513,633094,Hard Slash,300.0,26683.0,,Default Target,[],47329667.0,['Darkside']
 634021,634553,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 635013,635637,Syphon Strike,380.0,33797.0,,Default Target,[],75931792.0,['Darkside']
+636261,637161,Salted Earth,50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 636261,637500,Salted Earth (dot),50.0,4443.0,,Default Target,[],1312580.0,['Darkside']
 636981,637513,Auto,90.0,7882.0,,Default Target,[],4129187.0,['Darkside']
 637513,638137,Souleater,480.0,42692.0,,Default Target,[],121157060.0,['Darkside']
@@ -737,6 +745,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 725015,725817,Bloodspiller,600.0,57741.0,,Default Target,[],221622075.0,"['Darkside', 'Grade 4 Gemdraught']"
 726089,726089,Dokumori,,,,,,,[]
 725781,726313,Auto,90.0,8530.0,,Default Target,[],4836494.0,"['Darkside', 'Grade 4 Gemdraught']"
+726265,727165,Salted Earth,50.0,5639.0,,Default Target,[],2215583.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught']"
 727457,727457,Starry Muse,,,,,,,[]
 726265,727500,Salted Earth (dot),50.0,5639.0,,Default Target,[],2215583.0,"['Chain Stratagem', 'Darkside', 'Divination', 'Dokumori', 'Grade 4 Gemdraught']"
 727590,727590,Starry Muse,,,,,,,[]
