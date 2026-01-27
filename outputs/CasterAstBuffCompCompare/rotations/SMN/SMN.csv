@@ -7,33 +7,33 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 3491,3491,Dokumori,,,,,,,[]
 3118,3650,Auto,90.0,231.0,,Default Target,[],3854.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 3888,3888,Luxwave (pet),160.0,19682.0,,Default Target,[],27808308.0,"['Dokumori', 'Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
-3168,3968,Umbral Impulse,620.0,90344.0,,Default Target,[],585904736.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+3168,3968,Umbral Impulse,640.0,93288.0,,Default Target,[],624693504.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 4868,4868,Searing Light,,,,,,,[]
 5103,5103,Battle Voice,,,,,,,[]
 5133,5133,Brotherhood,,,,,,,[]
 5220,5220,Chain Stratagem,,,,,,,[]
 5473,5473,Divination,,,,,,,[]
 5723,5723,Radiant Finale,,,,,,,[]
-5648,6448,Umbral Impulse,620.0,99604.0,,Default Target,[],712170488.0,"['Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
+5648,6448,Umbral Impulse,640.0,102849.0,,Default Target,[],759313124.0,"['Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
 6238,6770,Auto,90.0,312.0,,Default Target,[],7264.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
 7038,7038,Luxwave (pet),160.0,25841.0,,Default Target,[],49445209.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 6348,7418,Energy Drain,200.0,40190.0,,Default Target,[],119607794.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 8828,8828,Exodus (pet),1500.0,242305.0,,Default Target,[],4347470765.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 8828,8828,Enkindle Solar Bahamut,,,,,,,[]
-8128,8928,Umbral Impulse,620.0,124545.0,,Default Target,[],1148551791.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+8128,8928,Umbral Impulse,640.0,128602.0,,Default Target,[],1224609816.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 9510,9510,Card,,,,,,,[]
 9358,9890,Auto,90.0,318.0,,Default Target,[],7571.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 9528,10238,Necrotize,460.0,92370.0,,Default Target,[],631786541.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-10608,11408,Umbral Impulse,620.0,132017.0,,Default Target,[],1290531875.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+10608,11408,Umbral Impulse,640.0,136318.0,,Default Target,[],1375954691.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 11638,11638,Luxwave (pet),160.0,27392.0,,Default Target,[],55553202.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-11308,12108,Searing Flash,600.0,127818.0,,Default Target,[],1209709274.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-12008,12808,Sunflare,800.0,170426.0,,Default Target,[],2150740629.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+11308,12108,Searing Flash,700.0,149123.0,,Default Target,[],1646641362.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+12008,12808,Sunflare,1000.0,213034.0,,Default Target,[],3360490416.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 12478,13010,Auto,90.0,338.0,,Default Target,[],8507.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 13188,13188,Luxwave (pet),160.0,27392.0,,Default Target,[],55553202.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-13088,13888,Umbral Impulse,620.0,132017.0,,Default Target,[],1290531875.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+13088,13888,Umbral Impulse,640.0,136318.0,,Default Target,[],1375954691.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 13788,14498,Necrotize,460.0,97913.0,,Default Target,[],709872400.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 15598,16130,Auto,90.0,338.0,,Default Target,[],8507.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-15568,16368,Umbral Impulse,620.0,132017.0,,Default Target,[],1290531875.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+15568,16368,Umbral Impulse,640.0,136318.0,,Default Target,[],1375954691.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 18048,18048,Summon Titan II,,,,,,,[]
 18718,19250,Auto,90.0,338.0,,Default Target,[],8507.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 20148,20148,Earthen Fury (pet),800.0,136981.0,,Default Target,[],1389436303.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
@@ -53,6 +53,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 31198,31730,Auto,90.0,231.0,,Default Target,[],3854.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 32549,32549,Aerial Blast (pet),800.0,93741.0,,Default Target,[],630804686.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 32929,33949,Slipstream,520.0,75766.0,,Default Target,[],412083299.0,"['Grade 4 Gemdraught', 'Swiftcast', ""The Wanderer's Minuet""]"
+32929,33949,Slipstream (dot),30.0,4366.0,,Default Target,[],1368361.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 32929,34500,Slipstream (dot),30.0,4366.0,,Default Target,[],1368361.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 34318,34850,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 36409,37029,Emerald Rite,280.0,37696.0,,Default Target,[],102002155.0,"[""The Wanderer's Minuet""]"
@@ -131,6 +132,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 108890,108890,Summon Garuda II,,,,,,,[]
 110190,110722,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 110990,110990,Aerial Blast (pet),800.0,85829.0,,Default Target,[],522385646.0,"[""Army's Paeon""]"
+113850,114870,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
 113850,114870,Slipstream,520.0,69758.0,,Default Target,[],345087282.0,"[""Army's Paeon""]"
 114350,114882,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 114850,115470,Emerald Rite,280.0,37556.0,,Default Target,[],100017893.0,"[""Army's Paeon""]"
@@ -145,7 +147,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 120590,121122,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 113850,121500,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
 124051,124051,Luxwave (pet),160.0,17226.0,,Default Target,[],21298992.0,"[""The Wanderer's Minuet""]"
-123331,124131,Umbral Impulse,620.0,83492.0,,Default Target,[],500417500.0,"[""The Wanderer's Minuet""]"
+123331,124131,Umbral Impulse,640.0,86213.0,,Default Target,[],533555652.0,"[""The Wanderer's Minuet""]"
 123710,124242,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 113850,124500,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
 124868,124868,Searing Light,,,,,,,[]
@@ -155,27 +157,27 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 125473,125473,Divination,,,,,,,[]
 125582,125582,Dokumori,,,,,,,[]
 125815,125815,Radiant Finale,,,,,,,[]
-125811,126611,Umbral Impulse,620.0,92050.0,,Default Target,[],608259359.0,"['Dokumori', 'Searing Light', ""The Wanderer's Minuet""]"
+125811,126611,Umbral Impulse,640.0,95050.0,,Default Target,[],648539002.0,"['Dokumori', 'Searing Light', ""The Wanderer's Minuet""]"
 127201,127201,Luxwave (pet),160.0,24678.0,,Default Target,[],45092262.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 127211,127211,Exodus (pet),1500.0,231421.0,,Default Target,[],3965608175.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 127211,127211,Enkindle Solar Bahamut,,,,,,,[]
 126511,127221,Necrotize,460.0,88712.0,,Default Target,[],582735161.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 126830,127362,Auto,90.0,331.0,,Default Target,[],8160.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 113850,127500,Slipstream (dot),30.0,4444.0,,Default Target,[],1464930.0,"[""Army's Paeon"", 'Chain Stratagem', 'Dokumori']"
-128291,129091,Umbral Impulse,620.0,119613.0,,Default Target,[],1059443806.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+128291,129091,Umbral Impulse,640.0,123511.0,,Default Target,[],1129596572.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 129632,129632,Card,,,,,,,[]
 128991,129701,Necrotize,460.0,88712.0,,Default Target,[],582735161.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 129950,130482,Auto,90.0,331.0,,Default Target,[],8160.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 129691,130761,Energy Drain,200.0,38602.0,,Default Target,[],110333757.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-130770,131570,Umbral Impulse,620.0,126790.0,,Default Target,[],1190382187.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+130770,131570,Umbral Impulse,640.0,130922.0,,Default Target,[],1269223372.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 131801,131801,Luxwave (pet),160.0,26158.0,,Default Target,[],50667018.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-131471,132271,Searing Flash,600.0,122759.0,,Default Target,[],1115844266.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-132171,132971,Sunflare,800.0,163680.0,,Default Target,[],1983758337.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+131471,132271,Searing Flash,700.0,143219.0,,Default Target,[],1518860680.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+132171,132971,Sunflare,1000.0,204600.0,,Default Target,[],3099682687.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 133351,133351,Luxwave (pet),160.0,26158.0,,Default Target,[],50667018.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 133070,133602,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-133251,134051,Umbral Impulse,620.0,126790.0,,Default Target,[],1190382187.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+133251,134051,Umbral Impulse,640.0,130922.0,,Default Target,[],1269223372.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 133951,134661,Necrotize,460.0,94035.0,,Default Target,[],654765837.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-135731,136531,Umbral Impulse,620.0,126790.0,,Default Target,[],1190382187.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+135731,136531,Umbral Impulse,640.0,130922.0,,Default Target,[],1269223372.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 136190,136722,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 136431,137141,Necrotize,460.0,94035.0,,Default Target,[],654765837.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 138211,138211,Summon Titan II,,,,,,,[]
@@ -195,6 +197,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 150611,150611,Summon Garuda II,,,,,,,[]
 151790,152322,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 152711,152711,Aerial Blast (pet),800.0,86150.0,,Default Target,[],532749950.0,"[""The Wanderer's Minuet""]"
+155571,156591,Slipstream (dot),30.0,4033.0,,Default Target,[],1167190.0,"[""The Wanderer's Minuet""]"
 155571,156591,Slipstream,520.0,70019.0,,Default Target,[],351933846.0,"[""The Wanderer's Minuet""]"
 156071,156603,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 156571,157191,Emerald Rite,280.0,37696.0,,Default Target,[],102002155.0,"[""The Wanderer's Minuet""]"
@@ -276,6 +279,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 231073,231693,Emerald Rite,280.0,37556.0,,Default Target,[],100017893.0,"[""Army's Paeon""]"
 231632,232164,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 235053,236073,Slipstream,520.0,69758.0,,Default Target,[],345087282.0,"[""Army's Paeon""]"
+235053,236073,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
 235553,236085,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 237043,237843,Ruin III,400.0,53691.0,,Default Target,[],204428364.0,"[""Army's Paeon""]"
 235053,238500,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
@@ -286,7 +290,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 235053,241500,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
 241793,242325,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 244213,244213,Luxwave (pet),160.0,17226.0,,Default Target,[],21298992.0,"[""The Wanderer's Minuet""]"
-243493,244293,Umbral Impulse,620.0,83492.0,,Default Target,[],500417500.0,"[""The Wanderer's Minuet""]"
+243493,244293,Umbral Impulse,640.0,86213.0,,Default Target,[],533555652.0,"[""The Wanderer's Minuet""]"
 235053,244500,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
 244868,244868,Searing Light,,,,,,,[]
 245224,245224,Chain Stratagem,,,,,,,[]
@@ -296,13 +300,13 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 245582,245582,Dokumori,,,,,,,[]
 245705,245705,Brotherhood,,,,,,,[]
 245986,245986,Radiant Finale,,,,,,,[]
-245973,246773,Umbral Impulse,620.0,92050.0,,Default Target,[],608259359.0,"['Dokumori', 'Searing Light', ""The Wanderer's Minuet""]"
+245973,246773,Umbral Impulse,640.0,95050.0,,Default Target,[],648539002.0,"['Dokumori', 'Searing Light', ""The Wanderer's Minuet""]"
 247363,247363,Luxwave (pet),160.0,24678.0,,Default Target,[],45092262.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 246673,247383,Necrotize,460.0,88712.0,,Default Target,[],582735161.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 235053,247500,Slipstream (dot),30.0,4444.0,,Default Target,[],1464930.0,"[""Army's Paeon"", 'Chain Stratagem', 'Dokumori']"
-247373,248173,Searing Flash,600.0,115810.0,,Default Target,[],993099859.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+247373,248173,Searing Flash,700.0,135113.0,,Default Target,[],1351786034.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 248033,248565,Auto,90.0,331.0,,Default Target,[],8160.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-248453,249253,Umbral Impulse,620.0,119613.0,,Default Target,[],1059443806.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+248453,249253,Umbral Impulse,640.0,123511.0,,Default Target,[],1129596572.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 249753,249753,Card,,,,,,,[]
 249153,249863,Necrotize,460.0,88712.0,,Default Target,[],582735161.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 235053,250500,Slipstream (dot),30.0,4444.0,,Default Target,[],1464930.0,"[""Army's Paeon"", 'Chain Stratagem', 'Dokumori']"
@@ -310,14 +314,14 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 251633,251633,Exodus (pet),1500.0,245306.0,,Default Target,[],4455768868.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 251633,251633,Enkindle Solar Bahamut,,,,,,,[]
 251153,251685,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-250933,251733,Umbral Impulse,620.0,126790.0,,Default Target,[],1190382187.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+250933,251733,Umbral Impulse,640.0,130922.0,,Default Target,[],1269223372.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 251963,251963,Luxwave (pet),160.0,26158.0,,Default Target,[],50667018.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-252333,253133,Sunflare,800.0,163680.0,,Default Target,[],1983758337.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+252333,253133,Sunflare,1000.0,204600.0,,Default Target,[],3099682687.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 253513,253513,Luxwave (pet),160.0,26158.0,,Default Target,[],50667018.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-253414,254214,Umbral Impulse,620.0,126790.0,,Default Target,[],1190382187.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+253414,254214,Umbral Impulse,640.0,130922.0,,Default Target,[],1269223372.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 254273,254805,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 254114,254824,Necrotize,460.0,94035.0,,Default Target,[],654765837.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-255894,256694,Umbral Impulse,620.0,126790.0,,Default Target,[],1190382187.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+255894,256694,Umbral Impulse,640.0,130922.0,,Default Target,[],1269223372.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 256594,257304,Necrotize,460.0,94035.0,,Default Target,[],654765837.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 257393,257925,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 258374,258374,Summon Titan II,,,,,,,[]
@@ -337,6 +341,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 270774,270774,Summon Garuda II,,,,,,,[]
 272874,272874,Aerial Blast (pet),800.0,86150.0,,Default Target,[],532749950.0,"[""The Wanderer's Minuet""]"
 272993,273525,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
+275734,276754,Slipstream (dot),30.0,4033.0,,Default Target,[],1167190.0,"[""The Wanderer's Minuet""]"
 275734,276754,Slipstream,520.0,70019.0,,Default Target,[],351933846.0,"[""The Wanderer's Minuet""]"
 276234,276766,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 276734,277354,Emerald Rite,280.0,37696.0,,Default Target,[],102002155.0,"[""The Wanderer's Minuet""]"
@@ -413,6 +418,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 345555,346087,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 346356,346356,Aerial Blast (pet),800.0,85829.0,,Default Target,[],522385646.0,"[""Army's Paeon""]"
 349216,350236,Slipstream,520.0,69758.0,,Default Target,[],345087282.0,"[""Army's Paeon""]"
+349216,350236,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
 349716,350248,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 350216,350836,Emerald Rite,280.0,37556.0,,Default Target,[],100017893.0,"[""Army's Paeon""]"
 351716,352336,Emerald Rite,280.0,37556.0,,Default Target,[],100017893.0,"[""Army's Paeon""]"
@@ -432,7 +438,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 362196,362728,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 362876,362876,Grade 4 Gemdraught,,,,,,,[]
 364376,364376,Luxwave (pet),160.0,18745.0,,Default Target,[],25222857.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
-363656,364456,Umbral Impulse,620.0,90344.0,,Default Target,[],585904736.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+363656,364456,Umbral Impulse,640.0,93288.0,,Default Target,[],624693504.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 349216,364500,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
 364868,364868,Searing Light,,,,,,,[]
 365226,365226,Chain Stratagem,,,,,,,[]
@@ -442,26 +448,26 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 365986,365986,Radiant Finale,,,,,,,[]
 365991,365991,Brotherhood,,,,,,,[]
 366089,366089,Dokumori,,,,,,,[]
-366136,366936,Umbral Impulse,620.0,116288.0,,Default Target,[],1001330039.0,"['Battle Voice', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
+366136,366936,Umbral Impulse,640.0,120077.0,,Default Target,[],1067614578.0,"['Battle Voice', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
 367526,367526,Luxwave (pet),160.0,26854.0,,Default Target,[],53401452.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 366836,367546,Necrotize,460.0,95993.0,,Default Target,[],682304393.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-367536,368336,Searing Flash,600.0,125312.0,,Default Target,[],1162743827.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+367536,368336,Searing Flash,700.0,146199.0,,Default Target,[],1582692005.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 368436,368968,Auto,90.0,331.0,,Default Target,[],8160.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-368616,369416,Umbral Impulse,620.0,129429.0,,Default Target,[],1240397595.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+368616,369416,Umbral Impulse,640.0,133646.0,,Default Target,[],1322534753.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 369875,369875,Card,,,,,,,[]
 369316,370026,Necrotize,460.0,95993.0,,Default Target,[],682304393.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 370016,371086,Energy Drain,200.0,41766.0,,Default Target,[],129169403.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-371096,371896,Umbral Impulse,620.0,137194.0,,Default Target,[],1393720755.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+371096,371896,Umbral Impulse,640.0,141665.0,,Default Target,[],1485991040.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 371556,372088,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 372126,372126,Luxwave (pet),160.0,28466.0,,Default Target,[],60001928.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 372496,372496,Exodus (pet),1500.0,266916.0,,Default Target,[],5275436540.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 372496,372496,Enkindle Solar Bahamut,,,,,,,[]
-371796,372596,Sunflare,800.0,177109.0,,Default Target,[],2322738551.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+371796,372596,Sunflare,1000.0,221388.0,,Default Target,[],3629239405.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 373676,373676,Luxwave (pet),160.0,28466.0,,Default Target,[],60001928.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-373576,374376,Umbral Impulse,620.0,137194.0,,Default Target,[],1393720755.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+373576,374376,Umbral Impulse,640.0,141665.0,,Default Target,[],1485991040.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 374276,374986,Necrotize,460.0,101752.0,,Default Target,[],766632906.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 374676,375208,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-376056,376856,Umbral Impulse,620.0,137194.0,,Default Target,[],1393720755.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+376056,376856,Umbral Impulse,640.0,141665.0,,Default Target,[],1485991040.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 376756,377466,Necrotize,460.0,101752.0,,Default Target,[],766632906.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 377796,378328,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 378536,378536,Summon Titan II,,,,,,,[]
@@ -482,6 +488,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 390936,390936,Summon Garuda II,,,,,,,[]
 393036,393036,Aerial Blast (pet),800.0,93741.0,,Default Target,[],630804686.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 393396,393928,Auto,90.0,231.0,,Default Target,[],3854.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+393417,394437,Slipstream (dot),30.0,4366.0,,Default Target,[],1368361.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 393417,394437,Slipstream,520.0,75766.0,,Default Target,[],412083299.0,"['Grade 4 Gemdraught', 'Swiftcast', ""The Wanderer's Minuet""]"
 393417,394500,Slipstream (dot),30.0,4366.0,,Default Target,[],1368361.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 396516,397048,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
@@ -510,8 +517,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 419767,420567,Ruin III,400.0,53855.0,,Default Target,[],204735616.0,"[""Mage's Ballad""]"
 420637,421169,Auto,90.0,231.0,,Default Target,[],3796.0,"[""Mage's Ballad""]"
 421257,421257,Summon Phoenix,,,,,,,[]
-421957,421957,Enkindle Phoenix,,,,,,,[]
 421957,421957,Revelation (pet),1300.0,139902.0,,Default Target,[],1381670962.0,"[""Mage's Ballad""]"
+421957,421957,Enkindle Phoenix,,,,,,,[]
 423757,424289,Auto,90.0,231.0,,Default Target,[],3796.0,"[""Mage's Ballad""]"
 423737,424807,Fountain of Fire,580.0,78062.0,,Default Target,[],430166059.0,"[""Mage's Ballad""]"
 424907,424907,Scarlet Flame (pet),150.0,16139.0,,Default Target,[],18390473.0,"[""Mage's Ballad""]"
@@ -546,6 +553,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 451018,451018,Summon Garuda II,,,,,,,[]
 451837,452369,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 453118,453118,Aerial Blast (pet),800.0,85829.0,,Default Target,[],522385646.0,"[""Army's Paeon""]"
+455978,456998,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
 455978,456998,Slipstream,520.0,69758.0,,Default Target,[],345087282.0,"[""Army's Paeon""]"
 456478,457010,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 455978,457500,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
@@ -576,7 +584,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 481339,481339,Summon Solar Bahamut,,,,,,,[]
 483468,484000,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 484539,484539,Luxwave (pet),160.0,17226.0,,Default Target,[],21298992.0,"[""The Wanderer's Minuet""]"
-483819,484619,Umbral Impulse,620.0,83492.0,,Default Target,[],500417500.0,"[""The Wanderer's Minuet""]"
+483819,484619,Umbral Impulse,640.0,86213.0,,Default Target,[],533555652.0,"[""The Wanderer's Minuet""]"
 484868,484868,Searing Light,,,,,,,[]
 485228,485228,Chain Stratagem,,,,,,,[]
 485366,485366,Battle Voice,,,,,,,[]
@@ -586,24 +594,24 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 486277,486277,Brotherhood,,,,,,,[]
 486999,486999,Exodus (pet),1500.0,220401.0,,Default Target,[],3596948730.0,"['Battle Voice', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 486999,486999,Enkindle Solar Bahamut,,,,,,,[]
-486299,487099,Umbral Impulse,620.0,107469.0,,Default Target,[],855231708.0,"['Battle Voice', 'Chain Stratagem', 'Divination', 'Dokumori', 'Searing Light', ""The Wanderer's Minuet""]"
+486299,487099,Umbral Impulse,640.0,110971.0,,Default Target,[],911876659.0,"['Battle Voice', 'Chain Stratagem', 'Divination', 'Dokumori', 'Searing Light', ""The Wanderer's Minuet""]"
 486588,487120,Auto,90.0,297.0,,Default Target,[],6613.0,"['Battle Voice', 'Chain Stratagem', 'Divination', 'Dokumori', 'Searing Light', ""The Wanderer's Minuet""]"
 487689,487689,Luxwave (pet),160.0,24678.0,,Default Target,[],45092262.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 487699,488409,Necrotize,460.0,88712.0,,Default Target,[],582735161.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-488779,489579,Umbral Impulse,620.0,119613.0,,Default Target,[],1059443806.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+488779,489579,Umbral Impulse,640.0,123511.0,,Default Target,[],1129596572.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 489997,489997,Card,,,,,,,[]
 489708,490240,Auto,90.0,331.0,,Default Target,[],8160.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-489479,490279,Searing Flash,600.0,115810.0,,Default Target,[],993099859.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-491259,492059,Umbral Impulse,620.0,126790.0,,Default Target,[],1190382187.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+489479,490279,Searing Flash,700.0,135113.0,,Default Target,[],1351786034.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+491259,492059,Umbral Impulse,640.0,130922.0,,Default Target,[],1269223372.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 492289,492289,Luxwave (pet),160.0,26158.0,,Default Target,[],50667018.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 491959,492669,Necrotize,460.0,94035.0,,Default Target,[],654765837.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 492828,493360,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 492659,493729,Energy Drain,200.0,40918.0,,Default Target,[],123965722.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 493839,493839,Luxwave (pet),160.0,26158.0,,Default Target,[],50667018.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-493739,494539,Umbral Impulse,620.0,126790.0,,Default Target,[],1190382187.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+493739,494539,Umbral Impulse,640.0,130922.0,,Default Target,[],1269223372.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 494439,495149,Necrotize,460.0,94035.0,,Default Target,[],654765837.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 495948,496480,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-496219,497019,Umbral Impulse,620.0,126790.0,,Default Target,[],1190382187.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+496219,497019,Umbral Impulse,640.0,130922.0,,Default Target,[],1269223372.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 496919,497629,Necrotize,460.0,94035.0,,Default Target,[],654765837.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 498699,498699,Summon Titan II,,,,,,,[]
 499068,499600,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
@@ -624,6 +632,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 511548,512080,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 513199,513199,Aerial Blast (pet),800.0,86150.0,,Default Target,[],532749950.0,"[""The Wanderer's Minuet""]"
 513578,514598,Slipstream,520.0,70019.0,,Default Target,[],351933846.0,"['Swiftcast', ""The Wanderer's Minuet""]"
+513578,514598,Slipstream (dot),30.0,4033.0,,Default Target,[],1167190.0,"[""The Wanderer's Minuet""]"
 514668,515200,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 513578,517500,Slipstream (dot),30.0,4033.0,,Default Target,[],1167190.0,"[""The Wanderer's Minuet""]"
 517058,517678,Emerald Rite,280.0,37696.0,,Default Target,[],102002155.0,"[""The Wanderer's Minuet""]"
@@ -689,6 +698,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 571180,571180,Summon Garuda II,,,,,,,[]
 572270,572802,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 573280,573280,Aerial Blast (pet),800.0,85829.0,,Default Target,[],522385646.0,"[""Army's Paeon""]"
+576140,577160,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
 576140,577160,Slipstream,520.0,69758.0,,Default Target,[],345087282.0,"[""Army's Paeon""]"
 576640,577172,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 576140,577500,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
@@ -719,7 +729,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 601739,601739,The Wanderer's Minuet,,,,,,,[]
 604001,604533,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 604701,604701,Luxwave (pet),160.0,17226.0,,Default Target,[],21298992.0,"[""The Wanderer's Minuet""]"
-603981,604781,Umbral Impulse,620.0,83492.0,,Default Target,[],500417500.0,"[""The Wanderer's Minuet""]"
+603981,604781,Umbral Impulse,640.0,86213.0,,Default Target,[],533555652.0,"[""The Wanderer's Minuet""]"
 604868,604868,Searing Light,,,,,,,[]
 605230,605230,Chain Stratagem,,,,,,,[]
 605473,605473,Divination,,,,,,,[]
@@ -727,27 +737,27 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 606152,606152,Battle Voice,,,,,,,[]
 606562,606562,Brotherhood,,,,,,,[]
 606772,606772,Radiant Finale,,,,,,,[]
-606461,607261,Umbral Impulse,620.0,102730.0,,Default Target,[],778994413.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Searing Light', ""The Wanderer's Minuet""]"
+606461,607261,Umbral Impulse,640.0,106079.0,,Default Target,[],830595874.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Searing Light', ""The Wanderer's Minuet""]"
 607121,607653,Auto,90.0,297.0,,Default Target,[],6613.0,"['Battle Voice', 'Chain Stratagem', 'Divination', 'Dokumori', 'Searing Light', ""The Wanderer's Minuet""]"
 607851,607851,Luxwave (pet),160.0,24678.0,,Default Target,[],45092262.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 607861,607861,Enkindle Solar Bahamut,,,,,,,[]
 607861,607861,Exodus (pet),1500.0,231421.0,,Default Target,[],3965608175.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 607161,607871,Necrotize,460.0,79705.0,,Default Target,[],470422205.0,"['Battle Voice', 'Chain Stratagem', 'Divination', 'Dokumori', 'Searing Light', ""The Wanderer's Minuet""]"
-608941,609741,Umbral Impulse,620.0,119613.0,,Default Target,[],1059443806.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+608941,609741,Umbral Impulse,640.0,123511.0,,Default Target,[],1129596572.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 610118,610118,Card,,,,,,,[]
-609641,610441,Searing Flash,600.0,115810.0,,Default Target,[],993099859.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+609641,610441,Searing Flash,700.0,135113.0,,Default Target,[],1351786034.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 610241,610773,Auto,90.0,331.0,,Default Target,[],8160.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 610341,611051,Necrotize,460.0,88712.0,,Default Target,[],582735161.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-611421,612221,Umbral Impulse,620.0,126790.0,,Default Target,[],1190382187.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+611421,612221,Umbral Impulse,640.0,130922.0,,Default Target,[],1269223372.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 612451,612451,Luxwave (pet),160.0,26158.0,,Default Target,[],50667018.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 612659,613729,Energy Drain,200.0,40918.0,,Default Target,[],123965722.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 613361,613893,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 614001,614001,Luxwave (pet),160.0,26158.0,,Default Target,[],50667018.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-613901,614701,Umbral Impulse,620.0,126790.0,,Default Target,[],1190382187.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-614601,615401,Sunflare,800.0,163680.0,,Default Target,[],1983758337.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+613901,614701,Umbral Impulse,640.0,130922.0,,Default Target,[],1269223372.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+614601,615401,Sunflare,1000.0,204600.0,,Default Target,[],3099682687.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 615301,616011,Necrotize,460.0,94035.0,,Default Target,[],654765837.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 616481,617013,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-616381,617181,Umbral Impulse,620.0,126790.0,,Default Target,[],1190382187.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+616381,617181,Umbral Impulse,640.0,130922.0,,Default Target,[],1269223372.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 617081,617791,Necrotize,460.0,94035.0,,Default Target,[],654765837.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 618861,618861,Summon Titan II,,,,,,,[]
 619601,620133,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
@@ -767,6 +777,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 631962,631962,Swiftcast,,,,,,,[]
 632081,632613,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 633362,633362,Aerial Blast (pet),800.0,86150.0,,Default Target,[],532749950.0,"[""The Wanderer's Minuet""]"
+633742,634762,Slipstream (dot),30.0,4033.0,,Default Target,[],1167190.0,"[""The Wanderer's Minuet""]"
 633742,634762,Slipstream,520.0,70019.0,,Default Target,[],351933846.0,"['Swiftcast', ""The Wanderer's Minuet""]"
 635201,635733,Auto,90.0,231.0,,Default Target,[],3854.0,"[""The Wanderer's Minuet""]"
 633742,637500,Slipstream (dot),30.0,4033.0,,Default Target,[],1167190.0,"[""The Wanderer's Minuet""]"
@@ -796,8 +807,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 659102,659902,Ruin IV,520.0,69971.0,,Default Target,[],345616201.0,"[""Mage's Ballad""]"
 661582,661582,Summon Phoenix,,,,,,,[]
 661232,661764,Auto,90.0,231.0,,Default Target,[],3796.0,"[""Mage's Ballad""]"
-662282,662282,Revelation (pet),1300.0,139902.0,,Default Target,[],1381670962.0,"[""Mage's Ballad""]"
 662282,662282,Enkindle Phoenix,,,,,,,[]
+662282,662282,Revelation (pet),1300.0,139902.0,,Default Target,[],1381670962.0,"[""Mage's Ballad""]"
 664352,664884,Auto,90.0,231.0,,Default Target,[],3796.0,"[""Mage's Ballad""]"
 664062,665132,Fountain of Fire,580.0,78062.0,,Default Target,[],430166059.0,"[""Mage's Ballad""]"
 665232,665232,Scarlet Flame (pet),150.0,16139.0,,Default Target,[],18390473.0,"[""Mage's Ballad""]"
@@ -832,6 +843,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 691343,691343,Summon Garuda II,,,,,,,[]
 692432,692964,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 693443,693443,Aerial Blast (pet),800.0,85829.0,,Default Target,[],522385646.0,"[""Army's Paeon""]"
+696303,697323,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
 696303,697323,Slipstream,520.0,69758.0,,Default Target,[],345087282.0,"[""Army's Paeon""]"
 696803,697335,Auto,90.0,230.0,,Default Target,[],3779.0,"[""Army's Paeon""]"
 696303,697500,Slipstream (dot),30.0,4018.0,,Default Target,[],1144471.0,"[""Army's Paeon""]"
@@ -864,39 +876,40 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 724163,724695,Auto,90.0,231.0,,Default Target,[],3854.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 724864,724864,Luxwave (pet),160.0,18745.0,,Default Target,[],25222857.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 724868,724868,Searing Light,,,,,,,[]
-724144,724944,Umbral Impulse,620.0,90344.0,,Default Target,[],585904736.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
+724144,724944,Umbral Impulse,640.0,93288.0,,Default Target,[],624693504.0,"['Grade 4 Gemdraught', ""The Wanderer's Minuet""]"
 725232,725232,Chain Stratagem,,,,,,,[]
 725473,725473,Divination,,,,,,,[]
-725568,725568,Enkindle Solar Bahamut,,,,,,,[]
 725568,725568,Exodus (pet),1500.0,184555.0,,Default Target,[],2445020097.0,"['Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
+725568,725568,Enkindle Solar Bahamut,,,,,,,[]
 726089,726089,Dokumori,,,,,,,[]
 726152,726152,Battle Voice,,,,,,,[]
 726772,726772,Radiant Finale,,,,,,,[]
 726848,726848,Brotherhood,,,,,,,[]
-726624,727424,Umbral Impulse,620.0,111161.0,,Default Target,[],912082844.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
+726624,727424,Umbral Impulse,640.0,114783.0,,Default Target,[],972460364.0,"['Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
 727283,727815,Auto,90.0,297.0,,Default Target,[],6613.0,"['Battle Voice', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
 728014,728014,Luxwave (pet),160.0,26854.0,,Default Target,[],53401452.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 727324,728034,Necrotize,460.0,86247.0,,Default Target,[],550798031.0,"['Battle Voice', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Searing Light', ""The Wanderer's Minuet""]"
-728024,728824,Searing Flash,600.0,125312.0,,Default Target,[],1162743827.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-729104,729904,Umbral Impulse,620.0,129429.0,,Default Target,[],1240397595.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+728024,728824,Searing Flash,700.0,146199.0,,Default Target,[],1582692005.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+729104,729904,Umbral Impulse,640.0,133646.0,,Default Target,[],1322534753.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 730240,730240,Card,,,,,,,[]
 729804,730514,Necrotize,460.0,95993.0,,Default Target,[],682304393.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 730403,730935,Auto,90.0,331.0,,Default Target,[],8160.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-730504,731304,Sunflare,800.0,167084.0,,Default Target,[],2067231389.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-731584,732384,Umbral Impulse,620.0,137194.0,,Default Target,[],1393720755.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+730504,731304,Sunflare,1000.0,208857.0,,Default Target,[],3230004835.0,"['Battle Voice', 'Brotherhood', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+731584,732384,Umbral Impulse,640.0,141665.0,,Default Target,[],1485991040.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 732614,732614,Luxwave (pet),160.0,28466.0,,Default Target,[],60001928.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 732659,733729,Energy Drain,200.0,44273.0,,Default Target,[],145133771.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 733523,734055,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 733359,734069,Necrotize,460.0,101752.0,,Default Target,[],766632906.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 734164,734164,Luxwave (pet),160.0,28466.0,,Default Target,[],60001928.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-734064,734864,Umbral Impulse,620.0,137194.0,,Default Target,[],1393720755.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+734064,734864,Umbral Impulse,640.0,141665.0,,Default Target,[],1485991040.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 734764,735474,Necrotize,460.0,101752.0,,Default Target,[],766632906.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 736643,737175,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
-736544,737344,Umbral Impulse,620.0,137194.0,,Default Target,[],1393720755.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+736544,737344,Umbral Impulse,640.0,141665.0,,Default Target,[],1485991040.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 739024,739024,Summon Garuda II,,,,,,,[]
 739724,739724,Swiftcast,,,,,,,[]
 739763,740295,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 741124,741124,Aerial Blast (pet),800.0,142353.0,,Default Target,[],1500546036.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
+741504,742524,Slipstream (dot),30.0,6629.0,,Default Target,[],3254621.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 741504,742524,Slipstream,520.0,115056.0,,Default Target,[],980264671.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', 'Swiftcast', ""The Wanderer's Minuet""]"
 742883,743415,Auto,90.0,351.0,,Default Target,[],9223.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"
 741504,745500,Slipstream (dot),30.0,6629.0,,Default Target,[],3254621.0,"['Battle Voice', 'Brotherhood', 'Card', 'Chain Stratagem', 'Divination', 'Dokumori', 'Grade 4 Gemdraught', 'Radiant Finale', 'Searing Light', ""The Wanderer's Minuet""]"

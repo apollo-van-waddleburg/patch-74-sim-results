@@ -44,7 +44,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 3118,3650,Auto,90.0,229.0,,Default Target,[],3710.0,['Grade 4 Gemdraught']
 3888,3888,Luxwave (pet),160.0,18547.0,,Default Target,[],24281890.0,['Grade 4 Gemdraught']
 3397,3929,Auto,90.0,8128.0,,Default Target,[],4391455.0,[]
-3168,3968,Umbral Impulse,620.0,89389.0,,Default Target,[],564047587.0,['Grade 4 Gemdraught']
+3168,3968,Umbral Impulse,640.0,92301.0,,Default Target,[],601389370.0,['Grade 4 Gemdraught']
 3401,4071,Dosis III,380.0,53462.0,,Default Target,[],172533440.0,['Grade 4 Gemdraught']
 4125,4125,Grade 4 Gemdraught,,,,,,,[]
 3500,4258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
@@ -71,7 +71,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 5430,6188,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Grade 4 Gemdraught', 'Searing Light']"
 6252,6252,Presence of Mind,,,,,,,[]
 6420,6420,Grade 4 Gemdraught,,,,,,,[]
-5648,6448,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+5648,6448,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 5841,6511,Dosis III,380.0,56135.0,,Default Target,[],190219996.0,"['Grade 4 Gemdraught', 'Searing Light']"
 6000,6578,Royal Authority,460.0,41703.0,,Default Target,[],115607446.0,"['Grade 4 Gemdraught', 'Searing Light']"
 6625,6625,Fight or Flight,,,,,,,[]
@@ -100,11 +100,11 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 7670,8607,Inner Chaos,660.0,115024.0,,Default Target,['Surging Tempest'],11020833.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
 8280,8812,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', 'Presence of Mind', 'Searing Light']"
 8070,8828,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Grade 4 Gemdraught', 'Searing Light']"
-8828,8828,Exodus (pet),1500.0,182604.0,,Default Target,[],2353808626.0,"['Grade 4 Gemdraught', 'Searing Light']"
 8828,8828,Enkindle Solar Bahamut,,,,,,,[]
+8828,8828,Exodus (pet),1500.0,182604.0,,Default Target,[],2353808626.0,"['Grade 4 Gemdraught', 'Searing Light']"
 8212,8882,Twinblood Bite,170.0,21618.0,,Default Target,[],32976984.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 8295,8918,Upheaval,420.0,42437.0,,Default Target,['Surging Tempest'],119714685.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
-8128,8928,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+8128,8928,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 8500,9034,Goring Blade,700.0,79331.0,,Default Target,[],418360540.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
 7942,9042,Psyche,600.0,88681.0,,Default Target,[],474740355.0,"['Grade 4 Gemdraught', 'Searing Light']"
 8389,9059,Assize,400.0,58947.0,,Default Target,[],204931343.0,"['Grade 4 Gemdraught', 'Presence of Mind', 'Searing Light']"
@@ -133,7 +133,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 10142,10762,Twinfang Bite,170.0,21618.0,,Default Target,[],32976984.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 10170,10793,Fell Cleave,580.0,101081.0,,Default Target,['Surging Tempest'],8515990.0,"['Grade 4 Gemdraught', 'Inner Release', 'Searing Light', 'Surging Tempest']"
 9811,10841,Zanshin,940.0,122043.0,,Default Target,[],1041759072.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
-10608,11408,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+10608,11408,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 10795,11462,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
 10710,11468,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Grade 4 Gemdraught', 'Searing Light']"
 10711,11471,Gekko,420.0,54527.0,,Default Target,['Meikyo Shisui'],207948625.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Meikyo Shisui', 'Searing Light']"
@@ -145,13 +145,13 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 11625,11982,Expiacion,450.0,50993.0,,Default Target,[],172855171.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
 11458,11990,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
 11453,12073,Reawaken,750.0,95392.0,,Default Target,[],642141534.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
-11308,12108,Searing Flash,600.0,90873.0,,Default Target,[],582917050.0,"['Grade 4 Gemdraught', 'Searing Light']"
+11308,12108,Searing Flash,700.0,106020.0,,Default Target,[],793459530.0,"['Grade 4 Gemdraught', 'Searing Light']"
 11690,12222,Auto,90.0,10053.0,,Default Target,[],7131444.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 11503,12533,Full Metal Field,900.0,217951.0,,Default Target,[],39577904.0,"['Grade 4 Gemdraught', 'Searing Light']"
 12622,12622,Roller Dash (pet),288.0,37149.0,,Default Target,[],97038374.0,"['Grade 4 Gemdraught', 'Searing Light']"
 12121,12653,Auto,90.0,10393.0,,Default Target,[],7554387.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
 12743,12743,Hypercharge,,,,,,,[]
-12008,12808,Sunflare,800.0,121165.0,,Default Target,[],1036371924.0,"['Grade 4 Gemdraught', 'Searing Light']"
+12008,12808,Sunflare,1000.0,151457.0,,Default Target,[],1619314318.0,"['Grade 4 Gemdraught', 'Searing Light']"
 12123,12833,Double Check,180.0,25295.0,,Default Target,[],44994323.0,"['Grade 4 Gemdraught', 'Searing Light']"
 12478,13010,Auto,90.0,240.0,,Default Target,[],4093.0,"['Grade 4 Gemdraught', 'Searing Light']"
 13188,13188,Luxwave (pet),160.0,19474.0,,Default Target,[],26770869.0,"['Grade 4 Gemdraught', 'Searing Light']"
@@ -161,7 +161,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 9125,13500,Circle of Scorn (dot),30.0,3394.0,,Default Target,[],765751.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
 12940,13790,Glare IV,640.0,94303.0,,Default Target,[],524495851.0,"['Grade 4 Gemdraught', 'Presence of Mind', 'Searing Light']"
 13163,13833,Dosis III,380.0,56135.0,,Default Target,[],190219996.0,"['Grade 4 Gemdraught', 'Searing Light']"
-13088,13888,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+13088,13888,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 13477,14009,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
 13350,14108,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Grade 4 Gemdraught', 'Searing Light']"
 13500,14123,Confiteor,1000.0,113334.0,,Default Target,['Requiescat'],853863301.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat', 'Searing Light']"
@@ -184,7 +184,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 15603,16273,Dosis III,380.0,56135.0,,Default Target,[],190219996.0,"['Grade 4 Gemdraught', 'Searing Light']"
 15792,16292,Ogi Namikiri,1000.0,179927.0,,Default Target,[],377876158.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
 15504,16354,Blazing Shot,260.0,36542.0,,Default Target,['Overheated'],93900074.0,"['Grade 4 Gemdraught', 'Overheated', 'Searing Light']"
-15568,16368,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+15568,16368,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 16420,16420,Infuriate,,,,,,,[]
 15938,16470,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
 15024,16494,Second Generation,680.0,86491.0,,Default Target,[],527907154.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
@@ -355,6 +355,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 33296,33296,Infuriate,,,,,,,[]
 32747,33417,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 33247,33779,Auto,90.0,21.0,,Default Target,[],25.0,[]
+32929,33949,Slipstream (dot),30.0,4319.0,,Default Target,[],1317308.0,['Grade 4 Gemdraught']
 32929,33949,Slipstream,520.0,74965.0,,Default Target,[],396710452.0,"['Grade 4 Gemdraught', 'Swiftcast']"
 33522,34054,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 33289,34089,Uncoiled Fury,680.0,82372.0,,Default Target,[],478822956.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
@@ -1057,6 +1058,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 114277,114809,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 114025,114825,Heated Clean Shot,420.0,51946.0,,Default Target,[],189745438.0,[]
 113850,114870,Slipstream,520.0,69278.0,,Default Target,[],338805067.0,[]
+113850,114870,Slipstream (dot),30.0,3990.0,,Default Target,[],1123652.0,[]
 114350,114882,Auto,90.0,229.0,,Default Target,[],3710.0,[]
 114498,115030,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 114730,115262,Auto,90.0,21.0,,Default Target,[],25.0,[]
@@ -1132,7 +1134,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 123458,123990,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 123334,124004,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 124051,124051,Luxwave (pet),160.0,17044.0,,Default Target,[],20504400.0,[]
-123331,124131,Umbral Impulse,620.0,82610.0,,Default Target,[],481749080.0,[]
+123331,124131,Umbral Impulse,640.0,85302.0,,Default Target,[],513651035.0,[]
 123690,124222,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 123710,124242,Auto,90.0,229.0,,Default Target,[],3710.0,[]
 123500,124258,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
@@ -1168,7 +1170,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 126423,126423,Infuriate,,,,,,,[]
 125774,126444,Dosis III,380.0,51860.0,,Default Target,[],162358955.0,['Searing Light']
 125930,126462,Auto,90.0,9283.0,,Default Target,[],6080835.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
-125811,126611,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+125811,126611,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 126625,126625,Fight or Flight,,,,,,,[]
 126279,126899,Kasha,420.0,50381.0,,Default Target,[],177526449.0,"['Fugetsu', 'Fuka', 'Searing Light']"
 126899,126899,Meikyo Shisui,,,,,,,[]
@@ -1205,7 +1207,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 128419,129039,Kaeshi: Setsugekka,640.0,106399.0,,Default Target,[],132136347.0,"['Fugetsu', 'Fuka', 'Searing Light']"
 127942,129042,Psyche,600.0,81929.0,,Default Target,[],405194830.0,['Searing Light']
 127793,129083,Glare III,350.0,47649.0,,Default Target,[],133903750.0,"['Presence of Mind', 'Searing Light']"
-128291,129091,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+128291,129091,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 128055,129125,Second Legacy,320.0,37591.0,,Default Target,[],99716250.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 128778,129310,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Fugetsu', 'Fuka', 'Searing Light']"
 128923,129590,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Searing Light', 'Surging Tempest']"
@@ -1234,7 +1236,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 129755,130965,Third Legacy,320.0,37591.0,,Default Target,[],99716250.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 130173,131333,Primal Rend,700.0,112761.0,,Default Target,['Surging Tempest'],10595681.0,"['Searing Light', 'Surging Tempest']"
 131546,131546,Arm Punch (pet),216.0,25620.0,,Default Target,[],46150190.0,['Searing Light']
-130770,131570,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+130770,131570,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 131077,131609,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Searing Light', 'Surging Tempest']"
 131801,131801,Luxwave (pet),160.0,17896.0,,Default Target,[],22606389.0,['Searing Light']
 131625,131982,Expiacion,450.0,47124.0,,Default Target,[],147618407.0,"['Fight or Flight', 'Searing Light']"
@@ -1242,7 +1244,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 131000,132160,Supplication,500.0,52360.0,,Default Target,[],182253239.0,"['Fight or Flight', 'Searing Light']"
 131169,132199,Tendo Setsugekka,1100.0,182875.0,,Default Target,[],390368906.0,"['Fugetsu', 'Fuka', 'Searing Light']"
 131669,132201,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Fugetsu', 'Fuka', 'Searing Light']"
-131471,132271,Searing Flash,600.0,83982.0,,Default Target,[],497873958.0,['Searing Light']
+131471,132271,Searing Flash,700.0,97980.0,,Default Target,[],677702371.0,['Searing Light']
 130836,132306,Fourth Generation,680.0,79884.0,,Default Target,[],450323304.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 131529,132379,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Overheated', 'Searing Light']"
 131456,132526,Fourth Legacy,320.0,37591.0,,Default Target,[],99716250.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
@@ -1251,7 +1253,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 132150,132908,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Searing Light']
 132418,132950,Auto,90.0,6993.0,,Default Target,[],3250657.0,"['Fight or Flight', 'Searing Light']"
 131673,132963,Glare III,350.0,47649.0,,Default Target,[],133903750.0,"['Presence of Mind', 'Searing Light']"
-132171,132971,Sunflare,800.0,111977.0,,Default Target,[],885142720.0,['Searing Light']
+132171,132971,Sunflare,1000.0,139972.0,,Default Target,[],1383025083.0,['Searing Light']
 133146,133146,Pile Bunker (pet),612.0,72613.0,,Default Target,[],370750813.0,['Searing Light']
 132650,133182,Auto,90.0,9283.0,,Default Target,[],6080835.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 132673,133296,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Inner Release', 'Searing Light', 'Surging Tempest']"
@@ -1266,7 +1268,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 133095,133765,Dosis III,380.0,51860.0,,Default Target,[],162358955.0,['Searing Light']
 133029,133879,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Overheated', 'Searing Light']"
 133298,133965,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Searing Light', 'Surging Tempest']"
-133251,134051,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+133251,134051,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 133500,134123,Confiteor,1000.0,104723.0,,Default Target,['Requiescat'],729027788.0,"['Fight or Flight', 'Requiescat', 'Searing Light']"
 133595,134127,Auto,90.0,22.0,,Default Target,[],29.0,['Searing Light']
 133649,134359,Double Check,180.0,23368.0,,Default Target,[],38399269.0,['Searing Light']
@@ -1294,7 +1296,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 113552,136500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 114983,136500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 129125,136500,Circle of Scorn (dot),30.0,3139.0,,Default Target,[],654824.0,"['Fight or Flight', 'Searing Light']"
-135731,136531,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+135731,136531,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 136000,136666,Blade of Faith,760.0,79591.0,,Default Target,['Requiescat'],421104584.0,"['Fight or Flight', 'Requiescat', 'Searing Light']"
 136190,136722,Auto,90.0,240.0,,Default Target,[],4093.0,['Searing Light']
 136249,136781,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Fugetsu', 'Fuka', 'Searing Light']"
@@ -1475,6 +1477,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 155551,156083,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 155620,156152,Auto,90.0,21.0,,Default Target,[],25.0,[]
 155854,156386,Auto,90.0,0.0,,Default Target,[],0.0,[]
+155571,156591,Slipstream (dot),30.0,3990.0,,Default Target,[],1123652.0,[]
 155571,156591,Slipstream,520.0,69278.0,,Default Target,[],338805067.0,[]
 156071,156603,Auto,90.0,229.0,,Default Target,[],3710.0,[]
 155910,156668,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
@@ -2175,6 +2178,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 235110,235868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 235458,235990,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 234777,236067,Reaving Fangs,300.0,33562.0,,Default Target,['Honed Reavers'],79487609.0,"['Honed Reavers', ""Hunter's Instinct"", 'Swiftscaled']"
+235053,236073,Slipstream (dot),30.0,3990.0,,Default Target,[],1123652.0,[]
 235053,236073,Slipstream,520.0,69278.0,,Default Target,[],338805067.0,[]
 235553,236085,Auto,90.0,229.0,,Default Target,[],3710.0,[]
 235690,236222,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -2245,7 +2249,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 244213,244213,Luxwave (pet),160.0,17044.0,,Default Target,[],20504400.0,[]
 243745,244277,Auto,90.0,0.0,,Default Target,[],0.0,[]
 243746,244278,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
-243493,244293,Umbral Impulse,620.0,82610.0,,Default Target,[],481749080.0,[]
+243493,244293,Umbral Impulse,640.0,85302.0,,Default Target,[],513651035.0,[]
 197704,244500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 230937,244500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 234995,244500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
@@ -2279,7 +2283,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 246036,246568,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Fugetsu', 'Fuka', 'Searing Light']"
 246625,246625,Fight or Flight,,,,,,,[]
 246127,246747,Kasha,420.0,50381.0,,Default Target,['Meikyo Shisui'],177526449.0,"['Fugetsu', 'Fuka', 'Meikyo Shisui', 'Searing Light']"
-245973,246773,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+245973,246773,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 245128,246828,First Generation,680.0,79884.0,,Default Target,[],450323304.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 245675,246965,Glare III,350.0,47649.0,,Default Target,[],133903750.0,['Searing Light']
 246459,246991,Auto,90.0,22.0,,Default Target,[],29.0,['Searing Light']
@@ -2295,7 +2299,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 235053,247500,Slipstream (dot),30.0,3990.0,,Default Target,[],1123652.0,[]
 246556,247626,Excavator,660.0,147670.0,,Default Target,['Reassemble'],18164641.0,"['Reassemble', 'Searing Light']"
 247176,247886,Checkmate,180.0,23368.0,,Default Target,[],38399269.0,['Searing Light']
-247373,248173,Searing Flash,600.0,83982.0,,Default Target,[],497873958.0,['Searing Light']
+247373,248173,Searing Flash,700.0,97980.0,,Default Target,[],677702371.0,['Searing Light']
 246829,248299,Second Generation,680.0,79884.0,,Default Target,[],450323304.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 248374,248374,Arm Punch (pet),240.0,28470.0,,Default Target,[],56997962.0,['Searing Light']
 247796,248506,Double Check,180.0,23368.0,,Default Target,[],38399269.0,['Searing Light']
@@ -2312,7 +2316,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 248310,249068,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Searing Light']
 247805,249095,Glare III,350.0,47649.0,,Default Target,[],133903750.0,"['Presence of Mind', 'Searing Light']"
 248677,249209,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Searing Light', 'Surging Tempest']"
-248453,249253,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+248453,249253,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 248898,249430,Auto,90.0,6993.0,,Default Target,[],3250657.0,"['Fight or Flight', 'Searing Light']"
 248887,249467,Shoha,640.0,76777.0,,Default Target,[],412298319.0,"['Fugetsu', 'Fuka', 'Searing Light']"
 248925,249592,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Searing Light', 'Surging Tempest']"
@@ -2346,7 +2350,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 251153,251685,Auto,90.0,240.0,,Default Target,[],4093.0,['Searing Light']
 250230,251700,Fourth Generation,680.0,79884.0,,Default Target,[],450323304.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 250950,251708,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Searing Light']
-250933,251733,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+250933,251733,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 251370,251902,Auto,90.0,9283.0,,Default Target,[],6080835.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 250850,251920,Fourth Legacy,320.0,37591.0,,Default Target,[],99716250.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 251963,251963,Luxwave (pet),160.0,17896.0,,Default Target,[],22606389.0,['Searing Light']
@@ -2359,7 +2363,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 252037,252569,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Searing Light', 'Surging Tempest']"
 252059,252591,Auto,90.0,22.0,,Default Target,[],29.0,['Searing Light']
 251961,252631,Phlegma III,600.0,81929.0,,Default Target,[],405194830.0,['Searing Light']
-252333,253133,Sunflare,800.0,111977.0,,Default Target,[],885142720.0,['Searing Light']
+252333,253133,Sunflare,1000.0,139972.0,,Default Target,[],1383025083.0,['Searing Light']
 253174,253174,Pile Bunker (pet),680.0,80681.0,,Default Target,[],457739264.0,['Searing Light']
 252675,253298,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Inner Release', 'Searing Light', 'Surging Tempest']"
 197704,253500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
@@ -2376,7 +2380,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 253300,253967,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Searing Light', 'Surging Tempest']"
 253500,254123,Confiteor,1000.0,104723.0,,Default Target,['Requiescat'],729027788.0,"['Fight or Flight', 'Requiescat', 'Searing Light']"
 253610,254142,Auto,90.0,9283.0,,Default Target,[],6080835.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
-253414,254214,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+253414,254214,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 253586,254256,Assize,400.0,54457.0,,Default Target,[],174895759.0,"['Presence of Mind', 'Searing Light']"
 251931,254261,Ouroboros,1150.0,135104.0,,Default Target,[],1288103397.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 253805,254337,Auto,90.0,0.0,,Default Target,[],0.0,"['Presence of Mind', 'Searing Light']"
@@ -2404,7 +2408,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 249125,256500,Circle of Scorn (dot),30.0,3139.0,,Default Target,[],654824.0,"['Fight or Flight', 'Searing Light']"
 256097,256629,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Fugetsu', 'Fuka', 'Searing Light']"
 256000,256666,Blade of Faith,760.0,79591.0,,Default Target,['Requiescat'],421104584.0,"['Fight or Flight', 'Requiescat', 'Searing Light']"
-255894,256694,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+255894,256694,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 256058,256908,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Overheated', 'Searing Light']"
 256230,256988,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Searing Light']
 256555,257087,Auto,90.0,0.0,,Default Target,[],0.0,"['Presence of Mind', 'Searing Light']"
@@ -2583,6 +2587,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 275778,276310,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 275866,276398,Auto,90.0,0.0,,Default Target,[],0.0,[]
 276010,276542,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
+275734,276754,Slipstream (dot),30.0,3990.0,,Default Target,[],1123652.0,[]
 275734,276754,Slipstream,520.0,69278.0,,Default Target,[],338805067.0,[]
 276000,276758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
 276234,276766,Auto,90.0,229.0,,Default Target,[],3710.0,[]
@@ -2804,8 +2809,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 301080,301612,Auto,90.0,9146.0,,Default Target,[],5850300.0,"['Fugetsu', 'Fuka']"
 300523,301683,Steel Fangs,300.0,33562.0,,Default Target,['Honed Steel'],79487609.0,"['Honed Steel', ""Hunter's Instinct"", 'Swiftscaled']"
 301000,301758,Riot Blade,330.0,26327.0,,Default Target,[],46074807.0,[]
-301795,301795,Enkindle Bahamut,,,,,,,[]
 301795,301795,Akh Morn (pet),1300.0,138518.0,,Default Target,[],1354462664.0,[]
+301795,301795,Enkindle Bahamut,,,,,,,[]
 300176,301825,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 301110,301868,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 301569,302369,Heated Split Shot,220.0,27207.0,,Default Target,[],52053770.0,[]
@@ -3228,6 +3233,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 349477,350009,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 350148,350148,Afflatus Rapture,,,,,,,[]
 349698,350230,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+349216,350236,Slipstream (dot),30.0,3990.0,,Default Target,[],1123652.0,[]
 349216,350236,Slipstream,520.0,69278.0,,Default Target,[],338805067.0,[]
 349716,350248,Auto,90.0,229.0,,Default Target,[],3710.0,[]
 349930,350462,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
@@ -3355,7 +3361,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 363758,364290,Auto,90.0,0.0,,Default Target,[],0.0,['Grade 4 Gemdraught']
 364376,364376,Luxwave (pet),160.0,18547.0,,Default Target,[],24281890.0,['Grade 4 Gemdraught']
 363834,364454,Kasha,420.0,47982.0,,Default Target,['Meikyo Shisui'],161026141.0,"['Fugetsu', 'Fuka', 'Meikyo Shisui']"
-363656,364456,Umbral Impulse,620.0,89389.0,,Default Target,[],564047587.0,['Grade 4 Gemdraught']
+363656,364456,Umbral Impulse,640.0,92301.0,,Default Target,[],601389370.0,['Grade 4 Gemdraught']
 317551,364500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 348323,364500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 349216,364500,Slipstream (dot),30.0,3990.0,,Default Target,[],1123652.0,[]
@@ -3389,7 +3395,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 366625,366625,Fight or Flight,,,,,,,[]
 365975,366735,Gekko,420.0,50381.0,,Default Target,[],177526449.0,"['Fugetsu', 'Fuka', 'Searing Light']"
 366277,366809,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
-366136,366936,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+366136,366936,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 365688,366978,Glare III,350.0,51577.0,,Default Target,[],156889948.0,"['Grade 4 Gemdraught', 'Searing Light']"
 365374,367074,First Generation,680.0,86491.0,,Default Target,[],527907154.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 365994,367284,First Legacy,320.0,40699.0,,Default Target,[],116889139.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
@@ -3404,7 +3410,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 367110,367868,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Grade 4 Gemdraught', 'Searing Light']"
 367203,367913,Double Check,180.0,25295.0,,Default Target,[],44994323.0,"['Grade 4 Gemdraught', 'Searing Light']"
 367618,368150,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
-367536,368336,Searing Flash,600.0,90873.0,,Default Target,[],582917050.0,"['Grade 4 Gemdraught', 'Searing Light']"
+367536,368336,Searing Flash,700.0,106020.0,,Default Target,[],793459530.0,"['Grade 4 Gemdraught', 'Searing Light']"
 367850,368382,Auto,90.0,10053.0,,Default Target,[],7131444.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 368401,368401,Arm Punch (pet),240.0,30954.0,,Default Target,[],67378006.0,"['Grade 4 Gemdraught', 'Searing Light']"
 367874,368406,Auto,90.0,10393.0,,Default Target,[],7554387.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
@@ -3422,7 +3428,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 367818,369108,Glare III,350.0,51577.0,,Default Target,[],156889948.0,"['Grade 4 Gemdraught', 'Presence of Mind', 'Searing Light']"
 368726,369258,Auto,90.0,22.0,,Default Target,[],29.0,"['Grade 4 Gemdraught', 'Searing Light']"
 368735,369315,Shoha,640.0,83090.0,,Default Target,[],482863625.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
-368616,369416,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+368616,369416,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 368927,369594,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
 369098,369948,Glare IV,640.0,94303.0,,Default Target,[],524495851.0,"['Grade 4 Gemdraught', 'Presence of Mind', 'Searing Light']"
 369355,369975,Hissatsu: Shinten,250.0,32455.0,,Default Target,[],73677684.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
@@ -3449,7 +3455,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 371601,371601,Arm Punch (pet),240.0,30954.0,,Default Target,[],67378006.0,"['Grade 4 Gemdraught', 'Searing Light']"
 371038,371888,Glare IV,640.0,94303.0,,Default Target,[],524495851.0,"['Grade 4 Gemdraught', 'Presence of Mind', 'Searing Light']"
 370865,371895,Tendo Setsugekka,1100.0,197918.0,,Default Target,[],457239242.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
-371096,371896,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+371096,371896,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 370476,371946,Fourth Generation,680.0,86491.0,,Default Target,[],527907154.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 371625,371982,Expiacion,450.0,50993.0,,Default Target,[],172855171.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
 371377,372044,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
@@ -3460,9 +3466,9 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 371096,372166,Fourth Legacy,320.0,40699.0,,Default Target,[],116889139.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 371655,372275,Hissatsu: Shinten,250.0,32455.0,,Default Target,[],73677684.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
 371584,372434,Blazing Shot,260.0,36542.0,,Default Target,['Overheated'],93900074.0,"['Grade 4 Gemdraught', 'Overheated', 'Searing Light']"
-372496,372496,Exodus (pet),1500.0,182604.0,,Default Target,[],2353808626.0,"['Grade 4 Gemdraught', 'Searing Light']"
 372496,372496,Enkindle Solar Bahamut,,,,,,,[]
-371796,372596,Sunflare,800.0,121165.0,,Default Target,[],1036371924.0,"['Grade 4 Gemdraught', 'Searing Light']"
+372496,372496,Exodus (pet),1500.0,182604.0,,Default Target,[],2353808626.0,"['Grade 4 Gemdraught', 'Searing Light']"
+371796,372596,Sunflare,1000.0,151457.0,,Default Target,[],1619314318.0,"['Grade 4 Gemdraught', 'Searing Light']"
 372098,372630,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
 372330,372862,Auto,90.0,10053.0,,Default Target,[],7131444.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 372204,372914,Double Check,180.0,25295.0,,Default Target,[],44994323.0,"['Grade 4 Gemdraught', 'Searing Light']"
@@ -3485,7 +3491,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 373302,373969,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
 373500,374123,Confiteor,1000.0,113334.0,,Default Target,['Requiescat'],853863301.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat', 'Searing Light']"
 373818,374350,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', 'Presence of Mind', 'Searing Light']"
-373576,374376,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+373576,374376,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 373704,374414,Checkmate,180.0,25295.0,,Default Target,[],44994323.0,"['Grade 4 Gemdraught', 'Searing Light']"
 372176,374506,Ouroboros,1150.0,146270.0,,Default Target,[],1509810736.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 373529,374629,Psyche,600.0,88681.0,,Default Target,[],474740355.0,"['Grade 4 Gemdraught', 'Searing Light']"
@@ -3512,7 +3518,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 355008,376500,Dia (dot),85.0,12172.0,,Default Target,[],8737171.0,['Grade 4 Gemdraught']
 369125,376500,Circle of Scorn (dot),30.0,3394.0,,Default Target,[],765751.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
 376000,376666,Blade of Faith,760.0,86132.0,,Default Target,['Requiescat'],493172947.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Requiescat', 'Searing Light']"
-376056,376856,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+376056,376856,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 376357,376889,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
 376085,376935,Blazing Shot,260.0,36542.0,,Default Target,['Overheated'],93900074.0,"['Grade 4 Gemdraught', 'Overheated', 'Searing Light']"
 376568,377100,Auto,90.0,0.0,,Default Target,[],0.0,"['Grade 4 Gemdraught', 'Presence of Mind', 'Searing Light']"
@@ -3682,6 +3688,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 393500,394258,Holy Spirit,500.0,43173.0,,Default Target,['Divine Might'],123905687.0,"['Divine Might', 'Grade 4 Gemdraught']"
 393510,394268,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 393417,394437,Slipstream,520.0,74965.0,,Default Target,[],396710452.0,"['Grade 4 Gemdraught', 'Swiftcast']"
+393417,394437,Slipstream (dot),30.0,4319.0,,Default Target,[],1317308.0,['Grade 4 Gemdraught']
 377475,394500,Higanbana (dot),50.0,6567.0,,Default Target,[],3015677.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
 377843,394500,Eukrasian Dosis III (dot),85.0,12780.0,,Default Target,[],9861716.0,"['Grade 4 Gemdraught', 'Searing Light']"
 382679,394500,Dia (dot),85.0,12780.0,,Default Target,[],9632716.0,"['Grade 4 Gemdraught', 'Searing Light']"
@@ -4229,6 +4236,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 456220,456752,Auto,90.0,0.0,,Default Target,[],0.0,[]
 455179,456828,Storm's Eye,500.0,44474.0,,Default Target,['Surging Tempest'],131481340.0,['Surging Tempest']
 456200,456870,Assize,400.0,51864.0,,Default Target,[],158638414.0,[]
+455978,456998,Slipstream (dot),30.0,3990.0,,Default Target,[],1123652.0,[]
 455978,456998,Slipstream,520.0,69278.0,,Default Target,[],338805067.0,[]
 456478,457010,Auto,90.0,229.0,,Default Target,[],3710.0,[]
 456481,457101,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
@@ -4463,7 +4471,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 475020,484500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
 484539,484539,Luxwave (pet),160.0,17044.0,,Default Target,[],20504400.0,[]
 483270,484560,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
-483819,484619,Umbral Impulse,620.0,82610.0,,Default Target,[],481749080.0,[]
+483819,484619,Umbral Impulse,640.0,85302.0,,Default Target,[],513651035.0,[]
 484098,484630,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
 484729,484729,Reassemble,,,,,,,[]
 483500,484793,Atonement,460.0,36701.0,,Default Target,[],89538338.0,[]
@@ -4496,7 +4504,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 485701,486991,Glare III,350.0,47649.0,,Default Target,[],133903750.0,['Searing Light']
 486999,486999,Exodus (pet),1500.0,167820.0,,Default Target,[],1988079195.0,['Searing Light']
 486999,486999,Enkindle Solar Bahamut,,,,,,,[]
-486299,487099,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+486299,487099,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 486570,487102,Auto,90.0,9283.0,,Default Target,[],6080835.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 486588,487120,Auto,90.0,240.0,,Default Target,[],4093.0,['Searing Light']
 486000,487160,Supplication,500.0,41888.0,,Default Target,[],116639510.0,['Searing Light']
@@ -4524,7 +4532,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 488583,489163,Shoha,640.0,76777.0,,Default Target,[],412298319.0,"['Fugetsu', 'Fuka', 'Searing Light']"
 488550,489308,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Searing Light']
 488810,489342,Auto,90.0,9283.0,,Default Target,[],6080835.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
-488779,489579,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+488779,489579,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 488930,489597,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Searing Light', 'Surging Tempest']"
 487930,489630,First Generation,680.0,79884.0,,Default Target,[],450323304.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 489730,489730,Hypercharge,,,,,,,[]
@@ -4536,7 +4544,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 489125,490148,Circle of Scorn,140.0,14653.0,,Default Target,[],14270623.0,"['Fight or Flight', 'Searing Light']"
 489521,490191,Phlegma III,600.0,81929.0,,Default Target,[],405194830.0,['Searing Light']
 489708,490240,Auto,90.0,240.0,,Default Target,[],4093.0,['Searing Light']
-489479,490279,Searing Flash,600.0,83982.0,,Default Target,[],497873958.0,['Searing Light']
+489479,490279,Searing Flash,700.0,97980.0,,Default Target,[],677702371.0,['Searing Light']
 437399,490500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 465882,490500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 475020,490500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
@@ -4555,7 +4563,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 491190,491948,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Searing Light']
 491625,491982,Expiacion,450.0,47124.0,,Default Target,[],147618407.0,"['Fight or Flight', 'Searing Light']"
 491380,492047,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Searing Light', 'Surging Tempest']"
-491259,492059,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+491259,492059,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 491503,492123,Hissatsu: Shinten,250.0,29989.0,,Default Target,[],62902434.0,"['Fugetsu', 'Fuka', 'Searing Light']"
 492289,492289,Luxwave (pet),160.0,17896.0,,Default Target,[],22606389.0,['Searing Light']
 491000,492290,Sepulchre,540.0,56545.0,,Default Target,[],212554243.0,"['Fight or Flight', 'Searing Light']"
@@ -4588,7 +4596,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 493731,494441,Double Check,180.0,23368.0,,Default Target,[],38399269.0,['Searing Light']
 493957,494489,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Searing Light', 'Surging Tempest']"
 493032,494502,Fourth Generation,680.0,79884.0,,Default Target,[],450323304.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
-493739,494539,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+493739,494539,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 493830,494588,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Searing Light']
 494125,494703,Intervene,150.0,15705.0,,Default Target,[],16394679.0,"['Fight or Flight', 'Searing Light']"
 493652,494722,Fourth Legacy,320.0,37591.0,,Default Target,[],99716250.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
@@ -4612,7 +4620,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 496200,496870,Assize,400.0,54457.0,,Default Target,[],174895759.0,"['Presence of Mind', 'Searing Light']"
 495591,496881,Glare III,350.0,47649.0,,Default Target,[],133903750.0,"['Presence of Mind', 'Searing Light']"
 496112,496962,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Overheated', 'Searing Light']"
-496219,497019,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+496219,497019,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 494733,497063,Ouroboros,1150.0,135104.0,,Default Target,[],1288103397.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 496581,497113,Auto,90.0,0.0,,Default Target,[],0.0,"['Presence of Mind', 'Searing Light']"
 496023,497123,Psyche,600.0,81929.0,,Default Target,[],405194830.0,['Searing Light']
@@ -4782,6 +4790,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 495403,514500,Eukrasian Dosis III (dot),85.0,11807.0,,Default Target,[],8414727.0,['Searing Light']
 497323,514500,Higanbana (dot),50.0,6066.0,,Default Target,[],2573835.0,"['Fugetsu', 'Fuka', 'Searing Light']"
 505121,514500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
+513578,514598,Slipstream (dot),30.0,3990.0,,Default Target,[],1123652.0,[]
 513578,514598,Slipstream,520.0,69278.0,,Default Target,[],338805067.0,['Swiftcast']
 514117,514649,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
 513500,514790,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
@@ -5333,6 +5342,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 576170,576702,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 576079,576749,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 576140,577160,Slipstream,520.0,69278.0,,Default Target,[],338805067.0,[]
+576140,577160,Slipstream (dot),30.0,3990.0,,Default Target,[],1123652.0,[]
 576640,577172,Auto,90.0,229.0,,Default Target,[],3710.0,[]
 576642,577174,Auto,90.0,0.0,,Default Target,[],0.0,[]
 576000,577290,Sepulchre,540.0,43082.0,,Default Target,[],123387031.0,[]
@@ -5577,7 +5587,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 604001,604533,Auto,90.0,229.0,,Default Target,[],3710.0,[]
 603283,604573,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 604701,604701,Luxwave (pet),160.0,17044.0,,Default Target,[],20504400.0,[]
-603981,604781,Umbral Impulse,620.0,82610.0,,Default Target,[],481749080.0,[]
+603981,604781,Umbral Impulse,640.0,85302.0,,Default Target,[],513651035.0,[]
 604184,604804,Reawaken,750.0,83913.0,,Default Target,[],496909924.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 604868,604868,Searing Light,,,,,,,[]
 604868,604868,Searing Light,,,,,,,[]
@@ -5606,7 +5616,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 605997,606707,Double Check,180.0,23368.0,,Default Target,[],38399269.0,['Searing Light']
 605713,607003,Glare III,350.0,47649.0,,Default Target,[],133903750.0,['Searing Light']
 606645,607177,Auto,90.0,22.0,,Default Target,[],29.0,['Searing Light']
-606461,607261,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+606461,607261,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 606000,607293,Atonement,460.0,38535.0,,Default Target,[],98712872.0,['Searing Light']
 557247,607500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 583442,607500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -5616,8 +5626,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 606055,607755,First Generation,680.0,79884.0,,Default Target,[],450323304.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 607298,607830,Auto,90.0,6993.0,,Default Target,[],3250657.0,"['Fight or Flight', 'Searing Light']"
 607851,607851,Luxwave (pet),160.0,17896.0,,Default Target,[],22606389.0,['Searing Light']
-607861,607861,Enkindle Solar Bahamut,,,,,,,[]
 607861,607861,Exodus (pet),1500.0,167820.0,,Default Target,[],1988079195.0,['Searing Light']
+607861,607861,Enkindle Solar Bahamut,,,,,,,[]
 607161,607871,Necrotize,460.0,64332.0,,Default Target,[],292147084.0,['Searing Light']
 606675,607965,First Legacy,320.0,37591.0,,Default Target,[],99716250.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 607258,607968,Checkmate,180.0,23368.0,,Default Target,[],38399269.0,['Searing Light']
@@ -5639,7 +5649,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 607756,609226,Second Generation,680.0,79884.0,,Default Target,[],450323304.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 608376,609446,Second Legacy,320.0,37591.0,,Default Target,[],99716250.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 608932,609599,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Searing Light', 'Surging Tempest']"
-608941,609741,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+608941,609741,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 609758,609758,Hypercharge,,,,,,,[]
 609123,609973,Glare IV,640.0,87118.0,,Default Target,[],447612712.0,"['Presence of Mind', 'Searing Light']"
 609445,609977,Auto,90.0,22.0,,Default Target,[],29.0,['Searing Light']
@@ -5649,7 +5659,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 609125,610148,Circle of Scorn,140.0,14653.0,,Default Target,[],14270623.0,"['Fight or Flight', 'Searing Light']"
 609138,610168,Full Metal Field,900.0,201372.0,,Default Target,[],33804990.0,['Searing Light']
 609770,610302,Auto,90.0,9283.0,,Default Target,[],6080835.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
-609641,610441,Searing Flash,600.0,83982.0,,Default Target,[],497873958.0,['Searing Light']
+609641,610441,Searing Flash,700.0,97980.0,,Default Target,[],677702371.0,['Searing Light']
 557247,610500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 583442,610500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 595033,610500,Dia (dot),85.0,11244.0,,Default Target,[],7456489.0,[]
@@ -5670,7 +5680,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 611382,612049,Onslaught,150.0,14005.0,,Default Target,['Surging Tempest'],13040609.0,"['Searing Light', 'Surging Tempest']"
 611557,612089,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Searing Light', 'Surging Tempest']"
 611000,612160,Supplication,500.0,52360.0,,Default Target,[],182253239.0,"['Fight or Flight', 'Searing Light']"
-611421,612221,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+611421,612221,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 611778,612310,Auto,90.0,6993.0,,Default Target,[],3250657.0,"['Fight or Flight', 'Searing Light']"
 612451,612451,Luxwave (pet),160.0,17896.0,,Default Target,[],22606389.0,['Searing Light']
 611787,612457,Phlegma III,600.0,81929.0,,Default Target,[],405194830.0,['Searing Light']
@@ -5699,14 +5709,14 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 613843,614375,Auto,90.0,0.0,,Default Target,[],0.0,"['Presence of Mind', 'Searing Light']"
 613759,614469,Checkmate,180.0,23368.0,,Default Target,[],38399269.0,['Searing Light']
 614018,614550,Auto,90.0,6993.0,,Default Target,[],3250657.0,"['Fight or Flight', 'Searing Light']"
-613901,614701,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+613901,614701,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 614125,614703,Intervene,150.0,15705.0,,Default Target,[],16394679.0,"['Fight or Flight', 'Searing Light']"
 614250,614782,Auto,90.0,9283.0,,Default Target,[],6080835.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 614231,614991,Gekko,420.0,50381.0,,Default Target,[],177526449.0,"['Fugetsu', 'Fuka', 'Searing Light']"
 615003,615003,Ikishoten,,,,,,,[]
 612858,615188,Ouroboros,1150.0,135104.0,,Default Target,[],1288103397.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 615256,615256,Crowned Collider (pet),780.0,92546.0,,Default Target,[],602264232.0,['Searing Light']
-614601,615401,Sunflare,800.0,111977.0,,Default Target,[],885142720.0,['Searing Light']
+614601,615401,Sunflare,1000.0,139972.0,,Default Target,[],1383025083.0,['Searing Light']
 614917,615449,Auto,90.0,9387.0,,Default Target,['Surging Tempest'],5859094.0,"['Searing Light', 'Surging Tempest']"
 614640,615490,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Overheated', 'Searing Light']"
 615182,615805,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Inner Release', 'Searing Light', 'Surging Tempest']"
@@ -5727,7 +5737,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 616481,617013,Auto,90.0,240.0,,Default Target,[],4093.0,['Searing Light']
 616490,617022,Auto,90.0,9283.0,,Default Target,[],6080835.0,"[""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 616593,617125,Auto,90.0,0.0,,Default Target,[],0.0,"['Presence of Mind', 'Searing Light']"
-616381,617181,Umbral Impulse,620.0,86740.0,,Default Target,[],531129711.0,['Searing Light']
+616381,617181,Umbral Impulse,640.0,89567.0,,Default Target,[],566301897.0,['Searing Light']
 616625,617203,Intervene,150.0,15705.0,,Default Target,[],16394679.0,"['Fight or Flight', 'Searing Light']"
 616884,617464,Afflatus Misery,1400.0,190606.0,,Default Target,[],2142640715.0,"['Presence of Mind', 'Searing Light']"
 616760,617470,Checkmate,180.0,23368.0,,Default Target,[],38399269.0,['Searing Light']
@@ -5897,6 +5907,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 633750,634508,Shot,80.0,7251.0,,Default Target,[],3696450.0,[]
 633384,634674,Glare III,350.0,45381.0,,Default Target,[],121455354.0,[]
 634178,634710,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
+633742,634762,Slipstream (dot),30.0,3990.0,,Default Target,[],1123652.0,[]
 633742,634762,Slipstream,520.0,69278.0,,Default Target,[],338805067.0,['Swiftcast']
 634410,634942,Auto,90.0,8841.0,,Default Target,[],5515995.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 634145,634945,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
@@ -6131,8 +6142,8 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 661314,662114,Yukikaze,340.0,38842.0,,Default Target,[],105525015.0,"['Fugetsu', 'Fuka']"
 661000,662160,Supplication,500.0,39894.0,,Default Target,[],105795169.0,[]
 661585,662165,Afflatus Misery,1400.0,181530.0,,Default Target,[],1943447881.0,[]
-662282,662282,Revelation (pet),1300.0,138518.0,,Default Target,[],1354462664.0,[]
 662282,662282,Enkindle Phoenix,,,,,,,[]
+662282,662282,Revelation (pet),1300.0,138518.0,,Default Target,[],1354462664.0,[]
 661678,662348,Dosis III,380.0,49391.0,,Default Target,[],147266966.0,[]
 661651,662451,Heated Slug Shot,320.0,39574.0,,Default Target,[],110128346.0,[]
 661957,662489,Auto,90.0,8941.0,,Default Target,['Surging Tempest'],5313749.0,['Surging Tempest']
@@ -6434,6 +6445,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 696176,696796,Hissatsu: Shinten,250.0,28561.0,,Default Target,[],57056461.0,"['Fugetsu', 'Fuka']"
 695995,696885,Hunter's Sting,300.0,33562.0,,Default Target,[],79487609.0,"[""Hunter's Instinct"", 'Swiftscaled']"
 696765,697297,Auto,90.0,21.0,,Default Target,[],25.0,[]
+696303,697323,Slipstream (dot),30.0,3990.0,,Default Target,[],1123652.0,[]
 696303,697323,Slipstream,520.0,69278.0,,Default Target,[],338805067.0,[]
 696803,697335,Auto,90.0,229.0,,Default Target,[],3710.0,[]
 696898,697430,Auto,90.0,5328.0,,Default Target,[],1887023.0,[]
@@ -6691,7 +6703,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 724868,724868,Searing Light,,,,,,,[]
 724868,724868,Searing Light,,,,,,,[]
 724868,724868,Searing Light,,,,,,,[]
-724144,724944,Umbral Impulse,620.0,89389.0,,Default Target,[],564047587.0,['Grade 4 Gemdraught']
+724144,724944,Umbral Impulse,640.0,92301.0,,Default Target,[],601389370.0,['Grade 4 Gemdraught']
 724164,725194,Chain Saw,660.0,152217.0,,Default Target,['Reassemble'],19309106.0,"['Grade 4 Gemdraught', 'Reassemble']"
 723761,725231,Second Generation,680.0,82372.0,,Default Target,[],478822956.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Swiftscaled']"
 725283,725283,Roller Dash (pet),480.0,61915.0,,Default Target,[],269576099.0,"['Grade 4 Gemdraught', 'Searing Light']"
@@ -6716,7 +6728,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 726128,727158,Tendo Setsugekka,1100.0,197918.0,,Default Target,[],457239242.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
 726628,727160,Auto,90.0,10393.0,,Default Target,[],7554387.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
 726082,727292,Third Legacy,320.0,40699.0,,Default Target,[],116889139.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
-726624,727424,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+726624,727424,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 685656,727500,Higanbana (dot),50.0,5778.0,,Default Target,[],2333763.0,"['Fugetsu', 'Fuka']"
 705708,727500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
 717476,727500,Dia (dot),85.0,12172.0,,Default Target,[],8737171.0,['Grade 4 Gemdraught']
@@ -6734,7 +6746,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 727658,728688,Tendo Kaeshi Setsugekka,1100.0,197918.0,,Default Target,[],457239242.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
 728192,728724,Auto,90.0,22.0,,Default Target,[],29.0,"['Grade 4 Gemdraught', 'Searing Light']"
 728258,728790,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
-728024,728824,Searing Flash,600.0,90873.0,,Default Target,[],582917050.0,"['Grade 4 Gemdraught', 'Searing Light']"
+728024,728824,Searing Flash,700.0,106020.0,,Default Target,[],793459530.0,"['Grade 4 Gemdraught', 'Searing Light']"
 727782,728852,Fourth Legacy,320.0,40699.0,,Default Target,[],116889139.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 728278,728858,Shoha,640.0,83090.0,,Default Target,[],482863625.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
 728310,728933,Upheaval,420.0,42437.0,,Default Target,['Surging Tempest'],119714685.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
@@ -6746,7 +6758,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 728935,729602,Onslaught,150.0,15152.0,,Default Target,['Surging Tempest'],15261267.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
 729157,729689,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
 729172,729842,Phlegma III,600.0,88681.0,,Default Target,[],474740355.0,"['Grade 4 Gemdraught', 'Searing Light']"
-729104,729904,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+729104,729904,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 729136,729986,Glare IV,640.0,94303.0,,Default Target,[],524495851.0,"['Grade 4 Gemdraught', 'Presence of Mind', 'Searing Light']"
 730083,730083,Arm Punch (pet),240.0,30954.0,,Default Target,[],67378006.0,"['Grade 4 Gemdraught', 'Searing Light']"
 729125,730148,Circle of Scorn,140.0,15856.0,,Default Target,[],16712666.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
@@ -6763,7 +6775,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 730418,731038,Hissatsu: Shinten,250.0,32455.0,,Default Target,[],73677684.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
 728863,731193,Ouroboros,1150.0,146270.0,,Default Target,[],1509810736.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 730730,731262,Auto,90.0,10053.0,,Default Target,[],7131444.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
-730504,731304,Sunflare,800.0,121165.0,,Default Target,[],1036371924.0,"['Grade 4 Gemdraught', 'Searing Light']"
+730504,731304,Sunflare,1000.0,151457.0,,Default Target,[],1619314318.0,"['Grade 4 Gemdraught', 'Searing Light']"
 730185,731345,Primal Rend,700.0,121996.0,,Default Target,['Surging Tempest'],12405366.0,"['Grade 4 Gemdraught', 'Searing Light', 'Surging Tempest']"
 730992,731524,Auto,90.0,22.0,,Default Target,[],29.0,"['Grade 4 Gemdraught', 'Searing Light']"
 731683,731683,Arm Punch (pet),240.0,30954.0,,Default Target,[],67378006.0,"['Grade 4 Gemdraught', 'Searing Light']"
@@ -6775,7 +6787,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 731000,732160,Supplication,500.0,56664.0,,Default Target,[],213447143.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
 731430,732188,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Grade 4 Gemdraught', 'Searing Light']"
 731613,732283,Phlegma III,600.0,88681.0,,Default Target,[],474740355.0,"['Grade 4 Gemdraught', 'Searing Light']"
-731584,732384,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+731584,732384,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 731666,732516,Blazing Shot,260.0,36542.0,,Default Target,['Overheated'],93900074.0,"['Grade 4 Gemdraught', 'Overheated', 'Searing Light']"
 731939,732559,Kasha,420.0,54527.0,,Default Target,[],207948625.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
 732559,732559,Meikyo Shisui,,,,,,,[]
@@ -6805,7 +6817,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 733786,734496,Checkmate,180.0,25295.0,,Default Target,[],44994323.0,"['Grade 4 Gemdraught', 'Searing Light']"
 734125,734703,Intervene,150.0,16994.0,,Default Target,[],19195871.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
 734070,734828,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Grade 4 Gemdraught', 'Searing Light']"
-734064,734864,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+734064,734864,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 734079,734879,Yukikaze,340.0,44139.0,,Default Target,['Meikyo Shisui'],136261809.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Meikyo Shisui', 'Searing Light']"
 733284,734984,First Generation,680.0,86491.0,,Default Target,[],527907154.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
 733904,735194,First Legacy,320.0,40699.0,,Default Target,[],116889139.0,"['Grade 4 Gemdraught', ""Hunter's Instinct"", 'Searing Light', 'Swiftscaled']"
@@ -6831,7 +6843,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 736167,737017,Blazing Shot,260.0,36542.0,,Default Target,['Overheated'],93900074.0,"['Grade 4 Gemdraught', 'Overheated', 'Searing Light']"
 736643,737175,Auto,90.0,240.0,,Default Target,[],4093.0,"['Grade 4 Gemdraught', 'Searing Light']"
 736625,737203,Intervene,150.0,16994.0,,Default Target,[],19195871.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
-736544,737344,Umbral Impulse,620.0,93858.0,,Default Target,[],621861009.0,"['Grade 4 Gemdraught', 'Searing Light']"
+736544,737344,Umbral Impulse,640.0,96916.0,,Default Target,[],663029828.0,"['Grade 4 Gemdraught', 'Searing Light']"
 736710,737468,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Grade 4 Gemdraught', 'Searing Light']"
 737218,737750,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
 736829,737859,Tendo Setsugekka,1100.0,197918.0,,Default Target,[],457239242.0,"['Fugetsu', 'Fuka', 'Grade 4 Gemdraught', 'Searing Light']"
@@ -6887,6 +6899,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 717476,742500,Dia (dot),85.0,12172.0,,Default Target,[],8737171.0,['Grade 4 Gemdraught']
 729125,742500,Circle of Scorn (dot),30.0,3394.0,,Default Target,[],765751.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
 741504,742524,Slipstream,520.0,78712.0,,Default Target,[],437379598.0,"['Grade 4 Gemdraught', 'Searing Light', 'Swiftcast']"
+741504,742524,Slipstream (dot),30.0,4535.0,,Default Target,[],1452372.0,"['Grade 4 Gemdraught', 'Searing Light']"
 741436,742726,Glare III,350.0,51577.0,,Default Target,[],156889948.0,"['Grade 4 Gemdraught', 'Presence of Mind', 'Searing Light']"
 741990,742748,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Grade 4 Gemdraught', 'Searing Light']"
 741625,742785,Blade of Honor,1000.0,113334.0,,Default Target,[],853863301.0,"['Fight or Flight', 'Grade 4 Gemdraught', 'Searing Light']"
