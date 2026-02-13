@@ -236,6 +236,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 18255,18787,Auto,90.0,10243.0,,Default Target,[],7734906.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 17670,18830,Primal Rend,700.0,129656.0,,Default Target,['Surging Tempest'],14016246.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Surging Tempest']"
 19022,19022,Arm Punch (pet),144.0,19561.0,,Default Target,[],28213000.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
+18826,19181,Tenri Jindo,1100.0,147440.0,,Default Target,[],1602729838.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 18206,19236,Zesho Meppo,850.0,113927.0,,Default Target,['Meisui'],956945365.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Meisui']"
 18120,19280,Rise of the Dragon,550.0,94477.0,,Default Target,[],658813652.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 18505,19355,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
@@ -254,7 +255,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 19921,20453,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Presence of Mind']"
 19301,20461,Fire IV,300.0,94761.0,,Default Target,['3 Astral Fire'],372253883.0,"['Battle Litany', 'Dokumori', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 19707,20467,Fleeting Raiju,700.0,93822.0,,Default Target,['Bunshin'],648994157.0,"['Battle Litany', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
-18826,20516,Tenri Jindo,1100.0,147440.0,,Default Target,[],1602729838.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 20555,20555,Fleeting Raiju (pet),160.0,19935.0,,Default Target,[],29299652.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 20000,20620,Fang and Claw,340.0,58402.0,,Default Target,[],251745461.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 20622,20622,Pile Bunker (pet),408.0,55434.0,,Default Target,[],226591637.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
@@ -1363,6 +1363,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 139031,139881,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
 139651,140361,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
 139628,140388,Fleeting Raiju,700.0,86686.0,,Default Target,[],554034723.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
+140248,140603,Tenri Jindo,1100.0,136222.0,,Default Target,[],1368132086.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
 140620,140620,Life Surge,,,,,,,[]
 140070,140828,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
 140347,140879,Auto,90.0,9465.0,,Default Target,[],6606733.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
@@ -1379,7 +1380,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 141152,141862,Double Check,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
 141000,141891,Blade of Valor,1000.0,110322.0,,Default Target,['Requiescat'],848160097.0,"['Battle Litany', 'Dokumori', 'Fight or Flight', 'Requiescat']"
 141378,141910,Auto,90.0,7367.0,,Default Target,[],3781845.0,"['Battle Litany', 'Dokumori', 'Fight or Flight']"
-140248,141938,Tenri Jindo,1100.0,136222.0,,Default Target,[],1368132086.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
 142248,142248,Chi,,,,,,,[]
 141883,142415,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Dokumori', 'Enochian', 'Ley Lines']"
 113552,142500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -2480,6 +2480,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 259678,260388,Checkmate,180.0,24614.0,,Default Target,[],44676038.0,"['Battle Litany', 'Dokumori']"
 259946,260478,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Dokumori', 'Presence of Mind']"
 260015,260547,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Dokumori', 'Enochian', 'Ley Lines']"
+260245,260600,Tenri Jindo,1100.0,136222.0,,Default Target,[],1368132086.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
 260000,260620,Drakesbane,460.0,102095.0,,Default Target,['Wheeling Thrust'],128648164.0,"['Battle Litany', 'Dokumori', 'Lance Charge', 'Life Surge', 'Life of the Dragon', 'Power Surge', 'Wheeling Thrust']"
 260098,260630,Auto,90.0,7367.0,,Default Target,[],3781845.0,"['Battle Litany', 'Dokumori', 'Fight or Flight']"
 259446,260736,Glare III,350.0,50151.0,,Default Target,[],159684034.0,"['Battle Litany', 'Dokumori', 'Presence of Mind']"
@@ -2490,7 +2491,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 261160,261692,Auto,90.0,13318.0,,Default Target,[],13092099.0,"['Battle Litany', 'Dokumori', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 261265,261885,Xenoglossy,890.0,144293.0,,Default Target,[],863113609.0,"['Battle Litany', 'Dokumori', 'Enochian', 'Ley Lines']"
 261000,261891,Blade of Valor,1000.0,110322.0,,Default Target,['Requiescat'],848160097.0,"['Battle Litany', 'Dokumori', 'Fight or Flight', 'Requiescat']"
-260245,261935,Tenri Jindo,1100.0,136222.0,,Default Target,[],1368132086.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
 261964,261964,Triplecast,,,,,,,[]
 261462,261994,Auto,90.0,23.0,,Default Target,[],35.0,"['Battle Litany', 'Dokumori']"
 262180,262180,Hypercharge,,,,,,,[]
@@ -3573,6 +3573,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 377670,378428,Shot,80.0,8679.0,,Default Target,[],5554348.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
 377586,378436,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
 378443,378443,Hypercharge,,,,,,,[]
+378126,378481,Tenri Jindo,1100.0,147440.0,,Default Target,[],1602729838.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 378176,378708,Auto,90.0,10243.0,,Default Target,[],7734906.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 378740,378740,Life Surge,,,,,,,[]
 378746,378746,Meisui,,,,,,,[]
@@ -3589,7 +3590,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 369125,379500,Circle of Scorn (dot),30.0,3575.0,,Default Target,[],890888.0,"['Battle Litany', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
 369126,379500,Thunder (dot),60.0,11894.0,,Default Target,[],5864013.0,"['Battle Litany', 'Dokumori', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 377843,379500,Eukrasian Dosis III (dot),85.0,13454.0,,Default Target,[],11701771.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"
-378126,379816,Tenri Jindo,1100.0,147440.0,,Default Target,[],1602729838.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 379086,379936,Blazing Shot,260.0,38491.0,,Default Target,['Overheated'],109249346.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
 379717,380249,Auto,90.0,10703.0,,Default Target,['Surging Tempest'],7982291.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Surging Tempest']"
 379626,380386,Fleeting Raiju,700.0,93822.0,,Default Target,['Bunshin'],648994157.0,"['Battle Litany', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
@@ -4685,6 +4685,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 497506,498266,Fleeting Raiju,700.0,86686.0,,Default Target,[],554034723.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
 497680,498303,Fell Cleave,580.0,99296.0,,Default Target,['Surging Tempest'],8217074.0,"['Battle Litany', 'Dokumori', 'Inner Release', 'Surging Tempest']"
 497613,498463,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
+498126,498481,Tenri Jindo,1100.0,136222.0,,Default Target,[],1368132086.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
 497868,498488,Xenoglossy,890.0,144293.0,,Default Target,[],863113609.0,"['Battle Litany', 'Dokumori', 'Enochian', 'Ley Lines']"
 497863,498533,Dosis III,380.0,54593.0,,Default Target,[],192652435.0,"['Battle Litany', 'Dokumori']"
 498176,498708,Auto,90.0,9465.0,,Default Target,[],6606733.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
@@ -4702,7 +4703,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 495403,499500,Eukrasian Dosis III (dot),85.0,12429.0,,Default Target,[],9984619.0,"['Battle Litany', 'Dokumori']"
 499021,499553,Auto,90.0,23.0,,Default Target,[],35.0,"['Battle Litany', 'Dokumori']"
 499160,499692,Auto,90.0,13318.0,,Default Target,[],13092099.0,"['Battle Litany', 'Dokumori', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
-498126,499816,Tenri Jindo,1100.0,136222.0,,Default Target,[],1368132086.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
 499110,499868,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
 499113,499913,Heated Slug Shot,320.0,43769.0,,Default Target,[],141265056.0,"['Battle Litany', 'Dokumori']"
 499778,500310,Auto,90.0,7367.0,,Default Target,[],3781845.0,"['Battle Litany', 'Dokumori', 'Fight or Flight']"
@@ -5782,6 +5782,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 616000,616666,Blade of Faith,760.0,83846.0,,Default Target,['Requiescat'],489917917.0,"['Battle Litany', 'Dokumori', 'Fight or Flight', 'Requiescat']"
 616258,616790,Auto,90.0,7367.0,,Default Target,[],3781845.0,"['Battle Litany', 'Dokumori', 'Fight or Flight']"
 615604,616894,Glare III,350.0,50151.0,,Default Target,[],159684034.0,"['Battle Litany', 'Dokumori', 'Presence of Mind']"
+616626,616981,Tenri Jindo,1100.0,136222.0,,Default Target,[],1368132086.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
 616006,616986,Suiton,580.0,71824.0,,Default Target,['Ten Chi Jin'],380335991.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
 616140,616990,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
 616593,617125,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Dokumori', 'Presence of Mind']"
@@ -5795,7 +5796,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 617506,618266,Fleeting Raiju,700.0,86686.0,,Default Target,[],554034723.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
 617628,618298,Dosis III,380.0,54593.0,,Default Target,[],192652435.0,"['Battle Litany', 'Dokumori']"
 617682,618305,Fell Cleave,580.0,99296.0,,Default Target,['Surging Tempest'],8217074.0,"['Battle Litany', 'Dokumori', 'Inner Release', 'Surging Tempest']"
-616626,618316,Tenri Jindo,1100.0,136222.0,,Default Target,[],1368132086.0,"['Battle Litany', 'Dokumori', ""Kunai's Bane""]"
 617849,618381,Auto,90.0,0.0,,Default Target,[],0.0,"['Battle Litany', 'Dokumori', 'Enochian', 'Ley Lines']"
 617641,618491,Blazing Shot,260.0,35562.0,,Default Target,['Overheated'],93255686.0,"['Battle Litany', 'Dokumori', 'Overheated']"
 617910,618668,Shot,80.0,8019.0,,Default Target,[],4741381.0,"['Battle Litany', 'Dokumori']"
@@ -6924,6 +6924,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 728520,739500,Thunder (dot),60.0,11894.0,,Default Target,[],5864013.0,"['Battle Litany', 'Dokumori', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 729125,739500,Circle of Scorn (dot),30.0,3575.0,,Default Target,[],890888.0,"['Battle Litany', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
 730000,739500,Chaotic Spring (dot),45.0,7724.0,,Default Target,[],4403537.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
+739194,739549,Tenri Jindo,1100.0,147440.0,,Default Target,[],1602729838.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 738574,739554,Suiton,580.0,77734.0,,Default Target,['Ten Chi Jin'],445504525.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Ten Chi Jin']"
 739237,739769,Auto,90.0,10703.0,,Default Target,['Surging Tempest'],7982291.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Surging Tempest']"
 739458,739990,Auto,90.0,7973.0,,Default Target,[],4430217.0,"['Battle Litany', 'Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
@@ -6938,7 +6939,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 740105,740775,Assize,400.0,62042.0,,Default Target,[],244386681.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Presence of Mind']"
 739496,740786,Glare III,350.0,54286.0,,Default Target,[],187095851.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Presence of Mind']"
 740074,740834,Fleeting Raiju,700.0,93822.0,,Default Target,['Bunshin'],648994157.0,"['Battle Litany', 'Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
-739194,740884,Tenri Jindo,1100.0,147440.0,,Default Target,[],1602729838.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 740922,740922,Fleeting Raiju (pet),160.0,19935.0,,Default Target,[],29299652.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 740000,740940,Lance Barrage,340.0,58402.0,,Default Target,[],251745461.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught', 'Lance Charge', 'Life of the Dragon', 'Power Surge']"
 730378,741048,Wildfire (dot),1440.0,158784.0,,Default Target,['6 GCD'],21011886.0,"['Battle Litany', 'Dokumori', 'Grade 4 Gemdraught']"

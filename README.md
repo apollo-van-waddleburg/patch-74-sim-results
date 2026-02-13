@@ -16,6 +16,7 @@ rng on these jobs as well.
 
 ### Revisions
 
+* 2025/02/12: Fixed rDPS/cDPS graphs for some buff jobs. Overall outcomes are unaffected.
 * 2025/01/27: We have updated this for 7.41. You can view the archived 7.4 version [here](./archive/patch74.html)
 
 ## Contents and Methodology

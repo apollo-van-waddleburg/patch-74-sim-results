@@ -225,6 +225,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 18255,18787,Auto,90.0,9723.0,,Default Target,[],6670557.0,"['Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 17670,18830,Primal Rend,700.0,121996.0,,Default Target,['Surging Tempest'],12405366.0,"['Dokumori', 'Grade 4 Gemdraught', 'Surging Tempest']"
 19022,19022,Arm Punch (pet),144.0,18571.0,,Default Target,[],24249230.0,"['Dokumori', 'Grade 4 Gemdraught']"
+18826,19181,Tenri Jindo,1100.0,139951.0,,Default Target,[],1382183124.0,"['Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 18206,19236,Zesho Meppo,850.0,108141.0,,Default Target,['Meisui'],825262638.0,"['Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Meisui']"
 18505,19355,Blazing Shot,260.0,36542.0,,Default Target,['Overheated'],93900074.0,"['Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
 18630,19388,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Dokumori', 'Grade 4 Gemdraught']"
@@ -244,7 +245,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 19301,20461,Fire IV,300.0,90799.0,,Default Target,['3 Astral Fire'],254491485.0,"['Dokumori', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 19707,20467,Fleeting Raiju,700.0,89057.0,,Default Target,['Bunshin'],559688242.0,"['Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 19892,20512,Hissatsu: Shinten,250.0,32455.0,,Default Target,[],73677684.0,"['Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
-18826,20516,Tenri Jindo,1100.0,139951.0,,Default Target,[],1382183124.0,"['Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 20555,20555,Fleeting Raiju (pet),160.0,18922.0,,Default Target,[],25267854.0,"['Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 20622,20622,Pile Bunker (pet),408.0,52627.0,,Default Target,[],194757288.0,"['Dokumori', 'Grade 4 Gemdraught']"
 19421,20711,Glare III,350.0,51577.0,,Default Target,[],156889948.0,"['Dokumori', 'Grade 4 Gemdraught', 'Presence of Mind']"
@@ -1356,6 +1356,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 139651,140361,Checkmate,180.0,23368.0,,Default Target,[],38399269.0,['Dokumori']
 139628,140388,Fleeting Raiju,700.0,82283.0,,Default Target,[],477795591.0,"['Dokumori', ""Kunai's Bane""]"
 139920,140420,Ogi Namikiri,1000.0,166254.0,,Default Target,[],322631970.0,"['Dokumori', 'Fugetsu', 'Fuka']"
+140248,140603,Tenri Jindo,1100.0,129303.0,,Default Target,[],1179867049.0,"['Dokumori', ""Kunai's Bane""]"
 140070,140828,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Dokumori']
 140347,140879,Auto,90.0,8984.0,,Default Target,[],5697537.0,"['Dokumori', ""Kunai's Bane""]"
 130268,140938,Wildfire (dot),1440.0,146707.0,,Default Target,['6 GCD'],17936520.0,['Dokumori']
@@ -1371,7 +1372,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 141152,141862,Double Check,180.0,23368.0,,Default Target,[],38399269.0,['Dokumori']
 141000,141891,Blade of Valor,1000.0,104723.0,,Default Target,['Requiescat'],729027788.0,"['Dokumori', 'Fight or Flight', 'Requiescat']"
 141378,141910,Auto,90.0,6993.0,,Default Target,[],3250657.0,"['Dokumori', 'Fight or Flight']"
-140248,141938,Tenri Jindo,1100.0,129303.0,,Default Target,[],1179867049.0,"['Dokumori', ""Kunai's Bane""]"
 142248,142248,Chi,,,,,,,[]
 141883,142415,Auto,90.0,0.0,,Default Target,[],0.0,"['Dokumori', 'Enochian', 'Ley Lines']"
 113552,142500,Eukrasian Dosis III (dot),85.0,11245.0,,Default Target,[],7632622.0,[]
@@ -2475,6 +2475,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 259678,260388,Checkmate,180.0,23368.0,,Default Target,[],38399269.0,['Dokumori']
 259946,260478,Auto,90.0,0.0,,Default Target,[],0.0,"['Dokumori', 'Presence of Mind']"
 260015,260547,Auto,90.0,0.0,,Default Target,[],0.0,"['Dokumori', 'Enochian', 'Ley Lines']"
+260245,260600,Tenri Jindo,1100.0,129303.0,,Default Target,[],1179867049.0,"['Dokumori', ""Kunai's Bane""]"
 260098,260630,Auto,90.0,6993.0,,Default Target,[],3250657.0,"['Dokumori', 'Fight or Flight']"
 259446,260736,Glare III,350.0,47649.0,,Default Target,[],133903750.0,"['Dokumori', 'Presence of Mind']"
 260345,260877,Auto,90.0,8984.0,,Default Target,[],5697537.0,"['Dokumori', ""Kunai's Bane""]"
@@ -2485,7 +2486,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 261108,261598,Kaeshi: Namikiri,1000.0,166254.0,,Default Target,[],322631970.0,"['Dokumori', 'Fugetsu', 'Fuka']"
 261265,261885,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Dokumori', 'Enochian', 'Ley Lines']"
 261000,261891,Blade of Valor,1000.0,104723.0,,Default Target,['Requiescat'],729027788.0,"['Dokumori', 'Fight or Flight', 'Requiescat']"
-260245,261935,Tenri Jindo,1100.0,129303.0,,Default Target,[],1179867049.0,"['Dokumori', ""Kunai's Bane""]"
 261964,261964,Triplecast,,,,,,,[]
 261462,261994,Auto,90.0,22.0,,Default Target,[],29.0,['Dokumori']
 262180,262180,Hypercharge,,,,,,,[]
@@ -3571,6 +3571,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 377670,378428,Shot,80.0,8239.0,,Default Target,[],4774008.0,"['Dokumori', 'Grade 4 Gemdraught']"
 377586,378436,Blazing Shot,260.0,36542.0,,Default Target,['Overheated'],93900074.0,"['Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
 378443,378443,Hypercharge,,,,,,,[]
+378126,378481,Tenri Jindo,1100.0,139951.0,,Default Target,[],1382183124.0,"['Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 377975,378507,Auto,90.0,10393.0,,Default Target,[],7554387.0,"['Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 378176,378708,Auto,90.0,9723.0,,Default Target,[],6670557.0,"['Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 378746,378746,Meisui,,,,,,,[]
@@ -3585,7 +3586,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 369126,379500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Dokumori', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 377475,379500,Higanbana (dot),50.0,6567.0,,Default Target,[],3015677.0,"['Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 377843,379500,Eukrasian Dosis III (dot),85.0,12780.0,,Default Target,[],9861716.0,"['Dokumori', 'Grade 4 Gemdraught']"
-378126,379816,Tenri Jindo,1100.0,139951.0,,Default Target,[],1382183124.0,"['Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 379086,379936,Blazing Shot,260.0,36542.0,,Default Target,['Overheated'],93900074.0,"['Dokumori', 'Grade 4 Gemdraught', 'Overheated']"
 379615,380115,Ogi Namikiri,1000.0,179927.0,,Default Target,[],377876158.0,"['Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 379717,380249,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Dokumori', 'Grade 4 Gemdraught', 'Surging Tempest']"
@@ -4684,6 +4684,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 497506,498266,Fleeting Raiju,700.0,82283.0,,Default Target,[],477795591.0,"['Dokumori', ""Kunai's Bane""]"
 497680,498303,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Dokumori', 'Inner Release', 'Surging Tempest']"
 497613,498463,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Dokumori', 'Overheated']"
+498126,498481,Tenri Jindo,1100.0,129303.0,,Default Target,[],1179867049.0,"['Dokumori', ""Kunai's Bane""]"
 497868,498488,Xenoglossy,890.0,138259.0,,Default Target,[],590072400.0,"['Dokumori', 'Enochian', 'Ley Lines']"
 497863,498533,Dosis III,380.0,51860.0,,Default Target,[],162358955.0,['Dokumori']
 498083,498615,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Dokumori', 'Fugetsu', 'Fuka']"
@@ -4701,7 +4702,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 495403,499500,Eukrasian Dosis III (dot),85.0,11807.0,,Default Target,[],8414727.0,['Dokumori']
 497323,499500,Higanbana (dot),50.0,6066.0,,Default Target,[],2573835.0,"['Dokumori', 'Fugetsu', 'Fuka']"
 499021,499553,Auto,90.0,22.0,,Default Target,[],29.0,['Dokumori']
-498126,499816,Tenri Jindo,1100.0,129303.0,,Default Target,[],1179867049.0,"['Dokumori', ""Kunai's Bane""]"
 499110,499868,Shot,80.0,7613.0,,Default Target,[],4075280.0,['Dokumori']
 499113,499913,Heated Slug Shot,320.0,41553.0,,Default Target,[],121418339.0,['Dokumori']
 499463,499963,Ogi Namikiri,1000.0,166254.0,,Default Target,[],322631970.0,"['Dokumori', 'Fugetsu', 'Fuka']"
@@ -5786,6 +5786,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 616000,616666,Blade of Faith,760.0,79591.0,,Default Target,['Requiescat'],421104584.0,"['Dokumori', 'Fight or Flight', 'Requiescat']"
 616258,616790,Auto,90.0,6993.0,,Default Target,[],3250657.0,"['Dokumori', 'Fight or Flight']"
 615604,616894,Glare III,350.0,47649.0,,Default Target,[],133903750.0,"['Dokumori', 'Presence of Mind']"
+616626,616981,Tenri Jindo,1100.0,129303.0,,Default Target,[],1179867049.0,"['Dokumori', ""Kunai's Bane""]"
 616006,616986,Suiton,580.0,68176.0,,Default Target,['Ten Chi Jin'],327999100.0,"['Dokumori', ""Kunai's Bane"", 'Ten Chi Jin']"
 616140,616990,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Dokumori', 'Overheated']"
 616593,617125,Auto,90.0,0.0,,Default Target,[],0.0,"['Dokumori', 'Presence of Mind']"
@@ -5798,7 +5799,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 617506,618266,Fleeting Raiju,700.0,82283.0,,Default Target,[],477795591.0,"['Dokumori', ""Kunai's Bane""]"
 617628,618298,Dosis III,380.0,51860.0,,Default Target,[],162358955.0,['Dokumori']
 617682,618305,Fell Cleave,580.0,93429.0,,Default Target,['Surging Tempest'],7274304.0,"['Dokumori', 'Inner Release', 'Surging Tempest']"
-616626,618316,Tenri Jindo,1100.0,129303.0,,Default Target,[],1179867049.0,"['Dokumori', ""Kunai's Bane""]"
 617849,618381,Auto,90.0,0.0,,Default Target,[],0.0,"['Dokumori', 'Enochian', 'Ley Lines']"
 617931,618463,Auto,90.0,9603.0,,Default Target,[],6450688.0,"['Dokumori', 'Fugetsu', 'Fuka']"
 617641,618491,Blazing Shot,260.0,33762.0,,Default Target,['Overheated'],80153847.0,"['Dokumori', 'Overheated']"
@@ -6929,6 +6929,7 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 717476,739500,Dia (dot),85.0,12172.0,,Default Target,[],8737171.0,['Grade 4 Gemdraught']
 728520,739500,Thunder (dot),60.0,11396.0,,Default Target,[],4009118.0,"['Dokumori', 'Enochian', 'Grade 4 Gemdraught', 'Ley Lines']"
 729125,739500,Circle of Scorn (dot),30.0,3394.0,,Default Target,[],765751.0,"['Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
+739194,739549,Tenri Jindo,1100.0,139951.0,,Default Target,[],1382183124.0,"['Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 738574,739554,Suiton,580.0,73786.0,,Default Target,['Ten Chi Jin'],384199239.0,"['Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane"", 'Ten Chi Jin']"
 739237,739769,Auto,90.0,10160.0,,Default Target,['Surging Tempest'],6861149.0,"['Dokumori', 'Grade 4 Gemdraught', 'Surging Tempest']"
 739458,739990,Auto,90.0,7569.0,,Default Target,[],3807948.0,"['Dokumori', 'Fight or Flight', 'Grade 4 Gemdraught']"
@@ -6942,7 +6943,6 @@ sim_timestamp,sim_damage_timestamp,sim_name,sim_potency,sim_expected,sim_weight,
 740105,740775,Assize,400.0,58947.0,,Default Target,[],204931343.0,"['Dokumori', 'Grade 4 Gemdraught', 'Presence of Mind']"
 739496,740786,Glare III,350.0,51577.0,,Default Target,[],156889948.0,"['Dokumori', 'Grade 4 Gemdraught', 'Presence of Mind']"
 740074,740834,Fleeting Raiju,700.0,89057.0,,Default Target,['Bunshin'],559688242.0,"['Bunshin', 'Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
-739194,740884,Tenri Jindo,1100.0,139951.0,,Default Target,[],1382183124.0,"['Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 740368,740900,Auto,90.0,10393.0,,Default Target,[],7554387.0,"['Dokumori', 'Fugetsu', 'Fuka', 'Grade 4 Gemdraught']"
 740922,740922,Fleeting Raiju (pet),160.0,18922.0,,Default Target,[],25267854.0,"['Dokumori', 'Grade 4 Gemdraught', ""Kunai's Bane""]"
 730378,741048,Wildfire (dot),1440.0,158784.0,,Default Target,['6 GCD'],21011886.0,"['Dokumori', 'Grade 4 Gemdraught']"
